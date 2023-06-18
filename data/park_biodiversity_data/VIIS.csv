@@ -1,0 +1,969 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+VIIS,Virgin Islands National Park,Mammal,1,Artiodactyla,Bovidae,95065,180715,Active,Capra hircus,feral goat,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,white-tailed deer,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Artiodactyla,Suidae,95073,180722,Active,Sus scrofa,feral hog,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Carnivora,Canidae,86124,183815,Active,Canis familiaris,feral dog,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Carnivora,Felidae,86104,183798,Active,Felis catus,feral cat,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Carnivora,Herpestidae,264257,552467,Active,Herpestes javanicus,Indian mongoose,Herpestes auropunctatus,Present
+VIIS,Virgin Islands National Park,Mammal,1,Chiroptera,Molossidae,89605,180083,Active,Molossus molossus,"Pallas' Free-tailed Bat, Pallas's Mastiff Bat",,Present
+VIIS,Virgin Islands National Park,Mammal,1,Chiroptera,Noctilionidae,88773,180047,Active,Noctilio leporinus,greater bulldog bat,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Chiroptera,Phyllostomidae,89577,180058,Active,Artibeus jamaicensis,Jamaican Fruit-eating Bat,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Chiroptera,Phyllostomidae,89580,180060,Active,Brachyphylla cavernarum,Antillean fruit-eating bat,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Chiroptera,Phyllostomidae,89597,180076,Active,Stenoderma rufum,red fruit bat,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88741,180018,Active,Lasiurus ega,Southern Yellow Bat,,Probably Present
+VIIS,Virgin Islands National Park,Mammal,1,Perissodactyla,Equidae,95037,180690,Active,Equus asinus,feral donkey,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,house mouse,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Rodentia,Muridae,91759,180363,Active,Rattus norvegicus,Norway rat,,Present
+VIIS,Virgin Islands National Park,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,black rat,,Present
+VIIS,Virgin Islands National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+VIIS,Virgin Islands National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+VIIS,Virgin Islands National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+VIIS,Virgin Islands National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,77786,175078,Active,Anas bahamensis,White-cheeked Pintail,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked Duck,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,77753,175048,Active,Dendrocygna arborea,West Indian Whistling-Duck,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,78573,175183,Active,Lophodytes cucullatus,Hooded Merganser,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,78577,175187,Active,Mergus serrator,Red-breasted Merganser,,Present
+VIIS,Virgin Islands National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,Ruddy Duck,,Present
+VIIS,Virgin Islands National Park,Bird,2,Apodiformes,Apodidae,83046,178001,Active,Chaetura pelagica,Chimney Swift,,Present
+VIIS,Virgin Islands National Park,Bird,2,Apodiformes,Trochilidae,83933,178077,Active,Anthracothorax dominicus,Antillean Mango,,Present
+VIIS,Virgin Islands National Park,Bird,2,Apodiformes,Trochilidae,83943,178086,Active,Eulampis holosericeus,Green-throated Carib,,Present
+VIIS,Virgin Islands National Park,Bird,2,Apodiformes,Trochilidae,270376,555083,Active,Orthorhyncus cristatus,Antillean Crested Hummingbird,Orthorhynchus cristatus,Present
+VIIS,Virgin Islands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,82999,177960,Active,Caprimulgus carolinensis,Chuck-will's-widow,,Present
+VIIS,Virgin Islands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83034,177992,Active,Chordeiles gundlachii,Antillean Nighthawk,,Present
+VIIS,Virgin Islands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Charadriidae,77630,176506,Active,Charadrius semipalmatus,Semipalmated Plover,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Charadriidae,77642,176517,Active,Charadrius wilsonia,Wilson's Plover,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Charadriidae,77694,176564,Active,Pluvialis dominica,"American Golden Plover, American Golden-Plover, Lesser Golden-Plover",,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Charadriidae,77697,176567,Active,Pluvialis squatarola,"Black-bellied Plover, Grey Plover",,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Haematopodidae,77592,176472,Active,Haematopus palliatus,American Oystercatcher,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81864,176941,Active,Anous stolidus,Brown Noddy,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81883,176959,Active,Chlidonias niger,Black Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,"European Herring Gull, Herring Gull",,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81078,176837,Active,Larus atricilla,Laughing Gull,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81076,176835,Active,Larus ridibundus,Black-headed Gull,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81144,176897,Active,Sterna anaethetus,Bridled Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81174,176923,Active,Sterna antillarum,Least Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81138,176891,Active,Sterna dougallii,Roseate Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81141,176894,Active,Sterna fuscata,Sooty Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81134,176888,Active,Sterna hirundo,Common Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81173,176922,Active,Sterna maxima,Royal Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81177,176926,Active,Sterna nilotica,Gull-billed Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81137,176890,Active,Sterna paradisaea,Arctic Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Laridae,81178,176927,Active,Sterna sandvicensis,Sandwich Tern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Recurvirostridae,80285,176726,Active,Himantopus mexicanus,"Ae'o, Black-necked Stilt, Hawaiian Stilt",,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,Actitis macularia,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,77702,176571,Active,Arenaria interpres,Ruddy Turnstone,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79284,176669,Active,Calidris alba,Sanderling,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79276,176661,Active,Calidris alpina,Dunlin,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79255,176642,Active,Calidris canutus,Red Knot,Calidris canuta,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79268,176654,Active,Calidris fuscicollis,White-rumped Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,266972,554145,Active,Calidris himantopus,Stilt Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79267,176653,Active,Calidris melanotos,Pectoral Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79282,176667,Active,Calidris pusilla,Semipalmated Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79250,176638,Active,Catoptrophorus semipalmatus,Willet,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Common Snipe,Gallinago gallinago,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79291,176675,Active,Limnodromus griseus,Short-billed Dowitcher,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79206,176599,Active,Numenius phaeopus,"Eurasian Whimbrel, Whimbrel",,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser Yellowlegs,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+VIIS,Virgin Islands National Park,Bird,2,Charadriiformes,Stercorariidae,80358,176792,Active,Stercorarius pomarinus,"Pomarine Jaeger, Pomarine Skua",,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,"Common Pigeon, Rock Dove, Rock Pigeon",,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,82767,177152,Active,Columbina passerina,"Common Ground Dove, Common Ground-Dove",,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,83468,177180,Active,Geotrygon montana,Ruddy Quail-Dove,,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,83476,177188,Active,Geotrygon mystacea,Bridled Quail-Dove,,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,525785,676903,Active,Patagioenas leucocephala,White-crowned Pigeon,Columba leucocephala,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,525800,676910,Active,Patagioenas squamosa,Scaly-naped Pigeon,Columba squamosa,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,,Present
+VIIS,Virgin Islands National Park,Bird,2,Columbiformes,Columbidae,82729,177118,Active,Zenaida aurita,Zenaida Dove,,Present
+VIIS,Virgin Islands National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+VIIS,Virgin Islands National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,,Present
+VIIS,Virgin Islands National Park,Bird,2,Cuculiformes,Cuculidae,89098,177828,Active,Coccyzus minor,Mangrove Cuckoo,,Present
+VIIS,Virgin Islands National Park,Bird,2,Cuculiformes,Cuculidae,89109,177838,Active,Crotophaga ani,Smooth-billed Ani,,Present
+VIIS,Virgin Islands National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+VIIS,Virgin Islands National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Eurasian Peregrine Falcon,Falco peregrinus peregrinus,Present
+VIIS,Virgin Islands National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+VIIS,Virgin Islands National Park,Bird,2,Galliformes,Numididae,86440,176126,Active,Numida meleagris,Helmeted Guineafowl,,Present
+VIIS,Virgin Islands National Park,Bird,2,Galliformes,Phasianidae,85330,176086,Active,Gallus gallus,Red Junglefowl,,Present
+VIIS,Virgin Islands National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+VIIS,Virgin Islands National Park,Bird,2,Gruiformes,Rallidae,87293,176295,Active,Fulica caribaea,Caribbean Coot,,Present
+VIIS,Virgin Islands National Park,Bird,2,Gruiformes,Rallidae,87281,176284,Active,Gallinula chloropus,Common Moorhen,,Present
+VIIS,Virgin Islands National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+VIIS,Virgin Islands National Park,Bird,2,Gruiformes,Rallidae,86532,176209,Active,Rallus longirostris,Clapper Rail,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Cardinalidae,88071,179883,Active,Piranga olivacea,Scarlet Tanager,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Cardinalidae,94273,179165,Active,Spiza americana,Dickcissel,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Hirundo pyrrhonota,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Hirundinidae,87434,178470,Active,Progne dominicensis,Caribbean Martin,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Icteridae,93655,179083,Active,Icterus galbula,"Baltimore Oriole, Northern Oriole",,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Icteridae,93660,179088,Active,Icterus icterus,Troupial,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Icteridae,94220,179117,Active,Molothrus bonariensis,Shiny Cowbird,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Mimidae,90011,178656,Active,Margarops fuscatus,Pearly-eyed Thrasher,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92645,178888,Active,Dendroica caerulescens,Black-throated Blue Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92673,178912,Active,Dendroica castanea,Bay-breasted Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92679,178918,Active,Dendroica discolor,Prairie Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92665,178905,Active,Dendroica dominica,Yellow-throated Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92664,178904,Active,Dendroica fusca,Blackburnian Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92643,178886,Active,Dendroica magnolia,Magnolia Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92683,178921,Active,Dendroica palmarum,Palm Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92672,178911,Active,Dendroica pensylvanica,Chestnut-sided Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,"American Yellow Warbler, Yellow Warbler",,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92674,178913,Active,Dendroica striata,Blackpoll Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92644,178887,Active,Dendroica tigrina,Cape May Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92656,178898,Active,Dendroica virens,Black-throated Green Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,628198,726195,Active,Helmitheros vermivorum,Worm-eating Warbler,Helmitheros vermivorus,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,91016,178848,Active,Limnothlypis swainsonii,Swainson's Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92700,178937,Active,Oporornis formosus,Kentucky Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92623,178868,Active,Parula americana,Northern Parula,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,91014,178846,Active,Protonotaria citrea,Prothonotary Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,628220,726205,Active,Seiurus aurocapilla,Ovenbird,Seiurus aurocapillus,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92698,178935,Active,Seiurus motacilla,Louisiana Waterthrush,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,91021,178852,Active,Vermivora chrysoptera,Golden-winged Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,91024,178855,Active,Vermivora peregrina,Tennessee Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,91022,178853,Active,Vermivora pinus,Blue-winged Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Parulidae,92739,178972,Active,Wilsonia citrina,Hooded Warbler,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Thraupidae,88091,179900,Active,Coereba flaveola,Bananaquit,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Thraupidae,85708,179550,Active,Loxigilla noctis,Lesser Antillean Bullfinch,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Thraupidae,94268,179160,Active,Tiaris bicolor,Black-faced Grassquit,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Turdidae,87177,179796,Active,Catharus fuscescens,Veery,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Tyrannidae,87334,178380,Active,Elaenia martinica,Caribbean Elaenia,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Tyrannidae,85810,178326,Active,Myiarchus antillarum,Puerto Rican Flycatcher,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Tyrannidae,85759,178280,Active,Tyrannus dominicensis,"Gray Kingbird, Grey Kingbird",,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Vireonidae,93581,179016,Active,Vireo altiloquus,Black-whiskered Vireo,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Vireonidae,93573,179009,Active,Vireo flavifrons,Yellow-throated Vireo,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Vireonidae,93552,178991,Active,Vireo griseus,White-eyed Vireo,,Present
+VIIS,Virgin Islands National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,Casmerodius albus,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84508,174856,Active,Botaurus lentiginosus,American Bittern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,Cattle Egret,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,Butorides striatus,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84476,174827,Active,Egretta caerulea,Little Blue Heron,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84473,174824,Active,Egretta rufescens,Reddish Egret,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84475,174826,Active,Egretta tricolor,Tricolored Heron,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84497,174846,Active,Ixobrychus exilis,Least Bittern,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84493,174842,Active,Nyctanassa violacea,"Yellow-crowned Night Heron, Yellow-crowned Night-Heron",,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Pelecanidae,83383,174685,Active,Pelecanus occidentalis,Brown Pelican,,Present
+VIIS,Virgin Islands National Park,Bird,2,Pelecaniformes,Threskiornithidae,85519,174924,Active,Plegadis falcinellus,Glossy Ibis,,Present
+VIIS,Virgin Islands National Park,Bird,2,Phaethontiformes,Phaethontidae,83370,174673,Active,Phaethon aethereus,Red-billed Tropicbird,,Present
+VIIS,Virgin Islands National Park,Bird,2,Phaethontiformes,Phaethontidae,83373,174676,Active,Phaethon lepturus,White-tailed Tropicbird,,Present
+VIIS,Virgin Islands National Park,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,,Present
+VIIS,Virgin Islands National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+VIIS,Virgin Islands National Park,Bird,2,Podicipediformes,Podicipedidae,81715,174508,Active,Tachybaptus dominicus,Least Grebe,,Present
+VIIS,Virgin Islands National Park,Bird,2,Procellariiformes,Hydrobatidae,83345,174650,Active,Oceanites oceanicus,"Wilson's Storm Petrel, Wilson's Storm-Petrel",,Present
+VIIS,Virgin Islands National Park,Bird,2,Procellariiformes,Hydrobatidae,82517,174628,Active,Oceanodroma leucorhoa,"Leach's Storm Petrel, Leach's Storm-Petrel",,Present
+VIIS,Virgin Islands National Park,Bird,2,Procellariiformes,Procellariidae,82429,174549,Active,Puffinus gravis,Greater Shearwater,,Present
+VIIS,Virgin Islands National Park,Bird,2,Procellariiformes,Procellariidae,82443,174561,Active,Puffinus lherminieri,Audubon's Shearwater,,Present
+VIIS,Virgin Islands National Park,Bird,2,Psittaciformes,Psittacidae,87630,177688,Active,Aratinga pertinax,Brown-throated Parakeet,,Probably Present
+VIIS,Virgin Islands National Park,Bird,2,Strigiformes,Strigidae,543942,686678,Active,Megascops nudipes,Puerto Rican Screech-Owl,Otus nudipes,Present
+VIIS,Virgin Islands National Park,Bird,2,Suliformes,Fregatidae,84405,174763,Active,Fregata magnificens,Magnificent Frigatebird,,Present
+VIIS,Virgin Islands National Park,Bird,2,Suliformes,Phalacrocoracidae,83419,174717,Active,Phalacrocorax auritus,Double-crested Cormorant,,Present
+VIIS,Virgin Islands National Park,Bird,2,Suliformes,Sulidae,83398,174699,Active,Sula dactylatra,Masked Booby,,Present
+VIIS,Virgin Islands National Park,Bird,2,Suliformes,Sulidae,83405,174704,Active,Sula leucogaster,Brown Booby,,Present
+VIIS,Virgin Islands National Park,Bird,2,Suliformes,Sulidae,83408,174707,Active,Sula sula,Red-footed Booby,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Amphisbaenidae,118434,209631,Active,Amphisbaena fenestrata,"Cope's Worm Lizard, Virgin Islands Worm Lizard",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Colubridae,79764,174199,Active,Alsophis portoricensis,Puerto Rican Racer,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Colubridae,79771,174204,Active,Arrhyton exiguum,Puerto Rican Garden Snake,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Dactyloidae,77541,173887,Active,Anolis cristatellus,"Common Puerto Rican Anole, Crested Anole, Puerto Rican Crested Anole",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Dactyloidae,77558,173901,Active,Anolis pulchellus,"Common Grass Anole, Puerto Rican Anole, Puerto Rican Bush Anole, Snake Anole",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Dactyloidae,77561,173904,Active,Anolis stratulus,"Banded Anole, Barred Anole, Spotted Anole, St. Thomas Anole",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Gekkonidae,78938,174058,Active,Hemidactylus mabouia,"Afroamerican house gecko, Afro-American House Gecko, Cosmopolitan House Gecko, Wood Slave",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Iguanidae,78394,173930,Active,Iguana iguana,"Common Green Iguana, Green Iguana",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Scincidae,78474,174001,Active,Mabuya sloanii,"Slippery Back Skink, Slippery-backed Mabuya",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Sphaerodactylidae,78961,174079,Active,Sphaerodactylus macrolepis,Common Dwarf Gecko,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Teiidae,78504,174029,Active,Ameiva exsul,Puerto Rican Ground Lizard,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Squamata,Typhlopidae,80864,174345,Active,Typhlops richardii,"Richard's Blind Snake, Richard's Blindsnake",,Present
+VIIS,Virgin Islands National Park,Reptile,3,Testudines,Cheloniidae,77482,173833,Active,Chelonia mydas,Green sea turtle,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Testudines,Cheloniidae,77485,173836,Active,Eretmochelys imbricata,Hawksbill sea turtle,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Testudines,Dermochelyidae,77493,173843,Active,Dermochelys coriacea,Leatherback sea turtle,,Present
+VIIS,Virgin Islands National Park,Reptile,3,Testudines,Testudinidae,77505,173854,Active,Geochelone carbonaria,Red-footed Tortoise,,Present
+VIIS,Virgin Islands National Park,Amphibian,4,Anura,Bufonidae,83330,173489,Active,Bufo marinus,"Cane Toad, Giant Toad, Marine Toad",,Present
+VIIS,Virgin Islands National Park,Amphibian,4,Anura,Eleutherodactylidae,75833,173555,Active,Eleutherodactylus antillensis,"Antillean Coqui, Antillean Frog",Elutherodactylus antilliensis,Present
+VIIS,Virgin Islands National Park,Amphibian,4,Anura,Eleutherodactylidae,75835,173557,Active,Eleutherodactylus cochranae,"Whistling Coqui, Whistling Frog",Elutherodactylus cochranae,Present
+VIIS,Virgin Islands National Park,Amphibian,4,Anura,Eleutherodactylidae,75837,173559,Active,Eleutherodactylus coqui,"Common Coqui, Coqui, Coquí",Elutherodactylus coqui,Present
+VIIS,Virgin Islands National Park,Amphibian,4,Anura,Eleutherodactylidae,75844,173565,Active,Eleutherodactylus lentus,"Mute Coqui, Mute Frog",Elutherodactylus lentus,Present
+VIIS,Virgin Islands National Park,Amphibian,4,Anura,Hylidae,75010,173538,Active,Osteopilus septentrionalis,Cuban Treefrog,,Present
+VIIS,Virgin Islands National Park,Amphibian,4,Anura,Leptodactylidae,75857,173577,Active,Leptodactylus albilabris,Caribbean White-lipped Frog,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,149462,42560,Active,Anthurium cordatum,Organ Mountain laceleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,90870,185368,Active,Anthurium crenatum,scalloped laceleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,149465,42563,Active,Anthurium X selloum,large laceleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,153364,502056,Active,Dieffenbachia seguine,dumbcane,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,159317,503360,Active,Lemna aequinoctialis,lesser duckweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,149476,42573,Active,Philodendron giganteum,giant philodendron,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,149481,42578,Active,Philodendron scandens,heartleaf philodendron,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,148593,42542,Active,Pistia stratiotes,"apon-apon, pistie, tropical duckweed, water lettuce, water-lettuce",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Araceae,149454,42553,Active,Syngonium podophyllum,"American evergreen, arrowhead vine",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Cymodoceaceae,142321,39083,Active,Syringodium filiforme,"manatee grass, manatee-grass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Hydrocharitaceae,141510,38954,Active,Thalassia testudinum,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Alismatales,Ruppiaceae,141631,39063,Active,Ruppia maritima,"widgeongrass, widgeon-grass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Apiales,Apiaceae,169663,507572,Active,Cyclospermum leptophyllum,marsh parsley,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Apiales,Araliaceae,286640,565490,Active,Schefflera morototonii,Octopus tree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Aquifoliales,Aquifoliaceae,131982,28009,Active,Ilex nitida,Puerto Rico holly,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Aquifoliales,Aquifoliaceae,131987,28013,Active,Ilex urbaniana,Urban's holly,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Arecales,Arecaceae,148484,42444,Active,Coccothrinax alta,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Arecales,Arecaceae,148492,42451,Active,Cocos nucifera,coconut palm,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Arecales,Arecaceae,148544,42499,Active,Roystonea borinquena,Puerto Rico royal palm,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,87910,182716,Active,Crinum zeylanicum,Ceylon swamplily,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,162056,503103,Active,Hymenocallis caribaea,Caribbean spiderlily,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,288489,565234,Active,Hymenocallis speciosa,green-tinge spiderlily,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Asparagaceae,87867,182678,Active,Agave missionum,corita,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Asparagaceae,142725,43014,Active,Sansevieria trifasciata,viper's bowstring hemp,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Asparagaceae,166927,505784,Active,Yucca aloifolia,aloe yucca,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Hypoxidaceae,156654,503146,Active,Hypoxis hirsuta,common goldstar,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,174830,511908,Active,Cyclopogon cranichoides,cranichis-like ladies'-tresses,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,174832,511909,Active,Cyclopogon elatus,tall ladies'-tresses,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,147992,43557,Active,Epidendrum anceps,brown-flower butterfly orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,148002,43566,Active,Epidendrum ciliare,fringed star orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,149632,43654,Active,Oeceoclades maculata,"ground orchid, monk orchid",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,149670,43689,Active,Ponthieva racemosa,hairy shadow witch,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,149674,43692,Active,Prescotia oligantha,small Prescott orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,160715,504650,Active,Psychilis macconnelliae,island peacock orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,149684,43700,Active,Tetramicra canaliculata,serpentine wallflower orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,288338,565570,Active,Tolumnia prionochila,tropical dancing-lady orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,288340,565571,Active,Tolumnia variegata,harlequin dancing-lady orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,149700,43715,Active,Vanilla barbellata,wormvine orchid,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Orchidaceae,149704,43719,Active,Vanilla planifolia,vanilla,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asparagales,Xanthorrhoeaceae,87042,182653,Active,Aloe vera,"aloe vera, Barbados aloe, burn plant, coastal aloe, common aloe, Curaçao aloe, Indian aloe, Jaffarabad aloe, medicinal aloe, Mediterranean aloe, star cactus, true aloe, unguentine cactus, West Indian aloe",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,140154,36446,Active,Acanthospermum hispidum,"bristly starbur, hispid starbur, hispid starburr",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,141391,36481,Active,Ageratum conyzoides,tropical whiteweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,109434,196224,Active,Bidens alba var. radiata,"bidens, romerillo",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,135913,35746,Active,Bidens cynapiifolia,West Indian beggarticks,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,137292,37025,Active,Chaptalia nutans,heal and draw,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,137304,37036,Active,Chromolaena corymbosa,Caribbean thoroughwort,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,137302,37034,Active,Chromolaena odorata,"Jack in the bush, Siamweed",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,137307,37039,Active,Chromolaena sinuata,wavyleaf thoroughwort,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,138584,37112,Active,Conyza bonariensis,"asthmaweed, flax-leaf fleabane, flaxleaved fleabane, hairy fleabane, wavy-leaf fleabane",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,286432,565115,Active,Cyanthillium cinereum,little ironweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,109436,196226,Active,Eclipta prostrata,"eclipta, false daisy, yerba de tago, yerba de tajo",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,139593,37301,Active,Elephantopus mollis,"cucha-cara, elephantopus, lengua de vaca, soft elephantsfoot, yerba de caballo",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,139596,37304,Active,Emilia fosbergii,Florida tasselflower,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,139597,37305,Active,Emilia sonchifolia,lilac tasselflower,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,136970,35975,Active,Erigeron cuneifolius,wedgeleaf fleabane,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,178818,514125,Active,Gnaphalium domingense,Dominican cudweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,143120,37819,Active,Lagascea mollis,"acuate, silkleaf",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,143703,37854,Active,Launaea intybacea,achicoria azul,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,137445,36045,Active,Mikania cordifolia,Florida Keys hempvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,140736,38858,Active,Neurolaena lobata,sepi,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,135443,38164,Active,Parthenium hysterophorus,"ragweed parthenium, Santa Maria feverfew, whitetop weed",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,135462,38181,Active,Pectis humifusa,yerba de San Juan,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,135466,38185,Active,Pectis linifolia,"narrowleaf lemonweed, romero macho",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,140741,38862,Active,Piptocoma antillana,Antilles velvetshrub,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,109449,196238,Active,Pluchea carolinensis,cure for all,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,214563,529729,Active,Pluchea odorata var. odorata,"marsh fleabane, sweet scent, sweetscent",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,159843,504630,Active,Pseudelephantopus spicatus,dog's-tongue,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,136415,38319,Active,Pterocaulon virgatum,wand blackroot,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,137733,38427,Active,Sonchus oleraceus,"annual sowthistle, common sowthistle, common sow-thistle, pualele, sow thistle, sow-thistle",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,287295,565537,Active,Sphagneticola trilobata,Bay Biscayne creeping-oxeye,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,138052,38476,Active,Synedrella nodiflora,nodeweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,138060,38483,Active,Tagetes erecta,"Aztec marigold, French marigold",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,138162,38575,Active,Tridax procumbens,"cadillo chisaca, coat buttons, coatbuttons, tridax",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,139116,38596,Active,Verbesina alata,capitaneja,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,164464,505665,Active,Vernonia sericea,longshoot,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Asteraceae,288404,565601,Active,Wedelia fruticosa,"coastal plain creepingoxeye, coastalplain creepingoxeye, smallflower creepingoxeye",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Campanulaceae,136273,34578,Active,Hippobroma longiflora,madamfate,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Asterales,Goodeniaceae,137953,34770,Active,Scaevola plumieri,gullfeed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Cordiaceae,131057,31751,Active,Cordia alliodora,"cypre, Spanish elm",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Cordiaceae,131060,31754,Active,Cordia collococca,"clammy cherry, red manjack",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Cordiaceae,155939,501630,Active,Cordia laevigata,smooth manjack,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Cordiaceae,131065,31759,Active,Cordia polycephala,black-sage,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Cordiaceae,131067,31760,Active,Cordia rickseckeri,San Bartolome,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Cordiaceae,131053,31748,Active,Cordia sebestena,largeleaf geigertree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Cordiaceae,131069,31762,Active,Cordia sulcata,mucilage manjack,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Ehretiaceae,131036,31732,Active,Bourreria succulenta,"bodywood, pigeon berry",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Ehretiaceae,132846,32041,Active,Rochefortia acanthophora,greenheart ebony,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,92857,184853,Active,Argusia gnaphalodes,sea rosemary,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130272,31643,Active,Heliotropium angiospermum,"scorpionstail, scorpion's-tail",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130263,31635,Active,Heliotropium curassavicum,"quail plant, salt heliotrope, seaside heliotrope",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130266,31638,Active,Heliotropium indicum,"India heliotrope, Indian heliotrope",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130287,31657,Active,Heliotropium ternatum,bushy heliotrope,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,132840,32036,Active,Tournefortia bicolor,niguita,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,132841,32037,Active,Tournefortia filiflora,cold withe,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,132837,32033,Active,Tournefortia hirsutissima,chiggery grapes,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,132839,32035,Active,Tournefortia volubilis,twining soldierbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Bataceae,106160,192295,Active,Batis maritima,"saltwort, turtleweed",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Brassicaceae,121329,22760,Active,Cakile lanceolata,coastal searocket,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Brassicaceae,123284,22955,Active,Lepidium virginicum,"peppergrass, poorman pepperweed, poorman's pepper, poorman's pepperwort, Virginia pepperweed, Virginian peppercress",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Capparaceae,120493,22610,Active,Capparis amplissima,burro blanco,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Capparaceae,120487,22605,Active,Capparis baducca,"caper, church blossom",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Capparaceae,120488,22606,Active,Capparis cynophallophora,black caper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Capparaceae,120489,22607,Active,Capparis flexuosa,"bay-leaved caper, falseteeth, limber caper",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Capparaceae,120494,22611,Active,Capparis hastata,broadleaf caper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Capparaceae,120495,22612,Active,Capparis indica,linguam,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Capparaceae,120556,22668,Active,Morisonia americana,ratapple,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Caricaceae,117497,22324,Active,Carica papaya,"papaya, pawpaw",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Cleomaceae,120499,22616,Active,Cleome gynandra,"spider whisp, spiderflower, spiderwisp",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Cleomaceae,120513,22629,Active,Cleome spinosa,"spider flower, spiny spiderflower",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Brassicales,Cleomaceae,120515,22630,Active,Cleome viscosa,Asian spiderflower,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Canellales,Canellaceae,88438,184100,Active,Canella winteriana,"cinnamonbark, wild cinnamon",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,107029,19931,Active,Cypselea humifusa,panal,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,112628,19910,Active,Sesuvium portulacastrum,"cencilla, shoreline seapurslane",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,108595,19940,Active,Trianthema portulacastrum,"desert horsepurslane, desert horse-purslane, horse purslane",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,121181,20756,Active,Achyranthes aspera,devil's horsewhip,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,122886,20765,Active,Alternanthera brasiliana,Brazilian joyweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,122897,20766,Active,Alternanthera caracasana,washerwoman,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,124061,20775,Active,Alternanthera tenella,sanguinaria,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118862,20728,Active,Amaranthus crassipes,spreading amaranth,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,121159,20754,Active,Amaranthus dubius,spleen amaranth,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,121126,20751,Active,Amaranthus viridis,slender amaranth,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,291819,565017,Active,Atriplex cristata,crested saltbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,92900,181968,Active,Blutaparon vermiculare,silverhead,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,124117,20780,Active,Celosia nitida,West Indian cock's comb,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117694,20590,Active,Chenopodium ambrosioides,"Mexican tea, Mexican-tea",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,113707,20808,Active,Gomphrena serrata,arrasa con todo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,114377,20820,Active,Iresine angustifolia,white snowplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Basellaceae,92052,181921,Active,Anredera vesicaria,Texas madeiravine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,151890,501370,Active,Cereus uruguayanus,"hedge cactus, Peruvian apple, Peruvian torch, spine tree cactus",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,109155,19862,Active,Hylocereus trigonus,strawberry-pear,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,158802,503681,Active,Mammillaria nivosa,woolly nipple cactus,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,109754,19868,Active,Melocactus intortus,Turk's cap,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,103962,19699,Active,Opuntia cochenillifera,"cochineal cactus, cochineal nopal cactus",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,108519,19751,Active,Opuntia repens,roving pricklypear,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,108530,19752,Active,Opuntia rubescens,sour pricklypear,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100564,195301,Active,Opuntia stricta var. dillenii,erect pricklypear,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,109222,19754,Active,Pereskia aculeata,Barbados shrub,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,163276,504399,Active,Pilosocereus royenii,Royen's tree cactus,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,160986,505117,Active,Selenicereus grandiflorus,queen of the night,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Molluginaceae,160428,503862,Active,Mollugo nudicaulis,nakedstem carpetweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,152922,501005,Active,Boerhavia coccinea,scarlet spiderling,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102315,19670,Active,Boerhavia diffusa,red spiderling,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102326,19671,Active,Boerhavia erecta,erect spiderling,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,153628,501008,Active,Boerhavia scandens,"climbing spiderling, climbing wartclub, wishbone vine",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,107432,19599,Active,Guapira fragrans,black mampoo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,101215,19666,Active,Neea buxifolia,saltwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,108190,19607,Active,Pisonia aculeata,pullback,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,108235,19611,Active,Pisonia subcordata,water mampoo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Phytolaccaceae,101421,19536,Active,Petiveria alliacea,guinea henweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Phytolaccaceae,101399,19534,Active,Rivina humilis,"bloodberry rougeplant, rougeplant",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Phytolaccaceae,162618,505578,Active,Trichostigma octandrum,hoopvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Plumbaginaceae,121540,21339,Active,Plumbago scandens,"doctorbush, plumbago",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119150,20994,Active,Antigonon leptopus,"confederate vine, coral vine, Mexican coral vine, Mexican creeper, queen's jewels, queen's wreath",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119203,21041,Active,Coccoloba krugii,whitewood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119204,21042,Active,Coccoloba microstachya,puckhout,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119209,21047,Active,Coccoloba swartzii,Swartz's pigeonplum,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119200,21039,Active,Coccoloba uvifera,seagrape,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119210,21048,Active,Coccoloba venosa,false chiggergrape,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,"akulikuli-kula, common purslane, duckweed, garden purslane, little hogweed, little-hogweed, purslane, pursley, wild portulaca",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113923,20432,Active,Portulaca quadrifida,chickenweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,158688,504542,Active,Portulaca rubricaulis,redstem purslane,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Talinaceae,169514,508008,Active,Talinum fruticosum,Verdolaga-Francesa,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Caryophyllales,Talinaceae,114949,20452,Active,Talinum paniculatum,"big talinum, jewels of Opar",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Celastrales,Celastraceae,131373,27941,Active,Cassine xylocarpa,marbletree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Celastrales,Celastraceae,131376,27944,Active,Crossopetalum rhacoma,"Florida crossopetalum, maidenberry",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Celastrales,Celastraceae,158870,503713,Active,Maytenus laevigata,white cinnamon,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Celastrales,Celastraceae,131941,27972,Active,Schaefferia frutescens,Florida boxwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Commelinales,Commelinaceae,142380,39136,Active,Callisia fragrans,basketplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Commelinales,Commelinaceae,142381,39137,Active,Callisia repens,creeping inchplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Commelinales,Commelinaceae,142376,39132,Active,Commelina erecta,"erect dayflower, whitemouth dayflower",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Commelinales,Commelinaceae,162568,505554,Active,Tradescantia spathacea,"boatlily, oyster plant",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Commelinales,Commelinaceae,162572,505556,Active,Tradescantia zebrina,inchplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118468,22354,Active,Cayaponia americana,American melonleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118475,22360,Active,Cucumis anguria,"bur gherkin, West Indian gherkin",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,153487,502114,Active,Doyerea emetocathartica,coralfruit,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118451,22339,Active,Melothria pendula,"creeping cucumber, drooping melonette, Guadeloupe cucumber, meloncito",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118517,22399,Active,Momordica charantia,"balsam pear, balsampear",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Cyatheales,Cyatheaceae,84730,17939,Active,Cyathea arborea,West Indian treefern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Dioscoreales,Dioscoreaceae,146954,43374,Active,Dioscorea pilosiuscula,bulbous yam,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Pentaphylacaceae,121581,21376,Active,Ternstroemia peduncularis,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Primulaceae,121021,23893,Active,Ardisia obovata,Guadeloupe marlberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Primulaceae,157384,503228,Active,Jacquinia arborea,braceletwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Primulaceae,157386,503229,Active,Jacquinia berteroi,Bertero's barbasco,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Sapotaceae,173132,510920,Active,Chrysophyllum bicolor,star apple,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Sapotaceae,153856,501508,Active,Chrysophyllum pauciflorum,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Sapotaceae,120275,23825,Active,Manilkara bidentata,bulletwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Sapotaceae,120289,23838,Active,Pouteria multiflora,bullytree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Sapotaceae,162864,505218,Active,Sideroxylon foetidissimum,false mastic,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Sapotaceae,162871,505221,Active,Sideroxylon obovatum,breakbill,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Sapotaceae,162877,505224,Active,Sideroxylon salicifolium,white bully,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ericales,Symplocaceae,165491,505413,Active,Symplocos martinicensis,Martinique sweetleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,128272,26416,Active,Abrus precatorius,"crab's eye, jequerity, precatory bean, rosary pea, rosarypea, tento muido",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,128288,26430,Active,Acacia macracantha,"long-spine acacia, porknut",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,93697,182085,Active,Acacia muricata,spineless wattle,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,93701,182089,Active,Acacia retusa,catch and keep,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,128302,26443,Active,Acacia tortuosa,"huisachillo, poponax, twisted acacia",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,128306,26447,Active,Adenanthera pavonina,"coral bean tree, false wiliwili, lopa, pomea, red bead tree, red beadtree, red sandlewood",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,120426,25360,Active,Aeschynomene americana,shyleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,128310,26450,Active,Albizia lebbeck,"lebbek, raom tree, siris tree, soros-tree, woman's tongue, woman's-tongue tree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,128318,26458,Active,Andira inermis,bastard mahogany,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,129168,26500,Active,Caesalpinia bonduc,grey nicker,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,285570,565036,Active,Caesalpinia ciliata,mato,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,129180,26511,Active,Caesalpinia pulcherrima,"dwarf poinciana, flowerfence, pride-of-Barbados",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,155692,501188,Active,Canavalia rosea,baybean,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123827,25778,Active,Centrosema virginianum,wist vine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,208483,527269,Active,Chamaecrista glandulosa var. swartzii,Swartz's Jamaican broom,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,203422,523837,Active,Chamaecrista nictitans ssp. nictitans,"partridge pea, sensitive partridge pea, sensitive plant",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,129215,26543,Active,Clitoria ternatea,Asian pigeonwings,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,155993,501656,Active,Coursetia caribaea,anil falso,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,129246,26571,Active,Crotalaria incana,shakeshake,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,154092,501805,Active,Crotalaria lotifolia,cascabelillo axilar,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,213845,527528,Active,Crotalaria pallida var. obovata,smooth rattlebox,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,129252,26577,Active,Crotalaria retusa,rattleweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,154105,501811,Active,Crotalaria verrucosa,blue rattlesnake,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,129939,26595,Active,Dalbergia ecastaphyllum,coinvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,130018,26666,Active,Desmanthus virgatus,wild tantan,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,152440,502015,Active,Desmodium glabrum,zarzabacoa dulce,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123857,25804,Active,Desmodium incanum,"tickclover, zarzabacoa comun",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123871,25817,Active,Desmodium procumbens,"western trailing tickclover, western trailing ticktrefoil",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123887,25831,Active,Desmodium triflorum,threeflower ticktrefoil,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,157061,502436,Active,Erythrina eggersii,cock's spur,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,161074,502700,Active,Galactia dubia,West Indian milkpea,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,161076,502701,Active,Galactia eggersii,Eggers' milkpea,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,130726,26701,Active,Galactia striata,Florida hammock milkpea,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,158101,502803,Active,Gliricidia sepium,quickstick,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,162054,503102,Active,Hymenaea courbaril,stinkingtoe,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,121909,26749,Active,Indigofera suffruticosa,"anil de pasto, indigobush",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,121911,26750,Active,Indigofera tinctoria,true indigo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,156700,503168,Active,Inga laurina,sacky sac bean,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,159191,503300,Active,Lablab purpureus,hyacinthbean,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,122731,26766,Active,Leucaena leucocephala,"koa haole, lead tree, white leadtree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,157764,503644,Active,Machaerium lunatum,palo de hoz,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,157770,503647,Active,Macroptilium lathyroides,wild bushbean,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,160371,503835,Active,Mimosa ceratonia,black ambret,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,122758,26790,Active,Mimosa pudica,shameplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,122798,26826,Active,Parkinsonia aculeata,"Jerusalem thorn, Jerusalem-thorn, Mexican palo verde, retama",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,159521,504195,Active,Peltophorum pterocarpa,yellow poinciana,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,194783,518885,Active,Phaseolus peduncularis,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,163258,504390,Active,Pictetia aculeata,fustic,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,163313,504416,Active,Piscidia carthagenensis,stinkwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123653,26875,Active,Pithecellobium unguis-cati,catclaw blackbead,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,290944,565419,Active,Poitea florida,wattapama,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,160786,504684,Active,Pueraria phaseoloides,"puero, tropical kudzu",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,161931,504766,Active,Rhynchosia minima,least snoutbean,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,161940,504770,Active,Rhynchosia reticulata,habilla,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,194181,520959,Active,Samanea saman,raintree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,162161,505147,Active,Senna bicapsularis,Christmasbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,162199,505165,Active,Senna obtusifolia,"Java-bean, sicklepod",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,162201,505166,Active,Senna occidentalis,wild coffee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,162224,505177,Active,Senna siamea,Siamese cassia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123742,26955,Active,Sesbania sericea,papagayo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123753,26965,Active,Sophora tomentosa,"yellow necklacepod, yellow sophora",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123765,26976,Active,Stylosanthes hamata,cheesytoes,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123770,26980,Active,Tamarindus indica,tamarind,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,123774,26984,Active,Tephrosia cinerea,ashen hoarypea,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,165554,505443,Active,Tephrosia senna,anil racimillo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,165560,505446,Active,Teramnus labialis,blue wiss,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,125146,27016,Active,Vigna luteola,"Dalrymple vigna, deer pea, hairypod cowpea",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Fabaceae,199854,523625,Active,Zapoteca portoricensis,white stickpea,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Fabales,Surianaceae,126847,28846,Active,Suriana maritima,"bay cedar, baycedar, bay-cedar, guitar",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131812,30258,Active,Asclepias curassavica,"bloodflower, hierba de la cucaracha, scarlet milkweed, wild ipecacuanha",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131895,30332,Active,Calotropis procera,"mudar, roostertree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130912,30168,Active,Catharanthus roseus,Madagascar periwinkle,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,154151,501833,Active,Cryptostegia grandiflora,Palay rubbervine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,132620,30385,Active,Matelea maritima,beach milkvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130930,30184,Active,Nerium oleander,oleander,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,160578,504237,Active,Pentalinon luteum,hammock viper's-tail,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130945,30198,Active,Plumeria alba,nosegaytree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130951,30202,Active,Prestonia agglutinata,babeiro,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130966,30216,Active,Rauvolfia nitida,"glasswood, palo amargo, smooth rauwolfia",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130967,30217,Active,Rauvolfia viridis,"matteroot, milkbush, milky bush",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Loganiaceae,128146,29961,Active,Spigelia anthelmia,West Indian pinkroot,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,138826,34958,Active,Chiococca alba,West Indian milkberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130761,35186,Active,Chione venosa,fatpork,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130766,35190,Active,Coffea arabica,Arabian coffee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,137978,34793,Active,Diodia ocymifolia,slender buttonweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,139654,34985,Active,Erithalis fruticosa,blacktorch,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,139660,34990,Active,Exostema caribaeum,"Caribbean princewood, princewood",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130768,35192,Active,Faramea occidentalis,false coffee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,139665,34995,Active,Genipa americana,jagua,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,157450,502756,Active,Geophila repens,corrida yerba de guava,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,158132,502818,Active,Gonzalagunia hirsuta,mata de Mariposa,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,139672,35000,Active,Guettarda odorata,cucubano de vieques,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,139668,34998,Active,Guettarda scabra,"roughleaf velvetseed, wild guave",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130779,35201,Active,Ixora ferrea,palo de hierro,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,170528,508039,Active,Machaonia woodburyana,alfilerillo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,139750,35071,Active,Morinda citrifolia,Indian mulberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,290032,565378,Active,Palicourea croceoides,yellow-cedar,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,141258,35115,Active,Psychotria brownei,Browne's wild coffee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,160721,504653,Active,Psychotria domingensis,cheakyberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,160727,504656,Active,Psychotria microdon,thicket wild coffee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,141232,35092,Active,Psychotria nervosa,Seminole balsamo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,141276,35131,Active,Randia aculeata,white indigoberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130803,35223,Active,Rondeletia pilosa,cordobancillo peludo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130811,35230,Active,Scolosanthus versicolor,Puerto Rico devilbrush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130826,35244,Active,Spermacoce assurgens,woodland false buttonweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,130828,35246,Active,Spermacoce confusa,river false buttonweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Gentianales,Rubiaceae,164034,505313,Active,Spermacoce prostrata,prostrate false buttonweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,135290,34412,Active,Asystasia gangetica,"Chinese violet, coromandel, Ganges primrose, Philippine violet",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,133082,32137,Active,Avicennia germinans,black mangrove,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,85105,182352,Active,Barleria lupulina,hophead Philippine violet,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,109404,196198,Active,Blechum pyramidatum,Browne's blechum,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,153356,502052,Active,Dicliptera sexangularis,sixangle foldwing,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,158295,503267,Active,Justicia carthagenensis,woodland water-willow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,85084,182333,Active,Justicia mirabiloides,West Indian water-willow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,134571,34365,Active,Justicia pectoralis,freshcut,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,134572,34366,Active,Justicia periplocifolia,tropical waterwillow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,134575,34369,Active,Oplonia microphylla,thicketwort,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,134577,34370,Active,Oplonia spinosa,pricklybush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,135266,34391,Active,Ruellia coccinea,yerba maravilla,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,135267,34392,Active,Ruellia tuberosa,minnieroot,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,162906,505238,Active,Siphonoglossa sessilis,"tropical tube tongue, tropical tubetongue",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,135279,34402,Active,Stenandrium tuberosum,mata espiritista,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Acanthaceae,135285,34408,Active,Thunbergia fragrans,whitelady,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134512,34311,Active,Amphitecna latifolia,black calabash,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134533,34330,Active,Arrabidaea chica,cricketvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134535,34332,Active,Crescentia cujete,common calabash tree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134536,34333,Active,Crescentia linearifolia,higuerito,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134539,34336,Active,Cydista aequinoctialis,guard withe,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134524,34322,Active,Macfadyena unguis-cati,"catclaw vine, claw vine",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134546,34342,Active,Spathodea campanulata,"African tuliptree, fireball, fountain tree, rarningobchey",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134549,34345,Active,Tabebuia heterophylla,white cedar,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134528,34326,Active,Tecoma stans,"trumpetbush, trumpetflower, yellow elder, yellow trumpetbush, yellow trumpet-flower",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,133112,32164,Active,Clerodendrum aculeatum,haggarbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,135646,32530,Active,Hyptis capitata,false ironwort,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,135641,32526,Active,Hyptis pectinata,French Tea,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,136451,32534,Active,Hyptis suaveolens,"mumutun, pignut, wild spikenard",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,135642,32527,Active,Hyptis verticillata,John Charles,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,136464,32546,Active,Leonotis nepetifolia,Christmas candlestick,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,136469,32550,Active,Leonurus sibiricus,honeyweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,166778,507087,Active,Ocimum campechianum,least basil,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,128682,32753,Active,Salvia micrantha,Yucatan sage,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,128654,32728,Active,Salvia occidentalis,West Indian sage,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Lamiaceae,128670,32742,Active,Salvia serotina,littlewoman,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Oleaceae,153818,501490,Active,Chionanthus compactus,bridgotree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Oleaceae,129714,32960,Active,Forestiera eggersiana,inkbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Oleaceae,129720,32966,Active,Jasminum fluminense,"Brazilian jasmine, jazmin de trapo",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Oleaceae,129727,32972,Active,Jasminum multiflorum,star jasmine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130336,33038,Active,Bacopa monnieri,"coastal waterhyssop, herb of grace, herb-of-grace",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,"broadleaf plantain, buckhorn plantain, common plantain, great plantain, rippleseed plantain",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,133271,34029,Active,Scoparia dulcis,licorice weed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,133331,34083,Active,Bontia daphnoides,white alling,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,137855,33509,Active,Capraria biflora,goatweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133086,32140,Active,Bouchea prismatica,prism bouchea,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133097,32150,Active,Citharexylum fruticosum,Florida fiddlewood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,155180,502187,Active,Duranta erecta,golden dewdrops,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133925,32175,Active,Lantana camara,largeleaf lantana,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133928,32178,Active,Lantana involucrata,buttonsage,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133944,32192,Active,Lantana urticifolia,nettleleaf shrubverbena,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,159803,504611,Active,Priva lappulacea,catstongue,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133958,32204,Active,Stachytarpheta jamaicensis,light-blue snakeweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133966,32211,Active,Stachytarpheta strigosa,West Indian porterweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Laurales,Lauraceae,153894,501526,Active,Cinnamomum elongatum,laurel avispillo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Laurales,Lauraceae,161580,503448,Active,Licaria parvifolia,Puerto Rico cinnamon,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Laurales,Lauraceae,92959,18202,Active,Licaria triandra,"Florida licaria, pepperleaf sweetwood",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Laurales,Lauraceae,162485,503982,Active,Ocotea coriacea,lancewood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Laurales,Lauraceae,92050,18192,Active,Ocotea floribunda,laurel espada,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Laurales,Lauraceae,92028,18190,Active,Ocotea leucoxylon,loblolly sweetwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Laurales,Lauraceae,162495,503987,Active,Ocotea patens,capberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Liliales,Smilacaceae,145283,43354,Active,Smilax coriacea,Everglades greenbrier,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Magnoliales,Annonaceae,85889,18101,Active,Annona glabra,pond apple,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Magnoliales,Annonaceae,85054,18098,Active,Annona muricata,soursop,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Magnoliales,Annonaceae,85065,18099,Active,Annona reticulata,custard apple,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Magnoliales,Annonaceae,85878,18100,Active,Annona squamosa,"sugar apple, sweet sop",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Calophyllaceae,122246,21492,Active,Mammea americana,"mamey, mammee apple",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Chrysobalanaceae,129626,25148,Active,Chrysobalanus icaco,"coco plum, icaco, icaco coco plum",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Clusiaceae,122244,21490,Active,Clusia rosea,"Florida clusia, Scotch attorney",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Erythroxylaceae,130171,29196,Active,Erythroxylum brevipes,brisselet,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132985,28190,Active,Acalypha poiretii,Poiret's copperleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,133665,28201,Active,Adelia ricinella,wild lime,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,91895,184707,Active,Argythamnia candicans,sharpleaf silverbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,91897,184709,Active,Argythamnia fasciculata,broom silverbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,91911,184721,Active,Argythamnia stahlii,bluntleaf silverbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153222,501404,Active,Chamaesyce articulata,jointed sandmat,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,107427,195985,Active,Chamaesyce hirta,"pillpod sandmat, pill-pod sandmat",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153274,501429,Active,Chamaesyce hypericifolia,"graceful sandmat, graceful spurge",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,107428,195986,Active,Chamaesyce hyssopifolia,"hyssop spurge, hyssopleaf sandmat, leafy spurge",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153293,501438,Active,Chamaesyce mesembrianthemifolia,coastal beach sandmat,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153308,501445,Active,Chamaesyce ophthalmica,Florida hammock sandmat,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153327,501454,Active,Chamaesyce prostrata,"blue weed, ground spurge, prostrate sandmat, prostrate spurge",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,122710,28248,Active,Chamaesyce serpens,"matted sandmat, serpent spurge",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,122711,28249,Active,Chamaesyce thymifolia,gulf sandmat,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123560,28293,Active,Croton astroites,wild marrow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123561,28294,Active,Croton betulinus,beechleaf croton,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,154111,501814,Active,Croton fishlockii,Fishlock's croton,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123547,28281,Active,Croton lobatus,lobed croton,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123566,28299,Active,Croton ovalifolius,yerba,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123570,28301,Active,Croton rigidus,yellow balsam,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123576,28307,Active,Dalechampia scandens,spurgecreeper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132861,28079,Active,Euphorbia heterophylla,"Mexican fireplant, painted euphorbia",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132964,28171,Active,Euphorbia oerstediana,West Indian spurge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132965,28172,Active,Euphorbia petiolaris,manchineel berry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,158958,502550,Active,Euphorbia tirucalli,Indiantree spurge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,158189,502845,Active,Gymnanthes lucida,oysterwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123596,28325,Active,Hippomane mancinella,manchineel,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123598,28327,Active,Hura crepitans,sandbox tree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123609,28337,Active,Jatropha gossypiifolia,bellyache bush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123632,28358,Active,Pedilanthus tithymaloides,redbird flower,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124202,28393,Active,Ricinus communis,"agaliya, castor bean, castorbean, lama palagi, maskerekur, toto ni vavalagi, uluchula skoki",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124207,28398,Active,Sapium caribaeum,gumtree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124252,28438,Active,Tragia volubilis,fireman,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131442,29260,Active,Bunchosia glandulosa,cafe forastero,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131446,29264,Active,Byrsonima lucida,"Key byrsonima, Long Key locustberry, Maricao cimarron",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131447,29265,Active,Byrsonima spicata,"doncella, Maricao cimarron",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131455,29272,Active,Heteropteris purpurea,bull withe,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131462,29279,Active,Malpighia coccigera,Singapore holly,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131467,29283,Active,Malpighia linearis,bastard cherry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131469,29285,Active,Malpighia woodburyana,Woodbury's stingingbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,164867,505380,Active,Stigmaphyllon emarginatum,monarch Amazonvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,165423,505381,Active,Stigmaphyllon floribundum,woolly Amazonvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Ochnaceae,121565,21361,Active,Ouratea littoralis,abey amarillo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117387,22225,Active,Passiflora foetida,"fetid passionflower, scarletfruit passionflower, stinking passionflower",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117399,22236,Active,Passiflora laurifolia,golden bellapple,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117391,22229,Active,Passiflora multiflora,whiteflower passionflower,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117402,22239,Active,Passiflora rubra,dutchman's laudanum,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117395,22232,Active,Passiflora suberosa,"corky passionflower, corkystem passionflower, devil's pumpkin, huehue haole, indigo berry, maypop, wild passionfruit",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117376,22215,Active,Turnera diffusa,damiana,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117377,22216,Active,Turnera ulmifolia,ramgoat dashalong,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,159967,502635,Active,Flueggea acidoton,simpleleaf bushweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,123626,28352,Active,Margaritaria nobilis,bastard hogberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,123641,28366,Active,Phyllanthus acidus,"Otaheite gooseberry, Tahitian gooseberry tree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,123642,28367,Active,Phyllanthus amarus,carry me seed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,161795,504353,Active,Phyllanthus niruri,"cane piece senna, creole chinnie, creole senna",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Putranjivaceae,123581,28311,Active,Drypetes alba,cafeillo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Rhizophoraceae,130541,27791,Active,Rhizophora mangle,"American mangrove, red mangrove",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Salicaceae,151344,501312,Active,Casearia decandra,wild honeytree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Salicaceae,151346,501313,Active,Casearia guianensis,Guyanese wild coffee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Salicaceae,151348,501314,Active,Casearia sylvestris,crackopen,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Salicaceae,159817,504618,Active,Prockia crucis,guasimilla,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Salicaceae,194205,520970,Active,Samyda dodecandra,guayabilla,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malpighiales,Salicaceae,166900,505771,Active,Xylosma buxifolia,mucha-gente,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123251,21676,Active,Abutilon umbellatum,umbrella Indian mallow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123134,21570,Active,Ayenia insulicola,dwarf ayenia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,294027,566200,Active,Bastardia viscosa var. sanctae-crucis,viscid mallow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,294029,566201,Active,Bastardia viscosa var. viscosa,viscid mallow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123161,21595,Active,Ceiba pentandra,"kapoktree, silk cotton tree, white silk-cotton tree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122271,21514,Active,Corchorus aestuans,"East Indian mallow, jute, West African mallow",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122276,21519,Active,Corchorus hirsutus,"jackswitch, mallet, woolly corchorus",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122274,21517,Active,Corchorus siliquosus,"broomweed, slippery burr",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123953,21710,Active,Gossypium barbadense,Creole cotton,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122306,21546,Active,Guazuma ulmifolia,bastardcedar,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,160168,502932,Active,Helicteres jamaicensis,screwtree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124857,21802,Active,Herissantia crispa,"bladdermallow, bladder-mallow",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123936,21696,Active,Malachra alceifolia,yellow leafbract,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123946,21704,Active,Malvastrum americanum,"American false mallow, Indian Valley false mallow",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,158795,503678,Active,Malvastrum corchorifolium,"Caribbean false mallow, false mallow",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,158797,503679,Active,Malvastrum coromandelianum,"common false mallow, threelobe false mallow",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122308,21548,Active,Melochia nodiflora,bretonica prieta,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122311,21550,Active,Melochia pyramidata,"pyramid bush, pyramidflower",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,159634,503748,Active,Melochia tomentosa,"teabush, woolly pyramid bush",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123967,21723,Active,Pavonia spinifex,gingerbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123164,21598,Active,Quararibea turbinata,swizzlestick tree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123970,21726,Active,Sida acuta,common wireweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123980,21735,Active,Sida ciliaris,"bracted fanpetals, bracted sida, fringed sida, salmon sida",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123972,21728,Active,Sida cordifolia,"`ilima, great-leaved sida",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124001,21754,Active,Sida glabra,"smooth fanpetals, sticky sida",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123973,21729,Active,Sida glomerata,clustered fanpetals,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124002,21755,Active,Sida glutinosa,sticky fanpetals,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124003,21756,Active,Sida jamaicensis,Jamaican fanpetals,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,162845,505209,Active,Sida repens,Javanese fanpetals,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123977,21732,Active,Sida spinosa,"false mallow, Indian mallow, prickly fanpetals, prickly mallow, prickly sida",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123978,21733,Active,Sida urens,"bristly sida, tropical fanpetals",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,125858,21981,Active,Sidastrum multiflorum,manyflower sandmallow,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,161316,505487,Active,Theobroma cacao,cacao,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124010,21762,Active,Thespesia populnea,"cork-tree, majagua, portia tree, seaside mahoe, Spanish cork",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122289,21530,Active,Triumfetta lappula,grandcousin,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,122291,21532,Active,Triumfetta semitriloba,"burweed, dadangsi, masiksik lahe, mosote, Sacramento burbark, Sacramento burrbark",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124006,21759,Active,Urena lobata,"aramina, bur-mallow, Caesar weed, Caesarweed, chosuched e kui, common urena, Congo jute, dadangsi apaka, hibiscus burr",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,123124,21561,Active,Waltheria indica,"sleepy morning, uhaloa",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124015,21767,Active,Wissadula amplissima,big yellow velvetleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Malvaceae,124016,21768,Active,Wissadula periplocifolia,white velvetleaf,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Malvales,Thymelaeaceae,126112,27163,Active,Daphnopsis americana,burn nose,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Combretaceae,163799,506855,Active,Buchenavia tetraphylla,fourleaf buchenavia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Combretaceae,130503,27757,Active,Bucida buceras,gregorywood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Combretaceae,130513,27766,Active,Conocarpus erectus,button mangrove,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Combretaceae,159228,503318,Active,Laguncularia racemosa,white mangrove,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Combretaceae,166073,507743,Active,Quisqualis indica,Rangoon creeper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Combretaceae,130509,27762,Active,Terminalia catappa,"false kamani, India almond, Indian almond, tropical almond",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Lythraceae,125229,27091,Active,Ammannia coccinea,"purple ammannia, valley redstem",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Lythraceae,125230,27092,Active,Ammannia latifolia,pink redstem,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Lythraceae,126066,27121,Active,Ginoria rohrii,bastard gregre,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Melastomataceae,130466,27723,Active,Miconia laevigata,smooth johnnyberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Melastomataceae,130493,27748,Active,Tetrazygia angustifolia,stinkingfish,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Melastomataceae,130497,27751,Active,Tetrazygia elaeagnoides,krekre,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126135,27184,Active,Calyptranthes thomasiana,Thomas' lidflower,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126151,27199,Active,Eugenia axillaris,white stopper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,158006,502491,Active,Eugenia biflora,blackrodwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126157,27203,Active,Eugenia confusa,redberry stopper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126158,27204,Active,Eugenia cordata,lathberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,168615,507906,Active,Eugenia earhartii,Earhart's stopper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126167,27212,Active,Eugenia ligustrina,privet stopper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126169,27214,Active,Eugenia monticola,birdcherry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126170,27215,Active,Eugenia procera,rockmyrtle,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126171,27216,Active,Eugenia pseudopsidium,Christmas cherry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126174,27219,Active,Eugenia sessiliflora,sessileleaf stopper,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,219995,531408,Active,Myrcia citrifolia var. imrayana,red rodwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126188,27231,Active,Myrcianthes fragrans,"twinberry, twinberry stopper",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126634,27271,Active,Myrciaria floribunda,guavaberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,213188,529667,Active,Pimenta racemosa var. racemosa,bayrumtree,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126601,27241,Active,Psidium amplexicaule,mountain guava,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Myrtaceae,126600,27240,Active,Psidium guajava,"abas, goyavier, guabang, guava, kautonga, kuahpa",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Myrtales,Onagraceae,162935,503565,Active,Ludwigia octovalvis,"Mexican primrosewillow, Mexican primrose-willow",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,83720,17203,Active,Ophioglossum reticulatum,"netted adderstongue, netted adder's-tongue",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Oxalidales,Oxalidaceae,128425,29067,Active,Oxalis corniculata,"creeping oxalis, creeping woodsorrel, 'ihi, yellow oxalis, yellow wood sorrel",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Aristolochiaceae,94055,18349,Active,Aristolochia odoratissima,fragrant dutchman's pipe,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Aristolochiaceae,93043,18330,Active,Aristolochia trilobata,bejuco de santiago,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Piperaceae,84255,18231,Active,Peperomia glabella,cypress peperomia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Piperaceae,84266,18232,Active,Peperomia humilis,Polynesian peperomia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Piperaceae,89263,18287,Active,Peperomia magnoliifolia,spoonleaf peperomia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Piperaceae,89297,18290,Active,Peperomia myrtifolia,myrtleleaf peperomia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Piperaceae,84210,18227,Active,Peperomia pellucida,man to man,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Piperales,Piperaceae,91410,18314,Active,Piper amalago,higuillo de limon,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147667,42332,Active,Aechmea lingulata,West Indian livingvase,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147672,42337,Active,Bromelia pinguin,pinguin,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147674,42339,Active,Catopsis floribunda,Florida strap airplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147695,42358,Active,Pitcairnia angustifolia,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147702,42364,Active,Tillandsia fasciculata,giant airplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147715,42376,Active,Tillandsia lineatispica,pinon,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147707,42369,Active,Tillandsia recurvata,"ballmoss, small ballmoss",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Bromeliaceae,147711,42372,Active,Tillandsia utriculata,spreading airplant,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,141782,40283,Active,Abildgaardia ovata,flatspike sedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,154648,501092,Active,Bulbostylis pauciflora,fewflower hairsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,138311,39913,Active,Cyperus compressus,poorland flatsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,138979,39917,Active,Cyperus distans,Piedmont flatsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,138981,39919,Active,Cyperus elegans,"royal flatsedge, sticky flatsedge",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,139064,39994,Active,Cyperus flexuosus,Vahl's flatsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,139002,39938,Active,Cyperus ligularis,Alabama swamp flatsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,139067,39997,Active,Cyperus nanus,Indian flatsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,139021,39955,Active,Cyperus planifolius,flatleaf flatsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,139038,39970,Active,Cyperus surinamensis,tropical flatsedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,140185,40046,Active,Eleocharis geniculata,Canada spikesedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,140261,40114,Active,Fimbristylis dichotoma,forked fimbry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,140276,40128,Active,Fimbristylis ferruginea,West Indian fimbry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,140266,40119,Active,Fimbristylis spathacea,hurricanegrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,158358,503297,Active,Kyllinga odorata,fragrant spikesedge,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,206073,524621,Active,Rhynchospora nervosa ssp. ciliata,yerba de estrella,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,160880,505067,Active,Scleria lithosperma,Florida Keys nutrush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,217186,530278,Active,Scleria pterota var. melaleuca,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Cyperaceae,141833,40329,Active,Scleria scindens,hairy nutrush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,142944,40469,Active,Andropogon bicornis,"barbas de indio, West Indian foxtail",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,140351,41392,Active,Anthephora hermaphrodita,oldfield grass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,140403,41439,Active,Aristida cognata,spreading threeawn,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,291813,565014,Active,Arthrostylidium farctum,old man's beard,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,140432,41465,Active,Axonopus compressus,broadleaf carpetgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,103358,193444,Active,Bambusa vulgaris,common bamboo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,140980,41480,Active,Bothriochloa pertusa,pitted beardgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,141014,41510,Active,Bouteloua americana,American grama,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,143607,40575,Active,Cenchrus echinatus,"burgrass, common sandbur, field sandbur, konpeito-gusa, sandburr, se mbulabula, southern sandbur, vao tui tui",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,153828,501495,Active,Chloris barbata,swollen fingergrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,"Bermudagrass, chiendent pied-de-poule, common bermudagrass, devilgrass, grama-seda, manienie, motie molulu",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,141946,41630,Active,Dactyloctenium aegyptium,"crowfoot grass, Durban crowsfoot grass, Egyptian grass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,143656,40619,Active,Digitaria ciliaris,"fingergrass, Henry's crabgrass, kukaepua'a, saulangi, smooth crabgrass, southern crab grass, southern crabgrass, tropical crabgrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,144492,40633,Active,Digitaria hitchcockii,shortleaf crabgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,144493,40634,Active,Digitaria horizontalis,Jamaican crabgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,144495,40636,Active,Digitaria insularis,sourgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,144533,40670,Active,Echinochloa colona,"jungle rice, jungle ricegrass, junglerice, watergrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,142014,41692,Active,Eleusine indica,"crowsfoot grass, goose grass, goosegrass, Indian goose grass, Indian goosegrass, manienie ali'I, silver crabgrass, wiregrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,145609,40775,Active,Eragrostis ciliaris,gophertail lovegrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,145598,40765,Active,Eragrostis tenella,Japanese lovegrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,143279,41722,Active,Eriochloa punctata,Louisiana cupgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,143324,41763,Active,Heteropogon contortus,"tangelhead, tanglehead",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,159256,503331,Active,Lasiacis divaricata,smallcane,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,143382,41815,Active,Lasiacis ligulata,thicket tribisee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,143381,41814,Active,Lasiacis sorghoidea,woodland tribisee,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,143389,41821,Active,Leptochloa virgata,"Judd's grass, tropic sprangletop",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,162690,504013,Active,Olyra latifolia,carrycillo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,145055,41968,Active,Oplismenus hirtellus,bristle basketgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,146362,40962,Active,Panicum diffusum,West Indian panicgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,145087,41997,Active,Paspalidium geminatum,"Egyptian panicgrass, Egyptian panicum",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,147256,41015,Active,Paspalum conjugatum,"herbe creole, Hilo grass, hilograss, muhsrasre, rehn wei, sour grass, ti grass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,147260,41019,Active,Paspalum fimbriatum,Panama crowngrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,147237,40999,Active,Paspalum laxum,coconut paspalum,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,158562,504133,Active,Paspalum molle,soft paspalum,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,147240,41000,Active,Paspalum notatum,"Bahia grass, bahiagrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,147288,41044,Active,Paspalum vaginatum,seashore paspalum,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,145100,42008,Active,Pennisetum clandestinum,"Kikuyu grass, kikuyugrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,160683,504287,Active,Pharus lappulaceus,Cape Francais stalkgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,145996,42075,Active,Schizachyrium sanguineum,crimson bluestem,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,139273,41258,Active,Setaria setosa,West Indian bristlegrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,139281,41265,Active,Setaria utowanaea,Caribbean bristlegrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,139288,41271,Active,Spartina patens,"marshhay cordgrass, salt meadow cordgrass, saltmeadow cordgrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,146069,42140,Active,Sporobolus indicus,"Rattail smutgrass, smut grass, smutgrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,146054,42127,Active,Sporobolus virginicus,seashore dropseed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,146704,42216,Active,Tragus berteronianus,"spiked burr grass, spiked burrgrass",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,205151,523017,Active,Uniola virgata,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,205166,523024,Active,Urochloa adspersa,Dominican signalgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,205170,523026,Active,Urochloa fasciculata,browntop signalgrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Poales,Poaceae,168924,507480,Active,Urochloa maxima,guineagrass,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,75849,17357,Active,Asplenium pumilum,dwarf spleenwort,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Blechnaceae,89982,17863,Active,Blechnum occidentale,hammock fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Lindsaeaceae,84882,17821,Active,Odontosoria aculeata,thicket creepingfern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Lomariopsidaceae,85290,17605,Active,Nephrolepis exaltata,Boston swordfern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Lomariopsidaceae,85301,17606,Active,Nephrolepis multiflora,Asian swordfern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,80791,17428,Active,Campyloneurum latum,birdwing fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,80802,17429,Active,Campyloneurum phyllitidis,long strapfern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,77689,17656,Active,Phlebodium aureum,golden polypody,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,164213,504449,Active,Pleopeltis astrolepis,starscale fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,80980,17306,Active,Acrostichum danaeifolium,inland leatherfern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,91242,181786,Active,Adiantum fragile var. fragile,fragile maidenhair,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,91243,181787,Active,Adiantum fragile var. rigidulum,fragile maidenhair,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81047,17312,Active,Adiantum tenerum,fan maidenhair,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,153479,502110,Active,Doryopteris pedata,digit fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,79219,17661,Active,Pityrogramma calomelanos,Dixie silverback fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,213211,529678,Active,Pityrogramma chrysophylla var. gabrielae,island goldback fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82686,17708,Active,Pteris biaurita,thinleaf brake,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82664,17706,Active,Pteris vittata,"Chinese brake, ladder brake",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,77187,17254,Active,Thelypteris dentata,"downy maiden fern, mountain woodfern",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,77209,17256,Active,Thelypteris hispidula,roughhairy maiden fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,77231,17258,Active,Thelypteris kunthii,Kunth's maiden fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,79887,17292,Active,Thelypteris poiteana,darkgreen maiden fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,78202,17273,Active,Thelypteris tetragona,freetip maiden fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Psilotales,Psilotaceae,79121,17008,Active,Psilotum nudum,whisk fern,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ranunculales,Menispermaceae,98676,18860,Active,Cissampelos pareira,"pareira brava, velvetleaf",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ranunculales,Menispermaceae,156614,503127,Active,Hyperbaena domingensis,forest snakevine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102583,18915,Active,Argemone mexicana,"Mexican prickly poppy, Mexican pricklypoppy, yellow pricklypoppy",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Cannabaceae,102141,19041,Active,Celtis iguanaea,iguana hackberry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Cannabaceae,103001,19047,Active,Celtis trinervia,almex,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Cannabaceae,95897,19104,Active,Trema micranthum,"Florida trema, Jamaican nettletree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Moraceae,95123,19094,Active,Ficus citrifolia,"shortleaf fig, wild banyantree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Moraceae,95840,19099,Active,Ficus trigonata,jaguey blanco,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Rhamnaceae,124745,28520,Active,Colubrina arborescens,"coffee colubrina, greenheart",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Rhamnaceae,124749,28524,Active,Colubrina elliptica,soldierwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Rhamnaceae,124780,28552,Active,Gouania lupuloides,whiteroot,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Rhamnaceae,124786,28558,Active,Krugiodendron ferreum,ironwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Rhamnaceae,161879,504741,Active,Reynosia guama,guama,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Rosaceae,290978,565435,Active,Prunus pleuradenia,Antilles cherry,,Probably Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Urticaceae,285604,565052,Active,Cecropia schreberiana,pumpwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Urticaceae,159243,503325,Active,Laportea aestuans,West Indian woodnettle,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Urticaceae,99006,19133,Active,Pilea microphylla,rockweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Urticaceae,99017,19134,Active,Pilea nummulariifolia,creeping charlie,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Urticaceae,99828,19148,Active,Pilea sanctae-crucis,Virgin Island clearweed,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Rosales,Urticaceae,163268,504395,Active,Pilea tenerrima,musgo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Santalales,Loranthaceae,157142,501991,Active,Dendropemon caribaeus,four-angle leechbush,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Santalales,Schoepfiaceae,131269,27848,Active,Schoepfia obovata,white beefwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Santalales,Schoepfiaceae,131267,27846,Active,Schoepfia schreberi,gulf graytwig,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Santalales,Ximeniaceae,131272,27850,Active,Ximenia americana,"tallow wood, tallowwood",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126788,28793,Active,Anacardium occidentale,cashew,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126792,28797,Active,Comocladia dodonaea,poison ash,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126800,28803,Active,Mangifera indica,mango,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126810,28812,Active,Schinus terebinthifolius,"Brazilian peppertree, Brazilian pepper-tree, Christmas berry, Christmasberry, Florida holly, warui",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126814,28816,Active,Spondias mombin,"hogplum, yellow mombin",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Burseraceae,126758,28766,Active,Bursera simaruba,"gumbo limbo, West Indian birch",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Meliaceae,128367,29014,Active,Cedrela odorata,Spanish cedar,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Meliaceae,128378,29024,Active,Melia azedarach,"chinaberry, Chinaberry tree, Indian lilac, lelah, paraiso, pride of India, white cedar",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Meliaceae,128380,29026,Active,Swietenia mahagoni,West Indian mahogany,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,291784,565000,Active,Amyris diatrypa,hairy torchwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,127412,28875,Active,Amyris elemifera,"sea torchwood, torchwood",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,127421,28883,Active,Citrus aurantifolia,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,161453,503888,Active,Murraya exotica,Chinese box,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,128336,28987,Active,Pilocarpus racemosus,aceitillo,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,128359,29007,Active,Triphasia trifolia,"demon de China, limeberry, limon-China, limoncito",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,127403,28867,Active,Zanthoxylum flavum,West Indian satinwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,127404,28868,Active,Zanthoxylum martinicense,white pricklyash,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,127405,28869,Active,Zanthoxylum monophyllum,yellow prickle,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Rutaceae,127409,28872,Active,Zanthoxylum thomasianum,"prickly-ash, St. Thomas pricklyash, St. Thomas prickly-ash",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Sapindaceae,93733,182117,Active,Allophylus racemosus,palo de caja,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Sapindaceae,125709,28665,Active,Cardiospermum corindum,"faux persil, faux-persil",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Sapindaceae,125711,28667,Active,Cardiospermum halicacabum,"balloonvine, love in a puff",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Sapindaceae,125726,28680,Active,Exothea paniculata,"butterbough, inkwood",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Sapindaceae,125738,28691,Active,Melicoccus bijugatus,Spanish lime,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Sapindaceae,125752,28703,Active,Serjania polyphylla,basketwood,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Sapindales,Simaroubaceae,163251,504387,Active,Picrasma excelsa,"bitter-ash, bitterwood",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Saxifragales,Crassulaceae,158316,503277,Active,Kalanchoe pinnata,cathedral bells,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,135245,30707,Active,Convolvulus nodiflorus,aguinaldo blanco,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136052,30714,Active,Cuscuta americana,American dodder,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136097,30755,Active,Cuscuta umbellata,"flatglobe dodder, flat-globe dodder",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137133,30847,Active,Evolvulus convolvuloides,bindweed dwarf morning-glory,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,165728,506982,Active,Evolvulus filipes,Maryland dwarf morning-glory,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137137,30850,Active,Evolvulus nummularius,agracejo rastrero,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,288506,565242,Active,Ipomoea eggersii,Egger's morning-glory,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136118,30774,Active,Ipomoea hederifolia,"scarlet creeper, scarletcreeper",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136119,30775,Active,Ipomoea indica,"blue morningglory, oceanblue morningglory, oceanblue morning-glory",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136130,30785,Active,Ipomoea nil,"whiteedge morningglory, whiteedge morning-glory",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,157283,503180,Active,Ipomoea ochracea,"fence morningglory, fence morning-glory",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136132,30787,Active,Ipomoea pes-caprae,bayhops,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136166,30817,Active,Ipomoea repanda,bejuco colorado,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136167,30818,Active,Ipomoea setifera,bejuco de puerco,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136151,30803,Active,Ipomoea triloba,littlebell,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136153,30805,Active,Ipomoea violacea,"beach moonflower, heavenlyblue morningglory, heavenlyblue morning-glory, ololiuqui, sea moonflower",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137141,30854,Active,Jacquemontia cumanensis,thicket clustervine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137139,30852,Active,Jacquemontia havanensis,Havana clustervine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,157382,503227,Active,Jacquemontia pentanthos,skyblue clustervine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137145,30858,Active,Jacquemontia solanifolia,cambustera de costa,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,160327,503814,Active,Merremia aegyptia,hairy woodrose,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137155,30867,Active,Merremia dissecta,noyau vine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137163,30874,Active,Merremia quinquefolia,rock rosemary,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137160,30871,Active,Merremia tuberosa,"Spanish arborvine, wood rose",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137161,30872,Active,Merremia umbellata,hogvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Convolvulaceae,164862,505378,Active,Stictocardia tiliifolia,spottedheart,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,135161,30638,Active,Brunfelsia americana,American brunfelsia,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,134329,30493,Active,Capsicum frutescens,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,134340,30502,Active,Cestrum laurifolium,,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,156268,501974,Active,Datura inoxia,"angel's trumpet, desert thornapple, prickly datura, pricklyburr, sacred datura",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,134360,30520,Active,Datura stramonium,"Jamestown weed, jimsonweed, mad apple, moonflower, stinkwort, thorn apple",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,134437,30590,Active,Physalis angulata,"cutleaf groundcherry, cut-leaf ground-cherry, lanceleaf groundcherry",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,134442,30595,Active,Physalis cordata,heartleaf groundcherry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,135125,30610,Active,Physalis turbinata,thicket groundcherry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,132655,30416,Active,Solanum americanum,American black nightshade,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,132711,30467,Active,Solanum conocarpum,maron baccora,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,132671,30430,Active,Solanum erianthum,"mullein nightshade, potatotree",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,132713,30469,Active,Solanum lanceifolium,lanceleaf nightshade,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,132718,30473,Active,Solanum polygamum,cakalaka berry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,132696,30453,Active,Solanum racemosum,canker berry,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Solanales,Solanaceae,132704,30460,Active,Solanum torvum,"bhankatiya, devil's fig, fausse aubergine, kausoni, prickly solanum, terongan, turkey berry, turkeyberry",,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Vitales,Vitaceae,125679,28638,Active,Cissus obovata,spoonleaf treebine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Vitales,Vitaceae,125682,28640,Active,Cissus trifoliata,sorrelvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Vitales,Vitaceae,154801,501557,Active,Cissus verticillata,seasonvine,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Vitales,Vitaceae,125667,28627,Active,Vitis tiliifolia,West Indian grape,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Zingiberales,Cannaceae,147757,42413,Active,Canna indica,Indian shot,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,158172,502837,Active,Guajacum officinale,lignum-vitae,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128402,29046,Active,Kallstroemia maxima,big caltrop,,Present
+VIIS,Virgin Islands National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128405,29049,Active,Kallstroemia pubescens,Caribbean caltrop,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,,,1002927,,Active,Madracis auretenra,yellow pencil coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,,,1002930,,Active,Pseudodiploria clivosa,knobby brain coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,,,1002926,,Active,Pseudodiploria strigosa,symmetrical brain coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,,,1002928,,Active,Undaria agaricites,lettuce coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170184,50877,Active,Millepora alcicornis,branching fire coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170928,50880,Active,Millepora complanata,blade fire coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170205,50878,Active,Millepora squarrosa,box fire coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Acroporidae,213963,52862,Active,Acropora cervicornis,staghorn coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Acroporidae,213113,52861,Active,Acropora palmata,elkhorn coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Agariciidae,217766,53055,Active,Agaricia fragilis,fragile saucer coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Agariciidae,219278,53062,Active,Agaricia grahamae,dimpled sheet coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Agariciidae,219193,53058,Active,Agaricia lamarcki,whitestar sheet coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Agariciidae,213935,53037,Active,Helioseris cucullata,sunray lettuce coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Astrocoeniidae,211234,52844,Active,Stephanocoenia intersepta,blushing star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219546,53289,Active,Colpophyllia natans,boulder brain coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219483,53286,Active,Diploria labyrinthiformis,grooved brain coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,221396,53267,Active,Favia fragum,golfball coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,218836,53281,Active,Manicina areolata,rose coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219785,53255,Active,Montastraea cavernosa,great star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219743,53253,Active,Solenastrea bournoni,smooth star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Meandrinidae,705544,-758855,Inactive,Dendrogyra cylindrus,pillar coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Meandrinidae,226501,53420,Active,Dichocoenia stokesi,"domed star coral, elliptical star coral, pineapple coral",,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Meandrinidae,228880,53622,Active,Eusmilia fastigiata,smooth flower coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Meandrinidae,226564,53423,Active,Meandrina meandrites,maze coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Merulinidae,1002923,,Active,Orbicella annularis,lobed star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Merulinidae,1002924,,Active,Orbicella faveolata,mountainous star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Merulinidae,991865,,Active,Orbicella franksi,boulder star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,225121,53495,Active,Isophyllastrea rigida,rough star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,222978,53476,Active,Isophyllia sinuosa,"lesser cactus coral, sinuous cactus coral",,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,227955,53474,Active,Mussa angulosa,"large flower coral, spiny flower coral",,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,223775,53482,Active,Mycetophyllia aliciae,knobby cactus coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,198870,-521943,Active,Mycetophyllia danaana,,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,223084,53481,Active,Mycetophyllia ferox,rough cactus coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,223041,53479,Active,Mycetophyllia lamarckiana,ridged cactus coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,223859,53486,Active,Scolymia cubensis,artichoke coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,223838,53485,Active,Scolymia lacera,Atlantic mushroom coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Pocilloporidae,214714,53009,Active,Madracis decactis,ten-ray star coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,221091,53184,Active,Porites astreoides,"mustard hill coral, yellow porites",,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,221112,53185,Active,Porites divaricata,thin finger coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,221154,53187,Active,Porites furcata,branched finger coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,220194,53180,Active,Porites porites,finger coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Siderastreidae,216176,53091,Active,Siderastrea radians,lesser starlet coral,,Present
+VIIS,Virgin Islands National Park,Other Non-vertebrates,12,Scleractinia,Siderastreidae,215602,53090,Active,Siderastrea siderea,massive starlet coral,,Present

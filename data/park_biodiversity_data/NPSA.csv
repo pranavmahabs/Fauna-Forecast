@@ -1,0 +1,1353 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+NPSA,National Park of American Samoa,Mammal,1,Artiodactyla,Suidae,95073,180722,Active,Sus scrofa,"feral pig, pig, pua`a",,Present
+NPSA,National Park of American Samoa,Mammal,1,Carnivora,Canidae,86124,183815,Active,Canis familiaris,Domestic dog,,Probably Present
+NPSA,National Park of American Samoa,Mammal,1,Carnivora,Felidae,86104,183798,Active,Felis catus,Domestic Cat,Felis silvestris,Present
+NPSA,National Park of American Samoa,Mammal,1,Cetacea,Balaenopteridae,92607,180530,Active,Megaptera novaeangliae,"humpback whale, ia maanu, tafola",,Present
+NPSA,National Park of American Samoa,Mammal,1,Cetacea,Delphinidae,92494,180429,Active,Stenella longirostris,"long-snouted spinner dolphin, spinner dolphin",,Present
+NPSA,National Park of American Samoa,Mammal,1,Chiroptera,Pteropodidae,88764,180039,Active,Pteropus samoensis,"pe`a vao, Samoan flying fox, Samoan fruit bat",,Present
+NPSA,National Park of American Samoa,Mammal,1,Chiroptera,Pteropodidae,264259,552468,Active,Pteropus tonganus,"insular flying fox, Pacific flying fox, pe`a fanua, white-naped flying fox, white-necked fruit bat",,Present
+NPSA,National Park of American Samoa,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,"house mouse, isumu",,Present
+NPSA,National Park of American Samoa,Mammal,1,Rodentia,Muridae,91760,180364,Active,Rattus exulans,"Polynesian rat, isumu",,Present
+NPSA,National Park of American Samoa,Mammal,1,Rodentia,Muridae,91759,180363,Active,Rattus norvegicus,"isumu, Norway rat",,Present
+NPSA,National Park of American Samoa,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,"black rat, isumu, roof rat",,Present
+NPSA,National Park of American Samoa,Bird,2,,,1365250,,Active,Hypotaenidia philippensis,Buff-banded Rail,"Rallus philippensis, Gallirallus philippensis",Present
+NPSA,National Park of American Samoa,Bird,2,,,1365251,,Active,Zapornia tabuensis,Spotless Crake,Porzana tabuensis,Present
+NPSA,National Park of American Samoa,Bird,2,Apodiformes,Apodidae,83868,178018,Active,Aerodramus spodiopygius,"pe`ape`a, white-rumped swiftlet",,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Charadriidae,265872,554381,Active,Pluvialis fulva,"golden plover, Pacific golden plover, tuli",,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Laridae,81867,176944,Active,Anous minutus,"black noddy, gogo",,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Laridae,81864,176941,Active,Anous stolidus,"Brown Noddy, Gogo",,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Laridae,81878,176954,Active,Gygis alba,"manu sina, white tern",,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Laridae,265891,554390,Active,Procelsterna cerulea,"blue-grey noddy, laia",,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Laridae,81144,176897,Active,Sterna anaethetus,bridled tern,,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Laridae,81141,176894,Active,Sterna fuscata,sooty tern,,Probably Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Laridae,81162,176912,Active,Sterna lunata,"gogosina, gray-backed tern",,Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Scolopacidae,77702,176571,Active,Arenaria interpres,"Ruddy Turnstone, Tuli",,Probably Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Scolopacidae,79284,176669,Active,Calidris alba,"Sanderling, Tuli",,Probably Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Scolopacidae,79304,176687,Active,Limosa lapponica,"bar-tailed godwit, tuli",,Probably Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Scolopacidae,79213,176604,Active,Numenius tahitiensis,"Tuli, Bristle-thighed Curlew",,Probably Present
+NPSA,National Park of American Samoa,Bird,2,Charadriiformes,Scolopacidae,79242,176630,Active,Tringa incana,"Tuli, Wandering Tattler",Heteroscelus incanus,Present
+NPSA,National Park of American Samoa,Bird,2,Columbiformes,Columbidae,84627,177382,Active,Ducula pacifica,"Lupe, Pacific Imperial Pigeon",,Present
+NPSA,National Park of American Samoa,Bird,2,Columbiformes,Columbidae,1256134,,Inactive,Pampusana stairi,Tongan Ground Dove,Gallicolumba stairi,Present
+NPSA,National Park of American Samoa,Bird,2,Columbiformes,Columbidae,84576,177336,Active,Ptilinopus perousii,"manuma, many-colored fruit dove",,Present
+NPSA,National Park of American Samoa,Bird,2,Columbiformes,Columbidae,84577,177337,Active,Ptilinopus porphyraceus,"Manutagi, Crimson-crowned Fruit Dove",,Present
+NPSA,National Park of American Samoa,Bird,2,Coraciiformes,Alcedinidae,1344139,1174564,Active,Todiramphus sacer,"Ti‘otala, Pacific Kingfisher","Halcyon chloris, Todiramphus chloris, Todirhamphus chloris, Todiramphus sacer",Present
+NPSA,National Park of American Samoa,Bird,2,Cuculiformes,Cuculidae,264885,554720,Active,Eudynamys taitensis,"aleva, long-tailed cuckoo",,Present
+NPSA,National Park of American Samoa,Bird,2,Galliformes,Phasianidae,85330,176086,Active,Gallus gallus,Red Junglefowl,,Present
+NPSA,National Park of American Samoa,Bird,2,Gruiformes,Rallidae,76697,176390,Active,Porphyrio porphyrio,"manu ali`i, purple swamphen",,Present
+NPSA,National Park of American Samoa,Bird,2,Passeriformes,Meliphagidae,598215,711589,Active,Foulehaio carunculatus,"Polynesian Wattled-Honeyeater, Iao",Foulehaio carunculata,Present
+NPSA,National Park of American Samoa,Bird,2,Passeriformes,Meliphagidae,1338135,1172027,Active,Myzomela nigriventris,Samoan Myzomela,Myzomela cardinalis,Present
+NPSA,National Park of American Samoa,Bird,2,Passeriformes,Monarchidae,917593,920705,Active,Clytorhynchus vitiensis powelli,"Samoan Shrikebill, Sega 'olevau, Manu'a Shrikebill","Clytorhynchus vitiensis, Clytorhynchus powelli",Present
+NPSA,National Park of American Samoa,Bird,2,Passeriformes,Sturnidae,266941,554130,Active,Aplonis atrifusca,"fuia, Samoan starling",,Present
+NPSA,National Park of American Samoa,Bird,2,Passeriformes,Sturnidae,266949,554134,Active,Aplonis tabuensis,"miti vao, Polynesian starling",,Present
+NPSA,National Park of American Samoa,Bird,2,Pelecaniformes,Ardeidae,84432,174788,Active,Ardea novaehollandiae,white-faced heron,,Present
+NPSA,National Park of American Samoa,Bird,2,Pelecaniformes,Ardeidae,84474,174825,Active,Egretta sacra,"Pacific reef-heron, reef heron, matu`u",,Present
+NPSA,National Park of American Samoa,Bird,2,Phaethontiformes,Phaethontidae,83373,174676,Active,Phaethon lepturus,"tava 'esina, white-tailed tropicbird",,Present
+NPSA,National Park of American Samoa,Bird,2,Procellariiformes,Procellariidae,1208382,,Active,Ardenna pacifica,"Taʻiʻo, Wedge-tailed Shearwater",Puffinus pacificus,Probably Present
+NPSA,National Park of American Samoa,Bird,2,Procellariiformes,Procellariidae,82453,174570,Active,Pterodroma arminjoniana,"Herald Petrel, Taʻiʻo",,Present
+NPSA,National Park of American Samoa,Bird,2,Procellariiformes,Procellariidae,82472,174588,Active,Pterodroma leucoptera,"Collared Petrel, Taʻiʻo",,Present
+NPSA,National Park of American Samoa,Bird,2,Procellariiformes,Procellariidae,82476,174591,Active,Pterodroma rostrata,"Tahiti Petrel, Taʻiʻo",,Present
+NPSA,National Park of American Samoa,Bird,2,Procellariiformes,Procellariidae,82443,174561,Active,Puffinus lherminieri,"Audubon's shearwater, ta`i`o",,Present
+NPSA,National Park of American Samoa,Bird,2,Procellariiformes,Procellariidae,82447,174565,Active,Puffinus nativitatis,"Christmas shearwater, ta`i`o",,Present
+NPSA,National Park of American Samoa,Bird,2,Psittaciformes,Psittacidae,85367,177448,Active,Vini australis,"blue-crowned lory, sega",,Present
+NPSA,National Park of American Samoa,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,"Barn Owl, Western Barn Owl, Lulu",,Present
+NPSA,National Park of American Samoa,Bird,2,Suliformes,Fregatidae,84411,174769,Active,Fregata ariel,"atafa, lesser frigatebird",,Present
+NPSA,National Park of American Samoa,Bird,2,Suliformes,Fregatidae,888579,824200,Active,Fregata minor palmerstoni,"Atafa, Great Frigatebird",Fregata minor,Present
+NPSA,National Park of American Samoa,Bird,2,Suliformes,Sulidae,83398,174699,Active,Sula dactylatra,"fua`o, masked booby",,Present
+NPSA,National Park of American Samoa,Bird,2,Suliformes,Sulidae,83405,174704,Active,Sula leucogaster,"Fuaʻo, Brown Booby",,Present
+NPSA,National Park of American Samoa,Bird,2,Suliformes,Sulidae,83408,174707,Active,Sula sula,"fua`o, red-footed booby",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Candoiidae,80840,174323,Active,Candoia bibroni,"gata, pacific boa",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Gekkonidae,156463,-501221,Active,Cyrtodactylus pelagicus,"mo'o, pelagic gecko, slender-toed gecko",,Probably Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Gekkonidae,78925,174046,Active,Gehyra mutilata,"mo`o, stump-toed gecko",,Probably Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Gekkonidae,78926,174047,Active,Gehyra oceanica,"mo`o, Polynesian gecko",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Gekkonidae,78936,174056,Active,Hemidactylus frenatus,"house gecko, mo`o",,Probably Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Gekkonidae,78944,174063,Active,Lepidodactylus lugubris,"mo`o, mourning gecko",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Scincidae,119586,208911,Active,Cryptoblepharus boutonii,"pili, snake-eyed skink",,Probably Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Scincidae,78445,173977,Active,Emoia adspersa,"Micronesian skink, pili",,Probably Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Scincidae,78452,173983,Active,Emoia cyanura,"Azure-tailed skink, pili",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Scincidae,78453,173984,Active,Emoia lawesii,"Lawes skink, pili oua",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Scincidae,78455,173986,Active,Emoia nigra,"black skink, pili uli",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Scincidae,78457,173988,Active,Emoia samoensis,"pili lape, Samoan skink",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Scincidae,78469,173999,Active,Lipinia noctua,"moth skink, pili",,Present
+NPSA,National Park of American Samoa,Reptile,3,Squamata,Typhlopidae,118396,209598,Active,Rhamphotyphlops braminus,"blind burrowing snake, Braminy snake",,Probably Present
+NPSA,National Park of American Samoa,Reptile,3,Testudines,Cheloniidae,77482,173833,Active,Chelonia mydas,"fonu, green sea turtle, i'a sa, laumei ena'ena",,Present
+NPSA,National Park of American Samoa,Reptile,3,Testudines,Cheloniidae,77485,173836,Active,Eretmochelys imbricata,"hawksbill sea turtle, i'a sa, laumei uga",,Present
+NPSA,National Park of American Samoa,Amphibian,4,Anura,Bufonidae,83330,173489,Active,Bufo marinus,"lage, marine toad",,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Anguillidae,65075,161135,Active,Anguilla marmorata,mottled freshwater eel,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66058,161176,Active,Echidna nebulosa,Snowflake,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66059,161177,Active,Echidna polyzona,Barred moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,438628,635534,Active,Gymnothorax chilospilus,Lipspot moray,,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66079,161195,Active,Gymnothorax flavimarginatus,Yellowmargin moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,435177,635841,Active,Gymnothorax gracilicauda,Slendertail moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66094,161208,Active,Gymnothorax javanicus,Giant Moray,"Lycodontis javanicus, Muraena javanica",Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66108,161220,Active,Gymnothorax margaritophorus,Trunkspotted moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66097,161210,Active,Gymnothorax meleagris,Whitemouth moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66080,161196,Active,Gymnothorax pictus,Peppered moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,435179,635842,Active,Gymnothorax richardsonii,Reticulated moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,66102,161215,Active,Gymnothorax undulatus,Undulated moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,435183,635844,Active,Gymnothorax zonipectis,Barred-fin moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,440069,635624,Active,Rhinomuraena quaesita,Ribbon eel,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Muraenidae,440071,635625,Active,Siderea thyrsoidea,White-eyed moray,,Present
+NPSA,National Park of American Samoa,Fish,5,Anguilliformes,Ophichthidae,750957,-9791278,Active,Myricthys maculosus,Spotted snake eel,,Present
+NPSA,National Park of American Samoa,Fish,5,Atheriniformes,Atherinidae,71594,166010,Active,Atherinomorus lacunosus,Silverside,,Present
+NPSA,National Park of American Samoa,Fish,5,Atheriniformes,Atherinidae,71627,166040,Active,Hypoatherina ovalaua,Fijian silverside,,Present
+NPSA,National Park of American Samoa,Fish,5,Atheriniformes,Atherinidae,426826,630638,Active,Hypoatherina temminckii,Silverside,,Present
+NPSA,National Park of American Samoa,Fish,5,Atheriniformes,Atherionidae,71629,166042,Active,Atherion elymus,bearded silverside,,Present
+NPSA,National Park of American Samoa,Fish,5,Atheriniformes,Notocheiridae,429006,630749,Active,Iso nesiotes,Surf-fish,,Present
+NPSA,National Park of American Samoa,Fish,5,Aulopiformes,Synodontidae,63728,162413,Active,Saurida gracilis,"gracile lizardfish, slender lizardfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Aulopiformes,Synodontidae,63695,162384,Active,Synodus binotatus,Twospot,,Present
+NPSA,National Park of American Samoa,Fish,5,Aulopiformes,Synodontidae,63696,162385,Active,Synodus dermatogenys,sand lizardfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Aulopiformes,Synodontidae,63708,162396,Active,Synodus jaculum,Blackblotch lizardfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Aulopiformes,Synodontidae,63698,162387,Active,Synodus variegatus,Variegated Lizardfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beloniformes,Belonidae,68441,165585,Active,Platybelone argalus,keeltail needlefish,Belone platyura,Present
+NPSA,National Park of American Samoa,Fish,5,Beloniformes,Belonidae,68417,165563,Active,Strongylura incisa,Reef needlefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beloniformes,Belonidae,68432,165577,Active,Tylosurus crocodilus,houndfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beloniformes,Hemiramphidae,67505,165466,Active,Hemiramphus far,Black-barred halfbeak,,Present
+NPSA,National Park of American Samoa,Fish,5,Beloniformes,Hemiramphidae,67522,165481,Active,Hyporhamphus acutus,Pacific halfbeak,,Present
+NPSA,National Park of American Samoa,Fish,5,Beloniformes,Hemiramphidae,67518,165478,Active,Hyporhamphus dussumieri,Dussumier's halfbeak,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Anomalopidae,72571,166167,Active,Anomalops katoptron,Twofin flashlight fish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73449,166233,Active,Myripristis adusta,Shadowfin Soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73450,166234,Active,Myripristis amaena,Brick soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73429,166215,Active,Myripristis berndti,Bigscale Soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73435,166220,Active,Myripristis chryseres,Yellowfin Soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73426,166212,Active,Myripristis kuntee,Epaulette Soldierfish,Myripristis mutiradiatus,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73428,166214,Active,Myripristis murdjan,"Blotch-eye Soldierfish, Pinecone Soldierfish","Perca murdjan, Sciaena murdjan",Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73451,166235,Active,Myripristis pralinia,Scarlet soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73439,166224,Active,Myripristis randalli,Randall's soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73452,166236,Active,Myripristis violacea,lattice soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73453,166237,Active,Myripristis vittata,Whitetip soldierfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73486,166267,Active,Neoniphon argenteus,Clearfin squirrelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73490,166270,Active,Neoniphon sammara,Spotfin Squirrelfish,Flammeo sammara,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,410999,622219,Active,Sargocentron caudimaculatum,"Tailspot Squirrelfish, Silverspot Squirrelfish","Adioryx caudimaculatus, Holocentrus caudimaculatus",Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73480,166261,Active,Sargocentron diadema,Crown squirrelfish,Adioryx diadema,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73481,166262,Active,Sargocentron microstoma,Smallmouth squirrelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73476,166258,Active,Sargocentron spiniferum,Saber Squirrelfish,Adioryx spinfer,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73483,166264,Active,Sargocentron tiere,Tahitian Squirrelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,73484,166265,Active,Sargocentron tiereoides,Pink squirrelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Beryciformes,Holocentridae,410993,622216,Active,Sargocentron violaceum,Violet squirrelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Carcharhiniformes,Carcharhinidae,70276,160365,Active,Carcharhinus melanopterus,blacktip reef shark,,Present
+NPSA,National Park of American Samoa,Fish,5,Carcharhiniformes,Carcharhinidae,70910,160453,Active,Triaenodon obesus,Whitetip reef shark,,Present
+NPSA,National Park of American Samoa,Fish,5,Gasterosteiformes,Aulostomidae,74184,166412,Active,Aulostomus chinensis,Trumpet,,Present
+NPSA,National Park of American Samoa,Fish,5,Gasterosteiformes,Fistulariidae,455998,644918,Active,Fistularia commersonii,Cornet,,Present
+NPSA,National Park of American Samoa,Fish,5,Gasterosteiformes,Syngnathidae,457068,644964,Active,Corythoichthys amplexus,Brown-banded pipefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Gasterosteiformes,Syngnathidae,66039,166513,Active,Corythoichthys flavofasciatus,Network pipefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Gasterosteiformes,Syngnathidae,66042,166516,Active,Corythoichthys intestinalis,Scribbled pipefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Mugiliformes,Mugilidae,81305,170357,Active,Crenimugil crenilabis,"fringelip mullet, thicklip mullet, wartynosed mullet",,Present
+NPSA,National Park of American Samoa,Fish,5,Mugiliformes,Mugilidae,82001,170380,Active,Liza macrolepis,largescale mullet,,Present
+NPSA,National Park of American Samoa,Fish,5,Mugiliformes,Mugilidae,747380,-9791893,Active,Liza seheli,,,Present
+NPSA,National Park of American Samoa,Fish,5,Mugiliformes,Mugilidae,428069,630330,Active,Liza subviridis,,,Present
+NPSA,National Park of American Samoa,Fish,5,Mugiliformes,Mugilidae,267067,553298,Active,Liza vaigiensis,"blackfin mullet, diamondscale mullet, diamond-scale mullet, squaretail mullet",,Present
+NPSA,National Park of American Samoa,Fish,5,Mugiliformes,Mugilidae,427303,630297,Active,Moolgarda engeli,Dwarf mullet,,Present
+NPSA,National Park of American Samoa,Fish,5,Mugiliformes,Mugilidae,81310,170361,Active,Neomyxus leuciscus,Acute-jawed mullet,,Present
+NPSA,National Park of American Samoa,Fish,5,Myliobatiformes,Dasyatidae,286287,564623,Active,Dasyatis kuhlii,Blue-spotted stingray,,Present
+NPSA,National Park of American Samoa,Fish,5,Myliobatiformes,Dasyatidae,288182,564348,Active,Himantura fai,Tahitian stingray,,Present
+NPSA,National Park of American Samoa,Fish,5,Myliobatiformes,Dasyatidae,288233,564372,Active,Taeniura meyeni,"Marbled stingray, Round ribbontail ray",,Present
+NPSA,National Park of American Samoa,Fish,5,Myliobatiformes,Dasyatidae,286276,564618,Active,Urogymnus asperrimus,Thorny stingray,,Present
+NPSA,National Park of American Samoa,Fish,5,Myliobatiformes,Myliobatidae,63961,160978,Active,Aetobatus narinari,"bonnetray, spotted eagle ray",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74600,172261,Active,Acanthurus achilles,"Achilles tang, Achilles Tang, redspot surgeonfish, redspot tang, redtail surgeonfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,412596,623264,Active,Acanthurus albipectoralis,Whitefin surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74615,172275,Active,Acanthurus blochii,"ringtail surgeonfish, whitetail surgeonfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74602,172263,Active,Acanthurus guttatus,White-spotted surgeofish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,412527,623231,Active,Acanthurus leucocheilus,Pale-lipped surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74611,172271,Active,Acanthurus lineatus,Striped surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,412531,623233,Active,Acanthurus maculiceps,White-freckled surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74604,172265,Active,Acanthurus mata,Yellowmask surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74616,172276,Active,Acanthurus nigricans,"Whitecheek, Goldrim",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74614,172274,Active,Acanthurus nigricauda,Blackstreak surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74605,172266,Active,Acanthurus nigrofuscus,Brown,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74606,172267,Active,Acanthurus nigroris,Bluelined,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74607,172268,Active,Acanthurus olivaceus,Orangeband,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74612,172272,Active,Acanthurus pyroferus,Mimic Surgeonfish,"Acanthurus armiger, Acanthurus celebicus, Hepatus pyroferus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74608,172269,Active,Acanthurus thompsoni,Thompson's,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74610,172270,Active,Acanthurus triostegus,"convict surgeonfish, Convict Surgeonfish, convict tang, convictfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,74597,172259,Active,Acanthurus xanthopterus,Yellowfin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75591,172309,Active,Ctenochaetus binotatus,Twospot Surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,412552,623243,Active,Ctenochaetus cyanocheilus,Bluelip bristletooth,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,183772,-515456,Inactive,Ctenochaetus flavicauda,"Pale-tailed bristletooth, Whitetail bristletooth",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75588,172306,Active,Ctenochaetus hawaiiensis,Hawaiian bristletooth,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75590,172308,Active,Ctenochaetus striatus,Striated Surgeonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75570,172290,Active,Naso annulatus,Whitemargin Unicornfish,Naso herrei,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,412558,623246,Active,Naso brachycentron,Humpback unicornfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75572,172292,Active,Naso brevirostris,Spotted unicornfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,412562,623248,Active,Naso caesius,Gray unicornfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75574,172294,Active,Naso hexacanthus,Sleek unicornfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75577,172297,Active,Naso lituratus,Orangespine,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,192527,-518122,Inactive,Naso tonganus,Humpnose unicornfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75568,172289,Active,Naso unicornis,Bluespine,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75582,172300,Active,Naso vlamingii,Bignose unicornfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75604,172320,Active,Paracanthurus hepatus,palette tang,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,412575,623254,Active,Zebrasoma rostratum,Longnose tang,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,75599,172316,Active,Zebrasoma scopas,Brushtail tang,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Acanthuridae,1002992,,Inactive,Zebrasoma velifer,Sailfin Tang,Zebrasoma veliferum,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,73045,168268,Active,Apogon endekataenia,Candystripe cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,451358,642091,Active,Apogon fragilis,Fragile cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,453055,642172,Active,Archamia biguttata,Twinspot cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,73099,168316,Active,Archamia fucata,Orangelined cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,453078,642183,Active,Cercamia cladara,Frail cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,453084,642186,Active,Cheilodipterus artus,Wolf cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,73072,168292,Active,Cheilodipterus macrodon,Tiger cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,73071,168291,Active,Cheilodipterus quinquelineatus,Five-lined cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,747276,-9791790,Active,Ostorhinchus angustatus,Striped cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,750863,-9791185,Active,Ostorhinchus apogonides,Goldbelly cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,752480,-9791511,Active,Ostorhinchus bandanensis,Banda cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,747269,-9791783,Active,Ostorhinchus compressus,Split-banded cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,752412,-9791444,Active,Ostorhinchus cookii,Shortstripe cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,751914,-9791376,Active,Ostorhinchus guamensis,Guam cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,747345,-9791858,Active,Ostorhinchus lateralis,Pinstripe cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,752411,-9791443,Active,Ostorhinchus leslie,Leslie's cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,751927,-9791389,Active,Ostorhinchus nigrofasciatus,Blackstripe Cardinalfish,Apogon nigrofasciatus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,752507,-9791538,Active,Ostorhinchus novemfasciatus,sevenstripe cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,752523,-9791554,Active,Ostorhinchus savayensis,Samoan cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,752508,-9791539,Active,Ostorhinchus taeniophorus,Reef-flat cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,750853,-9791175,Active,Ostorhincus fuscus,Yellow-edged cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,750896,-9791217,Active,Pristiapogon exostigma,Narrowstripe cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,754047,-9791649,Active,Pristiapogon fraenatus,Spurcheek cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,752434,-9791466,Active,Pristiapogon kallopterus,Iridescent cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,750958,-9791279,Active,Pristicon trimaculatus,Threespot cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,450583,642419,Active,Pseudamia amblyuroptera,White-jawed cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,453157,642220,Active,Pseudamia hayashii,Pinstripe cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,73096,168313,Active,Pseudamiops gracilicauda,Longtail cardinalfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Apogonidae,454445,642238,Active,Siphamia fuscolineata,Crown-of-thorns siphonfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77949,171296,Active,Aspidontus dussumieri,Slender sabertooth blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77951,171298,Active,Aspidontus taeniatus,Cleaner mimic,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437417,636284,Active,Blenniella chrysospilos,Redspotted blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437423,636287,Active,Blenniella interrupta,Dashed-line blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437427,636289,Active,Blenniella paula,Blue-dashed rockskipper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437430,636290,Active,Blenniella periophthalmus,"bullethead rockskipper, eyespot blenny",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437442,636296,Active,Cirripectes castaneus,Chestnut blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437466,636307,Active,Cirripectes polyzona,Barred blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437473,636310,Active,Cirripectes springeri,Springer's blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,437475,636311,Active,Cirripectes stigmaticus,Red-streaked Blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,438340,636326,Active,Ecsenius bicolor,Bicolor Blenny,"Ecsenius hawaiiensis, Salarias bicolor",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,438353,636332,Active,Ecsenius fourmanoiri,Fourmanoiri's blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,438374,636342,Active,Ecsenius monoculus,Monocle blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77869,171223,Active,Ecsenius opsifrontalis,Comical blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,438397,636353,Active,Ecsenius portenoyi,Portenoy's blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77026,171189,Active,Entomacrodus thalassinus,Reefmargin rockskipper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77871,171225,Active,Exallias brevis,"Leopard blenny, Shortbodied",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,438441,636374,Active,Glyptoparus delicatulus,Delicate blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77880,171233,Active,Istiblennius bellus,Beautiful rockskipper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77885,171238,Active,Istiblennius edentulus,Rippled rockskipper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,440188,636411,Active,Meiacanthus atrodorsalis,Forktail Blenny,Petroscirtes atrodorsalis,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,441065,636498,Active,Petroscirtes mitratus,Highfin fangblenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,441075,636502,Active,Petroscirtes xestus,Smooth fangblenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,441083,636506,Active,Plagiotremus laudandus,Bicolor Fangblenny,Pescadorichthys laudandus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77855,171210,Active,Plagiotremus tapeinosoma,Piano Fangblenny,"Aspidontus tapeinosoma, Petroscirtes tapeinosoma",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,441797,636515,Active,Praealticus margaritatus,Pearly rockskipper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77933,171281,Active,Salarias alboguttatus,White-spotted blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,77936,171284,Active,Salarias fasciatus,Jewelled blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Blenniidae,441831,636531,Active,Salarias guttatus,Fine-spotted blenny,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Caesionidae,258429,550958,Active,Caesio caerulaurea,Blue and Gold Fusilier,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Caesionidae,258438,550962,Active,Caesio teres,Blue and yellow fusilier,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Caesionidae,258450,550968,Active,Pterocaesio chrysozona,"blacktipped fusilier, goldband fusilier",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Caesionidae,258457,550971,Active,Pterocaesio marri,Twinstripe fusilier,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Caesionidae,78105,168963,Active,Pterocaesio tile,Dark-banded Fusilier,"Caesio cylindricus, Caesio tile",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Caesionidae,259289,550975,Active,Pterocaesio trilineata,Threestripe fusilier,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Callionymidae,456489,642719,Active,Callionymus simplicicornis,Simple-spined dragonet,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Callionymidae,459024,642801,Active,Diplogrammus goramensis,Goram dragonet,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Callionymidae,453927,642558,Active,Synchiropus ocellatus,Ocellated dragonet,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,75988,168625,Active,Atule mate,yellowtail scad,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,77074,168759,Active,Carangoides orthogrammus,Yellow-spotted trevally,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,75980,168618,Active,Caranx ignobilis,Giant trevally,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,75975,168613,Active,Caranx lugubris,black jack,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,75981,168619,Active,Caranx melampygus,Bluefin Trevally,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,76025,168659,Active,Caranx papuensis,Brassy trevally,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,75983,168620,Active,Caranx sexfasciatus,"bigeye trevally, great trevally",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,76098,168724,Active,Decapterus macarellus,Mackerel scad,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,754061,-9791663,Active,Elegatis bipinnulata,Rainbow runner,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,77068,168753,Active,Gnathanodon speciosus,"golden trevally, yellow jack",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,77078,168762,Active,Megalaspis cordyla,torpedo scad,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,449950,641950,Active,Scomberoides lysan,Double-spotted queenfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,76045,168677,Active,Selar crumenophthalmus,bigeye scad,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,76061,168691,Active,Seriola rivoliana,Almaco scad,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,750907,-9791228,Active,Serola dumerili,,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,450474,642000,Active,Trachinotus baillonii,Small-spotted dart,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Carangidae,76089,168716,Active,Trachinotus blochii,stubnose pompano,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75333,169564,Active,Chaetodon auriga,Threadfin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75360,169589,Active,Chaetodon bennetti,Bluelashed Butteryfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75335,169566,Active,Chaetodon citrinellus,Speckled,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75336,169567,Active,Chaetodon ephippium,Saddleback,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75340,169570,Active,Chaetodon lineolatus,lined butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75341,169571,Active,Chaetodon lunula,Raccoon Butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,387318,610317,Active,Chaetodon lunulatus,Oval,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75359,169588,Active,Chaetodon melannotus,Black-backed butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75357,169586,Active,Chaetodon mertensii,Atoll Butteryflyfish,Chaetodon dixoni,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75351,169580,Active,Chaetodon ornatissimus,Ornate,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75358,169587,Active,Chaetodon pelewensis,Dot & dash butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75344,169574,Active,Chaetodon quadrimaculatus,fourspot butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,386400,610601,Active,Chaetodon rafflesii,latticed butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75345,169575,Active,Chaetodon reticulatus,Reticulated,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,386089,610261,Active,Chaetodon semeion,Dotted butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75381,169607,Active,Chaetodon trifascialis,Chevroned butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,383037,610390,Active,Chaetodon ulietensis,Pacific Double-saddle Butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75348,169578,Active,Chaetodon unimaculatus,Teardrop,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75362,169590,Active,Chaetodon vagabundus,Vagabond butterflyfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76381,169663,Active,Forcipiger flavissimus,"Big longnose butterflyfish, Forcepsfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76380,169662,Active,Forcipiger longirostris,Longnose,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76375,169658,Active,Hemitaurichthys polylepis,Pyramid,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76376,169659,Active,Hemitaurichthys thompsoni,Thompson's butterflyfish,,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76369,169652,Active,Heniochus acuminatus,Longfin bannerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,75427,169649,Active,Heniochus chrysostomus,Threeband Pennantfish,"Chaetodon teatae, Heniochus drepanoides",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76372,169655,Active,Heniochus monoceros,Masked Bannerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76371,169654,Active,Heniochus singularius,Singular Bannerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Chaetodontidae,76370,169653,Active,Heniochus varius,Horned Bannerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Cirrhitidae,460366,645472,Active,Cirrhitichthys falco,Dwarf Hawkfish,Cirrhitichthys serratus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Cirrhitidae,80098,170235,Active,Cirrhitus pinnulatus,Marbled hawkfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Cirrhitidae,80102,170239,Active,Neocirrhites armatus,flame hawkfish,,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Cirrhitidae,80090,170228,Active,Paracirrhites arcatus,Arc-eye,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Cirrhitidae,80089,170227,Active,Paracirrhites forsteri,Blackside,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Cirrhitidae,80093,170230,Active,Paracirrhites hemistictus,Halfspotted hawkfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Eleotridae,267102,553314,Active,Eleotris fusca,"brown sleeper, l'a moi",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Ephippidae,75309,169542,Active,Platax orbicularis,Circular spadefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Ephippidae,412483,623210,Active,Platax teira,,,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gerreidae,457436,645699,Active,Gerres erythrourus,Deep-bodied silver biddy,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gerreidae,79390,169033,Active,Gerres oblongus,Oblong silver biddy,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gerreidae,79402,169044,Active,Gerres oyena,Blacktip silver biddy,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442554,636920,Active,Amblyeleotris ellipse,Ellipse shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442556,636921,Active,Amblyeleotris fasciata,Gorgeous shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442560,636923,Active,Amblyeleotris guttata,Spotted Prawn-goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442568,636927,Active,Amblyeleotris katherine,Katherine's shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442585,636935,Active,Amblyeleotris periophthalma,Broad-banded shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442593,636939,Active,Amblyeleotris steinitzi,Steinitz' shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442617,636950,Active,Amblygobius nocturnus,Nocturn goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,83690,172002,Active,Amblygobius phalaena,Banded goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,441757,636872,Active,Asterropteryx semipunctata,Starry goby,,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,443227,636976,Active,Asterropteryx striata,Striped goby,Asterropteryx striatus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,438797,637069,Active,Bryaninops natans,Redeye hovering goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,748121,-9791918,Active,Coryphopterus duospilus,Twospot goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,750103,-9791140,Active,Coryphopterus inframaculatus,Blotched goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,154719,-501125,Active,Coryphopterus neophytus,Neophyte goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440571,637185,Active,Cryptocentrus leptocephalus,Pink-spotted shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440573,637186,Active,Cryptocentrus leucostictus,Saddled shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440600,637199,Active,Cryptocentrus strigilliceps,Target shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440608,637202,Active,Ctenogobiops aurocingulus,Gold-streaked shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,183774,-515457,Active,Ctenogobiops crocineus,Silverspot shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440610,637203,Active,Ctenogobiops feroculus,Sand shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440616,637206,Active,Ctenogobiops pomastictus,Gold-speckled shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440618,637207,Active,Ctenogobiops tangaroai,Tangaroa shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,441357,637294,Active,Eviota albolineata,Redspotted pygmygoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442344,637300,Active,Eviota distigma,Twospot pygmygoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442348,637302,Active,Eviota guttata,Spotted pygmygoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442369,637312,Active,Eviota melasma,Melasma pygmygoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442388,637321,Active,Eviota prasites,Red & white pygmygoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442392,637323,Active,Eviota punctulata,Dotted pygmygoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442402,637328,Active,Eviota sebreei,Striped pygmygoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,442423,637338,Active,Exyrias belissimus,Beautiful goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,262025,553412,Active,Exyrias puntang,Puntang Goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,82157,171829,Active,Gnatholepis anjerensis,Eyebar goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,439827,636748,Active,Gnatholepis cauerensis,Eyebar goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,83676,171991,Active,Gobiodon citrinus,Poison coralgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,83675,171990,Active,Gobiodon rivulatus,"orangespotted goby, rippled coralgoby",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,439936,637525,Active,Istigobius decoratus,Decorated Goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,439829,636749,Active,Istigobius ornatus,Ornate goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,439951,637532,Active,Istigobius rigilius,Orangespotted goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,440898,637586,Active,Lotilia graciliosa,Whitecap shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,441375,637614,Active,Macrodontogobius wilburi,Largetooth goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,83715,172025,Active,Oplopomus oplopomus,spinecheek goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,83688,172000,Active,Paragobiodon echinocephalus,Redhead coralgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,267161,553342,Active,Periophthalmus argentilineatus,Silverlined mudskipper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,267163,553343,Active,Periophthalmus kalolo,common mudskipper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,444282,637872,Active,Pleurosicya muscarum,maybe P. mossambica,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,445012,637889,Active,Priolepis cinctus,Lemon coralgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,441181,638014,Active,Sicyopterus caeruleus,,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,268167,553358,Active,Stiphodon elegans,green riffle goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,443803,638137,Active,Tomiyamichthys oni,Monster shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,443826,638148,Active,Trimma benjamini,Ringeye dwarfgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,443831,638150,Active,Trimma caesiura,Caesiura dwarfgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,443862,638165,Active,Trimma macrophthalma,Bigeye dwarfgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,444785,638207,Active,Valenciennea parva,Parva goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,444789,638209,Active,Valenciennea puellaris,Maiden goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,441778,636882,Active,Valenciennea sexguttata,Sixspot goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,444794,638211,Active,Valenciennea strigata,Blueband Goby,"Eleotriodes strigatus, Gobius strigatus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,444817,638222,Active,Vanderhorstia ornatissima,Ornate shrimpgoby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Gobiidae,444840,638233,Active,Yongeichthys nebulosus,Shadow goby,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Haemulidae,426270,630202,Active,Plectorhinchus picus,Dotted sweetlips,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Haemulidae,426276,630205,Active,Plectorhinchus vittatus,Oriental sweetlips,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Kuhliidae,268184,553366,Active,Kuhlia marginata,Dark-margined flagtail,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Kuhliidae,460299,645440,Active,Kuhlia mugil,barred flagtail,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Kuhliidae,71235,168086,Active,Kuhlia rupestris,"jungle perch, flagtail",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Kuhliidae,268186,553367,Active,Kuhlia salelea,"flagtail, sesele",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Kyphosidae,74466,169507,Active,Kyphosus cinerascens,highfin chub,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Kyphosidae,74468,169509,Active,Kyphosus vaigiensis,Lowfin drummer,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82918,170603,Active,Anampses caeruleopunctatus,Blue-spotted wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82917,170602,Active,Anampses chrysocephalus,,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82922,170607,Active,Anampses melanurus,"White-spotted Wrasse, Blacktail Wrasse",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82920,170605,Active,Anampses meleagrides,spotted wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82928,170612,Active,Anampses twistii,Yellowbreated Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,390253,613292,Active,Bodianus anthioides,Lyretail hogfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82126,170493,Active,Bodianus axillaris,Axilspot Hogfish,Lepidaplois axillaris,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,390331,613329,Active,Bodianus loxozonus,Blackfin hogfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,390267,613299,Active,Bodianus mesothorax,Blackbelt hogfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,392924,613239,Active,Cheilinus chlorourus,Floral Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83742,170621,Active,Cheilinus fasciatus,Redbreast Wrasse,Sparus fasciatus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83745,170624,Active,Cheilinus oxycephalus,Snooty wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83743,170622,Active,Cheilinus trilobatus,Tripletail Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83739,170619,Active,Cheilinus undulatus,Humphead wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83736,170616,Active,Cheilio inermis,Cigar Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,393231,613518,Active,Cirrhilabrus punctatus,Dotted fairy wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,393250,613527,Active,Cirrhilabrus scottorum,Scott's fairy wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,73641,170675,Active,Coris aygula,"Dapple Coris, Clown Wrasse",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,73637,170671,Active,Coris gaimard,Yellowtail Coris,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,395241,613614,Active,Cymolutes praetextatus,Knife razorfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83772,170649,Active,Epibulus insidiator,Sling-jaw Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83776,170652,Active,Gomphosus varius,Bird,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,395369,613675,Active,Halichoeres biocellatus,"Biocellate Wrasse, False-eyed Wrasse, Red-lined Wrasse, Two-spotted Wrasse",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82840,170533,Active,Halichoeres hortulanus,Checkerboard Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82820,170515,Active,Halichoeres margaritaceus,"Pearl-spotted Wrasse, Pearly Wrasse, Pink-belly Wrasse, Reef-flat Wrasse, Weedy Surge Wrasse",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82830,170524,Active,Halichoeres marginatus,Dusky Wrasse,"Halichoeres virescens, Julis notopsis",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82831,170525,Active,Halichoeres melanurus,Tail-spot Wrasse,"Julis melanurus, Platyglossus melanurus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,389523,613758,Active,Halichoeres melasmapomus,ocellated wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82817,170512,Active,Halichoeres ornatissimus,Ornate,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,390042,613806,Active,Halichoeres prosopeion,Twotone wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82819,170514,Active,Halichoeres trimaculatus,Three-spot Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,73653,170686,Active,Hemigymnus fasciatus,Barred Thicklip Wrasse,Halichoeres fasciatus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,73654,170687,Active,Hemigymnus melapterus,Blackeye Thicklip,"Halichoeres melapterus, Labrus melapterus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,391300,613876,Active,Hologymnosus doliatus,Pastel ring wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,461715,647797,Active,Iniistius aneitensis,Whitepatch razorfish,,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,461719,647799,Active,Iniistius baldwini,Baldwin's razorfish,,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,461725,647801,Active,Iniistius celebicus,Celebes razorfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,74277,170765,Active,Iniistius pavo,"peacock razorfish, peacock wrasse",,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,391321,613886,Active,Labrichthys unilineatus,Tubelip Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83782,170658,Active,Labroides bicolor,Bicolor Cleaner Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83781,170657,Active,Labroides dimidiatus,Bluestreak Cleaner Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,391898,613896,Active,Labroides rubrolabiatus,Redlip cleaner wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,391902,613898,Active,Labropsis australis,Southern tubelip,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,391912,613902,Active,Labropsis xanthonota,Yellowback Tubelip,Labrichthys xanthonota,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83788,170663,Active,Macropharyngodon meleagris,Blackspotted Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,392520,613993,Active,Macropharyngodon negrosensis,Black wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,73676,170706,Active,Novaculichthys taeniourus,Rockmover,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,393763,614055,Active,Oxycheilinus arenatus,Arenatus wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,393786,614066,Active,Oxycheilinus digramma,"Bandcheek, Cheeklined",Oxycheilinus digrammus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,393809,614077,Active,Oxycheilinus orientalis,Slender wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,393813,614079,Active,Oxycheilinus rhodochrous,Oriental wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,393816,614080,Active,Oxycheilinus unifasciatus,Ringtail,"Cheilinus unifasciatus, Cheilinus rhodochrous",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83750,170629,Active,Pseudocheilinus evanidus,Disappearing,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83754,170632,Active,Pseudocheilinus hexataenia,Sixline Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83752,170630,Active,Pseudocheilinus octotaenia,Eightstripe wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83753,170631,Active,Pseudocheilinus tetrataenia,Fourstripe wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,395027,614127,Active,Pseudocoris yamashiroi,Redspot wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,395672,614880,Active,Pseudodax moluccanus,Chiseltooth wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,390466,614173,Active,Pteragogus cryptus,Cryptic Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83758,170636,Active,Stethojulis bandanensis,Red Shoulder Wrasse,"Julis bandanensis, Stethojulis casturi",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83767,170644,Active,Stethojulis strigiventer,"Three-line Wrasse, Three-ribbon Wrasse","Julis renardi, Julis strigiventer",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83760,170638,Active,Stethojulis trilineata,Fourline wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82898,170586,Active,Thalassoma amblycephalum,Bluntheaded Wrasse,"Julis melanochir, Pseudojulis trifasciatus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82896,170584,Active,Thalassoma hardwicke,Sixbar Wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82886,170575,Active,Thalassoma lutescens,Yellow-brown Wrasse,Julis lutescens,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,462357,647838,Active,Thalassoma nigrofasciatum,Blackbar wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82892,170580,Active,Thalassoma purpureum,Surge,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82894,170582,Active,Thalassoma quinquevittatum,Fivestripe,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,82908,170595,Active,Thalassoma trilobatum,Christmas,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,83769,170646,Active,Wetmorella albofasciata,"Whitebanded pygmy wrasse, Whitebanded sharpnose",,Probably Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Labridae,395949,614467,Active,Wetmorella nigropinnata,Sharpnose wrasse,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,80204,169164,Active,Gnathodentex aureolineatus,Striped Large-eye Bream,"Dentex lycogenis, Sparus aureolineatus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,257753,550897,Active,Gymnocranius grandoculis,Blueline large-eye bream,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,257767,550903,Active,Lethrinus erythracanthus,Yellowfin emporer,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,80170,169133,Active,Lethrinus harak,"blackspot emperor, thumbprint emperor",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,257775,550907,Active,Lethrinus obsoletus,One-striped Emperor,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,80196,169157,Active,Lethrinus rubrioperculatus,Spotcheek emporer,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,80193,169154,Active,Lethrinus xanthochilus,Yellowlip emporer,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,752413,-9791445,Active,Letrinus atkinsoni,Yellowtail emporer,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lethrinidae,80211,169170,Active,Monotaxis grandoculis,Bigeye Emperor,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,454172,643071,Active,Aphareus furca,Smalltooth Jobfish,Aphareus furcatus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,78067,168929,Active,Aphareus rutilans,Rusty jobfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,78064,168926,Active,Aprion virescens,Green Jobfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,77999,168868,Active,Lutjanus argentimaculatus,"mangrove jack, mangrove red snapper, river snapper",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,77996,168865,Active,Lutjanus bohar,Red snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,258360,550925,Active,Lutjanus boutton,Button snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,258368,550929,Active,Lutjanus ehrenbergii,blackspot snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,77994,168863,Active,Lutjanus fulvus,Blacktail,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,77997,168866,Active,Lutjanus gibbus,Humpback snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,77993,168862,Active,Lutjanus kasmira,Bluestripe,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,77995,168864,Active,Lutjanus monostigma,Onespot Snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,258400,550944,Active,Lutjanus timorensis,Timor snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,258404,550946,Active,Macolor macularis,Midnight Snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,78107,168965,Active,Macolor niger,Black snapper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Lutjanidae,454191,643080,Active,Paracaesio xanthura,Yellowtail false fusilier,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Malacanthidae,458249,645755,Active,Hoplolatilus starcki,,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Malacanthidae,75099,168549,Active,Malacanthus brevirostris,Quakerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Malacanthidae,75101,168550,Active,Malacanthus latovittatus,Blue Blanquillo,"Labrus latovittatus, Oceanops latovittatus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Microdesmidae,74495,172167,Active,Gunnellichthys pleurotaenia,Onestripe wormfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Microdesmidae,442134,637710,Active,Nemateleotris magnifica,Fire Dartfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Microdesmidae,440299,637926,Active,Ptereleotris evides,Blackfin Dartfish,"Encaeura evides, Ptereleotris dispersus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Microdesmidae,440303,637928,Active,Ptereleotris hanae,Threadfin dartfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Microdesmidae,83637,171956,Active,Ptereleotris heteroptera,"Indigo Dartfish, Indigo Hover Goby",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Microdesmidae,83635,171954,Active,Ptereleotris microlepis,Pearly dartfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Microdesmidae,440316,637934,Active,Ptereleotris zebra,Zebra dartfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Monodactylidae,74421,169467,Active,Monodactylus argenteus,Diamondfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,74357,169409,Active,Mulloidichthys flavolineatus,"Yellowstripe, Samoan Goatfish","Mulloides flavolineatus, Mulloides samoensis",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,74360,169411,Active,Mulloidichthys vanicolensis,Yellowfin,Mulloides vanicolensis,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,405526,620946,Active,Parupeneus barberinoides,bicolor goatfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,74414,169460,Active,Parupeneus barberinus,"Dash-dot Goatfish, Dash-and-dot Goatfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,410354,620937,Active,Parupeneus ciliatus,Whitelined goatfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,446932,638790,Active,Parupeneus crassilabris,Doublebar goatfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,74409,169456,Active,Parupeneus cyclostomus,Blue Goatfish,"Pseudupeneus cyclostomus, Parupeneus chryserydros",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,404953,620938,Active,Parupeneus heptacanthus,redspot goatfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,405514,620940,Active,Parupeneus indicus,Indian goatfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Mullidae,74406,169453,Active,Parupeneus multifasciatus,Manybar,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Nemipteridae,462477,647895,Active,Scolopsis lineata,Striped monocle bream,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Nemipteridae,463184,647900,Active,Scolopsis trilineata,Three-striped monocle bream,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pempheridae,461177,645893,Active,Parapriacanthus ransonneti,Golden sweeper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pempheridae,74428,169473,Active,Pempheris oualensis,Copper Sweeper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pempheridae,460395,645486,Active,Pempheris schwenkii,Silver sweeper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pempheridae,74437,169481,Active,Pempheris vanicolensis,Vanikoro sweeper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pinguipedidae,76102,170960,Active,Parapercis clathrata,Latticed Sandperch,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pinguipedidae,674329,-746512,Active,Parapercis millipunctata,Spotted sandperch,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Plesiopidae,461938,645924,Active,Plesiops nigricans,Whitespotted longfin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,752410,-9791442,Active,Amblygyphidodon ternatensis,Ternate damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,76387,169669,Active,Apolemichthys trimaculatus,Three-spot angelfish,Holacanthus trimaculatus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,75393,169618,Active,Centropyge bicolor,Bicolor angelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,463651,646765,Active,Centropyge bispinosa,Two-spined angelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,463655,646767,Active,Centropyge flavissima,Lemonpeel Angelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,75391,169616,Active,Centropyge heraldi,Yellow pygmy angelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,463657,646768,Active,Centropyge loricula,Flame angelfish,Centropyge loriculus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,75412,169635,Active,Pomacanthus imperator,Emporer Angelfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacanthidae,76385,169667,Active,Pygoplites diacanthus,"Regal Angelfish, Royal Angelfish","Chaetodon diacanthus, Holacanthus diacanthus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79090,170051,Active,Abudefduf septemfasciatus,Banded sergeant,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79089,170050,Active,Abudefduf sexfasciatus,Scissortail Sergeant,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79087,170049,Active,Abudefduf sordidus,"blackspot sergeant, blackspot sergeant major, kupipi, spot pom",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,397800,615032,Active,Abudefduf vaigiensis,Indo-Pacific sergeant,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,394109,615154,Active,Amblyglyphidodon flavilatus,Yellowfin damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,461665,647773,Active,Amblyglyphidodon orbicularis,Orbicular damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79993,170140,Active,Amphiprion akallopisos,"nosestripe anemonefish, skunk clownfish, skunk-stripe anemonefish, whitebacked clownfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,750825,-9791147,Active,Amphiprion bartbadensis,Fiji damselfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,395139,615181,Active,Amphiprion chrysopterus,Orangefin Anemonefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79990,170138,Active,Amphiprion melanopus,Dusky clownfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79129,170087,Active,Chromis acares,Midget Chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79130,170088,Active,Chromis agilis,Agile,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,396483,615225,Active,Chromis alpha,"Yellow-speckled Chromis, Alpha Chromis, Yellow-spotted Puller",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,396487,615227,Active,Chromis amboinensis,Ambon chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79148,170103,Active,Chromis atripectoralis,Black-axil chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,396523,615244,Active,Chromis fumea,Smoky chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,396590,615276,Active,Chromis iomelas,Half-and-half chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,396620,615290,Active,Chromis margaritifer,Bicolor Chromis,Chromis dimidiatus margaritifer,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79159,170113,Active,Chromis ternatensis,"golden chromis, Ternate chromis",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79137,170094,Active,Chromis vanderbilti,"Vanderbilt's chromis, Blackfin",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,396502,615234,Active,Chromis viridis,Blue-green chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392937,613245,Active,Chromis weberi,Weber's chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,397531,615327,Active,Chromis xanthura,Paletail Chromis,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,393058,615572,Active,Chrysiptera biocellata,Twospot demoiselle,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,393054,615570,Active,Chrysiptera brownriggii,Surge Damselfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,397791,615028,Active,Chrysiptera caeruleolineata,Blueline damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,80055,170197,Active,Chrysiptera cyanea,"blue devil, cornflower sargeantmajor, sapphire devil",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392903,613229,Active,Chrysiptera glauca,Grey demoiselle,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,394023,615113,Active,Chrysiptera taupou,South seas devil,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,393136,615609,Active,Chrysiptera tricincta,Threeband demoiselle,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392639,615050,Active,Chrysiptera unimaculata,Onespot demoiselle,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79170,170123,Active,Dascyllus aruanus,"banded humbug, black and white damselfish, black-and-white damselfish, humbug damselfish, threestripe damselfish, whitetail dascyllus",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79172,170125,Active,Dascyllus reticulatus,"gray humbug, reticulate dascyllus, twostriped damselfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79171,170124,Active,Dascyllus trimaculatus,Three-spot Damselfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392820,615525,Active,Lepidozygus tapeinosoma,fusilier damselfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392689,615074,Active,Neopomacentrus metallicus,Metallic damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392893,613224,Active,Plectroglyphidodon dickii,Blackbar damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79176,170129,Active,Plectroglyphidodon imparipennis,Brighteye damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79179,170131,Active,Plectroglyphidodon johnstonianus,Blue-eye,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392895,613225,Active,Plectroglyphidodon lacrymatus,Whitespotted Devil,"Abudefduf lacrymatus, Glyphisodon lacrymatus",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,392897,613226,Active,Plectroglyphidodon leucozonus,Whiteband damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,79180,170132,Active,Plectroglyphidodon phoenixensis,Phoenix damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,398459,615372,Active,Pomacentrus brachialis,Charcoal Damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,398478,615381,Active,Pomacentrus coelestis,Neon damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,80023,170168,Active,Pomacentrus pavo,"Blue Damsel, Sapphire Damsel, Peacock Damsel",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,399246,615482,Active,Pomacentrus philippinus,Phillipine damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,80033,170177,Active,Pomacentrus vaiuli,Princess Damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,393996,615100,Active,Pomachromis richardsoni,Richardson's reef-damsel,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,397550,615336,Active,Stegastes albifasciatus,Whitebar gregory,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,80049,170191,Active,Stegastes fasciolatus,"South Pacific Gregory, Pacific Gregory",Pomacentrus jenkinsi,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,394019,615111,Active,Stegastes nigricans,Dusky gregory,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pomacentridae,753967,-9791570,Active,Stegastes punctatus,Bluntsnout gregory,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Priacanthidae,72279,168181,Active,Heteropriacanthus cruentatus,Bloody bigeye,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Priacanthidae,72283,168185,Active,Priacanthus hamrur,Moontail Bullseye,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Priacanthidae,461995,645951,Active,Pristigenys meyeri,,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pseudochromidae,459725,645798,Active,Lubbockichthys multisquamatus,Fine-scaled dottyback,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pseudochromidae,754089,-9791691,Active,Pictichromis porphyreus,Magenta dottyback,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Pseudochromidae,462058,645981,Active,Pseudochromis jamesi,Spot-tailed dottyback,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75213,170884,Active,Bolbometopon muricatum,humphead parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75203,170875,Active,Calotomus carolinus,Stareye,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,752456,-9791488,Active,Cetoscarus ocellatus,Bicolor parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,397620,614600,Active,Chlorurus frontalis,Tan-faced parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,392912,613233,Active,Chlorurus japanensis,Redtail parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,392332,614614,Active,Chlorurus microrhinos,Steephead Parrotfish,"Callyodon microrhinus, Pseudoscarus microrhinos",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,392916,613235,Active,Chlorurus sordidus,Bullethead,Scarus sordidus,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,392414,614653,Active,Hipposcarus longiceps,Pacific Longnose Parrotfish,Scarus longiceps,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,392450,614670,Active,Scarus altipinnis,Filament-fin parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,74354,170834,Active,Scarus dimidiatus,Yellow-barred parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,394740,615710,Active,Scarus festivus,Festive parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,394746,615713,Active,Scarus forsteni,"Bluepatch Parrotfish, Forsten's Parrotfish","Callyodon forsteni, Pseudoscarus forsteni",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75170,170845,Active,Scarus frenatus,Bridled parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75171,170846,Active,Scarus ghobban,Blue-barred parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,74355,170835,Active,Scarus globiceps,"Violet-lined Parrotfish, Globeheaded",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75177,170851,Active,Scarus niger,Swarthy parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,74346,170827,Active,Scarus oviceps,"Egghead parrotfish, Dark-capped",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75181,170855,Active,Scarus psittacus,Palenose,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75209,170880,Active,Scarus rubroviolaceus,Redlip parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,74348,170829,Active,Scarus schlegeli,Yellowband Parrotfish,Pseudoscarus schlegeli,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75167,170842,Active,Scarus spinus,Greensnout parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Scaridae,75168,170843,Active,Scarus tricolor,Tricolor parrotfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,70412,167949,Active,Anyperodon leucogrammicus,slender grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,455205,643166,Active,Belonoperca chabanaudi,Arrowhead soapfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,75454,167752,Active,Cephalopholis argus,Blue-spotted,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,259396,551025,Active,Cephalopholis leopardus,Leopard grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74752,167723,Active,Cephalopholis sonnerati,Tomato grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,259411,551032,Active,Cephalopholis spiloparaea,Strawberry grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,75457,167755,Active,Cephalopholis urodeta,Darkfin Hind,"Epinephelus playfairi, Perca urodeta",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74736,167709,Active,Epinephelus fasciatus,Blacktip grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74739,167711,Active,Epinephelus fuscoguttatus,"black rockcod, brown-marbled grouper",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74740,167712,Active,Epinephelus hexagonatus,Hexagon grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,260306,551066,Active,Epinephelus howlandi,blacksaddle grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,260312,551069,Active,Epinephelus lanceolatus,Giant grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74749,167720,Active,Epinephelus maculatus,highfin grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,260329,551077,Active,Epinephelus melanostigma,Blackspot grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74738,167710,Active,Epinephelus merra,Honeycomb Grouper,"Cephalopholis merra, Serranus merra",Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,260348,551086,Active,Epinephelus polyphekadion,"comouflage grouper, small toothed rockcod",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74741,167713,Active,Epinephelus spilotoceps,foursaddle grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,74735,167708,Active,Epinephelus tauvina,Greasy Grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,260379,551100,Active,Epinephelus timorensis,yellowspotted gouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,70404,167941,Active,Gracila albomarginata,"masked grouper, thinspine grouper, white-margined grouper",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,71148,168007,Active,Grammistes sexlineatus,six-lined soapfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,451734,643309,Active,Liopropoma susumi,Striped basslet,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,261096,551114,Active,Plectropomus areolatus,Squaretail coral grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,261098,551115,Active,Plectropomus laevis,Blacksaddle coral grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,70395,167933,Active,Plectropomus leopardus,Leopard coral grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,452490,643339,Active,Pogonoperca punctata,Spotted soapfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,455251,643188,Active,Pseudanthias pascalus,Purple queen,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,452558,643371,Active,Pseudanthias pleurotaenia,Squarespot anthias,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,261109,551120,Active,Variola albimarginata,Lyre-tail grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,750040,-9791078,Active,Variola albomarginata,Lyre-tail grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Serranidae,76579,167920,Active,Variola louti,Coronation grouper,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Siganidae,75617,172332,Active,Siganus argenteus,"Forktail Rabbitfish, Streamlined Spinefoot",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Siganidae,75626,172340,Active,Siganus fuscescens,Dusky rabbitfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Siganidae,75629,172343,Active,Siganus lineatus,Lined rabbitfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Siganidae,75616,172331,Active,Siganus spinus,Scribbled Rabbitfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Siganidae,75619,172334,Active,Siganus vermiculatus,"reticulated spinefoot, vermiculate rabbitfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Sphyraenidae,468626,650251,Active,Sphyraena barracuda,great barracuda,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Sphyraenidae,82061,170434,Active,Sphyraena forsteri,Bigeye barracuda,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Sphyraenidae,82058,170431,Active,Sphyraena helleri,Brass striped barracuda,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Sphyraenidae,463609,646745,Active,Sphyraena qenie,Blackmargin barracuda,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Terapontidae,71176,168032,Active,Terapon jarbua,Crescent-banded grunter,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Tripterygiidae,442234,638474,Active,Enneapterygius rhabdotus,Umpire triplefin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Tripterygiidae,442247,638480,Active,Enneapterygius triserialis,White-spotted triplefin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Tripterygiidae,442251,638482,Active,Enneapterygius tutuilae,Highhat triplefin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Tripterygiidae,442327,638518,Active,Helcogramma hudsoni,Hudson's triplefin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Tripterygiidae,444024,638598,Active,Norfolkia thomasi,Thomas' triplefin,,Present
+NPSA,National Park of American Samoa,Fish,5,Perciformes,Zanclidae,75594,172311,Active,Zanclus cornutus,Moorish Idol,Zanclus canescens,Present
+NPSA,National Park of American Samoa,Fish,5,Pleuronectiformes,Bothidae,393558,616026,Active,Asterorhombus intermedius,intermediate flounder,,Present
+NPSA,National Park of American Samoa,Fish,5,Pleuronectiformes,Bothidae,78239,172763,Active,Bothus mancus,Flowery flounder,,Present
+NPSA,National Park of American Samoa,Fish,5,Pleuronectiformes,Bothidae,78240,172764,Active,Bothus pantherinus,"leopard flounder, panther flounder",,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Caracanthidae,454355,643812,Active,Caracanthus typicus,spotted croucher,Caracanthus maculatus,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Caracanthidae,454357,643813,Active,Caracanthus unipinna,Pygmy coral croucher,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,69007,166894,Active,Dendrochirus zebra,Zebra lionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,68998,166886,Active,Pterois antennata,Broadbarred Firefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,68999,166887,Active,Pterois radiata,Clearfin Lionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,68325,166883,Active,Pterois volitans,Common lionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,454992,644534,Active,Scorpaenodes guamensis,Guam scorpionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,68306,166866,Active,Scorpaenodes hirsutus,Hairy scorpionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,68309,166869,Active,Scorpaenodes parvipinnis,Shortfin scorpionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,68316,166875,Active,Scorpaenopsis diabolus,Devil scorpionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,455032,644553,Active,Scorpaenopsis macrochir,Flasher scorpionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,455055,644564,Active,Scorpaenopsis venosa,Raggy Scorpionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Scorpaeniformes,Scorpaenidae,455063,644568,Active,Sebastapistes fowleri,Fowler's scorpionfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81558,173218,Active,Balistapus undulatus,Orange-lined Triggerfish,"Balistes aculeatus, Balistes lineatus, Balistes undulatus",Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81566,173225,Active,Balistoides conspicillum,Clown triggerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81565,173224,Active,Balistoides viridescens,Titan Triggerfish,Pseudobalistes viridescens,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,459242,646452,Active,Canthidermis maculatus,,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81509,173174,Active,Melichthys niger,"black durgon, Black Durgon, black triggerfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81510,173175,Active,Melichthys vidua,Pinktail Durgon,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81563,173222,Active,Odonus niger,Redtoothed Triggerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81540,173201,Active,Pseudobalistes flavimarginatus,Yellowmargin triggerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81536,173199,Active,Pseudobalistes fuscus,bluestriped triggerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81542,173203,Active,Rhinecanthus aculeatus,Picasso Triggerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,461409,646175,Active,Rhinecanthus lunula,Halfmoon triggerfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81545,173206,Active,Rhinecanthus rectangulus,"Reef, Rectangle, Wedge-tail",,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81550,173210,Active,Sufflamen bursa,"Scythe triggerfish, Lei",,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81555,173215,Active,Sufflamen chrysopterum,"Flagtail triggerfish, Halfmoon triggerfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Balistidae,81524,173188,Active,Xanthichthys auromarginatus,Gilded Trigger,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Diodontidae,83222,173391,Active,Diodon hystrix,Porcupine,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Diodontidae,396886,615871,Active,Diodon liturosus,Black-blotched porcupinefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Monacanthidae,81465,173134,Active,Aluterus scriptus,"scrawled filefish, Scrawled Filefish, unicornfish",,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Monacanthidae,81568,173227,Active,Amanses scopas,Broom Filefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Monacanthidae,460668,646153,Active,Cantherhines dumerilii,"Yelloweye filefish, Barred",,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Monacanthidae,81574,173232,Active,Oxymonacanthus longirostris,Longnose filefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Monacanthidae,462645,646234,Active,Pervagor janthinosoma,Blackbar Filefish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Ostraciidae,396877,615867,Active,Lactoria cornuta,Longhorn cowfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Ostraciidae,82266,173253,Active,Ostracion cubicus,Yellow boxfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Ostraciidae,82265,173252,Active,Ostracion meleagris,Spotted,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82328,173309,Active,Arothron hispidus,White-spotted puffer,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,462706,646263,Active,Arothron mappa,Map puffer,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82331,173311,Active,Arothron meleagris,"guineafowl puffer, Guineafowl Puffer, 'opu hue",,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82336,173316,Active,Arothron nigropunctatus,Black Spotted Pufferfish,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82337,173317,Active,Arothron stellatus,Star puffer,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82342,173321,Active,Canthigaster amboinensis,Ambon toby,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82350,173329,Active,Canthigaster bennetti,Whitebelly toby,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82355,173333,Active,Canthigaster janthinoptera,honeycomb toby,,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82349,173328,Active,Canthigaster solandri,Spotted Sharpnose,Tetrodon solandri,Present
+NPSA,National Park of American Samoa,Fish,5,Tetraodontiformes,Tetraodontidae,82360,173338,Active,Canthigaster valentini,Black-saddled toby,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,752470,-9791501,Inactive,Chamaesyce chamissonis,,Chamaesyce atoto,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,754962,-9791744,Active,Phymatosaurus commutatus,,Microsorium sylvaticum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,670589,-743823,Active,Planchonella garberi,ala'a,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,670591,-743824,Active,Planchonella grayana,,"Planchonella costata, Planchonella linggenensis",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,670593,-743825,Active,Planchonella samoensis,mamalupe,Planchonella torricellensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,748130,-9791927,Active,Pneumatopteris bryanii,,Pneumatopteris magnifica,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,754060,-9791662,Active,Pneumatopteris costata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,,670601,-743829,Active,Pneumatopteris glandulifera,understory fern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Flacourtiaceae,752409,-9791441,Active,Erythrospermum acuminatissimum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Grammitidaceae,750939,-9791260,Active,Calymmodon latealatus,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Grammitidaceae,160649,-504270,Active,Ctenopteris blechnoides,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Grammitidaceae,160651,-504271,Active,Ctenopteris contigua,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Grammitidaceae,666447,-743354,Active,Ctenopteris seemannii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Grammitidaceae,160653,-504272,Active,Ctenopteris tenuisecta,,Polypodium tenuisectum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Grammitidaceae,750102,-9791139,Active,Prosaptia alata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Icacinaceae,666135,-743552,Active,Citronella samoensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Icacinaceae,754935,-9791717,Active,Medusanthera samoensis,matamo,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Vittariaceae,161806,-504358,Active,Haplopteris elongata,stiff shoestring fern,"Vittaria elongata, Vittaria rigida",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Vittariaceae,161808,-504359,Active,Haplopteris scolopendrina,,Vittaria scolopendrina,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,,Vittariaceae,158775,-504583,Active,Vaginularia angustissima,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,149458,42557,Active,Alocasia macrorrhizos,giant taro,Alocasia macrorrhiza,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,169711,506752,Active,Amorphophallus paeoniifolius,teve,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,748117,-9791914,Active,Clinostigma samoense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,148600,42549,Active,Colocasia esculenta,"coco yam, wild taro",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,153364,502056,Active,Dieffenbachia seguine,dumbcane,Dieffenbachia maculata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,156890,502333,Active,Epipremnum pinnatum,fue laufao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,158651,-504524,Active,Rhaphidophora graeffei,fue laufao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,149454,42553,Active,Syngonium podophyllum,"American evergreen, arrowhead vine",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Alismatales,Araceae,166887,505765,Active,Xanthosoma violaceum,purplestem taro,Xanthosoma nigrum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Apiales,Apiaceae,134753,29612,Active,Centella asiatica,"Asiatic pennywort, togo",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Apiales,Araliaceae,166345,507364,Active,Meryta macrophylla,"ma'ulu'ulu, fagufagu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Apiales,Araliaceae,848381,822357,Active,Polyscias lanutoensis,vī vao,Reynoldsia lanutoensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Apiales,Araliaceae,157636,-504499,Active,Polyscias samoensis,"Tagitagi vao, tagitagi, afia",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Arecales,Arecaceae,148492,42451,Active,Cocos nucifera,coconut palm,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Amaryllidaceae,87905,182711,Active,Crinum asiaticum,poisonbulb,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Asparagaceae,144275,43183,Active,Cordyline fruticosa,"ti, lau ti",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,159484,-504177,Active,Agrostophyllum megalurum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,159526,-504197,Active,Appendicula bracteosa,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,1006907,,Active,Bulbophyllum apodum,,"Bulbophyllum nigroscapum, Bulbophyllum ebulbe, Bulbophyllum polypodioides",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,159599,-504231,Active,Bulbophyllum betchei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,750073,-9791110,Active,Bulbophyllum distichobulbum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,159601,-504232,Active,Bulbophyllum longiscapum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,752424,-9791456,Active,Bulbophyllum membranaceum,,"Bulbophyllum gibbonianum, Bulbophyllum rosticeps",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,159603,-504233,Active,Bulbophyllum pachyanthum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160577,-504236,Active,Bulbophyllum samoanum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,751896,-9791358,Active,Bulbophyllum savaiiense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,165884,507277,Active,Calanthe hololeuca,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160586,-504240,Inactive,Calanthe triplicata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160636,-504264,Active,Coelogyne lycastoides,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160644,-504268,Active,Cryptostylis arachnites,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160693,-504291,Active,Dendrobium biflorum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160695,-504292,Active,Dendrobium calcaratum,,Dendrobium trivale,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160699,-504294,Active,Dendrobium dactylodes,,Dendrobium vaupelianum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160701,-504295,Active,Dendrobium glomeriflorum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160703,-504296,Active,Dendrobium goldfinchii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,754978,-9791760,Active,Dendrobium lepidochilum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160705,-504297,Active,Dendrobium samoense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,160707,-504298,Active,Dendrobium sladei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161697,-504306,Inactive,Didymoplexis micradenia,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161712,-504313,Active,Diplocaulobium fililobum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161743,-504328,Active,Epiblastus sciadanthus,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161752,-504332,Active,Eria robusta,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161762,-504337,Active,Erythrodes oxyglossa,,Erythrodes lilyana,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161764,-504338,Active,Erythrodes parvula,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161773,-504342,Active,Flickingeria comata,,Ephemerantha comata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161790,-504350,Active,Glomera montana,,Glomera reineckeana,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161817,-504363,Active,Hetaeria oblongifolia,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,161819,-504364,Active,Hetaeria whitmeei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,747275,-9791789,Active,Liparis alavaensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,163277,-504399,Active,Liparis condylobulbon,,Liparis longipes,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,163281,-504400,Active,Liparis gibbosa,,Liparis disticha,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,750068,-9791105,Active,Liparis layardii,,Liparis mataanensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,750927,-9791248,Active,Luisia teretifolia,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,163308,-504413,Active,Malaxis resupinata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,163310,-504414,Active,Malaxis samoensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,750023,-9791061,Active,Malaxis taurina,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164198,-504441,Active,Moerenhoutia heteromorpha,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164212,-504448,Inactive,Nervilia aragoana,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164225,-504454,Active,Oberonia equitans,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164227,-504455,Active,Oberonia heliophila,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164252,-504467,Active,Peristylus tradescantifolius,,Habenaria tradescantifolia,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,750070,-9791107,Active,Peristylus whistleri,,Habenaria vaupelii,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164256,-504469,Active,Phaius amboinensis,,Phaius graeffei,Probably Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,752521,-9791552,Inactive,Phaius tankervilleae,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,750101,-9791138,Active,Phaius terrestris,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164269,-504475,Active,Phreatia matthewsii,,"Phreatia neo-caledonica, Phreatia myosurus, Phreatia stenostachya",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164271,-504476,Active,Phreatia micrantha,,Phreatia graeffei,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,164277,-504479,Active,Phreatia paleata,,Phreatia obtusa,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,157650,-504505,Active,Pseuderia ramosa,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,151013,43771,Active,Spathoglottis plicata,Philippine ground orchid,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,158712,-504553,Active,Taeniophyllum fasciola,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,748119,-9791916,Active,Taeniophyllum whistleri,,"Taeniophyllum vitiense, Taeniophyllum gracile",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,158727,-504560,Active,Thrixspermum graeffei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,750039,-9791077,Active,Vrydagznea samoana,,Vrydagzynea whitmeei,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asparagales,Orchidaceae,754034,-9791636,Active,Vrydagznea vitiensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,110230,196338,Active,Acmella uliginosa,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,85190,182429,Active,Adenostemma lavenia,common medicineplant,Adenostemma viscosum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,141391,36481,Active,Ageratum conyzoides,ageratum,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,109433,196223,Active,Bidens alba,"beggar's tick, beggar's -tick",Bidens alba var. radiata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,134696,35731,Active,Bidens pilosa,"beggar's tick, beggar's -tick",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,156002,501660,Active,Crassocephalum crepidioides,fua lele,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,286432,565115,Active,Cyanthillium cinereum,ironweed,Vernonia cinerea,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,140726,38849,Active,Eleutheranthera ruderalis,ogiera,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,139597,37305,Active,Emilia sonchifolia,fua lele,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,139616,37322,Active,Erechtites valerianifolia,"fua lele, fireweed",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,137446,36046,Active,Mikania micrantha,"fue saina, mile-a-minute vine",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,159843,504630,Active,Pseudelephantopus spicatus,vao malini,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,138052,38476,Active,Synedrella nodiflora,tae'oti,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,751912,-9791374,Inactive,Wedelia biflora,"ateate, beach sunflower","Wollastonia biflora, Melanthera biflora",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Asteraceae,139237,38704,Active,Youngia japonica,Oriental hawksbeard,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Asterales,Goodeniaceae,137966,34782,Active,Scaevola taccada,"to‘ito‘i, beach naupaka",Scaevola sericea var. taccada,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Boraginales,Cordiaceae,666415,-743339,Active,Cordia aspera,tou,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Boraginales,Heliotropiaceae,162539,505540,Active,Tournefortia argentea,"beach heliotrope, tausuni",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Brassicales,Brassicaceae,163415,504813,Active,Rorippa sarmentosa,"Polynesian cress, a'atasi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Brassicales,Capparaceae,665208,-743507,Inactive,Capparis cordifolia,pacific caper,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Brassicales,Capparaceae,169326,505883,Active,Crateva religiosa,pupu elo,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Brassicales,Caricaceae,117497,22324,Active,Carica papaya,"papaya, esi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Aizoaceae,112628,19910,Active,Sesuvium portulacastrum,sea purslane,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Amaranthaceae,121181,20756,Active,Achyranthes aspera,tamatama,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Amaranthaceae,122975,20773,Active,Alternanthera sessilis,sessile joyweed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Amaranthaceae,121126,20751,Active,Amaranthus viridis,slender amaranth,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Amaranthaceae,92905,181972,Active,Cyathula prostrata,pastureweed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Ancistrocladaceae,159544,-504205,Active,Arytera brackenridgei,taputo'i,Arytera samoensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Nyctaginaceae,159580,-504222,Active,Boerhavia albiflora,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Nyctaginaceae,152926,501007,Active,Boerhavia repens,"ufi viole, ufi atuli",Boerhavia diffusa,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Nyctaginaceae,163319,504419,Active,Pisonia grandis,pu'a vai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Nyctaginaceae,163326,504422,Active,Pisonia umbellifera,umbrella catchbirdtree,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Plumbaginaceae,121542,21340,Active,Plumbago zeylanica,wild leadwort,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Portulacaceae,113967,20436,Active,Portulaca lutea,tamole,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,"purslane, tamole",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Caryophyllales,Portulacaceae,664397,-743837,Active,Portulaca samoensis,,Portulaca australis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Celastrales,Celastraceae,669575,-743737,Active,Maytenus vitiensis,,Gymnosporia vitiensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Chloranthales,Chloranthaceae,165863,507267,Active,Ascarina diffusa,"lau afia, afia",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Commelinales,Commelinaceae,748131,-9791928,Active,Aneilima vitiense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Commelinales,Commelinaceae,142375,39131,Active,Commelina diffusa,mau'utoga,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cucurbitales,Cucurbitaceae,162946,503570,Active,Luffa aegyptiaca,"dishcloth gourd, smooth luffa, sponge gourd",Luffa cylindrica,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118517,22399,Active,Momordica charantia,"balsampear, bitter melon",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cucurbitales,Cucurbitaceae,159754,-504588,Active,Zehneria mucronata,,"Zehneria grayana, Melothria grayana",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cucurbitales,Cucurbitaceae,159756,-504589,Active,Zehneria samoensis,,Melothria samoensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cyatheales,Cyatheaceae,160661,-504276,Inactive,Cyathea decurrens,"tree fern, olioli",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cyatheales,Cyatheaceae,160663,-504277,Inactive,Cyathea lunulata,"tree fern, olioli",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cyatheales,Cyatheaceae,754046,-9791648,Inactive,Cyathea medullaris,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cyatheales,Cyatheaceae,160665,-504278,Inactive,Cyathea vaupelii,"tree fern, olioli",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Cyatheales,Dicksoniaceae,666936,-743389,Inactive,Dicksonia brackenridgei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Dioscoreales,Dioscoreaceae,145303,43372,Active,Dioscorea alata,ufi,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Dioscoreales,Dioscoreaceae,145299,43369,Active,Dioscorea bulbifera,"bitter yam, soi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Dioscoreales,Dioscoreaceae,166146,506494,Active,Dioscorea nummularia,yam,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Dioscoreales,Dioscoreaceae,146959,43379,Active,Dioscorea pentaphylla,"five-fingered yam, pilita",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Dioscoreales,Taccaceae,145261,43334,Active,Tacca leontopetaloides,"masoa, Polynesian arrowroot",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Ebenaceae,666941,-743391,Active,Diospyros elliptica,anume,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Ebenaceae,161706,-504310,Active,Diospyros samoensis,"'au'auli, au'auli",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Lecythidaceae,165874,507272,Active,Barringtonia asiatica,"fish-poison tree, futu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Lecythidaceae,165878,507274,Active,Barringtonia samoensis,falaga,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Pentaphylacaceae,667064,-743599,Active,Eurya pickeringii,,Eurya japonica,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Primulaceae,748120,-9791917,Active,Embelia vaupelii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Primulaceae,669554,-743727,Active,Maesa tabacifolia,,Maesa tongensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Sapotaceae,163312,-504415,Active,Manilkara dissecta,pani,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ericales,Sapotaceae,752447,-9791479,Active,Palaquium stehlinii,gasu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,128272,26416,Active,Abrus precatorius,"rosary pea, matamoso",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,128306,26447,Active,Adenanthera pavonina,lopa,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,128316,26456,Active,Alysicarpus vaginalis,white moneywort,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,129174,26506,Active,Caesalpinia major,"anoso, se'u pe'a, yellow nickers, 'anaoso",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,155623,501155,Active,Calopogonium mucunoides,calopo,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,155671,501178,Active,Canavalia cathartica,maunaloa,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,155692,501188,Active,Canavalia rosea,fue fai va'a,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,161685,-504300,Inactive,Dendrolobium umbellatum,,Desmodium umbellatum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,485755,-656896,Active,Derris malaccensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,168193,506335,Active,Derris trifoliata,fue o'ona,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,152444,502017,Active,Desmodium heterocarpon,Asian ticktrefoil,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,123857,25804,Active,Desmodium incanum,spanish clover,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,123886,25830,Active,Desmodium tortuosum,"Dixie tick trefoil, Dixie ticktrefoil",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,123887,25831,Active,Desmodium triflorum,three-flowered beggarweed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,167489,506327,Active,Erythrina subumbrans,gatae palagi,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,157070,502440,Active,Erythrina variegata,"coral tree, gatae",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,287408,565183,Active,Falcataria moluccana,peacocksplume,Paraserianthes falcataria,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,121909,26749,Active,Indigofera suffruticosa,"indigobush, laʻau failafo",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,166295,507340,Active,Inocarpus fagifer,"Tahitian chestnut, ifi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,163219,-504371,Inactive,Intsia bijuga,ifilele,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,122731,26766,Active,Leucaena leucocephala,"wild tamarind, fuapepe",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,157770,503647,Active,Macroptilium lathyroides,wild bushbean,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,160373,503836,Active,Mimosa diplotricha,"giant false sensitive plant, giant sensitive plant",Mimosa invisa,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,122758,26790,Active,Mimosa pudica,shameplant,Mimosa pudica var. unijuga,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,161434,503879,Active,Mucuna gigantea,fue inu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,669607,-743752,Active,Mucuna glabra,fue inu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,217064,529930,Active,Pueraria montana var. lobata,"kudzu, a'a",Pueraria lobata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,162149,505141,Active,Senna alata,"candelabra plant, la'au fai lafa",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,123753,26965,Active,Sophora tomentosa,lalatai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Fabaceae,125147,27017,Active,Vigna marina,"beach pea, fue sina",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Fabales,Polygalaceae,131492,29305,Active,Polygala paniculata,pulunamulole,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,130867,30127,Active,Allamanda cathartica,golden trumpet,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,666977,-743408,Active,Alstonia pacifica,,Alstonia godeffroyi,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,159491,-504180,Active,Alyxia bracteolosa,lau maile,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,159493,-504181,Inactive,Alyxia stellata,nau,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,160604,-504249,Inactive,Cerbera manghas,leva,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,783597,893856,Active,Hoya australis,,Hoya australis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,161823,-504366,Active,Hoya pottsii,fue selela,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,987824,,Active,Hoya samoensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,163210,-504367,Active,Hoya vitiensis,fue selela,Hoya betchei,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,130949,30200,Active,Plumeria rubra,"pua, pua samoa, frangipani, templetree, plumeria",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Apocynaceae,750925,-9791246,Inactive,Tabernaemontana pandacaqui,,Ervatamia obtusuiscula,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Gentianaceae,752536,-9791567,Inactive,Fagraea berteroana,pua lulu,Fagraea berteriana,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Loganiaceae,161783,-504347,Active,Geniostoma rupestre,"taipoipo, lau mafatifati",Geniostoma samoense,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,160590,-504242,Active,Calycosia sessilis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,565863,-695162,Active,Cyclophyllum barbatum,ola,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,157450,502756,Active,Geophila repens,togo,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,161798,-504354,Inactive,Guettarda speciosa,puapua,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,754059,-9791661,Active,Gynochtodes epiphytica,,Gynochthodes epiphytica,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,186018,514488,Active,Hedyotis biflora,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,667137,-743633,Inactive,Hedyotis foetida,starviolet,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,163227,-504375,Active,Ixora samoensis,filofiloa,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,139750,35071,Active,Morinda citrifolia,"Indian mulberry, nonu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,669605,-743751,Active,Morinda myrtifolia,,Morinda umbellata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,164200,-504442,Active,Mussaenda raiateensis,aloalo vao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,166349,507366,Active,Neonauclea forsteri,afa,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,157652,-504506,Active,Psychotria forsteriana,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,166393,507387,Active,Psychotria garberiana,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,141247,35105,Active,Psychotria insularum,matalafi,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,750888,-9791209,Active,Psydrax merrillii,ola sina,Canthium merrillii,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,167236,507395,Active,Sarcopygme pacifica,u'unu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,130826,35244,Active,Spermacoce assurgens,woodland false buttonweed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,170531,508040,Active,Spermacoce exilis,Mauritius' false buttonweed,Spermacoce mauritiana,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,170535,508042,Active,Spermacoce ovalifolia,broadleaf false buttonweed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gentianales,Rubiaceae,565151,-695154,Inactive,Tarenna sambucina,ma'anunu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Gleicheniales,Gleicheniaceae,86207,17964,Active,Dicranopteris linearis,"false-staghorn fern, saua",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,753983,-9791586,Active,Hymenophyllum feejeense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,668020,-743658,Active,Hymenophyllum imbricatum,,Hymenophyllum formosum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,92681,17892,Active,Hymenophyllum polyanthos,smooth filmy fern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,158733,-504563,Active,Trichomanes apiifolium,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,748181,-9791978,Active,Trichomanes asae-grayi,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,754011,-9791613,Active,Trichomanes assimile,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,158737,-504565,Active,Trichomanes bipunctatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,158739,-504566,Active,Trichomanes boryanum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,158743,-504568,Active,Trichomanes dentatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,666332,-743965,Active,Trichomanes endlicherianum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,158745,-504569,Active,Trichomanes humile,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,666334,-743966,Active,Trichomanes intermedium,,Trichomanes maximum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,162612,505575,Active,Trichomanes minutum,tiny bristle fern,Trichomanes saxifragoides,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,666336,-743967,Active,Trichomanes taeniatum,,,Probably Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,158750,-504571,Active,Trichomanes tahitense,,Trichomanes omphalodes,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Acanthaceae,160191,502943,Active,Hemigraphis alternata,redivy,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Acanthaceae,163240,-504381,Active,Justicia procumbens,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Acanthaceae,290989,565440,Active,Pseuderanthemum carruthersii,"la`ua samasama, lau samasama",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Acanthaceae,193479,520601,Active,Ruellia blechum,Browne's blechum,"Blechum brownei, Blechum pyramidatum",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Acanthaceae,164425,504899,Active,Ruellia prostrata,vaouli,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Acanthaceae,286593,565468,Active,Ruellia tuberosa,minnieroot,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Gesneriaceae,748159,-9791956,Inactive,Cyrtandra angustivenosa,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Gesneriaceae,666466,-743363,Inactive,Cyrtandra pulchella,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Gesneriaceae,666468,-743364,Inactive,Cyrtandra samoensis,momolea,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,666397,-743330,Inactive,Clerodendrum buchananii var. fallax,"java glorybower, pagoda flower",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,170587,508067,Active,Clerodendrum chinense,losa Honolulu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,133113,32165,Active,Clerodendrum inerme,aloalo tai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,667070,-743601,Inactive,Faradaya amicorum,"mamalupe, Polynesian chesnut",Faradaya powellii,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,135641,32526,Active,Hyptis pectinata,"comb bushmint, comb hyptis, mint weed, mumutun lahe, purple top, timothi ni vavalangi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,668104,-743698,Active,Leucas decemdentata,ogoogo sina,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,157644,-504502,Inactive,Premna serratifolia,"aloalo, aloalo fanua",Premna obtusifolia,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Lamiaceae,133979,32223,Active,Vitex trifolia,namulega,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Linderniaceae,135672,33223,Active,Lindernia crustacea,Malaysian false pimpernel,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Oleaceae,666110,-743540,Active,Chionanthus vitiensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Oleaceae,163229,-504376,Active,Jasminum didymum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Plantaginaceae,163263,-504392,Active,Limnophila rugosa,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Verbenaceae,133925,32175,Active,Lantana camara,largeleaf lantana,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lamiales,Verbenaceae,133960,32206,Active,Stachytarpheta cayennensis,"fua pepe, mautofu",Stachytarpheta urticifolia,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Laurales,Hernandiaceae,161813,-504361,Active,Hernandia moerenhoutiana,"pipi, pu'a",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Laurales,Hernandiaceae,161815,-504362,Active,Hernandia nymphaeifolia,"chinese lantern tree, pu'a",Hernandia sonora,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Laurales,Lauraceae,91180,18173,Active,Cassytha filiformis,fetai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Laurales,Lauraceae,153900,501529,Active,Cinnamomum verum,cinnamon,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Laurales,Lauraceae,165942,507304,Active,Endiandra elaeocarpa,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Laurales,Lauraceae,163285,-504402,Active,Litsea samoensis,papaono,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Laurales,Monimiaceae,667135,-743632,Active,Hedycarya denticulata,fatimatao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lycopodiales,Lycopodiaceae,213586,529047,Active,Lycopodiella cernua var. cernua,staghorn clubmoss,Lycopodium cernuum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lycopodiales,Lycopodiaceae,163291,-504405,Active,Lycopodium carinatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lycopodiales,Lycopodiaceae,82836,17053,Active,Lycopodium phlegmaria,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lycopodiales,Lycopodiaceae,163293,-504406,Active,Lycopodium squarrosum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Lycopodiales,Lycopodiaceae,82089,17046,Active,Lycopodium verticillatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Magnoliales,Annonaceae,91960,181839,Active,Cananga odorata,"ilanglang, moso'oi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Magnoliales,Myristicaceae,669613,-743755,Active,Myristica hypargyraea,"atone, 'atone 'ulu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Magnoliales,Myristicaceae,748129,-9791926,Active,Myristica inutilis,,Myristica fatua,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Calophyllaceae,155619,501153,Active,Calophyllum inophyllum,fetau,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Calophyllaceae,665194,-743500,Active,Calophyllum neo-ebudicum,tanlanu,Calophyllum samoense,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Calophyllaceae,669563,-743731,Active,Mammea glauca,manapau,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Chrysobalanaceae,159565,-504215,Active,Atuna racemosa,ifiifi,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Clusiaceae,166261,507324,Active,Garcinia myrtifolia,garcinia,Garcinia vitiensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,754073,-9791675,Active,Acalypha grandis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,159476,-504173,Inactive,Acalypha lanceolata,ogoogo sina,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,133672,28208,Active,Aleurites moluccana,kukui,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,107428,195986,Active,Chamaesyce hyssopifolia,"hyssop spurge, hyssopleaf sandmat, leafy spurge",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,122711,28249,Active,Chamaesyce thymifolia,thyme-leaved spurge,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,123522,28259,Active,Codiaeum variegatum,garden croton,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,132864,28081,Active,Euphorbia hirta,hairy spurge,Chamaesyce hirta,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,132866,28083,Active,Euphorbia hypericifolia,graceful spurge,Chamaesyce hypericifolia,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,132912,28124,Active,Euphorbia prostrata,prostrate spurge,Chamaesyce prostrata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,752535,-9791566,Inactive,Homalanthus nutans,"fanua mamala, foga mamala",Omalanthus nutans,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,669548,-743724,Inactive,Macaranga harveyana,"lau pata, pata",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,669550,-743725,Inactive,Macaranga stipulosa,"lau fatu, patafatu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,158816,503688,Active,Manihot esculenta,"cassava, manioka, tapioka",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Euphorbiaceae,124202,28393,Active,Ricinus communis,"agaliya, castor bean, castorbean, lama palagi, maskerekur, toto ni vavalagi, uluchula skoki",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Passifloraceae,117387,22225,Active,Passiflora foetida,"love-in-a-mist, pasio vao",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Passifloraceae,194068,518525,Active,Passiflora pulchella,wingleaf passionfruit,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,159520,-504194,Inactive,Antidesma sphaerocarpum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,665113,-743462,Inactive,Baccaurea taitensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,122700,28239,Active,Bischofia javanica,"'o'a, o'a",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,667078,-743605,Inactive,Flueggea flexuosa,poumuli,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,667114,-743622,Inactive,Glochidion cuspidatum,masame,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,161787,-504349,Inactive,Glochidion ramiflorum,masame vao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,123642,28367,Active,Phyllanthus amarus,carry me seed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,124190,28382,Active,Phyllanthus debilis,niruri,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,124189,28381,Active,Phyllanthus urinaria,chamber bitter,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Phyllanthaceae,164280,-504480,Active,Phyllanthus virgatus,,Phyllanthus simplex,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Putranjivaceae,748142,-9791939,Inactive,Drypetes vitiensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Rhizophoraceae,160642,-504267,Active,Crossostylis biflora,saitamu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Salicaceae,768282,-9798045,Active,Casearia samoense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Salicaceae,165565,506136,Active,Flacourtia rukam,filimoto,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Salicaceae,667166,-743647,Active,Homalium whitmeeanum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malpighiales,Violaceae,166341,507362,Active,Melicytus samoensis,,Melicytus ramiflorus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,123161,21595,Active,Ceiba pentandra,"kapoktree, silk cotton tree, white silk-cotton tree",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,161796,-504353,Inactive,Grewia crenata,fauui,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,123187,21618,Active,Hibiscus tiliaceus,"fau, mahoe, sea hibiscus",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,751868,-9791330,Active,Hibiscus X archeri,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,170577,508062,Active,Kleinhovia hospita,fu'afu'a,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,164183,-504434,Active,Melochia aristata,ma'o,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,123976,21731,Active,Sida rhombifolia,"Cuba jute, mautofu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,666275,-743938,Active,Sterculia fanaiho,fana'io,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,124010,21762,Active,Thespesia populnea,"milo, Pacific rosewood",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,167296,507423,Active,Trichospermum richii,ma'o sina,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,158760,-504576,Inactive,Triumfetta procumbens,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,122290,21531,Active,Triumfetta rhomboidea,"bur bush, mautofu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Malvaceae,124006,21759,Active,Urena lobata,mautofu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Thymelaeaceae,752433,-9791465,Active,Phaleria glabra,suni vao,Phaleria acuminata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Malvales,Thymelaeaceae,666795,-743987,Active,Wikstroemia foetida,"Akia, Kauhi, Molokai osmanthus",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Marattiales,Marattiaceae,87817,184019,Active,Angiopteris evecta,gase,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Marattiales,Marattiaceae,159514,-504191,Active,Angiopteris opaca,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Marattiales,Marattiaceae,163318,-504418,Active,Marattia smithii,nase,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Combretaceae,130509,27762,Active,Terminalia catappa,talie,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Combretaceae,666309,-743954,Active,Terminalia richii,malili,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Combretaceae,666311,-743955,Inactive,Terminalia samoensis,talie,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Lythraceae,125243,27103,Active,Cuphea carthagenensis,Colombian waxweed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Melastomataceae,165867,507269,Active,Astronidium pickeringii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Melastomataceae,129509,27703,Active,Clidemia hirta,Koster's curse,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Melastomataceae,153462,502102,Active,Dissotis rotundifolia,pinklady,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Melastomataceae,752522,-9791553,Active,Medinilla samoensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Melastomataceae,164179,-504432,Active,Melastoma denticulatum,fua lole,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,160691,-504290,Inactive,Decaspermum fruticosum,nu'anu'a,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,215244,529177,Active,Metrosideros polymorpha var. polymorpha,ʻanume,Metrosideros collina,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,126600,27240,Active,Psidium guajava,"common guava, ku'ava",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,666286,-743943,Active,Syzygium brevifolium,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,666288,-743944,Active,Syzygium carolinense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,666290,-743945,Active,Syzygium clusiifolium,asi vai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,666292,-743946,Active,Syzygium dealatum,asi vai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,666294,-743947,Active,Syzygium inophylloides,"asi, asi toa",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,165508,505421,Active,Syzygium malaccense,Malaysian apple,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,165637,506170,Active,Syzygium samarangense,nonu vao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Myrtaceae,666298,-743949,Inactive,Syzygium samoense,"fega vao, fena vao",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Onagraceae,166320,507352,Active,Ludwigia hyssopifolia,seedbox,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Myrtales,Onagraceae,162935,503565,Active,Ludwigia octovalvis,willow primrose,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ophioglossales,Ophioglossaceae,84144,17205,Active,Ophioglossum pendulum,laukahi,Ophioglossum pendulum ssp. falcatum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ophioglossales,Ophioglossaceae,83720,17203,Active,Ophioglossum reticulatum,"netted adderstongue, netted adder's-tongue",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Ophioglossales,Ophioglossaceae,751913,-9791375,Active,Ophioglossum reticulatum var. pacifica,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Oxalidales,Connaraceae,158659,-504528,Active,Rourea minor,,Santaloides samoense,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Oxalidales,Cunoniaceae,158693,-504544,Active,Spiraeanthemum samoense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Oxalidales,Cunoniaceae,167313,507431,Active,Weinmannia affinis,,Weinmannia samoensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Oxalidales,Elaeocarpaceae,753992,-9791595,Active,Elaeocarpus floridanus,a`amati`e,Elaeocarpus tonganus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Oxalidales,Elaeocarpaceae,666156,-743562,Active,Elaeocarpus ulianus,a'amati'e,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Oxalidales,Oxalidaceae,130063,29099,Active,Oxalis barrelieri,Barrelier's woodsorrel,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Oxalidales,Oxalidaceae,128425,29067,Active,Oxalis corniculata,"yellow wood sorrel, 'ii",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Pandanales,Pandanaceae,667082,-743607,Inactive,Freycinetia reineckei,ie'ie,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Pandanales,Pandanaceae,166259,507323,Active,Freycinetia storckii,"'ie'ie, ie'ie",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Pandanales,Pandanaceae,157241,504095,Active,Pandanus tectorius,"fasa, Tahitian screwpine",Pandanus tutuilaensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Piperales,Aristolochiaceae,667026,-743431,Active,Aristolochia cortinata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Piperales,Piperaceae,163299,-504409,Active,Macropiper puberulum,ava'avaaitu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Piperales,Piperaceae,669552,-743726,Active,Macropiper timothianum,ava'avaaitu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Piperales,Piperaceae,160996,-502663,Inactive,Peperomia blanda var. floribunda,arid-land peperomia,Peperomia leptostachya,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Piperales,Piperaceae,84210,18227,Active,Peperomia pellucida,vao vai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Piperales,Piperaceae,670533,-743797,Active,Peperomia reineckei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Piperales,Piperaceae,670578,-743818,Active,Piper graeffei,"'ava'avaaitu sosolo, fue manogi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Bromeliaceae,147670,42335,Active,Ananas comosus,pineapple,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,138311,39913,Active,Cyperus compressus,poorland flatsedge,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,139046,39978,Active,Cyperus cyperinus,Old World flatsedge,Mariscus cyperinus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,139047,39979,Active,Cyperus cyperoides,Pacific island flatsedge,Mariscus sumatrensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,139052,39983,Active,Cyperus javanicus,selesele,Mariscus javanicus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,139023,39957,Active,Cyperus polystachyos,manyspike flatsedge,Pycreus polystachyos,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,138297,39900,Active,Cyperus rotundus,"nut sedge, mumuta",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,666460,-743360,Active,Cyperus seemannianus,,Mariscus seemannianus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,160676,-504283,Active,Cyperus stoloniferus,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,140274,40126,Active,Fimbristylis complanata,slender fimbry,Fimbristylis autumnalis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,140271,40123,Active,Fimbristylis cymosa,"tropical fimbry, mutia",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,140261,40114,Active,Fimbristylis dichotoma,forked fimbry,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,161068,502698,Active,Gahnia vitiensis,Fijian sawsedge,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,158354,503295,Active,Kyllinga brevifolia,"tuise, shortleaf spikesedge",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,158356,503296,Active,Kyllinga nemoralis,whitehead spikesedge,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,166334,507359,Active,Mapania macrocephala,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,140894,40205,Active,Rhynchospora corymbosa,selesele,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,160880,505067,Active,Scleria lithosperma,Florida Keys nutrush,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Cyperaceae,167262,507407,Active,Scleria polycarpa,"tafatolu, selesele",Scleria terrestris,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Joinvilleaceae,163231,-504377,Inactive,Joinvillea plicata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,140432,41465,Active,Axonopus compressus,broadleaf carpetgrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,102280,193433,Active,Axonopus fissifolius,carpetgrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,140984,41484,Active,Bothriochloa bladhii,"Australian beardgrass, Caucasian bluestem",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,159592,-504228,Active,Brachiaria paspaloides,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,143607,40575,Active,Cenchrus echinatus,"sand bur, vao tuitui",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,873800,796726,Active,Cenchrus purpureus,napier grass,Pennisetum purpureum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,165893,507281,Active,Centotheca lappacea,sefa,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,285629,565064,Active,Chloris barbata,fingergrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,141089,41579,Active,Chrysopogon aciculatus,golden beardgrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,141097,41586,Active,Coix lacryma-jobi,"Job's tears, sagasaga",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,141928,41614,Active,Cymbopogon refractus,barbwire grass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,Bermuda grass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,160678,-504284,Active,Cyrtococcum oxyphyllum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,160680,-504285,Inactive,Cyrtococcum trigonum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,141946,41630,Active,Dactyloctenium aegyptium,beach wiregrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,143656,40619,Active,Digitaria ciliaris,crab grass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,144493,40634,Active,Digitaria horizontalis,Jamaican crabgrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,164681,506945,Active,Digitaria radicosa,trailing crabgrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,144520,40659,Active,Digitaria setigera,East Indian crabgrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,153383,502065,Active,Digitaria violascens,violet crabgrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,144533,40670,Active,Echinochloa colona,"barnyard grass, jungle rice",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,142014,41692,Active,Eleusine indica,"goose grass, ta'ata'a, goosegrass, ta'ata'a",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,180596,512950,Active,Eragrostis amabilis,lovegrass,Eragrostis tenella,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,157000,502407,Active,Eriochloa fatmensis,"tropical cup grass, tropical cupgrass",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,143284,41727,Active,Eriochloa procera,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,163221,-504372,Active,Ischaemum murinum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,146799,42301,Active,Lepturus repens,Pacific Island thintail,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,144130,41871,Active,Miscanthus floridulus,"Japanese silvergrass, miscanthus, miscanthus, Japanese silvergrass, Pacific Island silvergrass, sawgrass, swordgrass, tupon nette",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,145054,41967,Active,Oplismenus compositus,running mountaingrass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,890832,797405,Active,Oplismenus hirtellus ssp. hirtellus,basketgrass,"Oplismenus hirtellus, Oplismenus imbecillis",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,147256,41015,Active,Paspalum conjugatum,"Hilo grass, T-grass, vaolima",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,147260,41019,Active,Paspalum fimbriatum,fimbriate paspalum,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,147297,41052,Active,Paspalum paniculatum,arrocillo,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,147284,41040,Active,Paspalum scrobiculatum,"kodomillet, Kodo-millet, ricegrass, ricegrass paspalum","Paspalum orbiculare, Paspalum cartilagineum",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,147286,41042,Active,Paspalum setaceum,"fringeleaf paspalum, sand paspalum, slender crown grass, thin paspalum",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,147288,41044,Active,Paspalum vaginatum,"knotgrass, knotroot paspalum",Paspalum distichum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,146805,42307,Active,Schizostachyum glaucifolium,"bamboo, ofe, ofe samoa",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,162809,505192,Active,Setaria pumila,"pearl millet, pearl-millet, yellow bristlegrass, pearl millet, pigeongrass, wild millet, yellow bristlegrass, yellow foxtail","Pennisetum glaucum, Setaria glauca",Probably Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,881218,784976,Active,Sporobolus diandrus,tussock dropseed,Sporobolus diander,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,158697,-504546,Active,Stenotaphrum micranthum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,164901,507205,Active,Thuarea involuta,Kuroiwa grass,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,205172,523027,Active,Urochloa mutica,para grass,Brachiaria mutica,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,205183,523032,Active,Urochloa subquadripara,tropical signalgrass,Brachiaria subquadripara,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Poales,Poaceae,146769,42275,Active,Zoysia tenuifolia,temple grass,Zoysia matrella var. pacifica,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,159548,-504207,Active,Asplenium australasicum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,76831,17373,Active,Asplenium cuneatum,wedgeleaf spleenwort,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,667615,-743448,Active,Asplenium feejeense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,77567,17391,Active,Asplenium horridum,lacy spleenwort,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,78382,17392,Active,Asplenium insiticium,royal spleenwort,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,159552,-504209,Active,Asplenium laserpitiifolium,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,667617,-743449,Active,Asplenium marattioides,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,667620,-743450,Active,Asplenium multifidum,,Asplenium powellii,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,78448,17398,Active,Asplenium nidus,"bird's nest fern, laugapapa",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,105056,192133,Active,Asplenium polyodon,sickle speenwort,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,159555,-504210,Active,Asplenium tenerum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Aspleniaceae,78929,17405,Active,Asplenium unilaterale,pamohe,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Blechnaceae,159578,-504221,Active,Blechnum orientale,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Blechnaceae,665153,-743481,Inactive,Blechnum vulcanicum,"korokio, mountain hard fern",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,565865,-695163,Active,Arthropteris repens,,Arthropteris obliterata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,1006908,,Active,Davallia denticulata,"laugasēsē, Rabbit's-foot","Davallia denticulata var. elata, Davallia epiphylla",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,666487,-743373,Active,Davallia graeffei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,754088,-9791690,Active,Davallia sessilifolia,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,666489,-743374,Inactive,Davallia solida,,Davallia plumosa,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,748118,-9791915,Active,Humata heterophylla,,Davallia heterophylla,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,750894,-9791215,Active,Humata polypodioides,,,Probably Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Davalliaceae,565157,-695157,Active,Leucostegia pallida,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,83947,17809,Active,Histiopteris incisa,batwing fern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,160348,503824,Active,Microlepia speluncae,limpleaf fern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,669653,-743774,Active,Orthiopteris tenuis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,159530,-504199,Active,Arachniodes aristata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,665161,-743485,Active,Bolbitis palustris,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,160646,-504269,Active,Ctenitis samoensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,753966,-9791569,Active,Dryopteris arborescens,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,666158,-743563,Active,Elaphoglossum feejeense,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,161731,-504322,Active,Elaphoglossum reineckei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,163244,-504383,Active,Lastreopsis davallioides,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,668135,-743712,Inactive,Lomagramma cordipinna,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,751924,-9791386,Active,Pleocnemia cumingiana,,Tectaria chrysotricha,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,164305,-504492,Active,Pleocnemia leuzeana,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Dryopteridaceae,157640,-504500,Active,Polystichum aculeatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lindsaeaceae,163267,-504394,Active,Lindsaea ensifolia ssp. agatii,graceful necklace fern,Lindsaea ensifolia,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lindsaeaceae,163269,-504395,Active,Lindsaea harveyi,,Lindsaea decomposita,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lindsaeaceae,163271,-504396,Active,Lindsaea pacifica,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lindsaeaceae,163273,-504397,Active,Lindsaea pulchra,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lindsaeaceae,161662,503487,Active,Lindsaea repens,creeping necklace fern,Lindsaea merrillii,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lindsaeaceae,754010,-9791612,Active,Lindsaea tetragona,,Lindsaea tenuifolia,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lindsaeaceae,169554,507520,Active,Odontosoria chinensis,Chinese creepingfern,Sphenomeris chinensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lomariopsidaceae,750036,-9791074,Active,Lomariopsis setchellii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lomariopsidaceae,85268,17603,Active,Nephrolepis biserrata,giant swordfern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Lomariopsidaceae,86411,17610,Active,Nephrolepis hirsutula,vao tuaniu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Oleandraceae,164231,-504457,Active,Oleandra neriiformis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Polypodiaceae,667120,-743625,Active,Grammitis conformis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Polypodiaceae,747289,-9791802,Active,Grammitis graminella,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Polypodiaceae,83086,17575,Active,Grammitis hookeri,Hooker's dwarf polypody,Polypodium hookeri,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Polypodiaceae,784538,897656,Active,Phymatosorus grossus,laua‘e,Phymatosaurus grossus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Polypodiaceae,164288,-504484,Active,Phymatosorus nigrescens,,Polypodium nigrescens,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Polypodiaceae,157632,-504497,Active,Polypodium subauriculatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Polypodiaceae,158649,-504523,Active,Pyrrosia lanceolata,,Pyrrosia adnascens,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,80969,17305,Active,Acrostichum aureum,"swamp fern, sa'ato",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,747329,-9791842,Inactive,Adiantum philippense,maidenhair fern,"Adiantum pedatum, Adiantum capillus-veneris",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,159522,-504195,Active,Antrophyum alatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,87856,184054,Active,Antrophyum plantagineum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,161720,-504317,Active,Doryopteris concolor,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,670587,-743822,Active,Pityrogramma brackenridgei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,81952,17702,Active,Pteris ensiformis,slender brake,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,748157,-9791954,Active,Pteris littoralis,netted brake-fern,Pteris comans,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,665253,-743848,Active,Pteris pacifica,comb brake,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,81985,17705,Active,Pteris tripartita,giant brake,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Pteridaceae,754934,-9791716,Active,Pteris vaupelii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Tectariaceae,158720,-504557,Active,Tectaria decurrens,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Tectariaceae,752478,-9791509,Inactive,Tectaria dissecta,,"Tectaria stearnsii, Dryopteris dissecta",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Tectariaceae,748141,-9791938,Active,Tectaria setchellii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,747342,-9791855,Active,Coryphopteris pubirachis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,174837,511911,Active,Cyclosorus dentatus,,Christella dentata,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,987822,,Active,Cyclosorus harveyi,,Christella harveyi,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,163302,-504410,Active,Macrothelypteris polypodioides,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,157774,503649,Active,Macrothelypteris torresiana,swordfern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,565153,-695155,Active,Plesioneuron attenuatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,754023,-9791625,Inactive,Sphaerostephanos heterocarpus,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,754979,-9791761,Active,Sphaerostephanos pycnosorus,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,666265,-743933,Active,Sphaerostephanos reineckei,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,158691,-504543,Active,Sphaerostephanos unitus,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Thelypteridaceae,79942,17297,Active,Thelypteris forsteri,Forster's maiden fern,Sphaerostephanos invisus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Woodsiaceae,157152,501996,Active,Deparia japonica,Japanese false spleenwort,Lunathyrium japonicum,Probably Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Woodsiaceae,753991,-9791594,Inactive,Deparia petersenii,false spleenwort,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Woodsiaceae,666947,-743394,Active,Diplazium bulbiferum,,,Probably Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Woodsiaceae,161708,-504311,Active,Diplazium dilatatum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Woodsiaceae,666949,-743395,Active,Diplazium harpeodes,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Woodsiaceae,161710,-504312,Active,Diplazium proliferum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Polypodiales,Woodsiaceae,754008,-9791610,Active,Diplazium sylvaticum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Psilotales,Psilotaceae,79110,17007,Active,Psilotum complanatum,flatfork fern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Psilotales,Psilotaceae,79121,17008,Active,Psilotum nudum,whisk fern,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Cannabaceae,754981,-9791763,Active,Celtis harperi,papaono,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Cannabaceae,95908,19105,Active,Trema cannabina,magele,Trema orientalis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,88921,184181,Active,Artocarpus altilis,breadfruit,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,104542,19078,Active,Castilla elastica,pulu mamoe,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,165963,507314,Active,Ficus godeffroyi,mati,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,750824,-9791146,Active,Ficus obliqua,"banyan, aoa",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,165965,507315,Active,Ficus prolixa,"banyan, aoa",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,161769,-504340,Active,Ficus scabra,"mati vao, mati, matiata",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,165967,507316,Active,Ficus tinctoria,"dyer's fig, mati",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,752471,-9791502,Active,Ficus uniauriculata,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Moraceae,167287,507419,Active,Streblus anthropophagorum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Rhamnaceae,159488,-504179,Active,Alphitonia zizyphoides,toi,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Rhamnaceae,124746,28521,Active,Colubrina asiatica,fisoa,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,170585,508066,Active,Cypholophus moluccanus,Hawai'i lopleaf,Cypholophus macrocephalus,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,666915,-743379,Active,Dendrocnide harveyi,"stinging-nettle tree, salato",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,747344,-9791857,Active,Elatostema cupreo-viride,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,165936,507301,Active,Elatostema grandifolium,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,666160,-743564,Active,Elatostema scabriusculum,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,98152,19128,Active,Laportea interrupta,ogoogo,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,668110,-743700,Active,Leucosyke corymbulosa,ala'alatoa,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,669565,-743732,Inactive,Maoutia australis,fauuta,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,99006,19133,Active,Pilea microphylla,rockweed,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,164298,-504489,Inactive,Pipturus argenteus,"soga, fau soga",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Rosales,Urticaceae,157646,-504503,Inactive,Procris pedunculata,fua lole,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Santalales,Loranthaceae,565861,-695161,Active,Decaisnina forsteriana,,Amylotheca insularum,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Santalales,Santalaceae,163242,-504382,Active,Korthalsella horneana,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Anacardiaceae,665184,-743496,Active,Buchanania merrillii,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Anacardiaceae,126800,28803,Active,Mangifera indica,mago,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Anacardiaceae,665302,-743871,Inactive,Rhus taitensis,tavai,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Anacardiaceae,93761,182142,Active,Spondias dulcis,"ambarella, Jewish plum",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Burseraceae,987823,,Active,Canarium mafoa,mafoa,Canarium harveyi,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Burseraceae,665204,-743505,Active,Canarium vitiense,ma 'ali,Canarium samoense,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Burseraceae,161779,-504345,Active,Garuga floribunda,vivao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Meliaceae,159482,-504176,Active,Aglaia samoensis,laga'ali,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Meliaceae,165930,507299,Active,Dysoxylum huntii,maota mea,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Meliaceae,666967,-743403,Active,Dysoxylum maota,maota,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Meliaceae,666969,-743404,Active,Dysoxylum samoense,"mamala, maota mamala, tufaso, maota",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Rutaceae,666137,-743553,Inactive,Citrus macroptera,moli u'u,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Rutaceae,565161,-695159,Active,Euodia hortensis,usi,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Rutaceae,164181,-504433,Active,Melicope latifolia,so'opine,Euodia samoensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Rutaceae,669579,-743739,Active,Melicope retusa,,Acronychia retusa,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Rutaceae,669586,-743742,Active,Melicope vatiana,,Acronychia heterophylla,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Rutaceae,565155,-695156,Active,Micromelum minutum,talafalu,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Sapindaceae,747377,-9791890,Active,Allophylus timoriensis,,Allophylus timorensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Sapindaceae,565859,-695160,Active,Elattostachys falcata,"taputo', tapumatau",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Sapindaceae,750072,-9791109,Active,Guioa rhoifolia,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Sapindaceae,157642,-504501,Active,Pometia pinnata,tava,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Sapindales,Sapindaceae,125743,28696,Active,Sapindus saponaria,"western soapberry, wingleaf soapberry",Sapindus vitiensis,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Schizaeales,Schizaeaceae,158672,-504534,Inactive,Schizaea dichotoma,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Selaginellales,Selaginellaceae,666227,-743915,Active,Selaginella laxa,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Selaginellales,Selaginellaceae,666229,-743916,Active,Selaginella whitmeei,,Selaginella christii,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,136156,30808,Active,Ipomoea littoralis,"palulu, tagamimi",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,202825,524173,Active,Ipomoea pes-caprae ssp. brasiliensis,"fue moa, beach morning glory",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,136153,30805,Active,Ipomoea violacea,"beach moonflower, heavenlyblue morningglory, heavenlyblue morning-glory, ololiuqui, sea moonflower",Ipomoea macrantha,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,164187,-504436,Inactive,Merremia peltata,"fue vae, fue lautetele",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,137161,30872,Active,Merremia umbellata,hogvine,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,162726,504030,Active,Operculina turpethum,St. Thomas lidpod,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,212743,529295,Active,Operculina turpethum var. ventricosa,St. Thomas lidpod,Operculina ventricosa,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Convolvulaceae,164862,505378,Active,Stictocardia tiliifolia,"tagamimi, palulu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Solanaceae,134437,30590,Active,Physalis angulata,"wild cape gooseberry, vivao, wild capegooseberry, vi vao",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Solanaceae,287266,565523,Active,Solanum americanum,"black nightshade, magalo",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Solanales,Solanaceae,163951,505274,Active,Solanum viride,polo iti,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Cannaceae,147757,42413,Active,Canna indica,"canna, Indian shot, fanamanu",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Costaceae,155972,501646,Active,Costus speciosus,crepe ginger,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Heliconiaceae,667145,-743637,Active,Heliconia laufao,laufao,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Musaceae,147732,42391,Active,Musa X paradisiaca,fa`i,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Zingiberaceae,754964,-9791746,Active,Alpinia atropurpurea,"red ginger, teiula",,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Zingiberaceae,751895,-9791357,Active,Alpinia samoensis,,,Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Zingiberaceae,157105,502457,Active,Etlingera cevuga,avapui vao,"Geanthus cervuga, Geanthus vignaui",Present
+NPSA,National Park of American Samoa,Vascular Plant,6,Zingiberales,Zingiberaceae,147746,42403,Active,Zingiber zerumbet,"shampoo ginger, 'avapui",,Present
+NPSA,National Park of American Samoa,Crab/Lobster/Shrimp,8,Decapoda,Palaemonidae,736794,96308,Active,Macrobrachium lar,Tahitian prawn,,Present
+NPSA,National Park of American Samoa,Slug/Snail,9,,,1256148,,Active,Vittina variegata,,Neritina variegata,Present
+NPSA,National Park of American Samoa,Slug/Snail,9,Archaeogastropoda,Septariidae,1256147,,Active,Septaria freycineti,,Septaria suffreni,Present
+NPSA,National Park of American Samoa,Slug/Snail,9,Archaeogastropoda,Septariidae,671663,-746738,Active,Septaria sanguisuga,,,Present
+NPSA,National Park of American Samoa,Slug/Snail,9,Neotaenioglossa,Thiaridae,1256144,,Active,Melanoides tuberculata,red-rim melania,Melanoides tuberculatus,Present
+NPSA,National Park of American Samoa,Slug/Snail,9,Neritopsina,Neritidae,675237,-746548,Active,Clithon corona,,,Present
+NPSA,National Park of American Samoa,Slug/Snail,9,Neritopsina,Neritidae,747346,-9791859,Active,Clithon pritchardi,,,Present
+NPSA,National Park of American Samoa,Slug/Snail,9,Neritopsina,Neritidae,671235,-746667,Active,Neritina canalis,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170949,50881,Active,Millepora dichotoma,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,303705,572283,Active,Millepora exaesa,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170970,50882,Active,Millepora platyphylla,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Helioporacea,Helioporidae,195443,52077,Active,Heliopora coerulea,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,214253,52942,Active,Acropora abrotanoides,,"Acropora danai, Acropora irregularis",Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,212889,52898,Active,Acropora austera,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,210904,52921,Active,Acropora clathrata,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,213634,52907,Active,Acropora cytherea,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,214005,52864,Active,Acropora digitifera,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,215762,52875,Active,Acropora gemmifera,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,950226,,Active,Acropora globiceps,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,214921,52868,Active,Acropora humilis,,Acropora ocellata,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,214389,52910,Active,Acropora hyacinthus,,Acropora surculosa,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,214274,52943,Active,Acropora intermedia,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,215783,52876,Active,Acropora monticulosa,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,216759,52883,Active,Acropora robusta,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,215868,52880,Active,Acropora verweyi,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,1002793,,Active,Astreopora eliptica,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,217831,52997,Active,Astreopora myriophthalma,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,950229,,Active,Isopora crateriformis,,Acropora crateriformis,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,213131,52964,Active,Montipora foveolata,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,214565,52973,Active,Montipora grisea,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,214628,52976,Active,Montipora informis,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,215392,52950,Active,Montipora tuberculosa,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Acroporidae,216094,52957,Active,Montipora turgescens,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Agariciidae,214893,53043,Active,Leptoseris mycetoseroides,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Agariciidae,198931,-521972,Active,Pavona chiriquiensis,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Agariciidae,219940,53068,Active,Pavona decussata,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Agariciidae,220679,53071,Active,Pavona minuta,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Agariciidae,220700,53072,Active,Pavona varians,false brain,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Agariciidae,220721,53073,Active,Pavona venosa,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Dendrophylliidae,235686,53819,Active,Turbinaria reniformis,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Dendrophylliidae,237183,53820,Active,Turbinaria stellulata,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,221494,53335,Active,Diploastrea heliopora,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,223403,53349,Active,Echinopora lamellosa,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,221809,53300,Active,Favites abdita,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,223922,53311,Active,Goniastrea edwardsi,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,223964,53313,Active,Goniastrea favulus,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,223985,53314,Active,Goniastrea pectinata,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,223901,53310,Active,Goniastrea retiformis,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,1002995,,Active,Goniastrea stelligera,,Favia stelligera,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,221557,53338,Active,Leptastrea purpurea,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,219677,53326,Active,Leptoria phrygia,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,219102,53318,Active,Platygyra daedalea,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Faviidae,219166,53321,Active,Platygyra pini,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Fungiidae,216336,53116,Active,Fungia fungites,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Fungiidae,1002996,,Active,Lobactis scutaria,,Fungia scutaria,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Merulinidae,1002997,,Active,Astrea curta,,Montastraea curta,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Merulinidae,223702,53444,Active,Hydnophora exesa,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Merulinidae,223723,53445,Active,Hydnophora microconos,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Mussidae,226612,53502,Active,Acanthastrea echinata,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Mussidae,227387,53507,Active,Lobophyllia hemprichii,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Oculinidae,224793,53409,Active,Galaxea fascicularis,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Pectiniidae,226311,53466,Active,Mycedium elephantotus,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Pocilloporidae,215736,53018,Active,Pocillopora damicornis,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Pocilloporidae,1002800,,Active,Pocillopora grandis,elkhorn,Pocillopora eydouxi,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Pocilloporidae,216511,53022,Active,Pocillopora meandrina,Cauliflower,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Pocilloporidae,216447,53019,Active,Pocillopora verrucosa,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Poritidae,216816,53202,Active,Porites annae,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Poritidae,199680,-522009,Active,Porites arnaudi,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Poritidae,222563,53190,Active,Porites cylindrica,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Poritidae,216795,53201,Active,Porites lichen,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Poritidae,221175,53188,Active,Porites rus,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Siderastreidae,216302,53097,Active,Coscinaraea columna,,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Scleractinia,Siderastreidae,213007,52856,Active,Psammocora profundacella,,Psammocora superficialis,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Valvatida,Acanthasteridae,61470,157194,Active,Acanthaster planci,crown-of-thorns,,Present
+NPSA,National Park of American Samoa,Other Non-vertebrates,12,Valvatida,Ophidiasteridae,674240,-746907,Inactive,Linckia laevigata,,,Present

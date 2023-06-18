@@ -1,0 +1,808 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,Bighorn Sheep,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Artiodactyla,Cervidae,155879,-501601,Inactive,Cervus canadensis,Elk,Cervus elaphus,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Common Gray Fox,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,Felis concolor,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,Northern River Otter,Lutra canadensis,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,American Mink,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American Black Bear,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian Free-tailed Bat,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,Spotted Bat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,Lasiurus cinereus cinereus,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,Myotis leibii melanorhinus,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,Long-eared Myotis,Myotis evotis evotis,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,Little Brown Myotis,Myotis lucifugus carissima,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,Myotis thysanodes thysanodes,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,Pipistrellus hesperus hesperus,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,Snowshoe Hare,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Lagomorpha,Leporidae,89644,180118,Active,Lepus townsendii,White-tailed Jackrabbit,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,Mountain Cottontail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American Beaver,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,Long-tailed Vole,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,91701,180310,Active,Microtus montanus,Montane vole,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,Brush Mouse,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,Canyon Mouse,Peromyscus crinitus auripectus,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,Peromyscus maniculatus rufinus,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,Pinon Mouse,Peromyscus truei truei,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Dipodidae,91785,180387,Active,Zapus princeps,Western Jumping Mouse,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,Northern Pocket Gopher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Sciuridae,694924,-756527,Active,Neotamias minimus,Least Chipmunk,"Eutamias minimus operarius, Eutamias minimus, Tamias minimus",Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Sciuridae,694891,-756511,Active,Neotamias rufus,Hopi Chipmunk,"Tamias rufus, Eutamias rufus",Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Sciuridae,89684,180154,Active,Spermophilus lateralis,Golden-mantled Ground Squirrel,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,Red Squirrel,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Soricomorpha,Soricidae,88122,179929,Active,Sorex cinereus,Masked Shrew,,Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Soricomorpha,Soricidae,88665,179950,Active,Sorex monticolus,Montane Shrew,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Soricomorpha,Soricidae,88666,179951,Active,Sorex nanus,Dwarf Shrew,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Soricomorpha,Soricidae,88127,179933,Active,Sorex palustris,American Water Shrew,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Mammal,1,Soricomorpha,Soricidae,88669,179954,Active,Sorex preblei,Preble's Shrew,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,77839,175125,Active,Aythya americana,Redhead,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,78530,175144,Active,Bucephala islandica,Barrow's Goldeneye,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,78573,175183,Active,Lophodytes cucullatus,Hooded Merganser,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common Merganser,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,Ruddy Duck,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California Gull,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Charadriiformes,Laridae,848239,824082,Active,Leucophaeus pipixcan,Franklin's Gull,Larus pipixcan,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Wilson's Snipe,Gallinago gallinago,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Dove,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Columbiformes,Columbidae,525775,676899,Active,Patagioenas fasciata,Band-tailed Pigeon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Coraciiformes,Alcedinidae,83966,178106,Active,Megaceryle alcyon,Belted Kingfisher,Ceryle alcyon,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Galliformes,Odontophoridae,84296,175877,Active,Callipepla gambelii,Gambel's Quail,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Galliformes,Phasianidae,84331,175908,Active,Alectoris chukar,Chukar,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Galliformes,Phasianidae,162385,-503934,Inactive,Centrocercus minimus,Gunnison Sage-Grouse,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Galliformes,Phasianidae,84278,175860,Active,Dendragapus obscurus,Blue Grouse,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Galliformes,Phasianidae,84328,175905,Active,Phasianus colchicus,Ring-necked Pheasant,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Bombycillidae,88292,178529,Active,Bombycilla garrulus,Bohemian Waxwing,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,Guiraca caerulea,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,918880,916621,Active,Aphelocoma woodhouseii,Woodhouse's Scrub-Jay,Aphelocoma californica,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,86237,179667,Active,Perisoreus canadensis,Gray Jay,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,Black-billed Magpie,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,94337,179222,Active,Leucosticte atrata,Black Rosy-Finch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,94338,179223,Active,Leucosticte australis,Brown-capped Rosy-Finch,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,95297,179246,Active,Spinus pinus,Pine Siskin,Carduelis pinus,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,95306,179254,Active,Spinus psaltria,Lesser Goldfinch,Carduelis psaltria,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Fringillidae,95300,179249,Active,Spinus tristis,American Goldfinch,Carduelis tristis,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern Shrike,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Paridae,472370,650445,Active,Baeolophus ridgwayi,Juniper Titmouse,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773781,,Inactive,Cardellina pusilla,Wilson's Warbler,Wilsonia pusilla,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773777,,Inactive,Geothlypis tolmiei,MacGillivray's Warbler,Oporornis tolmiei,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773769,,Inactive,Oreothlypis celata,Orange-crowned Warbler,Vermivora celata,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773767,,Inactive,Oreothlypis virginiae,Virginia's Warbler,Vermivora virginiae,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773779,,Inactive,Setophaga coronata,Yellow-rumped Warbler (Audubon's),Dendroica coronata,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773786,,Inactive,Setophaga nigrescens,Black-throated Gray Warbler,Dendroica nigrescens,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773778,,Inactive,Setophaga petechia,Yellow Warbler,Dendroica petechia,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Parulidae,773780,,Inactive,Setophaga townsendi,Townsend's Warbler,Dendroica townsendi,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco (Gray-headed),,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Sittidae,90949,178788,Active,Sitta pygmaea,Pygmy Nuthatch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Vireonidae,93575,179010,Active,Vireo solitarius,Plumbeous Vireo,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker (Red-shafted),,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis's Woodpecker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Piciformes,Picidae,546917,685725,Active,Picoides dorsalis,American Three-toed Woodpecker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Strigiformes,Strigidae,82935,177902,Active,Glaucidium gnoma,Northern Pygmy-Owl,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Strigiformes,Strigidae,80765,177878,Active,Otus flammeolus,Flammulated Owl,,Present
+BLCA,Black Canyon of the Gunnison National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,Barn Owl,,Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Colubridae,79751,174187,Active,Lampropeltis triangulum,milksnake,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,striped whipsnake,Masticophis taeniatus taeniatus,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Colubridae,79736,174173,Active,Opheodrys vernalis,smooth greensnake,"Liochlorophis vernalis, Opheodrys vernalis blanchardi",Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,gophersnake,"Pituophis melanoleucus deserticola, Pituophis catenifer deserticola",Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,terrestrial gartersnake,Thamnophis elegans vagrans,Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,eastern collared lizard,,Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,common sagebrush lizard,Sceloporus graciosus graciosus,Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Iguanidae,118723,208738,Active,Sceloporus tristichus,plateau lizard,Sceloporus undulatus elongatus,Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,tree lizard,Urosaurus ornatus wrighti,Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,greater short-horned lizard,Phrynosoma douglasii,Present
+BLCA,Black Canyon of the Gunnison National Park,Reptile,3,Squamata,Teiidae,119626,208948,Active,Cnemidophorus velox,Plateau striped whiptail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Amphibian,4,Caudata,Ambystomatidae,75874,173592,Active,Ambystoma tigrinum,Tiger salamander,"Ambystoma tigrinum nebulosum, Ambystoma tigrinum utahense",Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Catostomidae,65704,163894,Active,Catostomus catostomus,Long-nose Sucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Catostomidae,739741,-9754833,Inactive,Catostomus catostomus X commersonii,Longnose sucker X White sucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Catostomidae,266182,553273,Active,Catostomus commersonii,White Sucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Catostomidae,65714,163902,Active,Catostomus discobolus,Bluehead Sucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Catostomidae,739740,-9754832,Inactive,Catostomus discobolus X commersonii,Bluehead Sucker X White Sucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Catostomidae,65718,163906,Active,Catostomus latipinnis,Flannelmouth Sucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Catostomidae,739739,-9754831,Inactive,Catostomus latipinnis X commersonii,Flannelmouth Sucker X White Sucker,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Cypriniformes,Cyprinidae,70838,163387,Active,Rhinichthys osculus,Speckled Dace,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Salmoniformes,Salmonidae,262754,553429,Active,Oncorhynchus clarkii pleuriticus,Colorado Cutthroat Trout,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Salmoniformes,Salmonidae,71783,161989,Active,Oncorhynchus mykiss,Rainbow Trout,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Salmoniformes,Salmonidae,71792,161997,Active,Salmo trutta,Brown Trout,,Present
+BLCA,Black Canyon of the Gunnison National Park,Fish,5,Scorpaeniformes,Cottidae,70728,167237,Active,Cottus bairdii,Mottled Sculpin,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Alismatales,Araceae,159321,503362,Active,Lemna turionifera,lesser duckweed,Lemna minor,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141636,39068,Active,Zannichellia palustris,Horned pondweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,133519,29572,Active,Aletes anisatus,Rocky Mountain Indian parsley,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,134774,29631,Active,Cymopterus bulbosus,Onion spring-parsley,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,134797,29652,Active,Cymopterus planosus,Rocky Mountain spring-parsley,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,134799,29654,Active,Cymopterus purpureus,Colorado Plateau spring-parsley,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,133475,29532,Active,Ligusticum porteri,Southern ligusticum,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,134835,29687,Active,Lomatium concinnum,Adobe desert-parsley,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,162317,503534,Active,Lomatium dissectum,fern-leaved desert-parsley,Lomatium dissectum var. multifidum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,135392,29707,Active,Lomatium grayi,Milfoil lomatium,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,205482,526072,Active,Lomatium triternatum ssp. platycarpum,Flat-seed lomatium,Lomatium simplex var. simplex,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,126355,29788,Active,Osmorhiza chilensis,Chilean sweet-cicely,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,126358,29790,Active,Osmorhiza depauperata,Blunt sweet-cicely,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,126360,29792,Active,Osmorhiza occidentalis,Western sweet-cicely,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Apiales,Apiaceae,126410,29837,Active,Pseudocymopterus montanus,Lemmon's spring-parsley,Cymopterus lemmonii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150322,42707,Active,Allium acuminatum,Taper-tip onion,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149554,42643,Active,Allium geyeri,Geyer's onion,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150294,42682,Active,Allium macropetalum,San Juan onion,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149584,42670,Active,Allium textile,Textile onion,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Asparagaceae,140583,42784,Active,Asparagus officinalis,Asparagus,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Asparagaceae,186341,516612,Active,Maianthemum amplexicaule,False Solomon's-seal,Maianthemum racemosum ssp. amplexicaule,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Asparagaceae,157789,503656,Active,Maianthemum stellatum,Starry false Solomon's-seal,Smilacina stellata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Asparagaceae,144232,43144,Active,Yucca harrimaniae,Harriman's yucca,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Orchidaceae,666407,-743335,Inactive,Corallorhiza maculata,spotted coral-root,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asparagales,Orchidaceae,147073,43481,Active,Epipactis gigantea,giant helleborine,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,168481,508285,Active,Achillea lanulosa,Common yarrow,Achillea millefolium var. occidentalis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,169828,508337,Active,Acosta maculosa,Spotted knapweed,Centaurea biebersteinii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140168,36459,Active,Acroptilon repens,Russian knapweed,Centaurea repens,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,85164,182405,Active,Agoseris aurantiaca var. aurantiaca,orange agoseris,Agoseris aurantiaca,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,85168,182409,Active,Agoseris glauca var. dasycephala,Short agoseris,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,85170,182410,Active,Agoseris glauca var. laciniata,Cutleaf agoseris,Agoseris glauca,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,169671,507576,Active,Almutaster pauciflorus,Alkali aster,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,133769,36727,Active,Antennaria dimorpha,Low pussytoes,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,89846,185162,Active,Antennaria microphylla,Small-leaf pussyoes,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,135784,36749,Active,Antennaria parvifolia,Common pussytoes,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,205034,525241,Active,Antennaria pulcherrima ssp. anaphaloides,Tall pussytoes,Antennaria anaphaloides,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,135790,36754,Active,Antennaria rosea,Rosy pussytoes,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,141463,36546,Active,Arctium minus,Burdock,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,141480,36561,Active,Arnica cordifolia,Heartleaf arnica,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,133594,35458,Active,Artemisia carruthii,Carruth's wormwood,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,133602,35465,Active,Artemisia frigida,Fringed sagebrush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,86037,183737,Active,Artemisia ludoviciana ssp. incompta,Louisiana wormwood,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,133613,35475,Active,Artemisia ludoviciana ssp. ludoviciana,Louisiana wormwood,Artemisia ludoviciana,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,100686,193197,Active,Aster foliaceus,Canby's aster,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,100625,193141,Active,Aster laevis var. geyeri,smooth aster,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,135861,36818,Active,Balsamorhiza sagittata,Arrowleaf balsamroot,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,665172,-743490,Inactive,Breea arvensis,Canada thistle,Cirsium arvense,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,565867,-695164,Inactive,Breea incana,Canada thistle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136716,36866,Active,Brickellia californica,California brickellbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136729,36878,Active,Brickellia grandiflora,Tassel-flower brickellbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136737,36885,Active,Brickellia longifolia,Longleaf brickellbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,207285,525341,Active,Brickellia microphylla ssp. scabra,rough brickellbush,Brickellia microphylla,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136744,36891,Active,Brickellia oblongifolia,Mohave brickellbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,202000,523745,Active,Carduus nutans ssp. macrolepis,Musk thistle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,137249,36987,Active,Chaenactis douglasii,Hoary dusty-maiden,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,137284,37018,Active,Chamaechaenactis scaposa,Eastwood plant,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,137321,37051,Active,Chrysothamnus depressus,Dwarf rabbitbrush,Ericameria depressa,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,137333,37062,Active,Chrysothamnus nauseosus ssp. graveolens,Glabrate rabbitbrush,"Ericameria nauseosa var. glabrata, Chrysothamnus nauseosus",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,137344,37072,Active,Chrysothamnus parryi ssp. parryi,Parry's rabbitbrush,Ericameria parryi,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,137365,37091,Active,Chrysothamnus viscidiflorus ssp. viscidiflorus,Green rabbitbrush,Chrysothamnus viscidiflorus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140051,36353,Active,Cirsium centaureae,Fringed thistle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140064,36365,Active,Cirsium eatonii,Eaton's thistle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140089,36388,Active,Cirsium neomexicanum,New Mexico thistle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140101,36399,Active,Cirsium perplexans,Rocky Mountain thistle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140126,36420,Active,Cirsium tracyi,Tracy's thistle,Cirsium undulatum var. tracyi,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,Bull thistle,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138585,37113,Active,Conyza canadensis,Canadian horseweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,174818,511902,Active,Cyclachaena xanthifolia,Marsh-elder,Iva xanthifolia,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,155417,502385,Active,Erigeron concinnus,Navajo fleabane,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136031,35852,Active,Erigeron divergens,Spreading daisy,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136032,35853,Active,Erigeron eatonii,Eaton's daisy,Erigeron eatonii var. eatonii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136038,35859,Active,Erigeron engelmannii,Engelmann's daisy,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136045,35865,Active,Erigeron flagellaris,Trailing daisy,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136911,35921,Active,Erigeron peregrinus,wandering fleabane,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136943,35950,Active,Erigeron speciosus,Aspen daisy,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,140450,37356,Active,Euthamia occidentalis,Western goldenrod,Solidago occidentalis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,158128,502816,Active,Gnaphalium uliginosum,Slender cudweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,213412,528288,Active,Grindelia squarrosa var. serrulata,curly-cup gumweed,Grindelia squarrosa,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,141121,37482,Active,Gutierrezia microcephala,threadleaf snakeweed,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,Broom snakeweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,142049,37595,Active,Helianthella microcephala,purpledisk sunflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,142051,37597,Active,Helianthella quinquenervis,Fivenerve sunflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,142204,36616,Active,Helianthus annuus,Common sunflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,142059,37603,Active,Heliomeris multiflora,Showy goldeneye,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,142153,37689,Active,Heterotheca villosa,Hispid golden-aster,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,212237,528522,Active,Hymenopappus filifolius var. luteus,Wyoming hyalineherb,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,Prickly lettuce,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,187280,515861,Active,Leucacantha cyanus,bachelor's button,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,143758,37903,Active,Leucanthemum vulgare,Ox-eye daisy,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,143760,37905,Active,Leucelene ericoides,rose-heath,Chaetopappa ericoides,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,187379,515908,Active,Ligularia pudica,Bashful groundsel,Senecio pudicus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,144663,37980,Active,Machaeranthera bigelovii,Bigelow’s tansy-aster,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,144667,37984,Active,Machaeranthera canescens,Hoary aster,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,144675,37991,Active,Machaeranthera gracilis,Slender goldenweed,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,144676,37992,Active,Machaeranthera grindelioides,Gumweed aster,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,144691,38005,Active,Machaeranthera pinnatifida,Spiny goldenweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,144717,38029,Active,Madia glomerata,Mountain tarweeed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,145916,38114,Active,Microseris nutans,Nodding microseris,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,208076,526271,Active,Oligosporus dracunculus ssp. glaucus,tarragon,"Oligosporus dracunculus, Artemisia dracunculus",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,135417,38140,Active,Onopordum acanthium,Scotch thistle,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,192585,518150,Active,Packera multilobata,Basin groundsel,Senecio multilobatus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,192587,518151,Active,Packera neomexicana,New Mexico groundsel,Senecio neomexicanus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,192603,518159,Active,Packera tridenticulata,three-tooth ragwort,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,136320,38233,Active,Petradoria pumila,Rock-goldenrod,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,193006,519688,Active,Psilochenia acuminata,Mountain hawksbeard,Crepis acuminata ssp. acuminata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,193008,519689,Active,Psilochenia atribarba,Slender hawksbeard,Crepis atribarba,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,193015,519692,Active,Psilochenia modocensis,Modoc hawksbeard,Crepis modocensis ssp. modocensis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,193019,519694,Active,Psilochenia occidentalis,Western hawksbeard,Crepis occidentalis ssp. occidentalis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,192745,520571,Active,Rudbeckia ampla,Cutleaf coneflower,Rudbeckia laciniata var. ampla,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138491,36148,Active,Senecio integerrimus,Western groundsel,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,196084,521390,Active,Seriphidium novum,Black sagebrush,Artemisia nova,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,210798,526692,Active,Seriphidium tridentatum ssp. wyomingense,Wyoming big sagebrush,Artemisia tridentata ssp. wyomingensis,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,196096,521396,Active,Seriphidium vaseyanum,Mountain big sagebrush,Artemisia tridentata ssp. vaseyana,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,163985,505290,Active,Solidago velutina,Three-nerve goldenrod,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,164843,505369,Active,Stenotus acaulis,stemless goldenweed,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,164846,505370,Active,Stenotus armerioides,Thrift goldenweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,137760,38451,Active,Stephanomeria pauciflora,Brown-plume wire-lettuce,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,Common dandelion,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138072,38494,Active,Tetradymia canescens,Spineless horsebrush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138077,38499,Active,Tetradymia spinosa,Shortspine horsebrush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138088,38508,Active,Tetraneuris acaulis,stemless hymenoxys,Tetraneuris acaulis var. arizonica,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138093,38512,Active,Tetraneuris ivesiana,Canyonlands hymenoxys,Hymenoxys ivesiana,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138096,38515,Active,Tetraneuris torreyana,Torrey's hymenoxys,Hymenoxys torreyana,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,138133,38549,Active,Townsendia incana,Hoary townsendia,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,207181,526776,Active,Tragopogon dubius ssp. major,Yellow salsify,Tragopogon dubius,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,202530,523358,Active,Virgulaster ascendens,Pacific aster,Symphyotrichum ascendens,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,139203,38674,Active,Wyethia amplexicaulis,Mule's-ears,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,139205,38676,Active,Wyethia arizonica,Arizona mulesears,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,166879,505761,Active,Wyethia X magna,Hybrid wyethia,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Asteraceae,139234,38701,Active,Xylorhiza venusta,Cisco woodyaster,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Asterales,Campanulaceae,136183,34497,Active,Campanula rotundifolia,Harebell,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,131119,31807,Active,Cryptantha fendleri,Sand dune cryptanth,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,132059,31813,Active,Cryptantha gracilis,Slender cryptanth,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,132106,31856,Active,Cryptantha pterocarya,Wing-nut cryptanth,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,131089,31780,Active,Cryptantha watsonii,Watson's cryptanth,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,132144,31890,Active,Cynoglossum officinale,Common hound's-tongue,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,132185,31927,Active,Hackelia floribunda,Showy stickseed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,159249,503328,Active,Lappula marginata,Cupseed stickseed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,132851,32046,Active,Lappula redowskii,Western stickseed,Lappula occidentalis var. occidentalis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,159254,503330,Active,Lappula squarrosa,European stickseed,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,132748,31953,Active,Lithospermum ruderale,Western stoneseed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,234649,537494,Active,Mertensia arizonica var. grahamii,Aspen bluebell,Mertensia arizonica,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,130308,31676,Active,Mertensia brevistyla,Short-styled bluebell,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,130299,31668,Active,Mertensia ciliata,Streamside bluebell,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,189536,517912,Active,Oreocarya flavoculata,Yellow-eye cryptanth,Cryptantha flavoculata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Boraginaceae,205831,526407,Active,Plagiobothrys scouleri ssp. penicillatus,Meadow popcorn-flower,Plagiobothrys scouleri var. hispidulus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128523,31391,Active,Hydrophyllum capitatum,Capitate waterleaf,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130219,31596,Active,Phacelia splendens,Patch phacelia,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,123368,23030,Active,Alyssum alyssoides,Pale madwort,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,123370,23032,Active,Alyssum desertorum,Desert madwort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,92940,182002,Active,Alyssum parviflorum,European madwort,"Alyssum minus var. micranthum, Alyssum parviflorum var. micranthum",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,89503,184344,Active,Arabis hirsuta,Hairy rockcress,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,121308,22741,Active,Barbarea vulgaris,European wintercress,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171829,509582,Active,Boechera crandallii,Crandall's rockcress,Arabis crandallii,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171833,509584,Active,Boechera divaricarpa,Deflexed rockcress,Arabis X divaricarpa,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171835,509585,Active,Boechera drummondii,Drummond's rockcress,Arabis drummondii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171837,509586,Active,Boechera fendleri,Nodding rock cress,Arabis fendleri var. fendleri,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171841,509588,Active,Boechera gunnisoniana,Gunnison's rockcress,Arabis gunnisoniana,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171848,509591,Active,Boechera lignifera,Sweetwater rockcress,Arabis lignifera,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171850,509592,Active,Boechera oxylobula,Glenwood Springs rockcress,Arabis oxylobula,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,289896,565716,Active,Boechera pallidifolia,Gunnison County rockcress,Arabis pallidifolia,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,171854,509594,Active,Boechera perennans,Perennial rockcress,Arabis perennans,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,172662,509596,Active,Boechera retrofracta,Holboell's rockcress,Arabis holboellii var. retrofracta,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,172664,509597,Active,Boechera selbyi,Selby's rockcress,Arabis selbyi,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,120479,22599,Active,Camelina microcarpa,Little-pod false flax,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,121335,22766,Active,Capsella bursa-pastoris,Shepherd's-purse,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,124478,23071,Active,Cardaria chalapensis,Orbicular whitetop,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,124508,23099,Active,Chorispora tenella,Blue mustard,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,204738,525566,Active,Descurainia incisa ssp. filipes,Western tansy-mustard,Descurainia pinnata ssp. filipes,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,155277,-502232,Inactive,Descurainia incisa ssp. incisa,Mountain tansy-mustard,Descurainia incana ssp. incisa,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,122349,22834,Active,Descurainia pinnata ssp. nelsonii,western tansy-mustard,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,Flixweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,122393,22874,Active,Draba cuneifolia,Wedgeleaf draba,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,122415,22894,Active,Draba nemorosa,Woods draba,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,122431,22908,Active,Draba reptans,Dwarf draba,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,123259,22932,Active,Erysimum capitatum,Western wallflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,123262,22935,Active,Erysimum cheiranthoides ssp. altum,Worm-seed wallflower,Erysimum cheiranthoides,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,157053,502432,Active,Erysimum inconspicuum,shy wallflower,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,123275,22947,Active,Erysimum repandum,Spreading wallflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,124552,23138,Active,Hesperis matronalis,dame's rocket,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,123290,22960,Active,Lepidium densiflorum,Prairie pepperwort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,215030,528731,Active,Lepidium montanum var. jonesii,Jones' pepperwort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,215032,528732,Active,Lepidium montanum var. montanum,mountain pepperwort,Lepidium montanum ssp. montanum,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,215036,528734,Active,Lepidium montanum var. tenellum,Mountain pepperwort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,123305,22974,Active,Lepidium perfoliatum,Clasping pepperwort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,294980,566257,Active,Lepidium ramosissimum var. bourgeauanum,branched pepperwort,Lepidium ramosissimum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125049,23224,Active,Lesquerella rectipes,Colorado Plateau bladderpod,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,288571,565273,Active,Lesquerella vicina,Colorado bladderpod,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125070,23243,Active,Malcolmia africana,African mustard,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,187058,517559,Active,Noccaea montana,Alpine pennycress,Thlaspi montanum var. montanum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125100,23270,Active,Physaria acutifolia,Sharp-leaf twinpod,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125108,23278,Active,Physaria floribunda,Mesa twinpod,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125115,23284,Active,Physaria rollinsii,Rollins' twinpod,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125931,23296,Active,Schoenocrambe linifolia,Flax-leaved plainsmustard,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,Tumble mustard,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125965,23326,Active,Stanleya albescens,White prince's-plume,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,217758,530546,Active,Stanleya pinnata var. pinnata,prince's-plume,Stanleya pinnata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,125989,23348,Active,Streptanthus cordatus,Heart-leaf jewelflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,126032,23387,Active,Thelypodiopsis elegans,Elegant thelypody,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,161281,505470,Active,Thelypodiopsis juniperorum,Juniper tumblemustard,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Brassicaceae,205101,522994,Active,Turritis glabra,Tower-mustard,Arabis glabra,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Brassicales,Cleomaceae,120526,22640,Active,Cleomella palmeriana,Palmer's stinkweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117557,20719,Active,Amaranthus albus,Tumble pigweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111538,20518,Active,Atriplex canescens,Four-wing saltbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111549,20519,Active,Atriplex confertifolia,Shadscale,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111583,20522,Active,Atriplex corrugata,Mat saltbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,113424,20531,Active,Atriplex gardneri,Gardner's saltbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,116167,20561,Active,Atriplex powellii,Powell's orach,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,169411,509467,Active,Bassia sieversiana,Summer-cypress,Kochia scoparia,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117716,20592,Active,Chenopodium album,Lambsquarter,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117727,20593,Active,Chenopodium atrovirens,Mountain goosefoot,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118274,20606,Active,Chenopodium foliosum,smallhead goosefoot,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118285,20607,Active,Chenopodium fremontii,Fremont's goosefoot,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115517,20692,Active,Halogeton glomeratus,Halogeton,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,158344,503290,Active,Krascheninnikovia lanata,Winterfat,Eurotia lanata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115607,20700,Active,Monolepis nuttalliana,Nuttall's poverty-weed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194154,520946,Active,Salsola australis,Russian-thistle,Salsola tragus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105452,19815,Active,Echinocereus triglochidiatus,claretcup,Echinocereus triglochidiatus var. melanacanthus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Cactaceae,212757,529301,Active,Opuntia fragilis var. brachyarthra,brittle pricklypear,Opuntia fragilis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105964,19724,Active,Opuntia phaeacantha,Berry pricklypear,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105986,19726,Active,Opuntia polyacantha,Plains prickly-pear,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101420,195359,Active,Pediocactus simpsonii var. minor,Simpson's hedgehog cactus,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,109551,19954,Active,Cerastium fontanum,Mouse-ear chickweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,180673,512987,Active,Eremogone congesta,Ball-head sandwort,Arenaria congesta var. congesta,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,180677,512989,Active,Eremogone fendleri,Fendler's sandwort,Arenaria fendleri var. fendleri,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,180680,512990,Active,Eremogone hookeri,Hooker's sandwort,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,180250,513830,Active,Gastrolychnis drummondii,Drummond's catchfly,Silene drummondii var. drummondii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,116042,20358,Active,Pseudostellaria jamesiana,James' chickweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Montiaceae,109712,20390,Active,Claytonia lanceolata,Lanceleaf springbeauty,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Montiaceae,189513,517901,Active,Oreobroma pygmaeum,Alpine bitter-root,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,92025,181898,Active,Abronia argillosa,Clay sand-verbena,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,191717,518057,Active,Oxybaphus linearis,Narrow-leaf four-o'clock,Mirabilis linearis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,168456,508273,Active,Acetosella vulgaris,Sheep sorrel,Rumex acetosella,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,156893,-502334,Active,Eriogonum flavum ssp. flavum,Golden wild buckwheat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119846,21138,Active,Eriogonum gordonii,Gordon's wild buckwheat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119891,21179,Active,Eriogonum leptocladon,sand wild buckwheat,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119898,21185,Active,Eriogonum lonchophyllum,Longleaf wild buckwheat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120751,21230,Active,Eriogonum racemosum,Redroot wild buckwheat,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103671,195597,Active,Eriogonum umbellatum var. aureum,Golden sulphur wild buckwheat,Eriogonum umbellatum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,191655,518737,Active,Persicaria maculata,Lady's-thumb,Polygonum persicaria,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118703,20872,Active,Polygonum arenastrum,Yard knotweed,Polygonum aviculare var. arenastrum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119584,20891,Active,Polygonum douglasii,Douglas' knotweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,205271,524562,Active,Polygonum polygaloides ssp. kelloggii,Kellogg's knotweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,193797,519745,Active,Pterogonum alatum,Winged wild buckwheat,Eriogonum alatum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,Curly dock,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119133,20979,Active,Rumex triangulivalvis,Willow dock,Rumex salicifolius var. mexicanus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Sarcobataceae,116621,20707,Active,Sarcobatus vermiculatus,Greasewood,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117482,22310,Active,Tamarix ramosissima,Five-stamen tamarisk,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Celastrales,Celastraceae,158595,504149,Active,Paxistima myrsinites,Mountain-lover,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Cornaceae,289968,565750,Active,Swida sericea,Red-osier dogwood,Cornus sericea ssp. sericea,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Hydrangeaceae,667072,-743602,Active,Fendlera falcata,Cliff fendler-bush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Hydrangeaceae,123516,24332,Active,Fendlera wrightii,Wright's fendlerbush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Hydrangeaceae,123518,24334,Active,Fendlerella utahensis,Utah fendlerella,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Hydrangeaceae,124431,24437,Active,Philadelphus microphyllus,Littleleaf mock-orange,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Loasaceae,169832,508339,Active,Acrolasia albicaulis,White-stem blazingstar,Mentzelia albicaulis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Loasaceae,169837,508341,Active,Acrolasia dispersa,Nevada stickleaf,Mentzelia dispersa var. dispersa,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Loasaceae,169839,508342,Active,Acrolasia humilis,Thompson's stickleaf,Mentzelia humilis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Cornales,Loasaceae,187134,517595,Active,Nuttallia pterosperma,Wing-seed stickleaf,Mentzelia pterosperma,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Crossosomatales,Crossosomataceae,131387,27954,Active,Forsellesia meionandra,Spiny greasebush,Glossopetalon spinescens var. meionandrum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Dipsacales,Adoxaceae,194188,520962,Active,Sambucus microbotrys,Red elderberry,Sambucus racemosa var. racemosa,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131733,35341,Active,Symphoricarpos rotundifolius,Mountain snowberry,Symphoricarpos oreophilus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Dipsacales,Valerianaceae,207654,526807,Active,Valeriana capitata ssp. acutiloba,Mountain valerian,Valeriana acutiloba var. acutiloba,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ephedrales,Ephedraceae,171347,508106,Active,Ephedra cutleri,Cutler's ephedra,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156860,502319,Active,Ephedra viridis,Green ephedra,Ephedra viridis var. viscida,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Equisetales,Equisetaceae,79672,17152,Active,Equisetum arvense,Field horsetail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Equisetales,Equisetaceae,210182,525951,Active,Hippochaete hyemalis ssp. affinis,Tall scouring-rush,Equisetum hyemale var. affine,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Equisetales,Equisetaceae,182675,514769,Active,Hippochaete laevigata,Smooth scouring-rush,Equisetum laevigatum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Equisetales,Equisetaceae,772649,-9799184,Active,Hippochaete x ferrissii,Ferriss' horsetail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Ericaceae,206420,525253,Active,Arctostaphylos uva-ursi ssp. coactilis,Bearberry,Arctostaphylos uva-ursi,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,138944,31041,Active,Collomia linearis,Small collomia,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,139878,31165,Active,Gilia ophthalmoides,Eyed gilia,"Gilia inconspicua, Gilia sinuata",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,139879,31166,Active,Gilia pentstemonoides,Black Canyon gilia,Aliciella pentstemenoides,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,139881,31168,Active,Gilia pinnatifida,Sticky gilia,Aliciella pinnatifida,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,126973,31193,Active,Ipomopsis aggregata ssp. aggregata,Scarlet gilia,"Ipomopsis aggregata, Gilia aggregata",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,230098,536800,Active,Linanthus harknessii var. septentrionalis,Northern linanthus,Linanthus septentrionalis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,127633,31309,Active,Microsteris gracilis,slender phlox,"Microsteris gracilis ssp. humilis, Phlox gracilis ssp. humilis",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,127651,31325,Active,Navarretia breweri,Yellow navarretia,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,137207,30913,Active,Phlox austromontana,Desert phlox,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,137245,30948,Active,Phlox hoodii,Carpet phlox,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Polemoniaceae,138849,30956,Active,Phlox longifolia,Long-leaf phlox,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Primulaceae,121076,23942,Active,Androsace occidentalis,Western rock-jasmine,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ericales,Primulaceae,121068,23935,Active,Androsace septentrionalis,Pygmy-flower rock-jasmine,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,121437,25426,Active,Astragalus asclepiadoides,Milkweed milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,121493,25477,Active,Astragalus convallarius,Lesser rushy milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,122069,25513,Active,Astragalus falcatus,Russian sickle,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,122072,25516,Active,Astragalus flavus,Yellow milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,96140,192580,Active,Astragalus lentiginosus var. palans,Straggling milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,122138,25576,Active,Astragalus megacarpus,Great bladdery milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,96188,192623,Active,Astragalus miser var. oblongifolius,Rydberg's weedy milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,769357,-9799190,Active,Astragalus nuttallianus var. micranthemiformis,small-flowered milkvetch,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,96383,192679,Active,Astragalus oophorus var. caulescens,egg milkvetch,Astragalus oophorus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,123044,25670,Active,Astragalus scopulorum,Rocky Mountain milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,123072,25696,Active,Astragalus tenellus,Pulse milkvetch,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,123107,25727,Active,Astragalus wingatanus,Fort Wingate milkvetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,121876,26719,Active,Glycyrrhiza lepidota,Nuttall's licorice,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,159270,503338,Active,Lathyrus eucosmus,Seemly sweetpea,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,123915,25857,Active,Lathyrus leucanthus,Whiteflower sweetpea,Lathyrus lanszwertii var. leucanthus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,162956,503575,Active,Lupinus argenteus,Silvery lupine,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,233155,537042,Active,Lupinus caudatus var. utahensis,Utah lupine,Lupinus caudatus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,228313,537159,Active,Lupinus polyphyllus var. prunophilus,Meadow lupine,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,126472,26112,Active,Lupinus sericeus,Silky lupine,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,158887,503721,Active,Medicago lupulina,Black medick,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,Alfalfa,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,184908,516979,Active,Melilotus albus,White sweet-clover,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,Yellow sweet-clover,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,127296,26255,Active,Trifolium gymnocarpon,Dwarf clover,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,127361,26313,Active,Trifolium pratense,Red clover,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,126576,26206,Active,Trifolium repens,White clover,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fabales,Fabaceae,127381,26331,Active,Vicia americana,American vetch,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fagales,Betulaceae,92015,181889,Active,Alnus incana ssp. tenuifolia,Thinleaf alder,Alnus tenuifolia,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Fagales,Fagaceae,102209,19337,Active,Quercus gambelii,Gambel's oak,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Apocynaceae,130900,30157,Active,Apocynum cannabinum,Common dogbane,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Apocynaceae,131811,30257,Active,Asclepias cryptoceras,Pallid milkweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Apocynaceae,131864,30304,Active,Asclepias speciosa,Showy milkweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Apocynaceae,131868,30308,Active,Asclepias subverticillata,Whorled milkweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Gentianaceae,160020,502660,Active,Frasera speciosa,Elkweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Rubiaceae,138015,34826,Active,Galium bifolium,Twin-leaf bedstraw,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Rubiaceae,138038,34847,Active,Galium coloradoense,Colorado bedstraw,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Rubiaceae,180193,513803,Active,Galium septentrionale,Northern bedstraw,Galium boreale,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Gentianales,Rubiaceae,138791,34926,Active,Galium spurium,Cleavers,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,Stork's-bill,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Geraniales,Geraniaceae,130085,29118,Active,Geranium richardsonii,Richardson's crane's-bill,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Lamiaceae,135557,32450,Active,Agastache urticifolia,Nettle-leaf horsemint,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Lamiaceae,135601,32490,Active,Dracocephalum parviflorum,Smallflower dragonhead,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,Common horehound,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Lamiaceae,289323,565302,Active,Mentha arvensis,Field mint,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Lamiaceae,136502,32580,Active,Monardella odoratissima,Stinking horsemint,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Oleaceae,129688,32937,Active,Fraxinus anomala,Singleleaf ash,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,292391,565851,Active,Aphyllon uniflorum,Naked broomrape,Orobanche uniflora,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130408,33102,Active,Castilleja chromosa,Desert paintbrush,Castilleja applegatei ssp. martinii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,133158,33138,Active,Castilleja linariifolia,Wyoming paintbrush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130370,33069,Active,Castilleja miniata,Scarlet paintbrush,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136711,33437,Active,Orthocarpus luteus,Yellow owl-clover,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,137796,33456,Active,Orthocarpus purpureoalbus,Violet owl-clover,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136633,33367,Active,Pedicularis centranthera,Dwarf lousewort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Orobanchaceae,158631,504166,Active,Pedicularis procera,Gray's lousewort,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Phrymaceae,135770,33311,Active,Mimulus floribundus,Seep monkeyflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Phrymaceae,135724,33270,Active,Mimulus rubellus,Reddish monkeyflower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137883,33534,Active,Collinsia parviflora,Blue-eyed Mary,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135654,33207,Active,Limosella aquatica,Mudwort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135664,33216,Active,Linaria vulgaris,Butter-and-eggs,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,231051,538475,Active,Penstemon barbatus var. torreyi,beardlip penstemon,Penstemon barbatus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131596,33839,Active,Penstemon caespitosus,Mat penstemon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,159585,504225,Active,Penstemon retrorsus,Adobe Hills penstemon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130723,33772,Active,Penstemon strictus,Rocky Mountain penstemon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131543,33791,Active,Penstemon watsonii,Watson's penstemon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,Common plantain,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129388,32907,Active,Plantago patagonica,Woolly plantain,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,192054,519272,Active,Pocilla biloba,Two-lobe speedwell,Veronica biloba,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136668,33399,Active,Veronica americana,American brooklime,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136685,33413,Active,Veronica catenata,Chain speedwell,Veronica anagallis-aquatica,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Plantaginaceae,204527,524797,Active,Veronica peregrina ssp. xalapensis,Purslane speedwell,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,133279,34036,Active,Scrophularia lanceolata,Lance-leaf figwort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136663,33394,Active,Verbascum thapsus,Woolly mullein,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,Prostrate vervain,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Liliales,Liliaceae,140655,42849,Active,Calochortus gunnisonii,Gunnison's mariposa,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Liliales,Liliaceae,140671,42863,Active,Calochortus nuttallii,Sego-lily,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Liliales,Liliaceae,161007,502669,Active,Fritillaria atropurpurea,Leopard-lily,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Liliales,Liliaceae,192225,519636,Active,Prosartes trachycarpa,Rough-fruited fairy-bells,Disporum trachycarpum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Liliales,Melanthiaceae,199510,522731,Active,Toxicoscordion paniculatum,Foothills death camas,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Liliales,Melanthiaceae,199512,522732,Active,Toxicoscordion venenosum,Meadow death camas,Zigadenus venenosus var. venenosus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153253,501419,Active,Chamaesyce fendleri,Fendler's spurge,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153260,501422,Active,Chamaesyce glyptosperma,Ridge-seeded spurge,Euphorbia glyptosperma,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,291391,565770,Active,Tithymalus brachycera,Shorthorn spurge,Euphorbia brachycera,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124247,28433,Active,Tragia ramosa,noseburn,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Hypericaceae,122187,21439,Active,Hypericum formosum,Western St. John's-wort,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Linaceae,169893,508368,Active,Adenolinum lewisii,Blue flax,Linum lewisii var. lewisii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Salicaceae,119649,22452,Active,Populus angustifolia,Narrow-leaved cottonwood,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Salicaceae,771285,-9799189,Inactive,Populus deltoides ssp. wislizenii,Rio Grande cottonwood,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Salicaceae,105864,195773,Active,Populus tremuloides,Quaking aspen,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Salicaceae,119734,22529,Active,Salix exigua,Coyote willow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Violaceae,125915,22032,Active,Viola adunca,Hook-spur violet,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Violaceae,290494,565962,Active,Viola biternata,Shelton's violet,Viola sheltonii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Violaceae,290492,565961,Active,Viola scopulorum,Canadian white violet,Viola canadensis var. scopulorum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malpighiales,Violaceae,164585,505722,Active,Viola vallicola,Valley violet,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malvales,Malvaceae,124894,21836,Active,Malva neglecta,Common mallow,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Malvales,Malvaceae,125793,21922,Active,Sphaeralcea coccinea ssp. dissecta,scarlet globemallow,Sphaeralcea coccinea,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,128798,27543,Active,Camissonia scapoidea,Paiute suncup,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,126652,27288,Active,Epilobium brachycarpum,Autumn willow-herb,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,126658,27293,Active,Epilobium ciliatum,Northern willow-herb,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,126671,27304,Active,Epilobium halleanum,Hall's willow-herb,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,129475,27673,Active,Gayophytum diffusum ssp. parviflorum,Diffuse groundsmoke,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,129481,27679,Active,Gayophytum ramosissimum,Branching groundsmoke,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,292218,566061,Active,Oenothera caespitosa ssp. marginata,Long-tube evening-primrose,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Myrtales,Onagraceae,127825,27387,Active,Oenothera coronopifolia,Hairy-throat evening-primrose,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Pinales,Cupressaceae,288900,565639,Active,Sabina osteosperma,Utah juniper,Juniperus osteosperma,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Pinales,Cupressaceae,194587,520682,Active,Sabina scopulorum,Rocky Mountain juniper,Juniperus scopulorum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Pinales,Pinaceae,93051,183307,Active,Picea pungens,Blue spruce,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Pinales,Pinaceae,93083,183336,Active,Pinus edulis,Two-needle pinyon,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Pinales,Pinaceae,93117,183367,Active,Pinus ponderosa ssp. scopulorum,Ponderosa pine,Pinus ponderosa var. scopulorum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Pinales,Pinaceae,93983,183424,Active,Pseudotsuga menziesii,Douglas-fir,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,146164,39585,Active,Carex egglestonii,Eggleston's sedge,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,146195,39612,Active,Carex geophila,White Mountain sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,146196,39613,Active,Carex geyeri,Elk sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,145335,39458,Active,Carex lanuginosa,Woolly sedge,Carex pellita,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,137540,39699,Active,Carex microptera,Small-wing sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,137571,39726,Active,Carex occidentalis,Western sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,137599,39751,Active,Carex petasata,Liddon sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,137616,39767,Active,Carex praegracilis,Blackcreeper sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,137637,39786,Active,Carex rossii,Ross' sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,208396,525418,Active,Carex stenophylla ssp. eleocharis,Narrowleaf sedge,Carex eleocharis,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,138252,39860,Active,Carex vallicola,Valley sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,138268,39875,Active,Carex xerantica,Dryland sedge,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,139107,40032,Active,Eleocharis bolanderi,Bolander's spikerush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,140191,40051,Active,Eleocharis macrostachya,common spikerush,Eleocharis palustris,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Cyperaceae,209869,526643,Active,Schoenoplectus lacustris ssp. acutus,Hardstem bulrush,Schoenoplectus acutus var. acutus,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Juncaceae,203813,525993,Active,Juncus arcticus ssp. ater,Baltic rush,Juncus balticus var. montanus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,Toad rush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Juncaceae,143481,39261,Active,Juncus confusus,Perplexing rush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Juncaceae,158257,503249,Active,Juncus dudleyi,Poverty rush,Juncus tenuis var. dudleyi,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Juncaceae,158272,503256,Active,Juncus longistylis,Longstyle rush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Juncaceae,144356,39311,Active,Juncus saximontanus,Mountain rush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Juncaceae,144366,39320,Active,Juncus torreyi,Torrey's rush,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,168693,507943,Active,Achnatherum hymenoides,Indian ricegrass,Oryzopsis hymenoides,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,168699,507946,Active,Achnatherum lettermanii,Letterman's needlegrass,Stipa lettermanii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,168703,507948,Active,Achnatherum nelsonii,Nelson's needlegrass,Stipa nelsonii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,168716,507954,Active,Achnatherum pinetorum,Pine needlegrass,Stipa pinetorum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,168672,507933,Active,Achnatherum X bloomeri,Bloomer's ricegrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,141881,40372,Active,Agropyron desertorum,Desert wheatgrass,Agropyron cristatum var. desertorum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,666382,-743323,Active,Agropyron mongolicum,Siberian wheatgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,142884,40414,Active,Agrostis gigantea,Redtop,Agrostis stolonifera,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,142895,40424,Active,Agrostis scabra,Ticklegrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,142908,40436,Active,Alopecurus aequalis,Shortawn foxtail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,172425,508871,Active,Anisantha tectorum,Cheatgrass,Bromus tectorum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,90811,185314,Active,Aristida purpurea var. longiseta,Purple three-awn,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,140974,41475,Active,Blepharoneuron tricholepis,Pine dropseed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,175393,509747,Active,Bromopsis canadensis,Fringed brome,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,175406,509753,Active,Bromopsis inermis,Smooth brome,Bromus inermis var. inermis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,175410,509755,Active,Bromopsis lanatipes,Woolly brome,Bromus lanatipes,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,175421,509760,Active,Bromopsis porteri,Nodding brome,Bromus porteri,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,143597,40566,Active,Calamagrostis scopulorum,Jones' reedgrass,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,154678,501106,Active,Calamagrostis stricta,Slimstem reedgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,174074,510598,Active,Ceratochloa carinata,Mountain brome,Bromus carinatus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,172201,510860,Active,Chondrosum gracile,Blue grama,Bouteloua gracilis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,179954,511776,Active,Critesion jubatum,Foxtail barley,Hordeum jubatum ssp. jubatum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,103360,193446,Active,Dactylis glomerata,Orchard grass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,144547,40683,Active,Elymus canadensis,Canada wildrye,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,156044,502264,Active,Elymus elymoides,Squirreltail,Sitanion hystrix,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,144548,40684,Active,Elymus glaucus,Blue wildrye,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,156050,502267,Active,Elymus lanceolatus,Thickspike wheatgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,178061,512829,Active,Elymus longifolius,Squirreltail,Elymus elymoides ssp. brevifolius,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,156082,502282,Active,Elymus trachycaulus,Slender wheatgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,156105,502293,Active,Elytrigia repens,Quackgrass,Elymus repens,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,143273,41717,Active,Eremopyrum triticeum,Annual wheatgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,145647,40809,Active,Festuca arizonica,Arizona fescue,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,145649,40810,Active,Festuca arundinacea,Tall fescue,Lolium arundinaceum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,145655,40816,Active,Festuca idahoensis,Idaho fescue,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,159917,502611,Active,Festuca saximontana,Rocky Mountain fescue,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,145668,40828,Active,Festuca thurberi,Thurber's fescue,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,169441,507974,Active,Hesperostipa comata,Needle-and-thread,Stipa comata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,143329,41768,Active,Hilaria jamesii,Galleta,Pleuraphis jamesii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,158331,503284,Active,Koeleria macrantha,Junegrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,161549,503433,Active,Leymus cinereus,Great Basin wildrye,Elymus cinereus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,161566,503441,Active,Leymus salinus,Salina wildrye,Leymus salina,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,144102,41846,Active,Melica porteri,Porter's melic,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,144142,41882,Active,Monroa squarrosa,False buffalograss,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,144160,41899,Active,Muhlenbergia asperifolia,Scratchgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,144201,41935,Active,Muhlenbergia racemosa,Green muhly,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,158543,504124,Active,Pascopyrum smithii,Western wheatgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,193943,518868,Active,Phalaroides arundinacea,Reed canary grass,Phalaris arundinacea,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,147308,41062,Active,Phleum pratense,Timothy,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,169477,507991,Active,Piptatherum micranthum,Littleseed ricegrass,Oryzopsis micrantha,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,191259,519213,Active,Poa agassizensis,Kentucky bluegrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,148061,41112,Active,Poa bigelovii,Bigelow's bluegrass,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,148065,41116,Active,Poa bulbosa,Bulbous bluegrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,147330,41082,Active,Poa compressa,Canada bluegrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,164251,504467,Active,Poa fendleriana,Muttongrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,148082,41131,Active,Poa glaucifolia,Plains bluegrass,Poa arida,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,206552,526427,Active,Poa nemoralis ssp. interior,Interior bluegrass,Poa interior,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,Kentucky bluegrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,147354,41103,Active,Poa secunda,Sandberg's bluegrass,Poa juncifolia,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,159857,504637,Active,Pseudoroegneria spicata,bluebunch wheatgrass,"Pseudoroegneria spicata ssp. spicata, Agropyron spicatum, Pseudoroegneria spicata ssp. inermis, Agropyron spicatum var. inerme",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,Sand dropseed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,202189,522540,Active,Thinopyrum intermedium,intermediate wheatgrass,Agropyron intermedium,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Poaceae,207158,526765,Active,Thinopyrum intermedium ssp. barbulatum,Intermediate wheatgrass,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Poales,Typhaceae,147660,42326,Active,Typha latifolia,Broad-leaved cattail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,79562,17535,Active,Dryopteris filix-mas,Male fern,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Polypodiales,Pteridaceae,152871,500965,Active,Argyrochosma fendleri,Fendler's false cloakfern,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81606,17441,Active,Cheilanthes feei,Slender lip-fern,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84468,17482,Active,Cystopteris fragilis,Brittle bladder fern,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,156239,501960,Active,Cystopteris reevesiana,Southwestern bladder fern,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,204602,524832,Active,Woodsia oregana ssp. cathcartiana,Oregon woodsia,Woodsia oregana,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104803,195033,Active,Mahonia fremontii,Fremont's mahonia,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104816,195045,Active,Mahonia repens,Oregon-grape,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Papaveraceae,99305,18999,Active,Corydalis aurea,Golden corydalis,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Papaveraceae,204648,525523,Active,Corydalis curvisiliqua ssp. occidentalis,Golden corydalis,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92008,181882,Active,Actaea rubra ssp. arguta,Red baneberry,Actaea rubra,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96256,18735,Active,Aquilegia elegantula,Elegant columbine,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97141,18743,Active,Aquilegia micrantha,Alcove columbine,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,173794,509365,Active,Atragene columbiana,Columbian virgin's-bower,Clematis columbiana var. columbiana,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,174072,510597,Active,Ceratocephala orthoceras,Bur buttercup,Ceratocephala testiculata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93504,18702,Active,Clematis ligusticifolia,White virgin's-bower,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,175042,511418,Active,Coriflora hirsutissima,Sugar-bowls,Clematis hirsutissima var. hirsutissima,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92831,18483,Active,Delphinium nuttallianum,Nuttall's larkspur,Delphinium nelsonii,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,88242,18503,Active,Delphinium ramosum,mountain larkspur,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,293965,566171,Active,Halerpestes cymbalaria ssp. saximontana,marsh buttercup,"Ranunculus cymbalaria, Halerpestes cymbalaria",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,185962,514461,Active,Hecatonia scelerata,Blister buttercup,Ranunculus sceleratus var. sceleratus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,99597,18785,Active,Myosurus cupulatus,Horseshoe mousetail,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,194928,519773,Active,Pulsatilla ludoviciana,pasqueflower,Pulsatilla patens ssp. multifida,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,217825,529967,Active,Ranunculus glaberrimus var. ellipticus,Sagebrush buttercup,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91431,18670,Active,Thalictrum fendleri,Fendler's meadow-rue,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Cannabaceae,102979,19045,Active,Celtis reticulata,Netleaf hackberry,Celtis laevigata var. reticulata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rhamnaceae,124284,28467,Active,Ceanothus fendleri,Fendler's mountain-lilac,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rhamnaceae,124741,28517,Active,Ceanothus velutinus,Deer-brush,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,129583,25109,Active,Amelanchier alnifolia,Saskatoon serviceberry,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,129597,25121,Active,Amelanchier utahensis,Utah serviceberry,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,91112,184598,Active,Argentina anserina,Silverweed,Potentilla anserina,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,129613,25136,Active,Cercocarpus montanus,Alder-leaf mountain mahogany,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,178987,512537,Active,Drymocallis arguta,Tall cinquefoil,Potentilla arguta ssp. arguta,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,184266,513227,Active,Erythrocoma triflora,Prairie smoke,Geum triflorum var. triflorum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,126259,24637,Active,Fragaria vesca ssp. bracteata,Woodland strawberry,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,126264,24641,Active,Fragaria virginiana ssp. glauca,Virginia strawberry,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,130594,25177,Active,Holodiscus discolor,Bush oceanspray,Holodiscus dumosus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,208140,526301,Active,Padus virginiana ssp. melanocarpa,Western chokecherry,"Prunus virginiana, Prunus virginiana var. melanocarpa",Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,120326,25270,Active,Peraphyllum ramosissimum,Squaw-apple,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,120328,25272,Active,Petrophyton caespitosum,Rock spiraea,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,127016,24718,Active,Potentilla hippiana,Woolly cinquefoil,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,127030,24730,Active,Potentilla norvegica,Norwegian cinquefoil,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,159749,504586,Active,Potentilla pulcherrima,Beautiful cinquefoil,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,772650,-9799186,Active,Potentilla pulcherrima x hippiana,Hybrid cinquefoil,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,120348,25290,Active,Purshia tridentata,Antelope bitterbrush,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,127958,24847,Active,Rosa woodsii,Woods' rose,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,177176,-510797,Inactive,Rubus armeniacus,Himalayan blackberry,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Rosaceae,208595,526559,Active,Rubus idaeus ssp. melanolasius,Common red raspberry,Rubus idaeus ssp. strigosus,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Ulmaceae,103773,19057,Active,Ulmus pumila,Siberian elm,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Urticaceae,101640,19169,Active,Parietaria pensylvanica,Pennsylvania pellitory,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Rosales,Urticaceae,197302,523059,Active,Urtica gracilis,Stinging nettle,Urtica dioica ssp. gracilis,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Santalales,Santalaceae,131317,27891,Active,Arceuthobium divaricatum,pinyon dwarf-mistletoe,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Santalales,Santalaceae,155905,501614,Active,Comandra umbellata,bastard toadflax,Comandra umbellata ssp. pallida,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Santalales,Santalaceae,131289,27866,Active,Phoradendron juniperinum,Juniper mistletoe,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Sapindales,Anacardiaceae,207900,526551,Active,Rhus aromatica ssp. trilobata,Squawbush,Rhus trilobata var. trilobata,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126776,28782,Active,Rhus glabra,Smooth sumac,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126821,28822,Active,Toxicodendron rydbergii,Western poison ivy,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Sapindales,Sapindaceae,126732,28742,Active,Acer glabrum,Rocky Mountain maple,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Sapindales,Sapindaceae,206837,526197,Active,Negundo aceroides ssp. interius,Box elder,Acer negundo ssp. interius,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Sapindales,Simaroubaceae,126826,28827,Active,Ailanthus altissima,tree-of-heaven,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Crassulaceae,169109,508713,Active,Amerosedum lanceolatum,Lance-leaved stonecrop,Sedum lanceolatum ssp. lanceolatum,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125256,24457,Active,Ribes cereum,Wax currant,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125274,24473,Active,Ribes inerme,Whitestem gooseberry,,Probably Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125280,24479,Active,Ribes leptanthum,Trumpet gooseberry,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125318,24512,Active,Ribes wolfii,Wolf currant,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,173986,511007,Active,Ciliaria austromontana,Spotted saxifrage,Saxifraga bronchialis ssp. austromontana,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124352,24366,Active,Heuchera parvifolia,littleleaf alumroot,Heuchera parvifolia var. parvifolia,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124384,24395,Active,Lithophragma glabrum,Fringecup woodlandstar,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124391,24400,Active,Lithophragma tenellum,Slender woodlandstar,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,219243,530603,Active,Sullivantia hapemanii var. purpusii,Hapeman's sullivantia,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,74271,17076,Active,Selaginella densa,Dense spike-moss,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,75186,17086,Active,Selaginella mutica,Blunt-leaf spike-moss,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,Field bindweed,,Present
+BLCA,Black Canyon of the Gunnison National Park,Vascular Plant,6,Solanales,Solanaceae,163006,503599,Active,Lycium barbarum,Matrimony-vine,,Present

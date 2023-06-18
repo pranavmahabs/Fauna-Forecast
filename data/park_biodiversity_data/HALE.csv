@@ -1,0 +1,868 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+HALE,Haleakala National Park,Mammal,1,Artiodactyla,Bovidae,86816,183838,Active,Bos taurus,feral cattle,,Present
+HALE,Haleakala National Park,Mammal,1,Artiodactyla,Bovidae,95065,180715,Active,Capra hircus,feral goat,,Present
+HALE,Haleakala National Park,Mammal,1,Artiodactyla,Cervidae,264828,552474,Active,Axis axis,Axis deer,,Present
+HALE,Haleakala National Park,Mammal,1,Artiodactyla,Suidae,95073,180722,Active,Sus scrofa,"feral pig, pig, pua`a",,Present
+HALE,Haleakala National Park,Mammal,1,Carnivora,Canidae,86124,183815,Active,Canis familiaris,domestic dog,,Present
+HALE,Haleakala National Park,Mammal,1,Carnivora,Felidae,86104,183798,Active,Felis catus,Domestic Cat,Felis silvestris,Present
+HALE,Haleakala National Park,Mammal,1,Carnivora,Herpestidae,264257,552467,Active,Herpestes javanicus,small Indian mongoose,,Present
+HALE,Haleakala National Park,Mammal,1,Carnivora,Phocidae,1282038,1133135,Active,Neomonachus schauinslandi,Hawaiian monk seal,Monachus schauinslandi,Present
+HALE,Haleakala National Park,Mammal,1,Chiroptera,Vespertilionidae,106782,202344,Active,Lasiurus cinereus semotus,Hawaiian Hoary Bat,,Present
+HALE,Haleakala National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,"`iole, house mouse",,Present
+HALE,Haleakala National Park,Mammal,1,Rodentia,Muridae,91760,180364,Active,Rattus exulans,"Polynesian rat, ʻiole",,Present
+HALE,Haleakala National Park,Mammal,1,Rodentia,Muridae,91759,180363,Active,Rattus norvegicus,Norway rat,,Present
+HALE,Haleakala National Park,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,"black rat, roof rat",,Present
+HALE,Haleakala National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Probably Present
+HALE,Haleakala National Park,Bird,2,Anseriformes,Anatidae,77718,175016,Active,Branta sandvicensis,"Nēnē, Hawaiian Goose",Nesochen sandvicensis,Present
+HALE,Haleakala National Park,Bird,2,Charadriiformes,Charadriidae,265872,554381,Active,Pluvialis fulva,Pacific Golden Plover,,Present
+HALE,Haleakala National Park,Bird,2,Charadriiformes,Laridae,153317,-501449,Inactive,Anous minutus melanogenys,"Black Noddy, ʻEkiʻeki, Hawaiian Noddy, Noio",,Present
+HALE,Haleakala National Park,Bird,2,Charadriiformes,Scolopacidae,77702,176571,Active,Arenaria interpres,"ʻAkekeke, Ruddy Turnstone",,Present
+HALE,Haleakala National Park,Bird,2,Charadriiformes,Scolopacidae,79242,176630,Active,Tringa incana,"ʻŪlili, Wandering Tattler",Heteroscelus incanus,Present
+HALE,Haleakala National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Dove,,Present
+HALE,Haleakala National Park,Bird,2,Columbiformes,Columbidae,83485,177196,Active,Geopelia striata,Zebra Dove,,Present
+HALE,Haleakala National Park,Bird,2,Columbiformes,Columbidae,82747,177134,Active,Streptopelia chinensis,Spotted Dove,,Present
+HALE,Haleakala National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Probably Present
+HALE,Haleakala National Park,Bird,2,Galliformes,Phasianidae,84331,175908,Active,Alectoris chukar,Chukar Partridge,,Present
+HALE,Haleakala National Park,Bird,2,Galliformes,Phasianidae,86412,176100,Active,Chrysolophus pictus,Golden Pheasant,,Present
+HALE,Haleakala National Park,Bird,2,Galliformes,Phasianidae,84328,175905,Active,Phasianus colchicus,Ring-necked Pheasant,,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Alaudidae,87353,178398,Active,Alauda arvensis,"Eurasian Skylark, Skylark",,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Cardinalidae,94228,179124,Active,Cardinalis cardinalis,Northern Cardinal,,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Cettiidae,920235,916919,Active,Horornis diphone,Japanese Bush-warbler,Cettia diphone,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Estrildidae,916101,916654,Active,Euodice cantans,"African Silverbill, Warbling Silverbill",Lonchura malabarica,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Estrildidae,86184,179619,Active,Lonchura punctulata,"Nutmeg Mannikin, Scaly-breasted Munia",,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,1004280,998204,Active,Chlorodrepanis virens wilsoni,Hawaiʻi ʻAmakihi,"Hemignathus virens wilsoni, Chlorodrepanis virens",Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,1003003,,Active,Drepanis coccinea,ʻIʻiwi,Vestiaria coccinea,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,1005332,997805,Active,Haemorhous mexicanus,House Finch,Carpodacus mexicanus,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,636734,729571,Active,Hemignathus lucidus affinis,"Maui Nukupu`u, Nukupu`u",,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,264100,554266,Active,Himatione sanguinea,ʻApapane,Himatione sanguinea sanguinea,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,1005169,997966,Active,Loxops ochraceus,Maui ‘Akepa,Loxops coccineus ochraceus,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,86148,179587,Active,Palmeria dolei,"‘Akohekohe, akohekohe, crested honeycreeper",,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,636742,729575,Active,Paroreomyza montana newtoni,"Maui ʻAlauahio, Maui Creeper, ʻAlauahio",,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Fringillidae,86155,179593,Active,Pseudonestor xanthophrys,Maui Parrotbill,,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Leiothrichidae,91001,178834,Active,Garrulax canorus,"Hwamei, Melodious Laughing Thrush",,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Leiothrichidae,91004,178837,Active,Leiothrix lutea,Red-billed Leiothrix,,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Sturnidae,265051,554025,Active,Acridotheres tristis,Common Myna,,Present
+HALE,Haleakala National Park,Bird,2,Passeriformes,Zosteropidae,88104,179912,Active,Zosterops japonicus,Japanese White-eye,,Present
+HALE,Haleakala National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,"Cattle Egret, Western Cattle Egret",,Present
+HALE,Haleakala National Park,Bird,2,Pelecaniformes,Ardeidae,84483,174833,Active,Nycticorax nycticorax hoactli,"ʻAukuʻu, Black-crowned Night Heron",Nycticorax nycticorax,Present
+HALE,Haleakala National Park,Bird,2,Phaethontiformes,Phaethontidae,83373,174676,Active,Phaethon lepturus,"koa`e kea, White-tailed tropicbird",,Present
+HALE,Haleakala National Park,Bird,2,Procellariiformes,Hydrobatidae,82526,174636,Active,Oceanodroma castro,"ʻĀkeʻāke, Band-rumped Storm Petrel",,Present
+HALE,Haleakala National Park,Bird,2,Procellariiformes,Procellariidae,285692,562561,Active,Pterodroma sandwichensis,"ʻUaʻu, Hawaiian Petrel",,Present
+HALE,Haleakala National Park,Bird,2,Procellariiformes,Procellariidae,106518,202223,Active,Puffinus newelli,"ʻAʻo, Newellʻs Shearwater",Puffinus auricularis newelli,Present
+HALE,Haleakala National Park,Bird,2,Strigiformes,Strigidae,546649,687200,Active,Asio flammeus sandwichensis,"Pueo, Hawaiian Short-eared Owl",,Present
+HALE,Haleakala National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,"Barn Owl, Western Barn Owl",,Present
+HALE,Haleakala National Park,Bird,2,Suliformes,Fregatidae,888579,824200,Active,Fregata minor palmerstoni,"ʻIwa, Great Frigatebird",Fregata minor,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Gekkonidae,78925,174046,Active,Gehyra mutilata,stump-toed gecko,,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Gekkonidae,78936,174056,Active,Hemidactylus frenatus,"bridled house gecko, common house gecko",,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Gekkonidae,78937,174057,Active,Hemidactylus garnotii,Indo-Pacific gecko,,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Gekkonidae,78942,174061,Active,Hemiphyllodactylus typus,Indo-Pacific tree gecko,,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Gekkonidae,78944,174063,Active,Lepidodactylus lugubris,mourning gecko,,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Scincidae,78443,173975,Active,Cryptoblepharus poecilopleurus,Oceanic snake-eyed skink,,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Scincidae,78466,173996,Active,Lampropholis delicata,metallic skink,,Present
+HALE,Haleakala National Park,Reptile,3,Squamata,Typhlopidae,80860,174341,Active,Ramphotyphlops braminus,Brahminy blind snake,,Present
+HALE,Haleakala National Park,Reptile,3,Testudines,Cheloniidae,77482,173833,Active,Chelonia mydas,"green sea turtle, honu",,Present
+HALE,Haleakala National Park,Amphibian,4,Anura,Bufonidae,83330,173489,Active,Bufo marinus,"cane toad, giant toad",,Present
+HALE,Haleakala National Park,Amphibian,4,Anura,Ranidae,83278,173441,Active,Rana catesbeiana,Bullfrog,,Present
+HALE,Haleakala National Park,Amphibian,4,Anura,Ranidae,83297,173459,Active,Rana rugosa,Wrinkled frog,,Present
+HALE,Haleakala National Park,Fish,5,Mugiliformes,Mugilidae,81281,170335,Active,Mugil cephalus,`ama`ama,,Probably Present
+HALE,Haleakala National Park,Fish,5,Perciformes,Eleotridae,83609,171930,Active,Eleotris sandwicensis,"Sandwich Island sleeper, ʻoʻopu akupa",,Present
+HALE,Haleakala National Park,Fish,5,Perciformes,Gobiidae,82221,171887,Active,Awaous stamineus,ʻoʻopu nakea,Awaous guamensis,Present
+HALE,Haleakala National Park,Fish,5,Perciformes,Gobiidae,83623,171943,Active,Lentipes concolor,oʻopu ʻalamoʻo,,Present
+HALE,Haleakala National Park,Fish,5,Perciformes,Gobiidae,267178,553350,Active,Sicyopterus stimpsoni,"Stimpsonʻs goby, ʻoʻopu nopili",,Present
+HALE,Haleakala National Park,Fish,5,Perciformes,Gobiidae,268163,553356,Active,Stenogobius hawaiiensis,ʻoʻopu naniha,,Present
+HALE,Haleakala National Park,Fish,5,Perciformes,Kuhliidae,71234,168085,Active,Kuhlia sandvicensis,"flagtail, āholehole",,Present
+HALE,Haleakala National Park,Vascular Plant,6,,,156047,-502265,Active,Dubautia dolosa X scabra,na`ena`e,"Railliardia thyrsiflora, Dubautia thrysifolia, Railliardia coriacea",Present
+HALE,Haleakala National Park,Vascular Plant,6,,,160167,-502931,Inactive,Solenostemon scutellarioides,"coleus, welweka",Plectranthus scutellarioides,Present
+HALE,Haleakala National Park,Vascular Plant,6,,Vittariaceae,161806,-504358,Active,Haplopteris elongata,"`ohe`ohe, mana","Haplopteris zosterifolia, Vittaria rigida",Present
+HALE,Haleakala National Park,Vascular Plant,6,Alismatales,Araceae,149458,42557,Active,Alocasia macrorrhizos,"taʻamu, giant taro",Alocasia macrorrhiza,Present
+HALE,Haleakala National Park,Vascular Plant,6,Alismatales,Araceae,148600,42549,Active,Colocasia esculenta,"kalo, taro",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Alismatales,Araceae,156890,502333,Active,Epipremnum pinnatum,"pothos, taro vine",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Alismatales,Araceae,159317,503360,Active,Lemna aequinoctialis,"common duckweed, least duckweed, lesser duckweed",Lemna minor,Present
+HALE,Haleakala National Park,Vascular Plant,6,Alismatales,Araceae,149475,42572,Active,Philodendron,,Philodendron sp. 1,Present
+HALE,Haleakala National Park,Vascular Plant,6,Alismatales,Araceae,169717,506755,Active,Xanthosoma robustum,common `ape,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Apiaceae,134753,29612,Active,Centella asiatica,"Asiatic pennywort, pohe kula",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Apiaceae,133449,29509,Active,Foeniculum vulgare,sweet fennel,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Apiaceae,126388,29817,Active,Petroselinum crispum,parsley,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Apiaceae,160060,505006,Active,Sanicula sandwicensis,Hawai'i blacksnakeroot,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Araliaceae,203445,523848,Active,Cheirodendron trigynum ssp. trigynum,"`olapa, lapalapa, olapa","Cheirodendron trigynum var. confertiflorum, Cheirodendron trigynum var. mauiensis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Araliaceae,133456,29515,Active,Hydrocotyle verticillata,"marsh pennywort, pohepohe",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Araliaceae,848390,822366,Active,Polyscias kavaiensis,`ohe`ohe,Tetraplasandra kavaiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Araliaceae,848391,822367,Active,Polyscias oahuensis,‘ohe mauka,"Tetraplasandra meiandra var. mauiensis, Tetraplasandra oahuensis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Pittosporaceae,121758,24074,Active,Pittosporum confertiflorum,"ha`awa, ho`awa, hoawa",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Pittosporaceae,121763,24079,Active,Pittosporum glabrum,papahekili,"Pittosporum glabrum var. tinifolium, Pittosporum insigne",Present
+HALE,Haleakala National Park,Vascular Plant,6,Apiales,Pittosporaceae,121773,24088,Active,Pittosporum terminalioides,"ha`awa, haawa, ho`awa, hoawa",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Aquifoliales,Aquifoliaceae,131988,28014,Active,Ilex anomala,kawa`u,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Arecales,Arecaceae,148492,42451,Active,Cocos nucifera,"coconut plam, niu",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Arecales,Arecaceae,148498,42457,Active,Phoenix,date palm,Phoenix sp. 1,Present
+HALE,Haleakala National Park,Vascular Plant,6,Arecales,Arecaceae,148505,42463,Active,Pritchardia arecina,"hawane, lo`ulu, loulu",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,157068,-502439,Inactive,Hippeastrum striatum,barbados lily,Hippeastrum puniceum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,166355,507369,Active,Pancratium littorale,spider lily,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Asparagaceae,144275,43183,Active,Cordyline fruticosa,"ti, kī",Cordyline terminalis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Asparagaceae,161054,502691,Active,Furcraea foetida,Mauritius hemp,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Asparagaceae,164207,504446,Active,Pleomele auwahiensis,"le`ie, halapepe",Pleomele aurea,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Asteliaceae,144268,43177,Active,Astelia menziesiana,"kaluaha, pa'iniu","Astelia degeneri, Astelia forbesii, Astelia forbesii ssp. pachysperma",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Iridaceae,145215,43293,Active,Gladiolus,gladiolus,Gladiolus sp. 1,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Iridaceae,162913,505241,Active,Sisyrinchium acre,mau`u-ho`ula-`ili,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Iridaceae,166835,505740,Active,Watsonia borbonica,Cape bugle-lily,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,149709,43723,Active,Anoectochilus sandvicensis,Hawai'i jeweled orchid,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,91670,185494,Active,Arundina graminifolia,bamboo orchid,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,148018,43580,Active,Epidendrum X obrienianum,"baby orchid, butterfly orchid, scarlet orchid",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,146986,43402,Active,Habenaria repens,"waterspider bog orchid, waterspider false reinorchid",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,149599,43624,Active,Liparis hawaiensis,`awapuhi-a-kanaloa,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,785109,894770,Active,Phaius tankervilleae,nun's-hood orchid,Phaius tancarvilleae,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,159149,-502908,Active,Schomburgkia,,Schomburgkia sp. 1,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Orchidaceae,151013,43771,Active,Spathoglottis plicata,malayan ground orchid,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asparagales,Xanthorrhoeaceae,144277,43185,Active,Dianella sandwicensis,'uki,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139916,38718,Active,Adenostemma viscosum,kamanamana,Adenostemma lavenia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,141373,36465,Active,Ageratina adenophora,Maui pamakani,Eupatorium adenophorum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,141387,36478,Active,Ageratina riparia,Hamakua pamakani,Eupatorium riparium,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,141391,36481,Active,Ageratum conyzoides,"maile hohono, maile honohono, maile kula",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139925,38726,Active,Argyroxiphium grayanum,"asa gray greensword, greensword",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,748823,-9789035,Active,Argyroxiphium grayanum X Dubautia dolosa,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,747959,-9789029,Active,Argyroxiphium grayanum X Dubautia plantaginea,hybrid,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,746718,-9788793,Active,Argyroxiphium grayanum X Dubautia scabra,hybrid,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,89885,185198,Active,Argyroxiphium sandwicense ssp. macrocephalum,‘ahinahina,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,133651,35509,Active,Artemisia mauiensis,"`ahinahina, Maui wormwood",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,222157,532356,Active,Artemisia mauiensis var. diffusa,"Maui Wormwood, `Ahinahina",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,133653,35510,Active,Aster,aster,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,109434,196224,Active,Bidens alba var. radiata,"bidens, romerillo",Bidens alba,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,200643,523679,Active,Bidens campylotheca ssp. pentamera,ko‘oko‘olau,Bidens pentamera,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,200646,523680,Active,Bidens campylotheca ssp. waihoiensis,ko‘oko‘olau,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,200654,523684,Active,Bidens hillebrandiana ssp. polycephala,ko`oko`olau,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,109430,196220,Active,Bidens micrantha ssp. kalealaha,"ko‘oloa‘ula, Kalealaha beggarticks",Bidens micrantha,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,134696,35731,Active,Bidens pilosa,"ki-nehe, spanish needle",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,135959,35788,Active,Carduus pycnocephalus,"compact-headed thistle, Italian plumeless thistle, Italian thistle",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,136826,36965,Active,Centaurea melitensis,yellow-star thistle,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,"bull thistle, pua kala",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,138584,37112,Active,Conyza bonariensis,hairy horseweed,Erigeron bonariensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,212075,527476,Active,Conyza canadensis var. canadensis,Canadian horseweed,Erigeron canadensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,212079,527478,Active,Conyza canadensis var. pusilla,"lani wela, horseweed",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,135974,35800,Active,Cotula australis,australian brass buttons,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,156002,501660,Active,Crassocephalum crepidioides,redflower ragleaf,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,138661,37182,Active,Crepis capillaris,european hawksbeard,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,286432,565115,Active,Cyanthillium cinereum,little ironweed,Vernonia cinerea,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,200296,524001,Active,Dubautia linearis ssp. linearis,shrubland dubautia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,156049,-502266,Active,Dubautia linearis X menziesii,na`ena`e,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139952,38750,Active,Dubautia menziesii,na`ena`e,Railliardia menziesii,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,156051,-502267,Active,Dubautia menziesii X reticulata,,"Railliardia montana var. robustior, Dubautia demissifolia, Dubautia montana var. robustior",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,156053,-502268,Active,Dubautia menziesii X scabra,na`ena`e,"Railliardia demissifolia var. verticillata, Dubautia demissifolia var. verticillata",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,200304,524005,Active,Dubautia plantaginea ssp. plantaginea,plantainleaf dubautia,Dubautia plantaginea var. platyphylla,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,156055,-502269,Active,Dubautia plantaginea X scabra,na`ena`e,Railliardia lonchophylla,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139959,38757,Active,Dubautia platyphylla,na`ena`e,Railliardia platyphylla,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,156058,-502270,Active,Dubautia platyphylla X scabra,na`ena`e,Railliardia rockii,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139961,38759,Active,Dubautia reticulata,na`ena`e,"Railliardia reticulata, Railliardia montana var. longifolia",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,200306,524006,Active,Dubautia scabra ssp. leiophylla,rough dubautia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,200308,524007,Active,Dubautia scabra ssp. scabra,rough dubautia,"Dubautia scabra, Railliardia lonchophylla var. stipitata",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,180073,512607,Active,Dubautia waianapanapaenis,na‘ena‘e,"Argyroxiphium sandwicense ssp. macrocephalum X Dubautia menziesii, Railliardia X dolosa, Dubautia dolosa",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,109436,196226,Active,Eclipta prostrata,false daisy,Eclipta alba,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139593,37301,Active,Elephantopus mollis,"cucha-cara, elephantopus, lengua de vaca, soft elephantsfoot, yerba de caballo",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139596,37304,Active,Emilia fosbergii,Florida tasselflower,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,211985,527876,Active,Emilia sonchifolia var. sonchifolia,lilac tasselflower,Emilia sonchifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,169405,505920,Active,Erechtites hieracifolia,fireweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139616,37322,Active,Erechtites valerianifolia,fireweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,170685,507607,Active,Euchiton japonicus,father-and-child plant,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,287397,565178,Active,Euchiton sphaericus,cudweed,Gnaphalium japonicum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,140515,37414,Active,Galinsoga parviflora,galinsoga,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,140523,37421,Active,Gamochaeta purpurea,purple cudweed,Gnaphalium purpureum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,142130,37668,Active,Heterotheca grandiflora,telegraph weed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,143092,37794,Active,Hypochaeris radicata,"hairy cat's ear, gosmore",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139989,38784,Active,Keysseria maviensis,howai'a'ulu,Lagenifera maviensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,143677,37830,Active,Lapsana communis,nipplewort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,159005,-502572,Active,Madia sativa var. sativa,"Chile tarweed, coast tarweed",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,109449,196238,Active,Pluchea carolinensis,sour bush,Pluchea symphytifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,159843,504630,Active,Pseudelephantopus spicatus,dog's-tongue,Elephantopus spicatus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,171201,507661,Active,Pseudognaphalium sandwicensium,‘ena‘ena,Gnaphalium sandwicensium,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,769492,780943,Active,Pseudognaphalium sandwicensium var. hawaiiense,‘ena‘ena,"Pseudognaphalium sandwicensium ssp. hawaiiense, Gnaphalium sandwicensium var. hawaiiense",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,769483,780946,Active,Pseudognaphalium sandwicensium var. sandwicensium,‘ena‘ena,"Pseudognaphalium sandwicensium ssp. sandwicensium, Gnaphalium sandwicensium var. sandwicensium",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,168967,507500,Active,Senecio madagascariensis,fireweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,162142,505138,Active,Senecio sylvaticus,wood groundsel,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,137684,38383,Active,Sigesbeckia orientalis,common St. Paul's wort,Siegesbeckia orientalis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,137730,38424,Active,Sonchus asper,prickly sow thistle,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,137733,38427,Active,Sonchus oleraceus,"pua-lele, sow thistle",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,287295,565537,Active,Sphagneticola trilobata,"Bay Biscayne creeping oxeye, wedelia",Wedelia trilobata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,138052,38476,Active,Synedrella nodiflora,synedrella,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,165535,505434,Active,Tanacetum parthenium,feverfew,Chrysanthemum parthenium,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,dandelion,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,203879,524748,Active,Tetramolopium humile ssp. haleakalae,alpine tetramolopium,Tetramolopium humile,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,138162,38575,Active,Tridax procumbens,"cadillo chisaca, coat buttons, coatbuttons, tridax",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139123,38601,Active,Verbesina encelioides,golden crown-beard,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,215543,530872,Active,Xanthium strumarium var. canadense,"Canada cocklebur, cocklebur, cockleburr, common cocklebur, rough cocklebur, rough cockleburr",Xanthium strumarium,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139237,38704,Active,Youngia japonica,oriental hawksbeard,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Asteraceae,139914,38716,Active,Zinnia peruviana,Peruvian zinnia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,203489,523869,Active,Clermontia arborescens ssp. arborescens,'oha wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,203492,523870,Active,Clermontia arborescens ssp. waihiae,`oha wai nui,Clermontia arborescens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,203498,523873,Active,Clermontia grandiflora ssp. grandiflora,bog clermontia,Clermontia reticulata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,137015,34643,Active,Clermontia kakeana,"`oha, `oha-wai, haha",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,203506,523877,Active,Clermontia samuelii ssp. samuelii,Hana clermontia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,137041,34667,Active,Clermontia tuberculata,"`oha, `oha-wai, haha",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,137047,34672,Active,Cyanea aculeatiflora,"haha, haha-nui",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,137052,34677,Active,Cyanea asplenifolia,haha,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,204823,523919,Active,Cyanea copelandii ssp. haleakalaensis,"haha, treetrunk cyanea",Cyanea multispicata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,155052,501861,Active,Cyanea elliptica,"`aku, haha, haha-nui",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,155056,501863,Active,Cyanea glabra,"haha, haha nui","Cyanea holophylla var. obovata, Cyanea scabra var. variabilis f. variabilis, Cyanea scabra var. variabilis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,204838,523926,Active,Cyanea hamatiflora ssp. hamatiflora,"haha, haha nui",Cyanea hamatiflora,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,137086,34707,Active,Cyanea horrida,"haha-nui, prickly cyanea",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,137088,34709,Active,Cyanea kunthiana,"haha, haha-nui",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,109416,196208,Active,Cyanea macrostegia ssp. macrostegia,purple cyanea,Cyanea macrostegia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,162271,503512,Active,Lobelia gloria-montis,pu`e,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,162273,503513,Active,Lobelia grayana,`opelu,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,162277,503515,Active,Lobelia hillebrandii,`opelu,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,162279,503516,Active,Lobelia hypoleuca,"`opelu, kuhi-`ai-kamo`o-wahie, mo`o-wahie",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Campanulaceae,162593,505566,Active,Trematolobelia macrostachys,koli`i,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Goodeniaceae,137955,34772,Active,Scaevola chamissoniana,"naupaka, naupaka-kuahiwi",Scaevola chamissoniana var. bracteosa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Asterales,Goodeniaceae,137966,34782,Active,Scaevola taccada,"naupaka kahakai, beach naupaka",Scaevola sericea,Present
+HALE,Haleakala National Park,Vascular Plant,6,Boraginales,Cordiaceae,131071,31764,Active,Cordia subcordata,kou,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130263,31635,Active,Heliotropium curassavicum,"kipukai, lau po`opo`ohina, nena, po`opo`ohina",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,162539,505540,Active,Tournefortia argentea,tree heliotrope,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,121335,22766,Active,Capsella bursa-pastoris,"shepherdspurse, shepherd's-purse",Capsella rubella,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,121367,22795,Active,Cardamine flexuosa,bittercress,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,124560,23145,Active,Iberis umbellata,candytuft,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,184661,515763,Active,Lepidium didymum,lesser swinecress,Coronopus didymus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,123284,22955,Active,Lepidium virginicum,wild peppergrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,125062,23236,Active,Lobularia maritima,"lobularia, seaside lobularia, sweet alyssum, sweet-alison",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,125082,23254,Active,Nasturtium microphyllum,"leko, watercress",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,163415,504813,Active,Rorippa sarmentosa,"Leko, Watercress",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,tumble mustard,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Brassicaceae,158685,-504540,Active,Sisymbrium officinale var. officinale,hedge mustard,Sisymbrium officinale,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Caricaceae,117497,22324,Active,Carica papaya,papaya,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Brassicales,Moringaceae,161424,503874,Active,Moringa oleifera,"ben tree, horseradish tree, kalimanggi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,112628,19910,Active,Sesuvium portulacastrum,"ʻākulikuli, sea purslane",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,122975,20773,Active,Alternanthera sessilis,sessile joyweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120156,20748,Active,Amaranthus spinosus,"pakai-kuku, spiny pigweed",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106148,192284,Active,Atriplex suberecta,peregrine saltbush,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,208538,527295,Active,Charpentiera ovata var. ovata,papala,Charpentiera ovata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120928,20640,Active,Chenopodium oahuense,"`aheahea, `aweoweo",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,848711,822812,Active,Dysphania ambrosioides,Mexican tea,Chenopodium ambrosioides,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,848706,822807,Active,Dysphania carinata,Tasmanian goosefoot,Chenopodium carinatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Cactaceae,104842,19706,Active,Opuntia ficus-indica,"panini, prickly pear",Opuntia megacantha,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,109046,20270,Active,Arenaria serpyllifolia,thyme-leaved sandwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202723,523831,Active,Cerastium fontanum ssp. vulgare,"big chickweed, common mouse-ear chickweed","Cerastium fontanum ssp. triviale, Cerastium vulgatum",Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,210985,527796,Active,Drymaria cordata var. pacifica,pipili,Drymaria cordata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,160631,504262,Active,Petrorhagia dubia,hairypink,Petrorhagia velutina,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,164302,504491,Active,Polycarpon tetraphyllum,allseed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,159147,-502907,Inactive,Schiedea diffusa ssp. diffusa,spreading schiedea,Schiedea diffusa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,115012,20206,Active,Schiedea haleakalensis,Haleakala schiedea,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,118166,20067,Active,Silene gallica,small-flowered catchfly,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,110896,20149,Active,Silene struthioloides,alpine catchfly,Silene hawaiiensis var. kaupoana,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,164019,505306,Active,Spergula arvensis,"corn spurry, devil's gut, field spurry, pickpurse, sandweed",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,112457,20169,Active,Stellaria media,common chickweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,101226,19667,Active,Boerhavia,spiderling,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100360,19648,Active,Mirabilis jalapa,common four o`clock,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,163315,504417,Active,Pisonia brunoniana,papala-kepau,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,163326,504422,Active,Pisonia umbellifera,papala-kepau,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Phytolaccaceae,100539,19528,Active,Phytolacca sandwicensis,popolo-ku-mai,Phytolacca sandwicensis var. puberulenta,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119150,20994,Active,Antigonon leptopus,"Mexican creeper, mountain rose",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,191634,518727,Active,Persicaria capitata,pinkhead smartweed,Polygonum capitatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,161000,-502665,Inactive,Persicaria glabra,kamole,"Polygonum glabrum, Persicaria densiflora",Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,191680,518749,Active,Persicaria punctata,water smartweed,Polygonum punctatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115834,20934,Active,Rumex acetosella,sheep sorrel,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,292262,566082,Active,Rumex crispus ssp. crispus,"curly dock, narrowleaf dock, sour dock, yellow dock",Rumex crispus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119139,20984,Active,Rumex giganteus,"pawale, uhauhako",Rumex albescens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113967,20436,Active,Portulaca lutea,`ihi,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,"`akulikuli-kula, common purslane",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Commelinales,Commelinaceae,142375,39131,Active,Commelina diffusa,"honohono, makolokolo",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cornales,Hydrangeaceae,125345,24537,Active,Broussaisia arguta,"kanawao, pu`aha-nui",Broussaisia arguta var. arguta f. ternatea,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cucurbitales,Begoniaceae,118445,22333,Active,Hillebrandia sandwicensis,"aka`aka`awa, pua-maka-nui",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118517,22399,Active,Momordica charantia,"balsampear, bitter melon",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118565,22441,Active,Sechium edule,"chayote, pipinola",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118528,22408,Active,Sicyos cucumerinus,‘anunu,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118531,22410,Active,Sicyos hispidus,"pricklyfruit bur cucumber, pricklyfruit burr cucumber",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cyatheales,Cibotiaceae,85629,17948,Active,Cibotium chamissoi,Chamisso's manfern,Cibotium splendens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cyatheales,Cibotiaceae,85640,17949,Active,Cibotium glaucum,hapu`u,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cyatheales,Cibotiaceae,169002,507517,Active,Cibotium menziesii,hapu`u `i`i,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Cyatheales,Cyatheaceae,290519,565974,Active,Sphaeropteris cooperi,"Australian tree fern, Cooper's cyathea","Cyathea cooperi, Cyathea australis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Dioscoreales,Dioscoreaceae,145299,43369,Active,Dioscorea bulbifera,"bitter yam, pālau uhi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Dioscoreales,Dioscoreaceae,146959,43379,Active,Dioscorea pentaphylla,"five-leafed yam, pi`a, pi`ia",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Dioscoreales,Taccaceae,145261,43334,Active,Tacca leontopetaloides,"pia, Polynesian arrowroot",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Balsaminaceae,156684,503160,Active,Impatiens walleriana,impatiens,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Ebenaceae,153408,502077,Active,Diospyros sandwicensis,lama,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Ericaceae,784053,894525,Active,Leptecophylla tameiameiae,pukiawe,"Styphelia tameiameiae, Styphelia douglasii, Styphelia tameiameiae var. brownii, Leptecophylla tameiameiae",Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Ericaceae,127763,23618,Active,Vaccinium calycinum,`ohelo-kau-la`au,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Ericaceae,127764,23619,Active,Vaccinium dentatum,`ohelo,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Ericaceae,127768,23622,Active,Vaccinium reticulatum,`ohelo,Vaccinium berberidifolium,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Polemoniaceae,138944,31041,Active,Collomia linearis,narrow leaved collomia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Polemoniaceae,139814,31107,Active,Gilia capitata,blue field gilia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,121724,24043,Active,Anagallis arvensis,scarlet pimpernel,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,94859,183614,Active,Ardisia crenata,hilo holly,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,94860,183615,Active,Ardisia elliptica,shoebutton ardisia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,121060,23928,Active,Embelia pacifica,kilioe,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,121684,24007,Active,Lysimachia hillebrandii,pua-hekili,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,121691,24013,Active,Lysimachia remyi,kolokolo-kuahiwi,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,161511,503915,Active,Myrsine lanaiensis,Kolea,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,121047,23916,Active,Myrsine lessertiana,Kolea,"Myrsine emarginata, Myrsine sp. 1",Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Primulaceae,121055,23923,Active,Myrsine sandwicensis,"Kolea, kolea lau lii, kolea-lau-li`i",Myrsine sandwicensis var. mauiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Sapotaceae,120303,23850,Active,Planchonella sandwicensis,‘āla‘a,Pouteria sandwicensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ericales,Theaceae,165110,506117,Active,Camellia japonica,camellia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,93690,182079,Active,Acacia koa,koa,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,93693,182081,Active,Acacia mearnsii,black wattle,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,155671,501178,Active,Canavalia cathartica,maunaloa,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,155680,501182,Active,Canavalia hawaiiensis,"`awikiwiki, puakauhi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,222010,531598,Active,Chamaecrista nictitans ssp. patellaria var. glabrata,partidge pea,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,154084,501801,Active,Crotalaria assamica,Indian rattlebox,Crotolaria assamica,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,129249,26574,Active,Crotalaria pallida,smooth rattle-pod,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,123857,25804,Active,Desmodium incanum,"ka`imi, kaimi, Spanish clover",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,123858,25805,Active,Desmodium intortum,"greenleaf tick trefoil, greenleaf ticktrefoil",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,152453,502021,Active,Desmodium sandwicense,"chili clover, kikania pipili, pilipili `ula, pua pilipili, Spanish clover",Desmodium uncinatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,123887,25831,Active,Desmodium triflorum,three-flowered beggarweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,157067,502439,Active,Erythrina sandwicensis,wiliwili,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,157070,502440,Active,Erythrina variegata,tiger`s claw,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,121909,26749,Active,Indigofera suffruticosa,"indigobush, ʻinikoa, ʻinikō, kolū",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,167475,506320,Active,Inga edulis,icecreambean,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,122731,26766,Active,Leucaena leucocephala,koa haole,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,162374,503561,Active,Lotus subbiflorus,hairy bird's-foot trefoil,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,157770,503647,Active,Macroptilium lathyroides,wild bushbean,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,158887,503721,Active,Medicago lupulina,"black medick, trefoil",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,"alfalfa, lucerne",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,126512,26149,Active,Melilotus alba,white sweet clover,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,215269,529189,Active,Mimosa pudica var. unijuga,shameplant,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,159907,-502606,Active,Mucuna gigantea ssp. gigantea,seabean,Mucuna gigantea,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,122766,26798,Active,Mucuna sloanei,oxeye bean,Mucuna urens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,162405,503944,Active,Neonotonia wightii,perennial soybean,Glycine wightii,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,159822,504620,Active,Prosopis pallida,"kiawe, algaroba, mesquite",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,162201,505166,Active,Senna occidentalis,"`auko`i, coffee senna, miki palalo",Cassia occidentalis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,218147,530344,Active,Senna pendula var. advena,valamuerto,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,167408,506289,Active,Senna septemtrionalis,"arsenic bush, Dooleyweed, laburnum",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,162233,505181,Active,Senna surattensis,kolomona,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,163991,505293,Active,Sophora chrysophylla,māmane,Sophora chrysophylla var. chrysophylla f. haleakalaensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,165444,505391,Active,Strongylodon ruber,"ka-`i`iwi, nuku, nuku-`i`iwi",Strongylodon lucidus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,123770,26980,Active,Tamarindus indica,tamarind,Tamarindus indicus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,161147,-503001,Active,Trifolium arvense var. arvense,rabbit-foot clover,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,126575,26205,Active,Trifolium dubium,"european yellow clover, small hop-clover",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,236227,541449,Active,Trifolium pratense var. sativum,red clover,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,215317,531136,Active,Trifolium repens var. repens,white clover,Trifolium repens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,125143,27013,Active,Ulex europaeus,gorse,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,204553,524809,Active,Vicia sativa ssp. nigra,spring vetch,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Fabaceae,125147,27017,Active,Vigna marina,"`okolemakili, beach pea, lemuomakilinene, mohihihi, nanea, pohilihili, puhili, puhilihili, pulihilihi, wahine `oma`o",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fabales,Polygalaceae,131492,29305,Active,Polygala paniculata,milkwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Fagales,Casuarinaceae,105743,19516,Active,Casuarina equisetifolia,"ironwood, paina",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Apocynaceae,783596,893855,Active,Alyxia stellata,maile,Alyxia oliviformis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Apocynaceae,131812,30258,Active,Asclepias curassavica,"butterfly weed, lau-lele",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Apocynaceae,92819,184819,Active,Asclepias physocarpa,balloon plant,Gomphocarpus physocarpus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Apocynaceae,130912,30168,Active,Catharanthus roseus,Madagascar periwinkle,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Apocynaceae,161821,-504365,Inactive,Hoya australis,"pua-hoku-hihi, wax plant",Hoya bicarinata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Apocynaceae,130949,30200,Active,Plumeria rubra,"frangipani, templetree, plumeria",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Apocynaceae,130979,30228,Active,Thevetia peruviana,luckynut,Cascabela thevetia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Gentianaceae,154347,-502123,Active,Centaurium erythraea ssp. erythraea,"bitter herb, european centaury",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Loganiaceae,128141,29957,Active,Labordia hedyosmifolia,kamakahala,"Labordia hedyosmifolia var. centralis, Labordia glabra var. orientalis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Loganiaceae,128117,29935,Active,Labordia hirtella,kamakahala,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Loganiaceae,214035,528654,Active,Labordia tinifolia var. tinifolia,kamakahala,Labordia tinifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Loganiaceae,128132,29949,Active,Labordia venosa,kamakahala,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,141301,35154,Active,Bobea elatior,`ahakea,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,130766,35190,Active,Coffea arabica,arabian coffee,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,138834,34965,Active,Coprosma ernodeoides,kukae-nene,Coprosma ernodeoides var. mauiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,138836,34967,Active,Coprosma foliosa,pilo,Coprosma stephanocarpa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,138842,34972,Active,Coprosma montana,pilo,Coprosma montana var. crassa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,139641,34973,Active,Coprosma ochracea,pilo,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,139642,34974,Active,Coprosma pubens,pilo,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,130735,35162,Active,Gardenia remyi,nanu,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,139681,35009,Active,Hedyotis acuminata,au,"Hedyotis acuminata f. forbesii, Hedyotis acuminata f. obovata",Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,829760,846008,Active,Kadua affinis,manono,"Gouldia terminalis var. parvifolia, Gouldia terminalis, Hedyotis terminalis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,829761,846009,Active,Kadua axillaris,manono,"Gouldia hillebrandii, Hedyotis hillebrandii",Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,829762,846010,Active,Kadua centranthoides,forest starviolet,"Hedyotis centranthoides var. centranthoides f. vestita, Hedyotis centranthoides",Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,139750,35071,Active,Morinda citrifolia,"Indian mulberry, noni",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,130747,35173,Active,Nertera granadensis,mākole,"Coprosma granadensis, Nertera depressa",Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,217028,529913,Active,Psychotria hawaiiensis var. hawaiiensis,kopiko `ula,Psychotria hawaiiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,141248,35106,Active,Psychotria kaduana,kopiko kea,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,141250,35108,Active,Psychotria mariniana,kopiko,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,141251,35109,Active,Psychotria mauiensis,kopiko,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,157533,-502795,Inactive,Psydrax odorata,"alaheʻe, walaheʻe",Canthium odoratum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,141284,35139,Active,Richardia brasiliensis,tropical Mexican clover,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gentianales,Rubiaceae,130826,35244,Active,Spermacoce assurgens,buttonweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,"filaree, heron`s bill",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Geraniales,Geraniaceae,130110,29140,Active,Geranium arboreum,red-flowered native geranium,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Geraniales,Geraniaceae,208004,525826,Active,Geranium cuneatum ssp. tridens,hinahina,Geranium cuneatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Geraniales,Geraniaceae,157454,502758,Active,Geranium hanaense,hana geranium,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Geraniales,Geraniaceae,157456,502759,Active,Geranium homeanum,Australasian geranium,Geranium carolinianum var. australe,Present
+HALE,Haleakala National Park,Vascular Plant,6,Geraniales,Geraniaceae,130113,29143,Active,Geranium multiflorum,"hinahina, noho-anu","Geranium multiflorum var. ovatifolium, Geranium multiflorum ssp. ovatifolium",Present
+HALE,Haleakala National Park,Vascular Plant,6,Gleicheniales,Gleicheniaceae,86207,17964,Active,Dicranopteris linearis,uluhe,Polypodium lineare,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gleicheniales,Gleicheniaceae,666939,-743390,Active,Dicranopteris linearis f. emarginata,uluhe,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gleicheniales,Gleicheniaceae,935547,,Active,Dicranopteris linearis f. linearis,uluhe,Dicronopteris linearis f. linearis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gleicheniales,Gleicheniaceae,153450,502097,Active,Diplopterygium pinnatum,uluhe lau nui,Hicriopteris pinnata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gleicheniales,Gleicheniaceae,784733,897945,Active,Sticherus owhyhensis,"uluhe , unuhe",Sticherus owhyensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Gunnerales,Gunneraceae,125200,27065,Active,Gunnera petaloidea,"`ape, `ape`ape",Gunnera mauiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Huerteales,Dipentodontaceae,160610,504252,Active,Perrottetia sandwicensis,"olomea, waimea",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,170266,509944,Active,Callistopteris baldwinii,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,851744,819461,Active,Crepidomanes minutum,minute fern,"Gonocormus saxifragoides, Gonocormus minutus",Present
+HALE,Haleakala National Park,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,935608,,Active,Crepidomanes proliferum,,Gonocormus prolifer,Present
+HALE,Haleakala National Park,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,90940,17878,Active,Hymenophyllum lanceolatum,palai hinahina,Sphaerocionium lanceolatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,90963,17880,Active,Hymenophyllum recurvum,‘ōhi‘a kū,Mecodium recurvum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,161191,-503022,Inactive,Vandenboschia cyrtotheca,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Hymenophyllales,Hymenophyllaceae,851735,819452,Active,Vandenboschia davallioides,"palahi hihi, kīlau",Vandenboschia davalloides,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134546,34342,Active,Spathodea campanulata,African tuliptree,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134528,34326,Active,Tecoma stans,"trumpetbush, trumpetflower, yellow elder, yellow trumpet-flower, yellow trumpetbush",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Gesneriaceae,155226,-502208,Inactive,Cyrtandra ferripilosa,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Gesneriaceae,134081,34158,Active,Cyrtandra hashimotoi,Maui cyrtandra,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Gesneriaceae,134082,34159,Active,Cyrtandra hawaiensis,Hawai'i cyrtandra,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Gesneriaceae,209183,527655,Active,Cyrtandra paludosa var. paludosa,kanawao ke`oke`o,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Gesneriaceae,155228,-502209,Active,Cyrtandra paludosa X spathulata,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Gesneriaceae,134156,34225,Active,Cyrtandra platyphylla,"`ilihia, ilihia",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Gesneriaceae,134176,34243,Active,Cyrtandra spathulata,spoonleaf cyrtandra,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,135641,32526,Active,Hyptis pectinata,"comb bushmint, comb hyptis, fausse menthe, mint weed, mumutun lahe, purple top, timothi ni vavalangi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,136475,32556,Active,Lepechinia hastata,pakaha,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,159647,503754,Active,Mentha X villosa,apple-mint,Mentha rotundifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,162483,503981,Active,Ocimum gratissimum,African basil,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,161812,504361,Active,Phyllostegia ambigua,mountain phyllostegia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,109354,196152,Active,Phyllostegia bracteata,bracted phyllostegia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,109355,196153,Active,Phyllostegia brevidens,Mauna Kea phyllostegia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,109360,196158,Active,Phyllostegia glabra var. glabra,ulihi,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,109372,196169,Active,Phyllostegia macrophylla,eue`e,Phyllostegia macrophylla var. remyi,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,129303,32830,Active,Plectranthus parviflorus,"`ala`ala wai nui, spurflower",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,134944,32381,Active,Prunella vulgaris,"self-heal, heal-all",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,134883,32326,Active,Stachys arvensis,staggerweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,129320,32846,Active,Stenogyne kamehamehae,forest stenogyne,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,129325,32850,Active,Stenogyne microphylla,littleleaf stenogyne,Stenogyne crenata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Lamiaceae,129329,32854,Active,Stenogyne rotundifolia,pua`a-i-naka,"Stenogyne rotundifolia var. oblonga, Stenogyne sessilis var. hexanthoides",Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Oleaceae,162420,503951,Active,Nestegis sandwicensis,olopua,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Orobanchaceae,132256,33128,Active,Castilleja arvensis,field indian paintbrush,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Orobanchaceae,138428,33664,Active,Parentucellia viscosa,yellow glandweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130336,33038,Active,Bacopa monnieri,water hyssop,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Plantaginaceae,205208,524532,Active,Plantago australis ssp. hirtella,"Mexican plantain, paleseed Indianwheat, Virginia plantain","Plantago australis, Plantago virginica",Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129351,32874,Active,Plantago lanceolata,English plantain,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,"broad-leaved plantain, laukahi-nunui",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129671,32921,Active,Plantago pachyphylla,manene,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Plantaginaceae,214530,529713,Active,Plantago princeps var. laxiflora,ale,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136683,33411,Active,Veronica arvensis,"common speedwell, corn speedwell, rock speedwell, wall speedwell",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,128093,29913,Active,Buddleja asiatica,"dogtail, huelo`ilio",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,133326,34079,Active,Myoporum sandwicense,naio,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Verbenaceae,133925,32175,Active,Lantana camara,"lākana, largeleaf lantana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Verbenaceae,133959,32205,Active,Stachytarpheta australis,branched porterweed,Stachytarpheta dichotoma,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Verbenaceae,133960,32206,Active,Stachytarpheta cayennensis,"nettle-leaved vervain, oi, owi",Stachytarpheta urticifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Verbenaceae,133958,32204,Active,Stachytarpheta jamaicensis,"Jamaica vervain, oi, owi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lamiales,Verbenaceae,133075,32130,Active,Verbena litoralis,"ha`uowi, oi, owi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Laurales,Lauraceae,89388,18154,Active,Persea americana,avocado,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Liliales,Smilacaceae,145281,43352,Active,Smilax melastomifolia,"aka`awa, hoi-kuahiwi",Smilax sandwicensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,667175,-743651,Inactive,Huperzia erosa,toothed clubmoss,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,749788,-9789283,Active,Huperzia erubescens,clubmoss,"Huperzia X erubescens, Lycopodium erubescens",Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,161994,503074,Active,Huperzia filiformis,stringleaf clubmoss,Lycopodium polytrichoides,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,107304,202453,Active,Huperzia mannii,"Mann's clubmoss, wawae`iole",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,162011,503082,Active,Huperzia phyllantha,daggerleaf clubmoss,Lycopodium phyllanthum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,162019,503086,Active,Huperzia serrata,huluhulu-a-`iole,Lycopodium serratum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,288478,565229,Active,Huperzia stemmermanniae,"wawae‘iole, Stemmermann's clubmoss",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,157686,503607,Active,Lycopodiella cernua,"huluhulu-a-`iole, wawae-`iole",Lycopodium cernuum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,806437,819497,Active,Lycopodium venustulum var. venustulum,hairtip clubmoss,Lycopodium venustulum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Magnoliales,Annonaceae,91960,181839,Active,Cananga odorata,ylang-ylang,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Magnoliales,Magnoliaceae,165679,506190,Active,Michelia champaca,"mulang, orange champak",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Calophyllaceae,155619,501153,Active,Calophyllum inophyllum,kamani,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,133672,28208,Active,Aleurites moluccana,kukui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,122716,28253,Active,Claoxylon sandwicense,po`ola,Claoxylon sandwicense var. magnifolium,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,226044,535321,Active,Euphorbia celastroides var. laehiensis,"ʻakoko, koko, ʻekoko, kōkōmālei",Chamaesyce celastroides var. laehiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,226046,535322,Active,Euphorbia celastroides var. lorifolia,`ekoko,Chamaesyce celastroides var. lorifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132861,28079,Active,Euphorbia heterophylla,"wild spurge, kaliko",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132864,28081,Active,Euphorbia hirta,"hairy spurge, pillpod sandmat",Chamaesyce hirta,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132904,28117,Active,Euphorbia peplus,petty spurge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,158953,502548,Active,Euphorbia pulcherrima,poinsettia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,158816,503688,Active,Manihot esculenta,"cassava, tapioca plant",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,158818,503689,Active,Manihot glaziovii,ceara rubber tree,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124202,28393,Active,Ricinus communis,"castor bean, koli",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Ochnaceae,289373,565326,Active,Ochna thomasiana,mickey-mouse plant,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Passifloraceae,158568,504136,Active,Passiflora bicornis,two-lobed passionflower,Passiflora pulchella,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117385,22223,Active,Passiflora edulis,"liliko‘i, passion fruit",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117387,22225,Active,Passiflora foetida,"love-in-a-mist, pohapoha",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117395,22232,Active,Passiflora suberosa,huehue haole,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117408,22244,Active,Passiflora subpeltata,white passionflower,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,91872,184688,Active,Antidesma platyphyllum var. platyphyllum,"ha`amaile, hame, hamehame, mehame, mehamehame",Antidesma platyphyllum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,124190,28382,Active,Phyllanthus debilis,niruri,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,124188,28380,Active,Phyllanthus tenellus,"Mascarene Island leafflower, Mascarene Island leaf-flower",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Salicaceae,666802,-743990,Active,Xylosma hawaiiense,maua,Xylosma hawaiiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Violaceae,105773,195691,Active,Viola chamissoniana ssp. tracheliifolia,"`olopu, pamakani",Viola tracheliifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malpighiales,Violaceae,116140,22188,Active,Viola maviensis,Maui violet,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,123917,21679,Active,Abutilon grandifolium,hairy Indian mallow,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,160174,502935,Active,Heliocarpus popayanensis,white moho,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,123201,21630,Active,Hibiscus furcellatus,"`akiohala, hau-hele",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,123187,21618,Active,Hibiscus tiliaceus,"hau, mahoe, sea hibiscus",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,124896,21838,Active,Malva parviflora,cheese weed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,159013,-502576,Active,Malvastrum coromandelianum ssp. coromandelianum,false mallow,Malvastrum coromandelianum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,158800,503680,Active,Malvaviscus penduliflorus,turk`s cap,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,123992,21746,Active,Sida fallax,ʻilima,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,123976,21731,Active,Sida rhombifolia,cuba jute,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,124010,21762,Active,Thespesia populnea,milo,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,122291,21532,Active,Triumfetta semitriloba,burbush,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,124006,21759,Active,Urena lobata,aramina,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Malvaceae,123124,21561,Active,Waltheria indica,"ʻalaʻala pūloa, ʻuhaloa",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Thymelaeaceae,126096,27149,Active,Wikstroemia monticola,`akia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Thymelaeaceae,215528,530865,Active,Wikstroemia oahuensis var. oahuensis,"`akia, akia",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Malvales,Thymelaeaceae,215534,530868,Active,Wikstroemia uva-ursi var. uva-ursi,`akia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Marattiales,Marattiaceae,87817,184019,Active,Angiopteris evecta,"giant fern, Mule's-foot fern",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Marattiales,Marattiaceae,73918,17213,Active,Marattia douglasii,"kapua'ilio, pala",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Combretaceae,130509,27762,Active,Terminalia catappa,"false kamani, tropical almond",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Lythraceae,125243,27103,Active,Cuphea carthagenensis,"Colombian cuphea, pukamole, tarweed",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Lythraceae,125217,27080,Active,Lythrum maritimum,pukamole,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Melastomataceae,776582,895396,Active,Clidemia hirta var. hirta,Koster's curse,Clidemia hirta,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Melastomataceae,161351,505503,Active,Tibouchina herbacea,cane tibouchina,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,157114,502461,Active,Eucalyptus amygdalina,black peppermint,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,126140,27189,Active,Eucalyptus globulus,"blue gum, southern blue gum, tasmanian blue gum",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,157991,502484,Active,Eucalyptus robusta,swamp mahogany,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,126184,27228,Active,Melaleuca quinquenervia,paperbark,Melaleuca leucadendra,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,126620,27259,Active,Metrosideros polymorpha,"ʻōhiʻa lehua, ʻōhiʻa, lehua",Metrosideros collina,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,215236,529173,Active,Metrosideros polymorpha var. glaberrima,"ʻōhiʻa lehua, ʻōhiʻa, lehua","Metrosideros collina var. glaberrima, Metrosideros collina var. haleakalensis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,215238,529174,Active,Metrosideros polymorpha var. incana,"ʻōhiʻa lehua, ʻōhiʻa, lehua",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,215244,529177,Active,Metrosideros polymorpha var. polymorpha,"ʻōhiʻa lehua, ʻōhiʻa, lehua",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,215248,529179,Active,Metrosideros polymorpha var. pumila,"ʻōhiʻa lehua, ʻōhiʻa, lehua",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,126607,27247,Active,Pimenta dioica,allspice,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,126598,27239,Active,Psidium cattleianum,"strawberry guava, waiawi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,126600,27240,Active,Psidium guajava,"common guava, kuawa",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,165503,505419,Active,Syzygium cumini,"duhat, jambolan plum, jamelonguier, Java plum, kavika ni India, mesegerak",Eugenia cumini,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,165506,505420,Active,Syzygium jambos,"ʻōhiʻa loke, rose apple",Eugenia jambos,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,165508,505421,Active,Syzygium malaccense,"‘ohi‘a ‘ai, mountain apple",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Myrtaceae,165510,505422,Active,Syzygium sandwicense,"`ohi`a ha, ha, kauokahiki, pa'ihi",Eugenia sandwicensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Onagraceae,200390,524046,Active,Epilobium billardierianum ssp. cinereum,pukamole,"Epilobium ciliatum, Epilobium cinereum",Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Onagraceae,162935,503565,Active,Ludwigia octovalvis,"kamole, primrose willow",Jussiaeae suffruticosa var. ligustrifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Onagraceae,126706,27336,Active,Ludwigia palustris,marsh purslane,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Onagraceae,127808,27371,Active,Oenothera laciniata,"cut-leaved evening primrose, evening primrose",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Myrtales,Onagraceae,159943,-502623,Inactive,Oenothera stricta ssp. stricta,evening primrose,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,84144,17205,Active,Ophioglossum pendulum,puapua moa,"Ophioderma pendula ssp. falcata, Ophioglossum pendulum ssp. falcatum",Present
+HALE,Haleakala National Park,Vascular Plant,6,Oxalidales,Oxalidaceae,128425,29067,Active,Oxalis corniculata,"yellow wood sorrel, ‘ihi ‘ai",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Oxalidales,Oxalidaceae,128430,29071,Active,Oxalis debilis,"`ihi pehu, pink wood sorrel",Oxalis corymbosa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pandanales,Pandanaceae,161003,502667,Active,Freycinetia arborea,`ie`ie,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pandanales,Pandanaceae,157241,504095,Active,Pandanus tectorius,"hala, pū hala, Tahitian screwpine",Pandanus odoratissimus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Cupressaceae,155602,501145,Active,Calocedrus decurrens,incense cedar,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Cupressaceae,94015,183453,Active,Chamaecyparis lawsoniana,port orford cedar,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Cupressaceae,154149,501832,Active,Cryptomeria japonica,Japanese cedar,Sequoia sempervirens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Cupressaceae,154166,501840,Active,Cunninghamia lanceolata,china fir,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Cupressaceae,94027,183464,Active,Cupressus arizonica,arizona cypress,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Cupressaceae,92550,18048,Active,Juniperus virginiana,eastern redcedar,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Cupressaceae,161323,505490,Active,Thuja occidentalis,"eastern white cedar, northern white cedar",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93965,183408,Active,Cedrus deodara,deodar cedar,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93030,183289,Active,Picea abies,norway spruce,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93075,183329,Active,Pinus contorta ssp. latifolia,lodgepole pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93080,183333,Active,Pinus coulteri,coulter pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93093,183345,Active,Pinus jeffreyi,jeffrey pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93107,183358,Active,Pinus mugo,"mountain pine, swiss mountain pine",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,290511,565970,Active,Pinus patula,Mexican weeping pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,167204,506603,Active,Pinus pinaster,maritime pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93115,183365,Active,Pinus ponderosa,ponderosa pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93123,183372,Active,Pinus radiata,Monterey pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93137,183385,Active,Pinus strobus,eastern white pine,Pinus monticola,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93141,183389,Active,Pinus sylvestris,scots pine,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Pinales,Pinaceae,93983,183424,Active,Pseudotsuga menziesii,douglas-fir,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,160996,-502663,Inactive,Peperomia blanda var. floribunda,"ʻalaʻala wai nui, arid-land peperomia, hairy peperomia",Peperomia leptostachya,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,85124,18237,Active,Peperomia cookiana,ʻalaʻala wai nui,Peperomia cookiana var. flavinervia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,85180,18242,Active,Peperomia eekana,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,86281,18245,Active,Peperomia expallescens,ʻalaʻala wai nui,Peperomia ellipticibacca,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,86314,18248,Active,Peperomia globulanthera,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,86370,18253,Active,Peperomia hirtipetiola,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,86938,18256,Active,Peperomia kipahuluensis,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,86983,18260,Active,Peperomia latifolia,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,87005,18262,Active,Peperomia ligustrina,ʻalaʻala wai nui,Peperomia ligustrina var. oopuolana,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,87027,18264,Active,Peperomia macraeana,ʻalaʻala wai nui,Peperomia liliifolia var. nudilimba,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,87049,18266,Active,Peperomia mauiensis,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,87869,18268,Active,Peperomia membranacea,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,160593,504244,Active,Peperomia obovatilimba,ʻalaʻala wai nui,Peperomia erythroclada,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,87925,18273,Active,Peperomia remyi,ʻalaʻala wai nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,87980,18278,Active,Peperomia tetraphylla,ʻalaʻala wai nui,Peperomia tetraphylla var. parvifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Piperales,Piperaceae,91399,18313,Active,Piper methysticum,"ʻawa, kava",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Bromeliaceae,147670,42335,Active,Ananas comosus,"hala-kahiki, pineapple",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,155723,501202,Active,Carex alligata,Hawai'i sedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,146161,39582,Active,Carex echinata,"prickly sedge, star sedge",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,156502,501240,Active,Carex longii,Long's sedge,Carex ovalis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,202050,523769,Active,Carex macloviana ssp. subfusca,St. Malo`s sedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,156514,501246,Active,Carex meyenii,Meyen's sedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,156518,501248,Active,Carex montis-eeka,Molokai sedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,1002939,,Active,Carex nealae,Maui sedge,Carex thunbergii,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,202627,523786,Active,Carex wahuensis ssp. rubiginosa,Oahu sedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,202629,523787,Active,Carex wahuensis ssp. wahuensis,Oahu sedge,Carex wahuensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,138271,39878,Active,Cladium jamaicense,"`uki, uki",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,156165,501925,Active,Cyperus gracilis,"mau`u hunehune, McCoy grass",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,138994,39930,Active,Cyperus haspan,haspan flatsedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,209128,527629,Active,Cyperus hillebrandii var. hillebrandii,Hillebrand's flatsedge,"Cyperus hillebrandii, Mariscus hillebrandii",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,139052,39983,Active,Cyperus javanicus,"`ahu`awa, marsh cypress",Mariscus javanicus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,209149,527639,Active,Cyperus phleoides var. phleoides,Molokai flatsedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,139023,39957,Active,Cyperus polystachyos,manyspike flatsedge,"Pycreus polystachyos ssp. polystachyos, Pycreus polystachyos ssp. holosericeus",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,139058,39989,Active,Cyperus sandwicensis,cliffs flatsedge,Mariscus sandwicensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,139090,40017,Active,Eleocharis obtusa,pipi wai,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,904285,914134,Active,Fimbristylis cymosa ssp. umbellato-capitata,"tropical fimbry, mauʻu ʻakiʻaki","Fimbristylis cymosa ssp. umbellatacapitata, Fimbristylis cymosa",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,140261,40114,Active,Fimbristylis dichotoma,tall fringe rush,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,158354,503295,Active,Kyllinga brevifolia,"kili‘o‘opu, shortleaf spikesedge",Cyperus brevifolius,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,158356,503296,Active,Kyllinga nemoralis,"kili`o`opu, kyllinga",Cyperus kyllingia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,141849,40343,Active,Machaerina angustifolia,`uki,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,201713,524295,Active,Machaerina mariscoides ssp. meyenii,"`ahanui, `uki, ahanui, uki",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,141853,40347,Active,Morelotia gahniiformis,`uki,"Machaerina gahniiformis, Gahnia gahniiformis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,141855,40349,Active,Oreobolus furcatus,Hawai'i Island sedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,140837,40154,Active,Rhynchospora caduca,"anglestem beaksedge, beak-rush",Rhynchospora sp. 1,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,206071,524620,Active,Rhynchospora chinensis ssp. spiciformis,kuolohia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,206077,524623,Active,Rhynchospora rugosa ssp. lavarum,claybank beaksedge,Rhynchospora lavarum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,140911,40220,Active,Rhynchospora sclerioides,kuolohia,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,167014,507797,Active,Schoenoplectus tabernaemontani,‘Aka‘akai,Schoenoplectus lacustris ssp. validus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,207175,526773,Active,Torulinium odoratum ssp. auriculatum,"eared flatsedge, fragrant flatsedge, rusty flat sedge","Cyperus auriculatus, Cyperus odoratus, Cyperus ferax var. auriculatus",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,163545,505623,Active,Uncinia brevicaulis,false watermeal,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Cyperaceae,163549,505625,Active,Uncinia uncinata,Hawai'i birdcatching sedge,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Joinvilleaceae,157973,-502475,Inactive,Joinvillea ascendens ssp. ascendens,"`ohe, ohe",Joinvillea gaudichaudiana,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,common toad rush,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Juncaceae,143489,39269,Active,Juncus ensifolius,"swordleaf rush, three-stamened rush",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Juncaceae,143530,39305,Active,Juncus planifolius,broadleaf rush,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Juncaceae,143461,39243,Active,Juncus tenuis,"field rush, path rush, poverty rush, slender rush, slender yard rush, wiregrass",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Juncaceae,213538,529024,Active,Luzula hawaiiensis var. hawaiiensis,Hawai'i woodrush,Luzula hawaiiensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,142902,40430,Active,Agrostis sandwicensis,Hawai'i bentgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,142869,40400,Active,Agrostis stolonifera,redtop,Agrostis alba,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,140333,41376,Active,Aira caryophyllea,silver hairgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,142930,40456,Active,Andropogon virginicus,"broomsedge, yellow bluestem",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,140354,41395,Active,Anthoxanthum odoratum,sweet vernalgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,140432,41465,Active,Axonopus compressus,broadleaf carpetgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,102280,193433,Active,Axonopus fissifolius,carpetgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,140980,41480,Active,Bothriochloa pertusa,pitted beardgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,153750,501066,Active,Bromus catharticus,rescue grass,Bromus willdenowii,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,142976,40498,Active,Bromus diandrus,ripgut grass,Bromus rigidus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,cheat grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143576,40547,Active,Calamagrostis expansa,Maui reedgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143606,40574,Active,Cenchrus ciliaris,buffelgrass,Pennisetum ciliare,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,873768,796694,Active,Cenchrus clandestinus,kikuyu grass,Pennisetum clandestinum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,873800,796726,Active,Cenchrus purpureus,napier grass,Pennisetum purpureum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,141066,41558,Active,Chloris virgata,feather fingergrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,141089,41579,Active,Chrysopogon aciculatus,"golden beardgrass, manienie-`ula",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,141097,41586,Active,Coix lacryma-jobi,"Job's tears, kūkae-kōlea",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,155960,501640,Active,Cortaderia jubata,andean pampas grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,141928,41614,Active,Cymbopogon refractus,barbwire grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,"bermuda grass, manienie-haole",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,103360,193446,Active,Dactylis glomerata,"cocksfoot, orchardgrass",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,152413,502002,Active,Deschampsia nubigena,alpine hairgrass,"Deschampsia australis, Deschampsia australis ssp. nubigena",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,141993,41673,Active,Dichanthelium cynodon,tussock panicgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,141995,41675,Active,Dichanthelium hillebrandianum,bog rosette grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143656,40619,Active,Digitaria ciliaris,henry`s crabgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143664,40626,Active,Digitaria eriantha,pangola grass,"Digitaria decumbens, Digitaria pentzii",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,144495,40636,Active,Digitaria insularis,sourgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,144520,40659,Active,Digitaria setigera,"itchy crabgrass, kukaepua`a, mau`u kukaepua`a",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,153383,502065,Active,Digitaria violascens,kukaipua`a-uka,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,144533,40670,Active,Echinochloa colona,jungle-rice,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,155230,502210,Active,Echinochloa crus-galli,barnyard grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,155253,502221,Active,Ehrharta stipoides,meadow ricegrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,142014,41692,Active,Eleusine indica,"goosegrass, manienie-ali`i",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,178082,512839,Active,Elymus repens,wheatgrass,Agropyron repens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,180596,512950,Active,Eragrostis amabilis,Japanese lovegrass,Eragrostis tenella,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,145607,40773,Active,Eragrostis brownei,sheepgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,144601,40731,Active,Eragrostis grandis,large Hawai'i lovegrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,144609,40739,Active,Eragrostis variabilis,`emo-loa,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,182260,513525,Active,Festuca bromoides,brome fescue,"Vulpia bromoides, Festuca dertonensis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,145631,40795,Active,Festuca myuros,rat tail fescue,"Festuca megalura, Vulpia myuros",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,145632,40796,Active,Festuca rubra,red fescue,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143306,41747,Active,Gastridium ventricosum,nitgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143335,41773,Active,Holcus lanatus,common velvetgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,146264,40874,Active,Hordeum vulgare,"barley, hua pale",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143355,41791,Active,Isachne distichophylla,"`ohe, ohe",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,143366,41800,Active,Ischaemum byrone,hilo ischaemum,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,870863,783654,Active,Lachnagrostis filiformis,he‘upeuo,Agrostis avenacea,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,146285,40893,Active,Lolium perenne,"Italian ryegrass, perennial rye grass, perennial ryegrass",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,870909,783700,Active,Megathyrsus maximus,guineagrass,"Panicum maximum, Urochloa maxima",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,144121,41863,Active,Melinis minutiflora,molasses grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,289321,565301,Active,Melinis repens,rose Natal grass,Rhynchelytrum repens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,890832,797405,Active,Oplismenus hirtellus ssp. hirtellus,basketgrass,Oplismenus hirtellus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,110252,196358,Active,Panicum fauriei var. latius,Faurie's panicgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,146386,40984,Active,Panicum pellitum,Maui panicgrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,147256,41015,Active,Paspalum conjugatum,Hilo grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,147235,40997,Active,Paspalum dilatatum,dallis grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,147284,41040,Active,Paspalum scrobiculatum,"mau`u-laiki, ricegrass",Paspalum orbiculare,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,147287,41043,Active,Paspalum urvillei,vasey grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,139366,41341,Active,Phalaris aquatica,large canarygrass,Phalaris tuberosa var. stenoptera,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,874542,798564,Active,Phyllostachys nigra var. henonis,black bamboo,"Phyllostachys nigra, Phyllostachys nigra var. henionis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,148055,41107,Active,Poa annua,annual bluegrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,Kentucky bluegrass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,881096,784854,Active,Rytidosperma penicillatum,"hairy oatgrass, hairy wallaby grass","Danthonia pilosa, Rytidosperma pilosum",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,286598,565470,Active,Rytidosperma semiannulare,wallaby grass,Danthonia semiannularis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,145155,42058,Active,Saccharum officinarum,"ko, sugarcane",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,138442,41228,Active,Sacciolepis indica,glenwood grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,881117,784875,Active,Schedonorus arundinaceus,reed fescue,"Lolium arundinaceum, Festuca arundinacea",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,162807,505191,Active,Setaria parviflora,"mau`u-kaleponi, perennial foxtail","Setaria geniculata, Setaria gracilis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,139245,41232,Active,Setaria verticillata,mau`u pilipili,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,146027,42102,Active,Sorghastrum nutans,indian grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,146042,42116,Active,Sporobolus africanus,rattail grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,881218,784976,Active,Sporobolus diandrus,tussock dropseed,Sporobolus diander,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,146087,42157,Active,Stenotaphrum secundatum,buffalo grass,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,139335,41313,Active,Trisetum glomeratum,"he`u-pueo, mountain pili, pili uka",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Poales,Poaceae,205172,523027,Active,Urochloa mutica,California grass,Brachiaria mutica,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,77500,17385,Active,Asplenium acuminatum,lola,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,82373,17335,Active,Asplenium adiantum-nigrum,"`iwa`iwa, manawahua",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,168985,507509,Active,Asplenium aethiopicum,`iwa`iwa-a-kane,"Asplenium rhipidoneuron, Asplenium praemorsum",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,77522,17387,Active,Asplenium contiguum,forest spleenwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,105047,192125,Active,Asplenium contiguum var. contiguum,forest spleenwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,105048,192126,Active,Asplenium contiguum var. hirtulum,forest spleenwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,159550,-504208,Active,Asplenium excisum,pamoho,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,699335,-759511,Inactive,Asplenium haleakalense,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,168990,507511,Active,Asplenium hobdyi,Hobdy's spleenwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,77567,17391,Active,Asplenium horridum,"`alae, `iwa, alaea, kaumana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,746066,-9788713,Active,Asplenium horridum var. horridum,"`Alae, `iwa",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78382,17392,Active,Asplenium insiticium,"`anali`i, pi`ipi`I lau manamana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78393,17393,Active,Asplenium kaulfussii,kuau,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78404,17394,Active,Asplenium lobulatum,"`anali`i, pi`ipi`I lau manamana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78426,17396,Active,Asplenium macraei,"`iwa`iwa lau li`i, Macrae's spleenwort",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,74968,17350,Active,Asplenium monanthes,momosoral spleenwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78448,17398,Active,Asplenium nidus,"`akaha, `ekaha, `ekaha kuahiwi, `ekahakaha(juvenile form), Birds-nest fern",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78459,17399,Active,Asplenium normale,rainforest spleenwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,667622,-743451,Inactive,Asplenium peruvianum var. insulare,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,105056,192133,Active,Asplenium polyodon,speenwort,Asplenium caudatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78918,17404,Active,Asplenium schizophyllum,fringed spleenwort,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,105051,192129,Active,Asplenium sphenotomum,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,667626,-743453,Inactive,Asplenium trichomanes ssp. densum,`owali`I,"Asplenium densum, Asplenium trichomanes",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,78929,17405,Active,Asplenium unilaterale,pamoho,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Blechnaceae,665144,-743477,Inactive,Blechnum appendiculatum,palm fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Blechnaceae,665148,-743479,Active,Blechnum glandulosum,hammock fern,Blechnum occidentale,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Blechnaceae,90104,17874,Active,Doodia kunthiana,Kunth's hacksaw fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Blechnaceae,88271,17851,Active,Sadleria cyatheoides,"`ama`u, `ama`uma`u",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Blechnaceae,165195,504936,Active,Sadleria pallida,`am`u,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Blechnaceae,88293,17853,Active,Sadleria souleyetiana,longleaf plume fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Blechnaceae,88304,17854,Active,Sadleria squarrosa,forest plume fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,777395,897815,Active,Hypolepis hawaiiensis var. hawaiiensis,olua,"Hypolepis hawaiiensis, Hypolepis punctata, Hypolepis hawaiiensis var. hawaiiensis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,88371,17860,Active,Microlepia strigosa,palapalai,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,886401,897808,Active,Pteridium aquilinum ssp. decompositum,kīlau,"Pteridium aquilinum var. decompositum, Pteridium aquilinum",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,169556,507521,Active,Arachniodes insularis,East Indian hollyfern,Arachniodes carvifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,83411,17471,Active,Ctenitis latifrons,"maku`e, pauoa",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,83433,17473,Active,Ctenitis squamigera,pauoa,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,84434,17479,Active,Cyrtomium caryotideum,"`ahina-kuahiwi, ka`ape`ape",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,84401,17476,Active,Cyrtomium falcatum,holly fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,746714,-9788789,Inactive,Dryopteris crinalis var. crinalis,palapalai `aumakua,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,749787,-9789282,Active,Dryopteris fusco-atra var. fusco-atra,‘i‘i,Dryopteris fuscoatra,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,666961,-743400,Inactive,Dryopteris glabra var. glabra,kīlau,Dryopteris glabra,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,746716,-9788791,Inactive,Dryopteris glabra var. hobdyana,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,666963,-743401,Inactive,Dryopteris glabra var. nuda,"hohiu, kilau",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,698325,-759421,Inactive,Dryopteris glabra var. soripes,"hohiu, kilau",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,81804,17556,Active,Dryopteris hawaiiensis,Hawai'i woodfern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,784488,897580,Active,Dryopteris rubiginosa,island lacefern,"Nothoperanema rubiginosum, Ctenitis rubiginosa, Ctenitis sp. 1",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,81849,17560,Active,Dryopteris sandwicensis,Pacific woodfern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,169564,507525,Active,Dryopteris subbipinnata,Ainahou Valley woodfern,"Dryopteris palikuensis, Dryopteris sp. 1",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,698388,-759451,Inactive,Dryopteris tetrapinnata,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,777349,897631,Active,Dryopteris unidentata var. paleacea,akole,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,666965,-743402,Inactive,Dryopteris unidentata var. unidentata,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,154421,502159,Active,Dryopteris wallichiana,"'i 'o nui, laukahi","Dryopteris parallelogramma, Dryopteris paleacea",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,82932,17790,Active,Elaphoglossum aemulum,creeping tonguefern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,82965,17793,Active,Elaphoglossum crassifolium,"ekaha, hoe a Maui",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,156081,-502281,Inactive,Elaphoglossum paleaceum,maku'e,Elaphoglossum hirtum var. micans,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,82987,17795,Active,Elaphoglossum parvisquameum,hoe a Māui,Elaphoglossum alatum var. parvisquamaeum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,82998,17796,Active,Elaphoglossum pellucidum,"ekaha 'ula, hoe a Maui",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,83009,17797,Active,Elaphoglossum wawrae,"`ekaha, lau-kahi-li`ili`I",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,169575,507530,Active,Polystichum bonseyi,Bonsey's hollyfern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,81873,17695,Active,Polystichum haleakalense,"ka‘upu, papa‘oi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,81884,17696,Active,Polystichum hillebrandii,"ka‘upu, Hillebrand's holly",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Lindsaeaceae,169554,507520,Active,Odontosoria chinensis,"pala'ā, palapala'ā, pā'ū o pala'e","Sphenomeris chusana, Sphenomeris chinensis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Lomariopsidaceae,784522,897614,Active,Nephrolepis brownii,swordfern,Nephrolepis multiflora,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Lomariopsidaceae,85279,17604,Active,Nephrolepis cordifolia,"Boston fern, narrow swordfern, sword fern, tuber ladder fern",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Lomariopsidaceae,669617,-743757,Inactive,Nephrolepis exaltata ssp. hawaiiensis,"`okupukupu, kupukupu, ni`ani`au, pamoho",Nephrolepis exaltata,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Lomariopsidaceae,162409,503946,Active,Nephrolepis falcata,"fishtail fern, hiuia, hi'ui'a",Nephrolepis biserrata var. furcans,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,87378,17842,Active,Adenophorus hymenophylloides,"pai, palai-huna",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,666373,-743319,Active,Adenophorus pinnatifidus var. pinnatifidus,graceful kihifern,"Adenophorus pinnatifidus, Adenophorus sarmentosus",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,91261,181802,Active,Adenophorus tamariscinus var. montanus,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,91259,181800,Active,Adenophorus tamariscinus var. tamariscinus,wahine noho mauna,Adenophorus tamariscinus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,784545,897663,Active,Adenophorus tenellus,kolokolo,Grammitis tenella,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,87433,17847,Active,Adenophorus tripinnatifidus,wahine noho mauna,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,83086,17575,Active,Grammitis hookeri,maku`e-lau-li`I,Polypodium hookeri,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,160477,503386,Active,Lepisorus thunbergianus,"`ekaha `akolea, pakahakaha",Pleopeltis thunbergiana,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,77689,17656,Active,Phlebodium aureum,"golden polypody, laua'e haole, rabbit's foot fern",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,784538,897656,Active,Phymatosorus grossus,laua`e,"Phymatosorus scolopendria, Phymatosaurus grossus",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,76316,17248,Active,Polypodium pellucidum,`ae,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,215123,529797,Active,Polypodium pellucidum var. pellucidum,dotted polypody,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,215125,529798,Active,Polypodium pellucidum var. vulcanicum,dotted polypody,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,935437,,Active,Stenogrammitis saffordii,kihe,"Xiphopteris saffordii, Lellingeria saffordii",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81002,17308,Active,Adiantum capillus-veneris,"`iwa`iwa, maidenhair fern",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82284,17327,Active,Adiantum hispidulum,rough maidenhair,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82295,17328,Active,Adiantum raddianum,"ʻiwaʻiwa, maidenhair fern",Adiantum cuneatum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,666105,-743538,Inactive,Cheilanthes viridis,Green cliff brake,Pellaea viridis var. varidis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,88337,17857,Active,Coniogramme pilosa,lo`ulu,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,177734,512452,Active,Doryopteris decipiens,triangleleaf lipfern,Cheilanthes decipiens,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,77656,17653,Active,Pellaea ternifolia,"kalamoho, kalamoho lau li'i, laukahi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,169625,507554,Active,Pityrogramma austroamericana,island goldback fern,Pityrogramma chrysophylla,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,79219,17661,Active,Pityrogramma calomelanos,Dixie silverback fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81941,17701,Active,Pteris cretica,Cretan brake,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82753,17714,Active,Pteris excelsa,waimakanui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82764,17715,Active,Pteris irregularis,"iwa puakea, mana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Tectariaceae,83589,17729,Active,Tectaria gaudichaudii,`iwa`iwa lau nui,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,288896,565637,Active,Christella cyatheoides,"kikawaio, kikawaioa, pakikawaio","Cyclosorus cyatheoides, Thelypteris cyatheoides",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,784641,897778,Active,Cyclosorus boydiae,kupukupu-makaliʻi,"Cyrtomium boydiae, Christella boydiae",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,174837,511911,Active,Cyclosorus dentatus,"downy maiden fern, mountain woodfern","Christella dentata, Thelypteris dentata",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,155206,-502199,Inactive,Cyclosorus interruptus,neke,"Thelypteris gongylodes, Thelypteris interrupta",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,784650,897787,Active,Cyclosorus parasiticus,parasitic maiden fern,"Thelypteris parasitica, Christella parasitica",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,174843,511914,Active,Cyclosorus sandwicensis,hō‘i‘o kula,Pneumatopteris sandwicensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,784649,897786,Active,Cyclosorus X intermedius,,Christella dentata X parasitica,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,157774,503649,Active,Macrothelypteris torresiana,swordfern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,81906,17698,Active,Pseudophegopteris keraudreniana,"akolea, ala`alai, waimakanui",Dryopteris keraudreniana,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,79953,17298,Active,Thelypteris globulifera,palapalai a kamapua‘a,"Amauropelta globulifera, Lastrea globulifera",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,159561,-504213,Active,Athyrium dilatatum,,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,79777,17421,Active,Athyrium microphyllum,`akolea,Athyrium poiretianum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84523,17487,Active,Cystopteris douglasii,"brittle bladder fern, brittle bladderfern, fragile fern",Cystopteris fragilis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,157150,501995,Active,Deparia fenzliana,Fenzl's false spleenwort,Athyrium fenzlianum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,157156,501998,Active,Deparia marginalis,marginal false spleenwort,Athyrium marginale,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,749697,-9789193,Inactive,Deparia petersenii,false spleenwort,"Athyriopsis japonicum, Athyrium japonicum",Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,157158,501999,Active,Deparia prolifera,prolific false spleenwort,Athyrium macraei,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,176598,512359,Active,Diplazium arnottii,"ho`i`o, pohole",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,78569,17518,Active,Diplazium sandwichianum,pahole,Athyrium sandwichianum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Proteales,Proteaceae,130532,27783,Active,Grevillea robusta,"silk oak, silver oak",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Psilotales,Psilotaceae,79110,17007,Active,Psilotum complanatum,flatfork fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Psilotales,Psilotaceae,79121,17008,Active,Psilotum nudum,whisk fern,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ranunculales,Menispermaceae,167905,507893,Active,Cocculus orbiculatus,huehue,"Cocculus trilobus, Cocculus ferrandianus",Present
+HALE,Haleakala National Park,Vascular Plant,6,Ranunculales,Papaveraceae,88918,184179,Active,Argemone glauca var. glauca,puakala,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,160288,-502989,Active,Thalictrum dipterocarpum,meadow rue,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Cannabaceae,784346,897053,Active,Trema orientalis,Oriental trema,Trema orientale,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Moraceae,88921,184181,Active,Artocarpus altilis,"ʻulu, breadfruit",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Moraceae,95930,19107,Active,Broussonetia papyrifera,"paper mulberry, wauke",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Moraceae,159927,502616,Active,Ficus microcarpa,"chinese banyan, Malayan banyan",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Moraceae,156979,-502375,Active,Ficus platypoda var. petiolaris,australian fig,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Moraceae,167334,507441,Active,Streblus pendulinus,a`ia`i,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,129632,25153,Active,Cotoneaster pannosus,"cotoneaster, silverleaf cotoneaster, velvet cotoneaster",Cotoneaster pannosa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,156992,502403,Active,Eriobotrya japonica,loquat,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,201281,524086,Active,Fragaria chiloensis ssp. sandwicensis,"`ohelo papa, ohelo papa, strawberry","Fragaria vesca, Fragaria chiloensis",Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,120319,25264,Active,Malus sylvestris,apple,Pyrus malus,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,157191,504071,Active,Osteomeles anthyllidifolia,"`ulei, eluehe",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,157512,-502785,Active,Prunus cerasifera X salicina,methley plum,Prunus salicina,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,127068,24765,Active,Prunus persica,peach,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,127115,24807,Active,Rosa,"rose, wildrose",Rosa sp. 1,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,127991,24877,Active,Rubus argutus,blackberry,Rubus penetrans,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,164333,504855,Active,Rubus hawaiensis,`akala,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,164352,504864,Active,Rubus macraei,‘akala,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Rosaceae,164390,504882,Active,Rubus rosifolius,"thimbleberry, Mauritius raspberry",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Urticaceae,98097,19123,Active,Boehmeria grandis,`akolea,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Urticaceae,99006,19133,Active,Pilea microphylla,"artillery plant, rockweed",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Urticaceae,99050,19137,Active,Pilea peploides,Pacific Island clearweed,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Urticaceae,163307,504413,Active,Pipturus albidus,māmaki,"Pipturus sp. 1, Pipturus rockii",Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Urticaceae,103257,19183,Active,Pipturus forbesii,mamaki,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Urticaceae,104185,19195,Active,Touchardia latifolia,olonā,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Rosales,Urticaceae,104963,19205,Active,Urera glabra,opuhe,Urera sandvicensis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Santalales,Santalaceae,131342,27913,Active,Korthalsella complanata,"hulumoa, kaumahana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Santalales,Santalaceae,131343,27914,Active,Korthalsella cylindrica,"hulumoa, kaumahana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Santalales,Santalaceae,131345,27916,Active,Korthalsella latissima,"hulumoa, kaumahana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Santalales,Santalaceae,131346,27917,Active,Korthalsella platycaula,"hulumoa, kaumahana",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Santalales,Santalaceae,107368,195931,Active,Santalum ellipticum,"`ili-ahi, coastal sandalwood",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Santalales,Santalaceae,776892,895620,Active,Santalum haleakalae var. haleakalae,Haleakala sandalwood,Santalum haleakalae,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126800,28803,Active,Mangifera indica,"manako, mango",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Anacardiaceae,161910,504756,Active,Rhus sandwicensis,"neneleau, neleau, Hawaiian sumac",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126810,28812,Active,Schinus terebinthifolius,"Christmas berry, Brazilian peppertree, naniohilo, wilelaiki",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Meliaceae,128378,29024,Active,Melia azedarach,"chinaberry, Chinaberry tree, Indian lilac, lelah, paraiso, pride of India, white cedar",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,108136,196020,Active,Melicope clusiifolia,alani,Pelea clusiifolia,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,108143,196027,Active,Melicope hawaiensis,"alani, manena",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,108152,196035,Active,Melicope molokaiensis,alani,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,108159,196041,Active,Melicope orbicularis,alani,Pelea orbicularis,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,108160,196042,Active,Melicope ovalis,alani,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,108164,196046,Active,Melicope peduncularis,alani,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,108174,196055,Active,Melicope volcanica,alani,Pelea volcanica,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,128347,28997,Active,Platydesma spathulata,pilokea,Platydesma spathulatum var. pallidum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Rutaceae,126857,28855,Active,Zanthoxylum kauaense,"a`e, hea`e",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Sapindales,Sapindaceae,125720,28675,Active,Dodonaea viscosa,"ʻaʻaliʻi, ʻaʻaliʻi kū ma kua",Dodonaea eriocarpa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Saxifragales,Crassulaceae,155183,-502188,Inactive,Crassula argentea,jade plant,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Saxifragales,Crassulaceae,158302,503270,Active,Kalanchoe delagoensis,chandelier plant,Kalanchoe tubiflora,Present
+HALE,Haleakala National Park,Vascular Plant,6,Saxifragales,Crassulaceae,158316,503277,Active,Kalanchoe pinnata,"ʻoliwa kū kahakai, air plant, life plant",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,76202,17105,Active,Selaginella arbuscula,lepelepe a moa,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,76213,17106,Active,Selaginella deflexa,deflexed spikemoss,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Convolvulaceae,136103,30760,Active,Ipomoea alba,"koali pehu, moon flower",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Convolvulaceae,136107,30764,Active,Ipomoea batatas,"`uala, sweet potato",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Convolvulaceae,136119,30775,Active,Ipomoea indica,"koali `awa, morning glory",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Convolvulaceae,202825,524173,Active,Ipomoea pes-caprae ssp. brasiliensis,"pōhuehue, beach morning glory",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Convolvulaceae,136153,30805,Active,Ipomoea violacea,"beach moonflower, heavenlyblue morning-glory, heavenlyblue morningglory, ololiuqui, sea moonflower",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,134328,30492,Active,Capsicum annuum,"chili pepper, nioi",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,134394,30551,Active,Lycium sandwicense,"`ae`ae, `ohelo-kai",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,135150,30630,Active,Nothocestrum longifolium,"`aiea, aiea",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,135120,30606,Active,Physalis peruviana,"cape gooseberry, poha",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,132655,30416,Active,Solanum americanum,"black nightshade, pōpolo","Solanum nigrum, Solanum incompletum var. mauiense",Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,200849,521670,Active,Solanum linnaeanum,apple of Sodom,Solanum sodomeum,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,295924,566309,Active,Solanum lycopersicum var. cerasiforme,currant tomato,Lycopersicon pimpinellifolium,Present
+HALE,Haleakala National Park,Vascular Plant,6,Solanales,Solanaceae,163947,505272,Active,Solanum tuberosum,"`uala-kahiki, potato",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Cannaceae,147757,42413,Active,Canna indica,"canna, poloke",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Costaceae,155972,501646,Active,Costus speciosus,"crepe ginger, Malay ginger",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Heliconiaceae,147726,42386,Active,Heliconia,heliconia,Heliconia sp. 1,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Musaceae,147732,42391,Active,Musa X paradisiaca,"banana, mai`a",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Zingiberaceae,86397,182554,Active,Alpinia purpurata,"`awapuhi-`ula`ula, red ginger",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Zingiberaceae,147735,42394,Active,Curcuma longa,"ʻōlena, tumeric",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Zingiberaceae,157107,502458,Active,Etlingera elatior,"`awapuhi ko`oko`o, torch ginger",Phaeomeria speciosa,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Zingiberaceae,147737,42396,Active,Hedychium coronarium,"`awapuhi-ke`oke`o, white ginger",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Zingiberaceae,147738,42397,Active,Hedychium flavescens,"`awapuhi-melemele, yellow ginger",,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Zingiberaceae,159128,502899,Active,Hedychium gardnerianum,kahili ginger,,Present
+HALE,Haleakala National Park,Vascular Plant,6,Zingiberales,Zingiberaceae,147746,42403,Active,Zingiber zerumbet,"awapuhi, shampoo ginger",,Present
+HALE,Haleakala National Park,Crab/Lobster/Shrimp,8,Decapoda,Palaemonidae,736794,96308,Active,Macrobrachium lar,Tahitian prawn,,Present
+HALE,Haleakala National Park,Slug/Snail,9,,,1159367,,Active,Neripteron vespertinum,hapawai,Theodoxus vespertinus,Present
+HALE,Haleakala National Park,Slug/Snail,9,Neritopsina,Neritidae,162373,-503560,Inactive,Neritina granosa,hihiwai,,Present

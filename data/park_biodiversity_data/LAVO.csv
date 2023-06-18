@@ -1,0 +1,1108 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+LAVO,Lassen Volcanic National Park,Mammal,1,,,745916,-9786441,Active,Clethrionomys californicus mazama,,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,,,155967,-501643,Active,Erethizon dorsatum epixanthum,"yellow-haired porcupine, common porcupine, porcupine","Erethizon epixanthum epixanthum, Erethizon dorsatum",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,,,672597,-744950,Inactive,Lutra canadensis brevipilosus,River Otter,Lutra canadensis,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,"pronghorn, Pronghorn",,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,"elk, Red Deer (see comments), wapiti, wapiti or elk",,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,"black-tailed deer, Rocky Mountain mule deer, Columbian black-tailed deer","Odocoileus hemionus hemionus, Odocoileus hemionus var. columbianus, Odocoileus columbianus columbianus, Odocoileus hemionus columbianus",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Canidae,631371,726800,Active,Canis latrans lestes,Coyote,Canis latrans,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,"Common Gray Fox, Gray Fox",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Canidae,634054,726953,Active,Vulpes vulpes necator,Red Fox,"Vulpes vulpes, Vulpes fulva necator",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,Felis rufus,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,"mountain lion, mountain lion","Felis oregonensis, Felis oregonensis californica, Felis concolor",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Mephitidae,93309,180570,Active,Spilogale putorius,Spotted skunk,Spilogale gracilis,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Mustelidae,628429,727093,Active,Martes americana sierrae,"American Marten, Marten, American marten, American pine marten","Martes americana, Martes caurina, Martes americana humboldtensis",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Mustelidae,630217,727216,Active,Mustela erminea muricus,Ermine,Mustela erminea,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Mustelidae,629081,726284,Active,Neovison vison,American mink,"Mustela vison, Mustela vision aestuarina",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Mustelidae,669210,-745172,Active,Taxidea taxus neglecta,"American Badger, Badger",Taxidea taxus,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,Bassariscus astutus raptor,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,"common raccoon, Northern Raccoon, Raccoon",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,Black bear,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,155961,-501640,Inactive,Eptesicus fuscus bernardinus,Big Brown Bat,Eptesicus fuscus,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,"Black Bat, Silver-black Bat, Silver-haired Bat",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,"Hoary Bat, Northern Hoary Bat",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,152516,-501719,Inactive,Myotis californicus californicus,"California Myotis, Californian Myotis",Myotis californicus,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,"Long-eared Myotis, Western Long-eared Bat",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,152523,-501722,Inactive,Myotis lucifugus carissima,"Little Brown Bat, Little Brown Myotis","Myotis lucifugus, Myotis lucifugus altipetens",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,152535,-501728,Inactive,Myotis volans interior,Long-legged Myotis,Myotis volans,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Didelphimorphia,Didelphidae,88114,179921,Active,Didelphis virginiana,Virginia Opossum,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,"Tahoe snowshoe hare, Washington hare","Lepus americanus tahoensis, Lepus washingtoni",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,"Black-tailed Jack Rabbit, Black-tailed Jackrabbit, California Jackrabbit, Gray-sided Jackrabbit, Great Plains Jackrabbit, Jackass-hare, Narrow-gauge Mule, Texan Hare, Texas Jack",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,"Mountain Cottontail, Nuttall's cottontail",Sylvilagus nuttalli,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Lagomorpha,Ochotonidae,635241,727793,Active,Ochotona princeps schisticeps,"American Pika, Cony, Hay-maker, Little Chief Hare, Mouse Hare, Piping Hare, Rock Rabbit, Southern Pika, Whistling Hare",Ochotona princeps,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Aplodontiidae,115252,203471,Active,Aplodontia rufa californica,"Mountain Beaver, Sewellel",Aplodontia rufa,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American Beaver,"Castor canadensis suburauratus, Castor canadensis shastensis",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,91695,180305,Active,Microtus californicus,"Amargosa Vole, California Vole",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,745932,-9786457,Inactive,Microtus longicaudus sierrae,,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,745935,-9786460,Inactive,Microtus montanus montanus,,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,972387,970610,Active,Myodes californicus,Western red-backed vole,Clethrionomys californicus,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,666629,-745000,Inactive,Neotoma cinerea alticola,"bushy-tailed woodrat, Bushy-tailed Woodrat","Neotoma cinerea occidentalis, Neotoma cinerea",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,"Common Muskrat, Muskbeaver, Muskrat",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,181868,-512758,Active,Peromyscus maniculatus gambelii,"Deer Mouse, North American Deermouse",Peromyscus maniculatus,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Dipodidae,669258,-745195,Active,Zapus princeps pacificus,Western Jumping Mouse,Zapus princeps,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Geomyidae,90689,180227,Active,Thomomys monticola,Mountain Pocket Gopher,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,920484,930305,Active,Callospermophilus lateralis,golden-mantled ground squirrel,"Citellus lateralis, Spermophilus lateralis, Spermophilus lateralis chrysodeirus, Callospermophilus lateralis chrysodeirus",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,745915,-9786440,Inactive,Glaucomys sabrinus lascivus,,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,920617,930301,Active,Otospermophilus beecheyi,California ground squirrel,"Spermophilus beecheyi, Citellus tridecemlineatus, Citellus beecheyi",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,89708,180176,Active,Sciurus griseus,Western Gray Squirrel,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,669157,-745147,Inactive,Tamias amoenus amoenus,"Yellow-pine Chipmunk, yellow pine chipmunk","Tamias amoenus, Eutamias amoenus",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,90660,180200,Active,Tamias quadrimaculatus,Long-eared Chipmunk,,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,745899,-9786424,Inactive,Tamias senex senex,,,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,669187,-745161,Inactive,Tamias speciosus frater,"Lodgepole Chipmunk, lodgepole chipmunk","Tamias speciosus, Eutamias speciosus",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,669197,-745166,Active,Tamiasciurus douglasii albolimbatus,Douglas's Squirrel,"Tamiasciurus douglasii, Tamiasciurus douglasi",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Rodentia,Sciuridae,920618,930315,Active,Urocitellus beldingi,Belding's ground squirrel,"Spermophilus beldingi, Spermophilus beldingi oregonus, Citellus oregonus, Citellus beldingi, Urocitellus beldingi oregonus",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Soricidae,88663,179949,Active,Sorex merriami,Merriam's Shrew,,Probably Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Soricidae,595203,710084,Active,Sorex palustris navigator,"American Water Shrew, northern water shrew, Water Shrew",Sorex palustris,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Soricidae,88669,179954,Active,Sorex preblei,"malheur shrew, Preble's Shrew",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Soricidae,88670,179955,Active,Sorex tenellus,"great basin dwarf shrew, Inyo Shrew",,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Soricidae,595230,710097,Active,Sorex trowbridgii mariposae,Trowbridge's Shrew,Sorex trowbridgii,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Soricidae,595242,710102,Active,Sorex vagrans vagrans,"Vagrant Shrew, wandering shrew","Sorex vagrans amoenus, Sorex vagrans",Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Talpidae,593470,709987,Active,Neurotrichus gibbsii gibbsii,"American Shrew Mole, Gibbs's shrew mole, least shrew mole, Shrew-mole",Neurotrichus gibbsii,Present
+LAVO,Lassen Volcanic National Park,Mammal,1,Soricomorpha,Talpidae,594074,710009,Active,Scapanus latimanus dilatus,Broad-footed Mole,Scapanus latimanus,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,"Roughleg, Rough-legged Buzzard, Rough-legged Hawk",,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,79572,175359,Active,Buteo lineatus,Red-shouldered Hawk,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,Haliaeetus leucocephalus leucocephalus,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,"Osprey, Western Osprey",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,pintail,Dafila acuta,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,"Common Teal, Eurasian Teal, Green-winged Teal",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77723,175020,Active,Anser albifrons,Greater White-fronted Goose,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked Duck,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78513,175129,Active,Aythya valisineria,Canvasback,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78530,175144,Active,Bucephala islandica,Barrow's Goldeneye,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,"Blue Goose, Snow Goose",,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,76612,174987,Active,Cygnus columbianus,Tundra Swan,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,"Common Merganser, Goosander",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,ruddy duck,Erismatura jamaicensis,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Apodidae,83047,178002,Active,Chaetura vauxi,Vaux's Swift,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Apodidae,83039,177997,Active,Cypseloides niger,"American Black Swift, Black Swift",,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Trochilidae,83888,178036,Active,Calypte anna,Anna's Hummingbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Trochilidae,83894,178041,Active,Selasphorus sasin,Allen's Hummingbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,common poor-will,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Charadriidae,77630,176506,Active,Charadrius semipalmatus,Semipalmated Plover,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Laridae,81187,176935,Active,Hydroprogne caspia,Caspian tern,Sterna caspia,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California Gull,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Laridae,81080,176839,Active,Larus philadelphia,Bonaparte's gull,Chroicocephalus philadelphia,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Laridae,81133,176887,Active,Sterna forsteri,Forster's Tern,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Laridae,81110,176866,Active,Xema sabini,sabine's gull,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,spotted sandpiper,Actitis macularia,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,79267,176653,Active,Calidris melanotos,Pectoral Sandpiper,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Wilson's snipe,Gallinago gallinago,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed Dowitcher,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,79303,176686,Active,Limosa fedoa,Marbled Godwit,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,80295,176735,Active,Phalaropus lobatus,Red-necked Phalarope,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,"Common Pigeon, Rock Dove, Rock Pigeon",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Columbiformes,Columbidae,525775,676899,Active,Patagioenas fasciata,band-tailed pigeon,Columba fasciata,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Coraciiformes,Alcedinidae,83966,178106,Active,Megaceryle alcyon,belted kingfisher,Ceryle alcyon,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,American Peregrine Falcon,Falco peregrinus anatum,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Galliformes,Odontophoridae,84295,175876,Active,Callipepla californica,"California Quail, Californian Quail",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Galliformes,Odontophoridae,84314,175893,Active,Oreortyx pictus,Mountain Quail,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Galliformes,Phasianidae,83131,175790,Active,Bonasa umbellus,Ruffed Grouse,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Galliformes,Phasianidae,84278,175860,Active,Dendragapus obscurus,"Blue Grouse, Dusky Grouse",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,"Common Loon, Great Northern Diver, Great Northern Loon",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Gaviiformes,Gaviidae,81678,174475,Active,Gavia pacifica,"Pacific Diver, Pacific Loon",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,sora rail,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,"American Bushtit, Bushtit",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown creeper,Certhia familiaris zelotes,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Corvidae,266936,554128,Active,Aphelocoma californica,"Florida Scrub Jay, Florida Scrub-Jay, Scrub Jay",Aphelocoma coerulescens,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,"Common Raven, Northern Raven",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Corvidae,86237,179667,Active,Perisoreus canadensis,"Gray Jay, Grey Jay",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's finch,Haemorhous cassinii,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,purple finch,Haemorhous purpureus,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,"Hesperiphona vespertina brooksi, Hesperiphona vespertina",Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,1005332,997805,Active,Haemorhous mexicanus,house finch,Carpodacus mexicanus,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned rosy-finch,"Leucosticte tephrocotis dawsoni, Leucosticte tephrocotis littoralis, Leucosticte arctoa",Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,95297,179246,Active,Spinus pinus,pine siskin,Carduelis pinus,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,95306,179254,Active,Spinus psaltria,lesser goldfinch,Carduelis psaltria,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Fringillidae,95300,179249,Active,Spinus tristis,American goldfinch,Carduelis tristis,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Hirundinidae,87394,178434,Active,Iridoprocne bicolor,tree swallow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,cliff swallow,Hirundo pyrrhonota,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Hirundinidae,87427,178464,Active,Progne subis,Purple Martin,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's oriole,Icterus galbula,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Icteridae,94211,179109,Active,Quiscalus mexicanus,Great-tailed Grackle,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipet,Anthus spinoletta,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Paridae,90080,178718,Active,Parus gambeli,Mountain Chickadee,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,mountain chickadee,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,943244,950080,Active,Cardellina pusilla,Wilson's warbler,Wilsonia pusilla,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,92652,178894,Active,Dendroica coronata auduboni,,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,942894,950023,Active,Geothlypis tolmiei,MacGillivray's warbler,Oporornis tolmiei,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,947478,950015,Active,Leiothlypis celata,orange-crowned warbler,Vermivora celata,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,944722,950018,Active,Leiothlypis ruficapilla,Nashville warbler,Vermivora ruficapilla,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,944721,950010,Active,Parkesia noveboracensis,Northern waterthrush,Seiurus noveboracensis,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,943413,950146,Active,Setophaga aestiva brewsteri,California yellow warbler,Dendroica aestiva brewsteri,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,942306,950046,Active,Setophaga coronata,yellow-rumped warbler,Dendroica coronata,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,942895,950057,Active,Setophaga nigrescens,black-throated gray warbler,Dendroica nigrescens,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,950199,950059,Active,Setophaga occidentalis,hermit warbler,Dendroica occidentalis,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,945403,950039,Active,Setophaga petechia,American yellow warbler,Dendroica petechia,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Parulidae,943243,950058,Active,Setophaga townsendi,Townsend's warbler,Dendroica townsendi,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Oregon junco,Junco oreganus,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,84761,179417,Active,Junco hyemalis oreganus,Dark-eyed Junco (Oregon),,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,85612,179464,Active,Passerella iliaca,"Fox Sparrow, Red Fox Sparrow, Red Fox-sparrow","Passerella iliaca schistacea, Passerella iliaca fulva, Passerella iliaca megarhyncha",Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,"Eastern Towhee, Rufous-sided Towhee",Pipilo erythrophthalmus,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,"Blue-gray Gnatcatcher, Blue-grey Gnatcatcher",,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Sittidae,90949,178788,Active,Sitta pygmaea,Pygmy Nuthatch,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,"Common Starling, European Starling",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Troglodytidae,921891,916804,Active,Troglodytes pacificus,Pacific Wren,Troglodytes troglodytes,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Turdidae,87152,179773,Active,Ixoreus naevius,Varied Thrush,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,olive sided flycatcher,Contopus borealis,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,"Western Wood Pewee, Western Wood-Pewee",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85834,178348,Active,Empidonax difficilis,Pacific-slope flycatcher,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,Empidonax traillii brewsteri,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,"Gray Flycatcher, Grey Flycatcher",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Vireonidae,266864,554456,Active,Vireo cassinii,"Blue-headed Vireo, Solitary Vireo","Vireo solitarius cassinii, Vireo solitarius",Present
+LAVO,Lassen Volcanic National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Pelecaniformes,Ardeidae,84508,174856,Active,Botaurus lentiginosus,American Bittern,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Pelecaniformes,Ardeidae,84458,174810,Active,Casmerodius albus,Great Egret,,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,"Black-crowned Night Heron, Black-crowned Night-Heron",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,white pelican,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84833,178166,Active,Dryocopus pileatus,Pileated Woodpecker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84858,178189,Active,Melanerpes formicivorus,Acorn Woodpecker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,"Lewis' Woodpecker, Lewis's Woodpecker",Asyndesmus lewis,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84933,178256,Active,Picoides albolarvatus,White-headed Woodpecker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84927,178250,Active,Picoides arcticus,Black-backed Woodpecker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84885,178212,Active,Sphyrapicus ruber,Red-breasted Sapsucker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Piciformes,Picidae,84879,178207,Active,Sphyrapicus varius daggetti,Sierra Nevada red-breasted sapsucker,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Podicipediformes,Podicipedidae,265055,554027,Active,Aechmophorus clarkii,Clark's Grebe,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,"Black-necked Grebe, Eared Grebe",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,pied-billed grebe,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,saw-whet owl,Cryptoglaux acadica,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Strigiformes,Strigidae,82935,177902,Active,Glaucidium gnoma,"Mountain Pygmy Owl, Northern Pygmy-Owl",,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Strigiformes,Strigidae,82962,177927,Active,Strix occidentalis occidentalis,California spotted owl,Strix occidentalis,Present
+LAVO,Lassen Volcanic National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,"Barn Owl, Common Barn-Owl, Western Barn Owl",,Probably Present
+LAVO,Lassen Volcanic National Park,Bird,2,Suliformes,Phalacrocoracidae,83419,174717,Active,Phalacrocorax auritus,Double-crested Cormorant,,Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Anguidae,120630,209008,Active,Elgaria coerulea,"Sierra Alligator Lizard, Shasta alligator lizard","Gerrhonotus coeruleus, Elgaria coerulea palmeri, Gerrhonotus coeruleus shastensis",Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Charinidae,80843,174326,Active,Charina bottae,"Northern Rubber Boa, Rubber Boa",Charina bottae bottae,Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Colubridae,79758,174193,Active,Lampropeltis zonata,"California Mountain Kingsnake, St. Helena Mountain Kingsnake",,Probably Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,Striped Whipsnake,,Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,"Terrestrial Garter Snake, Western Terrestrial Garter Snake",,Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Colubridae,79025,174136,Active,Thamnophis sirtalis,"California Red-sided Garter Snake, California Red-sided Gartersnake",Thamnophis sirtalis infernalis,Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,"western sagebrush lizard, Northern Sagebrush Lizard","Sceloporus graciosus gracilis, Sceloporus graciosus graciosus",Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Iguanidae,77528,173875,Active,Sceloporus occidentalis,Western Fence Lizard,,Probably Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Scincidae,78438,173970,Active,Eumeces skiltonianus,Western Skink,,Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,"Prairie Rattlesnake, Western Rattlesnake",,Probably Present
+LAVO,Lassen Volcanic National Park,Reptile,3,Testudines,Emydidae,506491,668668,Active,Actinemys marmorata,Western pond turtle,"Clemmys marmorata, Clemmys marmorata marmorata",Present
+LAVO,Lassen Volcanic National Park,Amphibian,4,Anura,Bufonidae,761739,773513,Active,Anaxyrus boreas,Western toad,"Bufo boreas, Bufo boreas boreas",Present
+LAVO,Lassen Volcanic National Park,Amphibian,4,Anura,Hylidae,118900,207313,Active,Pseudacris regilla,"Northern Pacific Treefrog, Pacific Chorus Frog, Pacific Treefrog",Hyla regilla,Present
+LAVO,Lassen Volcanic National Park,Amphibian,4,Anura,Ranidae,83288,173450,Active,Rana cascadae,Cascades Frog,Rana aurora cascadae,Present
+LAVO,Lassen Volcanic National Park,Amphibian,4,Caudata,Ambystomatidae,114379,208201,Active,Ambystoma macrodactylum sigillatum,Long-toed Salamander,Ambystoma macrodactylum,Present
+LAVO,Lassen Volcanic National Park,Amphibian,4,Caudata,Plethodontidae,115903,208368,Active,Ensatina eschscholtzii platensis,Ensatina,Ensatina eschscholtzii,Probably Present
+LAVO,Lassen Volcanic National Park,Amphibian,4,Caudata,Salamandridae,75906,173620,Active,Taricha granulosa,Rough-skinned Newt,,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Cypriniformes,Catostomidae,65727,163914,Active,Catostomus tahoensis,Tahoe Sucker,,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Cypriniformes,Cyprinidae,70817,163368,Active,Notemigonus crysoleucas,golden shiner,,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Cypriniformes,Cyprinidae,72055,163517,Active,Pimephales promelas,fathead minnow,,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Cypriniformes,Cyprinidae,70838,163387,Active,Rhinichthys osculus,speckled dace,Rhinichthys osculus robustus,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Cypriniformes,Cyprinidae,72068,163529,Active,Richardsonius egregius,"Lahontan redside, Lahontan shiner",,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Cypriniformes,Cyprinidae,671908,-746321,Inactive,Siphateles bicolor,tui chub,Gila bicolor,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Salmoniformes,Salmonidae,71783,161989,Active,Oncorhynchus mykiss,Columbia River redband trout,"Salmo stonei, Salmo gairdnerii, Salmo gairdneri gairdneri, Oncorhynchus mykiss gairdnerii, Salmo gairdneri",Present
+LAVO,Lassen Volcanic National Park,Fish,5,Salmoniformes,Salmonidae,71792,161997,Active,Salmo trutta,brown trout,,Present
+LAVO,Lassen Volcanic National Park,Fish,5,Salmoniformes,Salmonidae,71801,162003,Active,Salvelinus fontinalis,"aurora trout, brook trout, charr, coaster brook trout, salter, sea trout",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,,,159979,-502640,Inactive,Panicum acuminatum var. acuminatum,western panicgrass,Dichanthelium acuminatum ssp. acuminatum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,,,1058254,,Active,Panicum acuminatum var. thermale,Geysers panicum,"Dichanthelium acuminatum var. thermale, Dichanthelium lanuginosum var. thermale, Panicum thermale",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,,,1006662,,Active,Sceptridium multifidum,leathery grape fern,"Botrychium multifidum, Botrychium multifidum var. coulteri",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Alismataceae,140802,38917,Active,Sagittaria cuneata,arum-leaved arrowhead,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Araceae,860988,811051,Active,Landoltia punctata,dotted duckmeat,Spirodela punctata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Araceae,149500,42595,Active,Lemna trisulca,ivy-leaved duckweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Araceae,159321,503362,Active,Lemna turionifera,turion duckweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Hydrocharitaceae,141556,38996,Active,Najas flexilis,slender water-nymph,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141585,39021,Active,Potamogeton amplifolius,large-leaved pondweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,215139,529804,Active,Potamogeton foliosus ssp. foliosus,leafy pondweed,"Potamogeton foliosus, Potamogeton foliosus var. foliosus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141597,39032,Active,Potamogeton gramineus,grass-leaved pondweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141570,39008,Active,Potamogeton natans,floating-leaved pondweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141608,39042,Active,Potamogeton praelongus,white-stemmed pondweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,158721,504558,Active,Potamogeton richardsonii,Richardson's pondweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Scheuchzeriaceae,141542,38983,Active,Scheuchzeria palustris,"American scheuchzeria, Rannoch rush",Scheuchzeria palustris ssp. americana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Alismatales,Tofieldiaceae,889988,810328,Active,Triantha occidentalis ssp. occidentalis,western tofieldia,"Tofieldia occidentalis ssp. occidentalis, Tofieldia glutinosa ssp. superbus, Tofieldia glutinosa ssp. occidentalis",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,132572,29437,Active,Angelica breweri,Brewer's angelica,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,133391,29457,Active,Cicuta douglasii,western water-hemlock,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,174885,511934,Active,Cymopterus terebinthinus,Turpentine cymopterus,Pteryxia terebinthina var. terebinthina,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,225769,534171,Active,Cymopterus terebinthinus var. californicus,California cymopterus,Pteryxia terebinthina var. californica,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,160212,502953,Active,Heracleum maximum,cow-parsnip,Heracleum lanatum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,133474,29531,Active,Ligusticum grayi,Gray's wild lovage,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,166791,507093,Active,Osmorhiza berteroi,western sweet cicely,Osmorhiza chilensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126360,29792,Active,Osmorhiza occidentalis,western sweet-cicely,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,133492,29548,Active,Oxypolis occidentalis,western cowbane,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126370,29800,Active,Perideridia bolanderi ssp. bolanderi,Bolander's yampah,Perideridia bolanderi,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126377,29807,Active,Perideridia howellii,Howell's yampah,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126379,29809,Active,Perideridia lemmonii,Lemmon's yampah,Perideridia gairdneri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126385,29814,Active,Perideridia parishii ssp. latifolia,Parish's yampah,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126427,29852,Active,Sanicula graveolens,Sierra sanicle,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126439,29863,Active,Sanicula tuberosa,turkey-pea,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Apiales,Apiaceae,126450,29873,Active,Sphenosciadium capitellatum,swamp whiteheads,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150335,42719,Active,Allium campanulatum,Sierra onion,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,87014,182628,Active,Allium obtusum var. obtusum,Red sierra onion,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150303,42690,Active,Allium parvum,dwarf onion,Allium tribracteatum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149560,42649,Active,Allium platycaule,flat-stemmed onion,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149567,42655,Active,Allium validum,swamp onion,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Asparagaceae,140694,42884,Active,Camassia quamash ssp. quamash,common camas,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Asparagaceae,164679,506944,Active,Dichelostemma congestum,fork-toothed ookow,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Asparagaceae,157787,503655,Active,Maianthemum racemosum,western false solomon's-seal,Smilacina racemosa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Asparagaceae,157789,503656,Active,Maianthemum stellatum,star-flowered false solomon's-seal,Smilacina stellata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Asparagaceae,142817,43098,Active,Triteleia hyacinthina,wild hyacinth,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Asparagaceae,166427,508161,Active,Triteleia montana,mountain triteleia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Iridaceae,144330,43232,Active,Iris tenuissima ssp. purdyiformis,slender-tubed iris,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Iridaceae,144341,43242,Active,Sisyrinchium bellum,blue-eyed-grass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Iridaceae,145176,43258,Active,Sisyrinchium elmeri,"Elmer's blueeyed grass, Elmer's blue-eyed grass, Elmer's blue-eyed-grass",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Iridaceae,214815,530393,Active,Sisyrinchium idahoense var. idahoense,Idaho blue-eyed-grass,Sisyrinchium idahoense,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,147948,43517,Active,Cephalanthera austiniae,phantom orchid,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,784861,894656,Active,Corallorhiza maculata,spotted coralroot,Corallorrhiza maculata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,148032,43593,Active,Goodyera oblongifolia,rattlesnake-plantain,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,149609,43633,Active,Listera convallarioides,broad-leaved twayblade,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,149647,43668,Active,Piperia unalascensis,Alaska rein orchid,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,111104,196401,Active,Platanthera dilatata var. leucostachys,"Sierra bog orchid, white bog orchid","Habenaria leucostachys, Habenaria dilatata, Platanthera leucostachys",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,147025,43438,Active,Platanthera sparsiflora,sparse-flowered bog orchid,"Habenaria sparsiflora, Habenaria sparsifolia",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asparagales,Orchidaceae,164791,505344,Active,Spiranthes porrifolia,western ladies-tresses,Spiranthes romanzoffiana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,133556,35423,Active,Achillea millefolium,yarrow,"Achillea lanulosa, Achillea millefolium var. occidentalis",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141371,36463,Active,Adenocaulon bicolor,trailplant,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141382,36473,Active,Ageratina occidentalis,western eupatorium,Eupatorium occidentale,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141398,36488,Active,Agoseris aurantiaca,orange-flowered agoseris,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141402,36491,Active,Agoseris grandiflora,large-flowered agoseris,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141403,36492,Active,Agoseris heterophylla,annual agoseris,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,170870,508445,Active,Agoseris monticola,Pale agoseris,"Agoseris glauca, Agoseris glauca var. monticola",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141404,36493,Active,Agoseris retrorsa,spear-leaved agoseris,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141444,36529,Active,Anaphalis margaritacea,pearly-everlasting,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,133768,36726,Active,Antennaria corymbosa,meadow pussytoes,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,133769,36727,Active,Antennaria dimorpha,cushion pussytoes,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,133778,36735,Active,Antennaria geyeri,Geyer's pussytoes,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,88640,185151,Active,Antennaria media,alpine pussytoes,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,88526,185049,Active,Antennaria rosea ssp. confinis,rosy pussytoes,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141479,36560,Active,Arnica chamissonis,meadow arnica,Arnica chamissonis ssp. foliosa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141480,36561,Active,Arnica cordifolia,heart-leaved arnica,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,772059,780195,Active,Arnica dealbata,whitneya,Whitneya dealbata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141481,36562,Active,Arnica discoidea,rayless arnica,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141483,36564,Active,Arnica fulgens,Foothill arnica,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141488,36569,Active,Arnica longifolia,seep-spring arnica,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141491,36571,Active,Arnica mollis,Cordilleran arnica,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,141492,36572,Active,Arnica nevadensis,Sierra arnica,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,86023,183724,Active,Artemisia arbuscula ssp. arbuscula,dwarf sagebrush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,133597,35460,Active,Artemisia douglasiana,mugwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,133639,35499,Active,Artemisia tridentata ssp. tridentata,big sagebrush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,134301,35616,Active,Aster occidentalis,western aster,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,101503,193214,Active,Aster occidentalis var. occidentalis,western aster,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,135861,36818,Active,Balsamorhiza sagittata,arrow-leaved balsamroot,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,134673,35710,Active,Bidens cernua,"nodding beggartick, bur marigold",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,152462,-502025,Inactive,Bidens cernua var. cernua,nodding bur-marigold,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,136729,36878,Active,Brickellia grandiflora,large-flowered brickellbush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,136730,36879,Active,Brickellia greenei,Greene's brickellbush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,208444,527250,Active,Chaenactis douglasii var. douglasii,dusty-maidens,Chaenactis douglasii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137256,36993,Active,Chaenactis nevadensis,Sierra chaenactis,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137350,37078,Active,Chrysothamnus parryi ssp. latior,Parry's rabbitbrush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,139504,36339,Active,Cirsium andersonii,Anderson's thistle,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,216397,531189,Active,Cirsium douglasii var. breweri,swamp thistle,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,140118,36413,Active,Cirsium scariosum,dwarf thistle,"Cirsium drummondii, Cirsium foliosum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,bull thistle,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138646,37169,Active,Crepis acuminata,long-leaved hawk's-beard,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138661,37182,Active,Crepis capillaris,smooth hawk's-beard,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138670,37190,Active,Crepis monticola,mountain hawk's-beard,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138676,37196,Active,Crepis occidentalis,western hawk's-beard,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,769553,780884,Active,Dieteria canescens var. shastensis,Shasta tansy-aster,Machaeranthera canescens var. shastensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,156936,502355,Active,Ericameria bloomeri,Bloomer's goldenbush,"Chrysothamnus bloomeri, Haplopappus bloomeri",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,156957,502365,Active,Ericameria greenei,Greene's goldenbush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,294321,566648,Active,Ericameria nauseosa var. speciosa,white-stemmed rabbitbrush,"Chrysothamnus nauseosus, Chrysothamnus nauseosus ssp. albicaulis",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,216424,531201,Active,Ericameria parryi var. parryi,"green rabbitbrush, Parry's rabbitbrush",Chrysothamnus parryi,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,110150,196266,Active,Erigeron canadensis,Canadian horseweed,Conyza canadensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,136021,35843,Active,Erigeron compositus,cut-leaved daisy,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,136023,35845,Active,Erigeron coulteri,Coulter's daisy,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,136037,35858,Active,Erigeron elegantulus,volcanic daisy,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,769539,780894,Active,Erigeron glacialis var. glacialis,wandering daisy,"Erigeron peregrinus var. callianthemus, Erigeron peregrinus, Erigeron peregrinus ssp. callianthemus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,212552,527948,Active,Erigeron inornatus var. inornatus,California rayless daisy,Erigeron inornatus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,216434,531206,Active,Erigeron lassenianus var. lassenianus,Mt. Lassen fleabane,Erigeron lassenianus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,209591,528045,Active,Eriophyllum lanatum var. achillaeoides,yarrow-leaved woolly-sunflower,Eriophyllum lanatum var. achilleoides,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,209606,528052,Active,Eriophyllum lanatum var. integrifolium,Oregon sunshine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,170673,507601,Active,Eucephalus breweri,Brewer's aster,"Heterotheca breweri, Chrysopsis breweri, Aster breweri",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,181559,513447,Active,Eurybia integrifolia,thickstem aster,Aster integrifolius,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,133749,36709,Active,Gnaphalium palustre,western marsh cudweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137407,36010,Active,Helenium bigelovii,Bigelow's sneezeweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,214110,528357,Active,Helianthella californica var. nevadensis,California helianthella,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,772232,780368,Active,Hemizonella minima,dwarf media,Madia minima,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,142158,37693,Active,Hieracium albiflorum,white-flowered hawkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,142164,37699,Active,Hieracium bolanderi,Bolander's hawkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,143001,37711,Active,Hieracium horridum,shaggy hawkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,143019,37728,Active,Hieracium scouleri,hawkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,211321,528481,Active,Hieracium scouleri var. nudicaule,bare-stemmed hawkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,212152,528482,Active,Hieracium scouleri var. scouleri,Scouler's hawkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,143024,37732,Active,Hieracium triste,alpine hawkweed,Hieracium gracile,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,143047,37753,Active,Hulsea nana,dwarf hulsea,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,772264,780400,Active,Kyhosia bolanderi,Bolander's tarweed,Madia bolanderi,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,prickly lettuce,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,143758,37903,Active,Leucanthemum vulgare,oxeye-daisy,Chrysanthemum leucanthemum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,144709,38021,Active,Madia citrigracilis,Shasta tarweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,144717,38029,Active,Madia glomerata,mountain tarweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,144719,38030,Active,Madia gracilis,slender tarweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,153776,501470,Active,Matricaria discoidea,"pineapple weed, disc mayweed",Chamomilla suaveolens,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,145916,38114,Active,Microseris nutans,nodding microceris,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,217314,531230,Active,Oreostemma alpigenum var. andersonii,alpine aster,Aster alpigenus var. andersonii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,192568,518142,Active,Packera cana,New Name,Senecio canus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,192582,518149,Active,Packera indecora,elegant groundsel,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,192593,518154,Active,Packera pauciflora,rayless alpine ragwort,Senecio pauciflorus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,192960,519666,Active,Pseudognaphalium microcephalum,Wright's cudweed,"Gnaphalium canescens ssp. microcephalum, Pseudognaphalium canescens ssp. microcephalum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,772356,780492,Active,Pseudognaphalium thermale,small-headed cudweed,"Gnaphalium microcephalum, Gnaphalium canescens ssp. thermale, Gnaphalium thermale",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,136431,38333,Active,Raillardella argentea,silky raillardella,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,161839,504722,Active,Raillardella scaposa,green-leaved raillardella,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137504,36099,Active,Senecio aronicoides,rayless ragwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,217267,530316,Active,Senecio fremontii var. fremontii,dwarf mountain ragwort,Senecio fremontii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138487,36144,Active,Senecio hydrophilus,alkali-marsh ragwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138528,36181,Active,Senecio scorzonella,Sierra ragwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137495,36090,Active,Senecio triangularis,arrow-leaved ragwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,210837,526710,Active,Solidago canadensis ssp. elongata,Canadian goldenrod,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,769475,780962,Active,Solidago lepida var. salebrosa,Western goldenrod,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137731,38425,Active,Sonchus asper ssp. asper,prickly sow-thistle,Sonchus asper,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137754,38446,Active,Stephanomeria lactucina,large-flowered stephanomeria,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,137764,38455,Active,Stephanomeria tenuifolia,wire-lettuce,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,197662,522187,Active,Symphyotrichum bracteolatum,Eaton's aster,"Aster eatonii, Symphyotrichum eatonii",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,237306,541090,Active,Symphyotrichum foliaceum var. parryi,Parry's aster,Aster foliaceus var. parryi,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,197712,522210,Active,Symphyotrichum frondosum,Short rayed alkali aster,Aster frondosus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,237367,541119,Active,Symphyotrichum spathulatum var. yosemitanum,"western bog aster, yosemite aster","Aster occidentalis var. yosemitanus, Aster yosemitanus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,common dandelion,"Taraxacum vulgare, Taraxacum officinale ssp. officinale",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,138150,38564,Active,Tragopogon dubius,yellow salisify,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,237110,541486,Active,Trimorpha acris var. debilis,northern-daisy,"Erigeron acris ssp. debilis, Erigeron acris var. debilis",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Asteraceae,139214,38684,Active,Wyethia mollis,woolly mule's-ears,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Campanulaceae,136184,34498,Active,Campanula scabrella,rough harebell,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Campanulaceae,136258,34564,Active,Downingia yina,Cascade downingia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Campanulaceae,136271,34576,Active,Heterocodon rariflorum,heterocodon,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Campanulaceae,136305,34606,Active,Porterella carnosula,porterella,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Asterales,Menyanthaceae,129105,30102,Active,Menyanthes trifoliata,buck-bean,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,131073,31766,Active,Cryptantha affinis,side-grooved cryptantha,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,131092,31783,Active,Cryptantha ambigua,"basin catseye, Wilkes' cryptantha",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,132125,31873,Active,Cryptantha simulans,pine cryptantha,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,154138,501827,Active,Cryptantha sobolifera,Sierra perennial cryptantha,Cryptantha subretusa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,132133,31880,Active,Cryptantha torreyana,Torrey's cryptantha,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,132142,31889,Active,Cynoglossum occidentale,western hound's-tongue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,689565,-754787,Active,Eriodictyon lobbii,Lobb's nama,Nama lobbii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,132182,31924,Active,Hackelia californica,California stickseed,Lappula californica,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,132190,31931,Active,Hackelia micrantha,small-flowered stickseed,Hackelia floribunda,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,132172,31915,Active,Hackelia nervosa,Sierra stickseed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,190290,519135,Active,Plagiobothrys cognatus,coginate popcorn-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,190294,519137,Active,Plagiobothrys hispidulus,harsh popcorn-flower,"Allocarya hispidula, Plagiobothrys scouleri var. hispidulus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Boraginaceae,132802,32001,Active,Plagiobothrys hispidus,Cascade popcorn-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128512,31381,Active,Hesperochiron pumilus,dwarf hesperochiron,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128526,31394,Active,Hydrophyllum occidentale,California waterleaf,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128565,31429,Active,Nemophila pedunculata,meadow nemophila,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128569,31432,Active,Nemophila spatulata,Sierran nemophila,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129880,31531,Active,Phacelia hastata ssp. compacta,timberline phacelia,Phacelia frigida,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129886,31537,Active,Phacelia hydrophylloides,waterleaf phacelia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129903,31552,Active,Phacelia mutabilis,changeable scorpionweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130199,31578,Active,Phacelia procera,tall phacelia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130205,31583,Active,Phacelia racemosa,racemose scorpionweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,89545,184382,Active,Arabis lemmonii var. lemmonii,Lemmon's rockcress,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,121288,22723,Active,Arabis platysperma,rockcress,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,90377,184414,Active,Arabis platysperma var. platysperma,broad-seeded rockcress,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,121307,22740,Active,Barbarea orthoceras,American wintercress,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,848986,823186,Active,Boechera arcuata,elegant rockcress,Arabis sparsiflora var. arcuata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,889262,823339,Active,Boechera breweri ssp. breweri,Brewer's rockcress,Arabis breweri var. breweri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,848847,823047,Active,Boechera depauperata,depauperate rockcress,Arabis lemmonii var. depauperata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,848953,823153,Active,Boechera howellii,Howell's rockcress,Arabis platysperma var. howellii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,848857,823057,Active,Boechera lyallii,Lyall's rockcress,"Arabis lyallii var. lyallii, Arabis lyallii",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,848791,822991,Active,Boechera pinetorum,"pine rockcress, Holboel's rockcress",Arabis holboellii var. pinetorum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,848948,823148,Active,Boechera rectissima,bristly-leaved rockcress,Arabis rectissima var. rectissima,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,172662,509596,Active,Boechera retrofracta,Holboell's rockcress,Arabis holboellii var. retrofracta,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,848804,823004,Active,Boechera suffrutescens,woody rockcress,"Arabis suffrutescens var. suffrutescens, Arabis suffrutescens",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,121335,22766,Active,Capsella bursa-pastoris,shepherd's-purse,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,121351,22780,Active,Cardamine bellidifolia,alpine bittercress,Cardamine bellidifolia var. pachyphylla,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,210615,527048,Active,Cardamine breweri var. breweri,Brewer's bittercress,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,122370,22853,Active,Draba albertina,Alberta whitlow-grass,Draba stenoloba var. nana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,122382,22864,Active,Draba aureola,Golden draba,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,122385,22867,Active,Draba breweri,Brewer's whitlow-grass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,156912,-502343,Active,Erysimum capitatum ssp. capitatum,western wallflower,Erysimum capitatum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,123295,22965,Active,Lepidium heterophyllum,variable-leaved pepperwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,125095,23266,Active,Phoenicaulis cheiranthoides,common phoenicaulis,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,889277,823354,Active,Physaria occidentalis ssp. occidentalis,western bladderpod,"Lesquerella kingii, Lesquerella occidentalis, Lesquerella occidentalis ssp. occidentalis",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,123336,23001,Active,Rorippa curvisiliqua,western yellowcress,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,214845,530407,Active,Smelowskia ovalis var. congesta,Lassen Peak smelowskia,Smelowskia ovalis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,219198,530582,Active,Streptanthus tortuosus var. orbiculatus,mountain jewelflower,Streptanthus tortuosus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,123362,23025,Active,Subularia aquatica ssp. americana,American awlwort,Subularia aquatica var. americana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Brassicaceae,205101,522994,Active,Turritis glabra,New Name,"Arabis glabra var. glabra, Arabis glabra",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Brassicales,Limnanthaceae,130139,29167,Active,Floerkea proserpinacoides,false mermaid,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117727,20593,Active,Chenopodium atrovirens,dark-green goosefoot,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118641,20615,Active,Chenopodium incognitum,masked goosefoot,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,848708,822809,Active,Dysphania botrys,Jerusalem oak,Chenopodium botrys,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,848705,822806,Active,Dysphania pumilio,Tasmanian goosefoot,Chenopodium pumilio,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115607,20700,Active,Monolepis nuttalliana,Nuttall's poverty-weed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202723,523831,Active,Cerastium fontanum ssp. vulgare,common mouse-eared chickweed,Cerastium vulgatum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,883786,823685,Active,Eremogone congesta var. subcongesta,New Name,Arenaria congesta var. subcongesta,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,884456,823702,Active,Eremogone kingii var. glabrescens,"Kings sandwort, King's smooth sandwort","Arenaria kingii var. glabrescens, Arenaria kingii ssp. compacta",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,883798,823697,Active,Minuartia nuttallii var. gracilis,Nuttall's sandwort,"Arenaria nuttallii ssp. gracilis, Minuartia nuttallii ssp. gracilis",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,116472,20035,Active,Sagina saginoides,alpine pearlwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,888543,823664,Active,Scleranthus annuus ssp. annuus,"German knotgrass, Knawel",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,162883,505227,Active,Silene bernardina,Palmer's catchfly,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,118144,20065,Active,Silene douglasii,Douglas' campion,Silene douglasii var. douglasii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,119248,20068,Active,Silene grayi,"Gray's campion, Maui catchfly",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,105540,20073,Active,Silene invisa,short-petalled campion,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,105618,20080,Active,Silene lemmonii,Lemmon's catchfly,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,107119,20097,Active,Silene occidentalis ssp. occidentalis,western catchfly,Silene occidentalis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,109876,20129,Active,Silene suksdorfii,Cascade alpine catchfly,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,111610,20153,Active,Spergularia rubra,ruby sandspurry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202997,524718,Active,Stellaria borealis ssp. sitchana,boreal starwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,112524,20175,Active,Stellaria calycantha,northern bog starwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,113215,20177,Active,Stellaria crispa,ruffled starwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,207013,525013,Active,Stellaria longipes ssp. longipes,long-stalked starwort,Stellaria longipes var. longipes,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114432,20190,Active,Stellaria obtusa,obtuse starwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Droseraceae,125899,22018,Active,Drosera anglica,long-leaved sundew,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Droseraceae,125898,22017,Active,Drosera rotundifolia,round-leafed sundew,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,116421,20464,Active,Calandrinia ciliata,redmaids,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,116867,20468,Active,Calyptridium monospermum,one-seeded pussypaws,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,171458,509994,Active,Calyptridium umbellatum,pussypaws,Spraguea umbellata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,109712,20390,Active,Claytonia lanceolata,western springbeauty,Claytonia lanceolata var. sessilifolia,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,109734,20392,Active,Claytonia nevadensis,Sierra springbeauty,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,154847,501579,Active,Claytonia palustris,"Jonesville springbeauty, Marsh claytonia",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,203988,525132,Active,Claytonia rubra ssp. rubra,red-stemmed miner's-lettuce,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,160566,503428,Active,Lewisia nevadensis,Sierra lewisia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,119042,20495,Active,Lewisia triphylla,three-leaved lewisia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,112161,20406,Active,Montia chamissoi,toad-lily,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,111335,20404,Active,Montia fontana,water montia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Montiaceae,112239,20413,Active,Montia linearis,linear-leaved montia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,848053,823767,Active,Aconogonon davisiae,Davis' knotweed,Polygonum davisiae,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,848063,823777,Active,Aconogonon phytolaccifolium,alpine knotweed,Polygonum phytolaccifolium,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,171766,509552,Active,Bistorta bistortoides,"western bistort, American bistort",Polygonum bistortoides,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119888,21176,Active,Eriogonum latens,Inyo buckwheat,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119904,21190,Active,Eriogonum marifolium,marum-leaved buckwheat,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102549,195543,Active,Eriogonum nudum var. pubiflorum,hairy-flowered buckwheat,Eriogonum nudum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120727,21209,Active,Eriogonum ochrocephalum,White woolly buckwheat,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103628,195558,Active,Eriogonum ovalifolium var. nivale,cushion buckwheat,Eriogonum ovalifolium,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120749,21229,Active,Eriogonum pyrolifolium,wintergreen-leaved buckwheat,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103645,195573,Active,Eriogonum pyrolifolium var. pyrolifolium,"Pumice buckwheat, Shasta buckwheat",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120755,21234,Active,Eriogonum rosense,Mt. Rose buckwheat,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209120,528016,Active,Eriogonum spergulinum var. reddingianum,spurry buckwheat,Eriogonum spergulinum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120790,21266,Active,Eriogonum umbellatum,sulfur-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103693,195616,Active,Eriogonum umbellatum var. nevadense,Sierra sulfur-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209545,528023,Active,Eriogonum umbellatum var. polyanthum,many-flowered sulfur-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120791,21267,Active,Eriogonum ursinum,Bear Valley buckwheat,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,116005,20846,Active,Oxyria digyna,mountain-sorrel,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,191626,518723,Active,Persicaria amphibia,water smartweed,"Polygonum amphibium, Polygonum natans, Polygonum amphibium var. stipulaceum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,191651,518735,Active,Persicaria lapathifolia,willow-weed,Polygonum lapathifolium,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,888566,823866,Active,Polygonum aviculare ssp. depressum,common knotweed,"Polygonum arenastrum, Polygonum aviculare",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119584,20891,Active,Polygonum douglasii,Douglas' knotweed,Polygonum douglasii ssp. douglasii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,205258,524556,Active,Polygonum douglasii ssp. johnstonii,Johnston's knotweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120654,20903,Active,Polygonum minimum,leafy dwarf knotweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,205267,524560,Active,Polygonum polygaloides ssp. confertiflorum,dense-flowered milkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,205271,524562,Active,Polygonum polygaloides ssp. kelloggii,Kellogg's knotweed,Polygonum kelloggii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,193674,519404,Active,Polygonum sawatchense,Knotweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,122660,20927,Active,Polygonum shastense,Shasta knotweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115834,20934,Active,Rumex acetosella,common sheep sorrel,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,193527,520624,Active,Rumex californicus,"smooth-valved willow dock, California dock",Rumex salicifolius var. denticulatus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,curly dock,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117316,20947,Active,Rumex occidentalis,western dock,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,236677,539857,Active,Rumex salicifolius var. triangulivalvis,callose-valved willow dock,Rumex triangulivalvis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Celastrales,Celastraceae,122575,24206,Active,Parnassia palustris,"California grass-of-Parnassus, marsh grass-of-Parnassus",Parnassia californica,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Cornales,Cornaceae,204792,523904,Active,Cornus sericea ssp. sericea,American dogwood,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Cornales,Loasaceae,159678,503769,Active,Mentzelia dispersa,nada stickleaf,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Adoxaceae,131710,35320,Active,Sambucus cerulea,blue elderberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Adoxaceae,131713,35323,Active,Sambucus mexicana,blue elderberry,Sambucus glauca,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Adoxaceae,203055,525079,Active,Sambucus nigra ssp. canadensis,American black elderberry,Sambucus canadensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Adoxaceae,237592,540293,Active,Sambucus racemosa var. microbotrys,red elderberry,Sambucus microbotrys,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,185011,516104,Active,Lonicera cauriana,sweet-berry honeysuckle,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131674,35289,Active,Lonicera conjugialis,double honeysuckle,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,211331,528896,Active,Lonicera involucrata var. involucrata,twinberry,Lonicera involucrata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131726,35335,Active,Symphoricarpos mollis,creeping snowberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,215300,531128,Active,Symphoricarpos rotundifolius var. rotundifolius,round-leaved snowberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Dipsacales,Valerianaceae,131747,35354,Active,Valeriana californica,California valerian,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Equisetales,Equisetaceae,79672,17152,Active,Equisetum arvense,common horsetail,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Equisetales,Equisetaceae,79716,17156,Active,Equisetum laevigatum,smooth scouring-rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,120208,23765,Active,Allotropa virgata,sugarstick,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,127229,23503,Active,Arctostaphylos nevadensis,pinemat manzanita,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,127240,23513,Active,Arctostaphylos patula,green-leaf manzanita,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,127664,23537,Active,Cassiope mertensiana,western moss-heather,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,120211,23768,Active,Chimaphila menziesii,little prince's-pine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,120212,23769,Active,Chimaphila umbellata,pipsissewa,Chimaphila umbellata ssp. occidentalis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,119281,23654,Active,Gaultheria humifusa,alpine wintergreen,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,204388,526004,Active,Kalmia polifolia ssp. microphylla,bog-laurel,"Kalmia polifolia, Kalmia microphylla",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,157180,504066,Active,Orthilia secunda,one-sided wintergreen,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,119325,23694,Active,Phyllodoce breweri,Brewer's mountain-heather,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,120232,23787,Active,Pterospora andromedea,pinedrops,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,206058,524614,Active,Pyrola asarifolia ssp. asarifolia,bog wintergreen,Pyrola asarifolia var. asarifolia,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,120200,23758,Active,Pyrola dentata,Toothed wintergreen,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,120204,23761,Active,Pyrola picta,white-veined wintergreen,"Pyrola picta ssp. integra, Pyrola dentata var. integra",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,783961,894433,Active,Rhododendron columbianum,western Labrador-tea,"Ledum glandulosum var. californicum, Ledum glandulosum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,160077,505014,Active,Sarcodes sanguinea,snowplant,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,288382,565591,Active,Vaccinium caespitosum,dwarf bilberry,Vaccinium cespitosum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,127705,23574,Active,Vaccinium uliginosum,bog blueberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Ericaceae,207648,526804,Active,Vaccinium uliginosum ssp. occidentale,western blueberry,Vaccinium occidentale,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,138936,31034,Active,Allophyllum integrifolium,white allophyllum,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,138939,31037,Active,Collomia grandiflora,large-flowered collomia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,166431,508163,Active,Collomia larsenii,talus collomia,Collomia debilis var. larsenii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,138944,31041,Active,Collomia linearis,narrow-leaved collomia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,138948,31045,Active,Collomia tinctoria,yellow-staining collomia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,126973,31193,Active,Ipomopsis aggregata ssp. aggregata,Scarlet gilia,"Gilia aggregata, Ipomopsis aggregata, Ipomopsis aggregata ssp. formosissima",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,126988,31206,Active,Ipomopsis congesta ssp. montana,ball-headed ipomopsis,Ipomopsis congesta,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,829280,845277,Active,Leptosiphon harknessii,"Harkness' flaxflower, threeseed linanthus",Linanthus harknessii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,127617,31295,Active,Linanthus ciliatus,whiskerbrush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,829257,845254,Active,Linanthus pungens,"Granite prickly phlox, prickly phlox","Leptodactylon pungens ssp. pulchriflorum, Leptodactylon pungens",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,127633,31309,Active,Microsteris gracilis,Slender phlox,Phlox gracilis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,829260,845257,Active,Navarretia capillaris,smooth-leaved gilia,Gilia capillaris,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,127639,31314,Active,Navarretia divaricata ssp. divaricata,mountain navarretia,Navarretia divaricata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,201777,524325,Active,Navarretia intertexta ssp. intertexta,needle-leaved navarretia,Navarretia intertexta,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,887372,845320,Active,Navarretia leptalea ssp. leptalea,Bridges' gilia,"Gilia leptalea ssp. leptalea, Gilia leptalea, Navarretia leptalea",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,202327,524329,Active,Navarretia leucocephala ssp. minima,least navarretia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,137226,30930,Active,Phlox diffusa,spreading phlox,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,138859,30965,Active,Phlox muscoides,moss phlox,Phlox bryoides,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,164279,504480,Active,Polemonium californicum,California polemonium,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Polemoniaceae,234552,539028,Active,Polemonium pulcherrimum var. pilosum,white-flowered polemonium,Polemonium pulcherrimum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ericales,Primulaceae,121083,23949,Active,Dodecatheon alpinum,alpine shootingstar,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,809077,820914,Active,Acmispon americanus var. americanus,"American bird's foot trefoil, Spanish lotus","Lotus purshianus, Lotus purshianus var. purshianus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,809297,821000,Active,Acmispon nevadensis var. nevadensis,Sierra lotus,"Lotus nevadensis var. nevadensis, Lotus nevadensis",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,809094,820931,Active,Hosackia crassifolia var. crassifolia,New Name,Lotus crassifolius var. crassifolius,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,809096,820933,Active,Hosackia oblongifolia var. oblongifolius,streambank lotus,Lotus oblongifolius var. oblongifolius,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,158045,-502509,Inactive,Lathyrus nevadensis var. nevadensis,Sierra pea,Lathyrus nevadensis ssp. nevadensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,211435,528945,Active,Lotus unifoliolatus var. unifoliolatus,American bird's-foot trefoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,124671,25935,Active,Lupinus andersonii,Anderson's lupine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,162952,503573,Active,Lupinus angustiflorus,narrow-leaved lupine,"Lupinus angustifolius, Lupinus andersonii var. christinae",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,124678,25941,Active,Lupinus arbustus,long-spurred lupine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,233971,537111,Active,Lupinus lepidus var. lobbii,Lobb's lupine,Lupinus lyallii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,233977,537114,Active,Lupinus lepidus var. sellulus,stool lupine,"Lupinus sellulus, Lupinus sellulus var. artulus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,125630,26077,Active,Lupinus obtusilobus,satin lupine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,228309,537157,Active,Lupinus polyphyllus var. burkei,meadow lupine,"Lupinus polyphyllus, Lupinus polyphyllus ssp. superbus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,126512,26149,Active,Melilotus alba,white sweet-clover,Melilotus albus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,126516,26152,Active,Melilotus indica,Indian sweet-clover,Melilotus indicus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,127274,26235,Active,Trifolium cyathiferum,bowl clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,201215,522836,Active,Trifolium geminiflorum,few-flowered white-tipped clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,127303,26261,Active,Trifolium hybridum,alsike clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,127318,26275,Active,Trifolium longipes ssp. hansenii,"long-stalked clover, Hansen's clover","Trifolium longipes, Trifolium longipes var. nevadense",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,127330,26286,Active,Trifolium microcephalum,small -headed clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,127333,26289,Active,Trifolium monanthum ssp. monanthum,mountain carpet clover,Trifolium monanthum var. monanthum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,127362,26314,Active,Trifolium productum,Productive clover,Trifolium kingii var. productum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,126576,26206,Active,Trifolium repens,white clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,127375,26326,Active,Trifolium variegatum,white-tiped clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,162635,505586,Active,Trifolium wormskioldii,springbank clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fabales,Fabaceae,204535,524800,Active,Vicia americana ssp. americana,American vetch,Vicia americana var. americana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fagales,Betulaceae,102707,19471,Active,Alnus incana,gray alder,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fagales,Betulaceae,92015,181889,Active,Alnus incana ssp. tenuifolia,mountain alder,"Alnus incana, Alnus tenuifolia",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fagales,Fagaceae,171329,508098,Active,Chrysolepis sempervirens,bush chinquapin,Castanopsis sempervirens,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fagales,Fagaceae,104394,19366,Active,Quercus kelloggii,California black oak,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Fagales,Fagaceae,100170,19445,Active,Quercus vaccinifolia,huckleberry oak,Quercus vacciniifolia,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Apocynaceae,130899,30156,Active,Apocynum androsaemifolium,Mountain dogbane,Apocynum pumilum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Apocynaceae,131810,30256,Active,Asclepias cordifolia,purple milkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Apocynaceae,131864,30304,Active,Asclepias speciosa,showy milkweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Apocynaceae,108210,196088,Active,Cycladenia humilis var. humilis,cycladenia,Cycladenia humilis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Gentianaceae,212311,528225,Active,Gentiana newberryi var. tiogana,Sierra alpine gentian,Gentiana newberryi,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Gentianaceae,129058,30060,Active,Gentianella amarella ssp. acuta,autumn dwarf-gentian,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Gentianaceae,129089,30089,Active,Gentianopsis simplex,hiker's fringed-gentian,Gentiana simplex,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,137982,34797,Active,Galium aparine,cleavers,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,138015,34826,Active,Galium bifolium,low mountain bedstraw,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,138016,34827,Active,Galium bolanderi,Bolander's bedstraw,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,211729,528211,Active,Galium grayanum var. grayanum,Gray's bedstraw,Galium grayanum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,201308,524099,Active,Galium trifidum ssp. columbianum,Pacific bedstraw,"Galium trifidum var. subbiflorum, Galium trifidum var. pacificum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,137996,34809,Active,Galium trifidum ssp. subbiflorum,"Threepetal bedstraw, small bedstraw",Galium trifidum var. pusillum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,138799,34933,Active,Galium triflorum,sweet-scented bedstraw,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Gentianales,Rubiaceae,139739,35061,Active,Kelloggia galioides,kelloggia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,red-stemmed filaree,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Isoetales,Isoetaceae,77854,17121,Active,Isoetes bolanderi,Bolander's quillwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Isoetales,Isoetaceae,78701,17137,Active,Isoetes nuttallii,Nuttall's quillwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,135554,32448,Active,Agastache parvifolia,small-leaved horseming,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,134016,32257,Active,Lycopus uniflorus,northern bugleweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,289323,565302,Active,Mentha arvensis,American wild mint,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,136507,32585,Active,Monardella odoratissima ssp. pallida,pallid mountain monardella,Monardella odoratissima,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,233878,539276,Active,Prunella vulgaris var. lanceolata,mountain selfheal,Prunella vulgaris ssp. lanceolata,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,128702,32771,Active,Scutellaria nana,dwarf skullcap,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,218740,531390,Active,Stachys ajugoides var. rigida,rigid hedge-nettle,Stachys rigida,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,134935,32373,Active,Trichostema lanceolatum,vinegar-weed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lamiaceae,134937,32375,Active,Trichostema oblongum,mountain bluecurls,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lentibulariaceae,135336,34454,Active,Utricularia intermedia,flat-leaved bladderwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lentibulariaceae,135338,34456,Active,Utricularia macrorhiza,"common bladderpod, common bladderwort, greater bladderwort",Utricularia vulgaris,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Lentibulariaceae,135339,34457,Active,Utricularia minor,lesser bladderwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,204036,525155,Active,Castilleja applegatei ssp. pallida,brewer's Indian-paintbrush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,204038,525156,Active,Castilleja applegatei ssp. pinetorum,wavy-leaved Indian-paintbrush,Castilleja applegatei,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130398,33094,Active,Castilleja arachnoidea,cobwebby Indian-paintbrush,Castilleja payneae,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130368,33067,Active,Castilleja lemmonii,Lemmon's Indian-paintbrush,Castilleja lassenensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,204049,525161,Active,Castilleja miniata ssp. miniata,scarlet Indian-paintbrush,"Castilleja miniata, Castilleja miniata var. miniata",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,163866,506887,Active,Castilleja tenuis,hairy owl-clover,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,839500,834161,Active,Kopsiopsis strobilacea,California groundcone,Boschniakia strobilacea,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,clustered broom-rape,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134495,34297,Active,Orobanche pinorum,pine woods broom-rape,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134500,34300,Active,Orobanche uniflora,naked broom-rape,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,206388,524974,Active,Orthocarpus cuspidatus ssp. cryptanthus,short-flowered owl-clover,Orthocarpus copelandii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,158621,504161,Active,Pedicularis attollens,little elephant's-head,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136641,33374,Active,Pedicularis densiflora,Indian-warrior,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136644,33377,Active,Pedicularis groenlandica,elephant's-head,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136655,33387,Active,Pedicularis semibarbata,pinewoods lousewort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,1048195,,Active,Diplacus jepsonii,Jepson's monkey-flower,Mimulus jepsonii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,1048197,,Active,Erythranthe breweri,Brewer's monkey-flower,Mimulus breweri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,935428,,Active,Erythranthe guttata,seep monkey flower,Mimulus guttatus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,1048201,,Active,Erythranthe tilingii,Tiling's monkey-flower,Mimulus tilingii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,135713,33260,Active,Mimulus lewisii,Lewis' monkey-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,136593,33330,Active,Mimulus moschatus,musk monkey-flower,Mimulus dentatus var. gracilis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,773213,-9803046,Active,Mimulus nanus var. mephiticus,skunky monkey-flower,Mimulus mephiticus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,136600,33337,Active,Mimulus primuloides var. primuloides,primrose monkey-flower,Mimulus primuloides,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,135721,33268,Active,Mimulus pulsiferae,candelabrum monkey-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Phrymaceae,135727,33273,Active,Mimulus torreyi,Torrey's monkey-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,155598,501143,Active,Callitriche palustris,vernal water-starwort,Callitriche verna,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137883,33534,Active,Collinsia parviflora,small-flowered collinsia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,212014,527447,Active,Collinsia torreyi var. latifolia,broad-leaved collinsia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,212018,527449,Active,Collinsia torreyi var. wrightii,Wright's collinsia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135103,33193,Active,Gratiola ebracteata,bractless hedge-hyssop,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135655,33208,Active,Limosella acaulis,broad-leaved mudwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,161635,503474,Active,Linaria dalmatica,Dalmatian toadflax,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131610,33851,Active,Penstemon cinicola,ash beardtongue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131633,33872,Active,Penstemon davidsonii var. davidsonii,Davidson's beardtongue,Penstemon davidsonii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,214363,529472,Active,Penstemon deustus var. pedicellatus,hot-rock beardtongue,Penstemon deustus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132340,33908,Active,Penstemon gracilentus,slender beardtongue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,220109,531462,Active,Penstemon heterodoxus var. shastensis,Shasta beardtongue,Penstemon shastensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132395,33958,Active,Penstemon neotericus,Plumas County beardtongue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,160990,-502660,Inactive,Penstemon newberryi var. newberryi,mountain-pride,"Penstemon newberryi, Penstemon newberryi ssp. newberryi",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,215418,529512,Active,Penstemon rydbergii var. oreocharis,meadow beardtongue,Penstemon oreocharis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130718,33768,Active,Penstemon speciosus,royal beardtongue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129351,32874,Active,Plantago lanceolata,English plantain,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,common plantain,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136668,33399,Active,Veronica americana,American brooklime,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,204527,524797,Active,Veronica peregrina ssp. xalapensis,purslane speedwell,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136695,33422,Active,Veronica scutellata,marsh speedwell,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136698,33425,Active,Veronica serpyllifolia ssp. humifusa,sprawling speedwell,Veronica serpyllifolia var. humifusa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136699,33426,Active,Veronica wormskjoldii,American alpine speedwell,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136663,33394,Active,Verbascum thapsus,woolly mullein,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Liliaceae,140661,42854,Active,Calochortus leichtlinii,Leichtlin's mariposa-lily,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Liliaceae,140670,42862,Active,Calochortus nudus,naked mariposa-lily,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Liliaceae,111087,196387,Active,Erythronium purpurascens,purple fawn-lily,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Liliaceae,161007,502669,Active,Fritillaria atropurpurea,purple fritillary,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Liliaceae,206361,524961,Active,Lilium pardalinum ssp. shastense,Shasta lily,Lilium kelleyanum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Liliaceae,668120,-743705,Inactive,Lilium washingtonianum ssp. washingtonianum,Washington lily,Lilium washingtonianum var. washingtonianum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Liliaceae,236242,541030,Active,Streptopus amplexifolius var. americanus,twisted-stalk,Streptopus amplexifolius var. amplexifolius,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Melanthiaceae,199512,522732,Active,Toxicoscordion venenosum,death camas,"Zigadenus venenosus, Zigadenus venenosus var. venenosus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Liliales,Melanthiaceae,222032,530776,Active,Veratrum californicum var. californicum,California corn-lily,Veratrum californicum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,285623,565061,Active,Chamaesyce maculata,spotted spurge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,164629,506920,Active,Croton setigerus,turkey-mullein,"Eremocarpus setigerus, Croton setiger",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132036,28058,Active,Euphorbia crenulata,Chinesecaps,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,935440,,Active,Euphorbia serpillifolia var. serpillifolia,Thyme-leafed spurge,"Chamaesyce serpyllifolia, Chamaesyce serpyllifolia ssp. serpyllifolia",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Hypericaceae,121636,21425,Active,Hypericum anagalloides,"tinker's-penny, trailing St. Johnswort",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Hypericaceae,122204,21454,Active,Hypericum perforatum,Klamathweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Hypericaceae,202823,524172,Active,Hypericum scouleri ssp. scouleri,Scouler's St. Johnswort,Hypericum formosum var. scouleri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Linaceae,216736,528819,Active,Linum lewisii var. lewisii,western blue flax,Linum lewisii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,105864,195773,Active,Populus tremuloides,quaking aspen,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,105822,195735,Active,Populus trichocarpa,black cottonwood,Populus balsamifera ssp. trichocarpa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,286616,565479,Active,Salix arctica,arctic willow,Salix anglorum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,119712,22509,Active,Salix boothii,Booth's willow,Salix pseudomyrsinites,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,119755,22548,Active,Salix jepsonii,Jepson's willow,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,119760,22552,Active,Salix lemmonii,Lemmon's willow,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,201632,524653,Active,Salix lucida ssp. lasiandra,yellow willow,"Salix lasiandra, Salix lucida, Salix masiandra",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Salicaceae,159450,504980,Active,Salix scouleriana,Scouler's willow,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,125915,22032,Active,Viola adunca,western dog violet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,125921,22038,Active,Viola bakeri,Baker's violet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,126906,22082,Active,Viola glabella,stream violet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,126932,22105,Active,Viola macloskeyi,Macloskey's violet,Viola pallens,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,116093,22145,Active,Viola purpurea,violet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,116096,22148,Active,Viola purpurea ssp. dimorpha,dimorphic violet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,204587,524825,Active,Viola purpurea ssp. integrifolia,smooth-leaved violet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malpighiales,Violaceae,116094,22146,Active,Viola purpurea ssp. purpurea,Goosefoot violet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malvales,Malvaceae,124894,21836,Active,Malva neglecta,common mallow,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malvales,Malvaceae,124926,21865,Active,Sidalcea glaucescens,glaucous checker-mallow,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malvales,Malvaceae,124960,21896,Active,Sidalcea oregana ssp. oregana,Oregon checker-mallow,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Malvales,Malvaceae,124963,21899,Active,Sidalcea oregana ssp. spicata,spicate checker-mallow,"Sidalcea oregana var. spicata, Sidalcea oregana",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,291308,566020,Active,Chamerion angustifolium ssp. circumvagum,fireweed,Epilobium angustifolium ssp. circumvagum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,128822,27565,Active,Circaea alpina ssp. pacifica,enchanter's-nightshade,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126647,27283,Active,Epilobium anagallidifolium,pimpernel willowherb,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126652,27288,Active,Epilobium brachycarpum,tall annual willowherb,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126657,27292,Active,Epilobium canum ssp. latifolium,California-fuchsia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126659,27294,Active,Epilobium ciliatum ssp. ciliatum,fringed willowherb,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126660,27295,Active,Epilobium ciliatum ssp. glandulosum,glandular willowherb,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,168636,507916,Active,Epilobium densiflorum,dense-flowered spike-primrose,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126670,27303,Active,Epilobium glaberrimum ssp. fastigiatum,cluster-stemmed willowhead,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126669,27302,Active,Epilobium glaberrimum ssp. glaberrimum,glaucus willowherb,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126671,27304,Active,Epilobium halleanum,slender willowherb,"Epilobium pringleanum, Epilobium hallianum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126674,27307,Active,Epilobium hornemannii ssp. hornemannii,Hornemann's willowhead,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126681,27313,Active,Epilobium minutum,minute willowweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126685,27317,Active,Epilobium obcordatum,rockfringe,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126687,27319,Active,Epilobium oregonense,Oregon willowherb,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,129473,27671,Active,Gayophytum diffusum,groundsmoke,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,129474,27672,Active,Gayophytum diffusum ssp. diffusum,spreading groundsmoke,Gayophytum nuttallii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,129475,27673,Active,Gayophytum diffusum ssp. parviflorum,small-flowered groundsmoke,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,129477,27675,Active,Gayophytum heterozygum,zigzag groundsmoke,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,129478,27676,Active,Gayophytum humile,dwarf groundsmoke,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,129480,27678,Active,Gayophytum racemosum,black-footed groundsmoke,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,126706,27336,Active,Ludwigia palustris,marsh puslane,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,837404,836058,Active,Taraxia subacaulis,long-leaved suncup,Camissonia subacaulis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Myrtales,Onagraceae,837403,836057,Active,Taraxia tanacetifolia,tansy-leaved suncup,Camissonia tanacetifolia ssp. tanacetifolia,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Nymphaeales,Nymphaeaceae,187098,517578,Active,Nuphar polysepala,yellow pond-lily,"Nuphar luteum var. polysepalum, Nuphar lutea ssp. polysepala",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,209724,526950,Active,Botrychium simplex var. compositum,Yosemite moonwort,Botrychium simplex,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Cupressaceae,155602,501145,Active,Calocedrus decurrens,incense-cedar,Libocedrus decurrens,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Cupressaceae,103536,194856,Active,Juniperus occidentalis var. occidentalis,western juniper,Juniperus occidentalis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,91287,181826,Active,Abies concolor,white fir,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,91955,181834,Active,Abies magnifica,"California red fir, golden fir, Shasta fir, Shasta red fir, silvertip fir",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,102776,194773,Active,Abies magnifica var. magnifica,red fir,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93056,183311,Active,Pinus albicaulis,white-bark pine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93077,183330,Active,Pinus contorta ssp. murrayana,lodgepole pine,"Pinus murrayana, Pinus contorta var. murrayana, Pinus contorta",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93093,183345,Active,Pinus jeffreyi,Jeffery pine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93095,183347,Active,Pinus lambertiana,sugar pine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93105,183356,Active,Pinus monticola,western white pine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93115,183365,Active,Pinus ponderosa,Pacific ponderosa pine,Pinus ponderosa var. ponderosa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,1058235,,Active,Pinus ponderosa var. washoensis,Washoe pine,Pinus washoensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93983,183424,Active,Pseudotsuga menziesii,Douglas fir,"Pseudotsuga taxifolia, Pseudotsuga menziesii var. menziesii",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Pinales,Pinaceae,93959,183402,Active,Tsuga mertensiana,mountain hemlock,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Piperales,Aristolochiaceae,94798,18356,Active,Asarum hartwegii,Hartweg's wild ginger,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,145353,39474,Active,Carex abrupta,abrupt-beaked sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,145374,39493,Active,Carex amplifolia,ample-leaved sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,156426,501204,Active,Carex angustata,narrow-spiked sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,156428,501205,Active,Carex athrostachya,slender-beaked sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,145321,39445,Active,Carex aurea,golden-fruited sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,145347,39469,Active,Carex brainerdii,Brainerd's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,153428,-502086,Inactive,Carex breweri var. breweri,Brewer's sedge,Carex breweri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,145323,39447,Active,Carex canescens,hoary sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,144433,39381,Active,Carex capitata,capitate sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146144,39567,Active,Carex cusickii,Cusick's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,804082,808573,Active,Carex deflexa var. boottii,Mountain mat sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146156,39578,Active,Carex douglasii,"Douglas sedge, Douglas' sedge",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146162,39583,Active,Carex echinata ssp. echinata,stellate sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146179,39599,Active,Carex feta,green-sheathed sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146191,39609,Active,Carex fracta,fragile-sheathed sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146218,39633,Active,Carex helleri,Heller's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,211838,527104,Active,Carex heteroneura var. heteroneura,variable-nerved sedge,Carex heteroneura,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146228,39642,Active,Carex hoodii,Hood's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146234,39648,Active,Carex illota,small-headed sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,665223,-743514,Inactive,Carex infirminervia,weak-nerved sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146238,39651,Active,Carex integra,smooth-beaked sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146243,39656,Active,Carex jonesii,Jones' sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,145336,39459,Active,Carex lasiocarpa,woolly-fruited sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146252,39664,Active,Carex lemmonii,Lemmon's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,211857,527113,Active,Carex lenticularis var. impressa,few-ribbed sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146254,39666,Active,Carex lenticularis var. lipocarpa,fat-fruited sedge,Carex kelloggii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,146256,39668,Active,Carex leporinella,Sierra hare sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,147091,39674,Active,Carex limosa,shore sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,147096,39679,Active,Carex luzulifolia,luzula-leaved sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,147098,39680,Active,Carex luzulina,American cold loving sedge,"Carex luzulina var. ablata, Carex ablata",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,147103,39685,Active,Carex mariposana,Mariposa sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137540,39699,Active,Carex microptera,small-winged sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137549,39706,Active,Carex multicaulis,many-stemmed sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137550,39707,Active,Carex multicostata,many-ribbed sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137555,39711,Active,Carex nebrascensis,Nebraska sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137557,39713,Active,Carex nervina,Sierra nerved sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137560,39716,Active,Carex neurophora,Alpine nerve sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137562,39718,Active,Carex nigricans,black alpine sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137581,39735,Active,Carex pachystachya,thick-headed sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,166951,507767,Active,Carex pellita,Woolly sedge,Carex lanuginosa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137601,39753,Active,Carex phaeocephala,mountain hare sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,863005,808445,Active,Carex praeceptorum,Teacher's sedge,Carex praeceptorium,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137621,39771,Active,Carex preslii,Presl's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137631,39780,Active,Carex raynoldsii,Raynold's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,137637,39786,Active,Carex rossii,Ross' sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,206759,527155,Active,Carex scopulorum var. bracteosa,bracted sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,138192,39806,Active,Carex simulata,short-beaked sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,138195,39809,Active,Carex specifica,narrow-fruited sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,138197,39810,Active,Carex spectabilis,showy sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,138209,39821,Active,Carex straminiformis,straw-like sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,138215,39827,Active,Carex subfusca,rusty slender sedge,Carex teneriformis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,151292,501288,Active,Carex utriculata,beaked sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,138253,39861,Active,Carex vernacula,native sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,206803,527176,Active,Carex vesicaria var. vesicaria,inflated sedge,Carex vesicaria,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,138263,39870,Active,Carex whitneyi,Whitney's sedge,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,139011,39946,Active,Cyperus niger,black cyperus,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,156197,501940,Active,Cyperus squarrosus,awned cyperus,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,139081,40009,Active,Dulichium arundinaceum,dulchium,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,139099,40025,Active,Eleocharis acicularis,spike-rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,211933,527851,Active,Eleocharis acicularis var. acicularis,needle spike rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,139105,40030,Active,Eleocharis bella,Beautiful spikerush,Eleocharis acicularis var. bella,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,140191,40051,Active,Eleocharis macrostachya,pale spike-rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,155293,502240,Active,Eleocharis quinqueflora,few-flowered spike-rush,Eleocharis pauciflora,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,140240,40096,Active,Eriophorum gracile,slender cotton-grass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,140302,40151,Active,Rhynchospora alba,white beaked-rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,218074,531333,Active,Schoenoplectus acutus var. occidentalis,hard-stemmed tule,Scirpus acutus var. occidentalis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,171421,508141,Active,Schoenoplectus americanus,American tule,Scirpus americanus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,167012,507796,Active,Schoenoplectus subterminalis,water bulrush,Scirpus subterminalis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,140942,40249,Active,Scirpus congdonii,Congdon's bulrush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Cyperaceae,140927,40235,Active,Scirpus microcarpus,small-fruited bulrush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143439,39223,Active,Juncus balticus,Baltic rush,Juncus balticus var. montanus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,213095,528601,Active,Juncus bufonius var. bufonius,common toad rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,213099,528603,Active,Juncus bufonius var. occidentalis,round-fruited toad rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143486,39266,Active,Juncus drummondii,Drummond's rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,889747,817949,Active,Juncus effusus ssp. pacificus,Pacific rush,Juncus effusus var. pacificus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143489,39269,Active,Juncus ensifolius,sword-leaved rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,213970,528623,Active,Juncus hemiendytus var. hemiendytus,vernal-pool rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143499,39278,Active,Juncus howellii,Howell's rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143516,39293,Active,Juncus mertensianus,Merten's rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143518,39295,Active,Juncus nevadensis,Sierra rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,158291,503265,Active,Juncus occidentalis,western rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143522,39299,Active,Juncus orthophyllus,straight-leaved rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,143525,39300,Active,Juncus parryi,Parry's rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,144386,39339,Active,Luzula comosa,common wood-rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,144389,39341,Active,Luzula divaricata,spreading wood-rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Juncaceae,144388,39340,Active,Luzula subcongesta,Donner wood-rush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,168703,507948,Active,Achnatherum nelsonii,Mountain needle grass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,203115,525107,Active,Achnatherum nelsonii ssp. nelsonii,"Nelson's Needlegrass, Columbia needlegrass",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,168708,507950,Active,Achnatherum occidentale,needlegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142882,40412,Active,Agrostis exarata,spiked bentgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142884,40414,Active,Agrostis gigantea,giant bentgrass,Agrostis alba,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,86343,182505,Active,Agrostis humilis,"Mountain bent grass, Thurber's bent grass",Agrostis thurberiana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142888,40418,Active,Agrostis idahoensis,Idaho bentgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142866,40399,Active,Agrostis oregonensis,Oregon bentgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142895,40424,Active,Agrostis scabra,rough bentgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,291767,564993,Active,Agrostis variabilis,mountain bentgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142908,40436,Active,Alopecurus aequalis,short-awned foxtail,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142909,40437,Active,Alopecurus geniculatus,marsh foxtail,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142958,40481,Active,Bromus carinatus,California brome,Bromus carinatus var. carinatus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,841531,799675,Active,Bromus carinatus var. marginatus,Mountain brome,Bromus marginatus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142974,40496,Active,Bromus ciliatus,fringed brome,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,142982,40502,Active,Bromus inermis,smooth brome,Bromus inermis ssp. inermis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143536,40510,Active,Bromus orcuttianus,Orcutt's brome,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143550,40523,Active,Bromus suksdorfii,Suksdorf's brome,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,cheatgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143573,40544,Active,Calamagrostis canadensis,bluejoint,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143617,40584,Active,Cinna latifolia,drooping wood-reed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,141948,41632,Active,Danthonia californica,California oatgrass,Danthonia californica var. americana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,141952,41636,Active,Danthonia unispicata,one-spiked oatgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,198732,523960,Active,Deschampsia cespitosa ssp. cespitosa,tufted hairgrass,"Deschampsia caespitosa, Deschampsia cespitosa",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143627,40593,Active,Deschampsia danthonioides,annual hairgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143628,40594,Active,Deschampsia elongata,slender hairgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,178030,512814,Active,Elymus caput-medusae,Medusa head,Taeniatherum caput-medusae,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,156044,502264,Active,Elymus elymoides,"Bottlebrush squirreltail, Squirrel tail grass",,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,203128,525113,Active,Elymus elymoides ssp. elymoides,Squirrel tail grass,Elymus elymoides var. elymoides,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,813186,802855,Active,Elymus elymoides var. californicus,squirreltail,"Sitanion hystrix, Elymus elymoides ssp. californicus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,200359,524031,Active,Elymus glaucus ssp. glaucus,blue wild-rye,Elymus glaucus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,178053,512825,Active,Elymus hispidus,Intermediate wheatgrass,"Elytrigia intermedia ssp. intermedia, Elytrigia intermedia var. intermedia, Elytrigia intermedia, Thinopyrum intermedium",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,200378,524040,Active,Elymus trachycaulus ssp. subsecundus,bearded wheatgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,200380,524041,Active,Elymus trachycaulus ssp. trachycaulus,slender wheatgrass,"Elymus trachycaulus, Agropyron trachycaulum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,156046,502265,Active,Elymus X hansenii,Hansen's squirreltail,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,156069,502276,Active,Elymus X saundersii,Saunders' wheatgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,201248,524070,Active,Festuca brachyphylla ssp. breviculmis,short-leaved fescue,Festuca brachyphylla ssp. coloradensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145655,40816,Active,Festuca idahoensis,blue fescue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,182308,513548,Active,Festuca microstachys,"few-flowered fescue, Small fescue",Vulpia microstachys var. pauciflora,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,883572,790061,Active,Festuca myuros,"Rattail sixweeks grass, foxtail fecue","Vulpia myuros var. hirsuta, Vulpia myuros",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145660,40820,Active,Festuca occidentalis,western fescue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,935371,,Active,Festuca perennis,"Italian rye grass, perennial rye grass",Lolium perenne,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145662,40822,Active,Festuca pratensis,meadow fescue,Lolium pratense,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145632,40796,Active,Festuca rubra,red fescue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145666,40826,Active,Festuca subulata,bearded fescue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145683,40841,Active,Glyceria borealis,northern mannagrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145685,40843,Active,Glyceria elata,tall mannagrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,145674,40833,Active,Glyceria striata,New Name,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,143335,41773,Active,Holcus lanatus,common velvetgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,203138,525118,Active,Hordeum brachyantherum ssp. brachyantherum,meadow barley,Hordeum brachyantherum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,146261,40871,Active,Hordeum jubatum,fox-tail barley,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144107,41850,Active,Melica aristata,awned melic,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144108,41851,Active,Melica bulbosa,oniongrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144101,41845,Active,Melica fugax,small melic,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144103,41847,Active,Melica stricta,nodding melic,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144104,41848,Active,Melica subulata,Alaska melic,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144144,41884,Active,Muhlenbergia andina,fox-tail muhly,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144176,41912,Active,Muhlenbergia filiformis,pullup muhly,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144186,41921,Active,Muhlenbergia jonesii,Jones' muhly,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,144204,41938,Active,Muhlenbergia richardsonis,matted muhly,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,237200,538208,Active,Panicum acuminatum var. fasciculatum,Pacific panic grass,Dichanthelium acuminatum ssp. fasciculatum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,146309,40914,Active,Panicum capillare,witchgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,147309,41063,Active,Phleum alpinum,mountain timothy,Phleum commutatum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,147308,41062,Active,Phleum pratense,common timothy,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,148055,41107,Active,Poa annua,annual bluegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,148062,41113,Active,Poa bolanderi,Bolander's bluegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,148065,41116,Active,Poa bulbosa,bulbous bluegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,205856,526419,Active,Poa cusickii ssp. epilis,skyline bluegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,148104,41151,Active,Poa palustris,fowl bluegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,292239,566071,Active,Poa pratensis ssp. pratensis,Kentucky bluegrass,Poa pratensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,148107,41154,Active,Poa pringlei,Pringle's bluegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,171404,508133,Active,Poa wheeleri,Wheeler's bluegrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,146109,42177,Active,Stipa lemmonii,Lemmon's needlegrass,"Achnatherum lemmonii, Stipa lemmonii var. pubescens",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,146117,42184,Active,Stipa nelsonii ssp. dorei,Dore's needlegrass,"Achnatherum nelsonii ssp. dorei, Stipa williamsii",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,235541,541016,Active,Stipa occidentalis var. californica,California needle grass,"Stipa californica, Achnatherum occidentale ssp. californicum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,219181,530574,Active,Stipa occidentalis var. occidentalis,western needlegrass,Achnatherum occidentale ssp. occidentale,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,235547,541019,Active,Stipa occidentalis var. pubescens,hairy needlegrass,Achnatherum occidentale ssp. pubescens,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,162534,505538,Active,Torreyochloa erecta,spiked mannagrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,215311,531133,Active,Torreyochloa pallida var. pauciflora,weak mannagrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,204144,522927,Active,Trisetum canescens,nodding oatgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,139313,41294,Active,Trisetum spicatum,narrow oatgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Poaceae,139334,41312,Active,Trisetum wolfii,beardless oatgrass,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Typhaceae,147651,42318,Active,Sparganium angustifolium,narrow-leaved bur-reed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Typhaceae,147648,42315,Active,Sparganium emersum,emersed bur-reed,Sparganium emersum ssp. emersum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Typhaceae,168345,507177,Active,Sparganium natans,small bur-reed,Sparganium minimum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Poales,Typhaceae,147660,42326,Active,Typha latifolia,broad-leaved cattail,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,75894,17361,Active,Asplenium septentrionale,northern spleennwort,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,665249,-743846,Active,Pteridium aquifolium,western brackenfern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,217047,529922,Active,Pteridium aquilinum var. pubescens,western bracken,Pteridium aquilinum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,81059,17682,Active,Polystichum imbricans ssp. imbricans,narrow-leaved sword fern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,81136,17689,Active,Polystichum scopulinum,mountain holly fern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Pteridaceae,91244,181788,Active,Adiantum aleuticum,five-finger fern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82340,17332,Active,Aspidotis densa,Indian's-dream,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82497,17461,Active,Cryptogramma acrostichoides,American parsley fern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Pteridaceae,154145,501830,Active,Cryptogramma cascadensis,Cascade parsley fern,Cryptogramma crispa var. acrostichoides,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Pteridaceae,1058256,,Active,Myriopteris gracillima,lace lipfern,Cheilanthes gracillima,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Pteridaceae,76730,17642,Active,Pellaea brachyptera,Sierra cliffbrake,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,78996,17411,Active,Athyrium distentifolium var. americanum,American alpine lady fern,Athyrium alpestre var. americanum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,217938,532449,Active,Athyrium filix-femina var. cyclosorum,western lady fern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84468,17482,Active,Cystopteris fragilis,fragile fern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,85391,17747,Active,Woodsia scopulina,mountain cliff fern,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Papaveraceae,204802,523909,Active,Corydalis caseana ssp. caseana,Sierra corydalis,Corydalis caseana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Papaveraceae,95554,18948,Active,Dicentra formosa ssp. formosa,Pacific bleedinghearts,Dicentra formosa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Papaveraceae,95610,18953,Active,Dicentra uniflora,steer's-head,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,88503,18416,Active,Aconitum columbianum,Columbian monkshood,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,95198,18723,Active,Actaea rubra,red baneberry,Actaea rubra ssp. arguta,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89565,18440,Active,Anemone drummondii,Drummond's anemone,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,171038,508852,Active,Anemone occidentalis,western pasque-flower,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,90427,18446,Active,Anemone oregana,Oregon anemone,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96289,18738,Active,Aquilegia formosa,crimson columbine,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,218902,532841,Active,Caltha leptosepala var. biflora,marsh-marigold,"Caltha leptosepala, Caltha biflora, Caltha howellii",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92361,18552,Active,Delphinium depauperatum,dwarf larkspur,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92831,18483,Active,Delphinium nuttallianum,Nuttall's larkspur,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,104690,194932,Active,Ranunculus alismifolius var. alismellus,common water-plantain buttercup,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,104689,194931,Active,Ranunculus alismifolius var. alismifolius,small water-plantain buttercup,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,292998,566544,Active,Ranunculus aquatilis var. diffusus,"Whitewater crowfoot, water buttercup","Ranunculus aquatilis var. capillaceus, Ranunculus aquatilis, Ranunculus trichophyllus var. trichophyllus",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96913,18604,Active,Ranunculus flammula,creeping buttercup,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,98553,18632,Active,Ranunculus occidentalis,western buttercup,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,104743,194980,Active,Ranunculus orthorhynchus var. orthorhynchus,straight-beaked buttercup,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,100352,18639,Active,Ranunculus populago,swamp buttercup,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89785,18652,Active,Ranunculus uncinatus,hook-seeded buttercup,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,104778,195010,Active,Thalictrum fendleri var. fendleri,Fendler's meadow-rue,Thalictrum fendleri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91530,18679,Active,Thalictrum sparsiflorum,few-flowered meadow-rue,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rhamnaceae,124274,28458,Active,Ceanothus cordulatus,mountain whitethorn,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rhamnaceae,124720,28499,Active,Ceanothus prostratus,Mahala-mats,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rhamnaceae,220092,531454,Active,Ceanothus velutinus var. velutinus,tobacco-brush,Ceanothus velutinus,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rhamnaceae,165740,506988,Active,Frangula rubra,red buckthorn,Rhamnus rubra,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rhamnaceae,206335,524949,Active,Frangula rubra ssp. rubra,Red buckthorn,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,129597,25121,Active,Amelanchier utahensis,service-berry,Amelanchier pallida,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,106614,195855,Active,Cercocarpus ledifolius var. intermontanus,curl-leaved mountain-mahogany,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,129620,25142,Active,Chamaebatiaria millefolium,fernbush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,155907,501615,Active,Comarum palustre,marsh cinquefoil,Potentilla palustris,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,178991,512539,Active,Drymocallis glandulosa,"gland cinquefoil, sticky cinquefoil",Potentilla glandulosa,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,126261,24639,Active,Fragaria virginiana,mountain strawberry,Fragaria platypetala,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,126278,24654,Active,Geum macrophyllum,large-leaved avens,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,126287,24662,Active,Geum triflorum,old-man's-whiskers,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,228893,536226,Active,Holodiscus microphyllus var. glabrescens,rock-spiraea,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,872627,837445,Active,Horkelia fusca var. tenella,delicate horkelia,Horkelia fusca ssp. tenella,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,157363,503218,Active,Ivesia gordonii,alpine ivesia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,126992,24697,Active,Potentilla breweri,Brewer's cinquefoil,Potentilla drummondii ssp. breweri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,127000,24703,Active,Potentilla drummondii,Drummond's cinquefoil,Potentilla drummondii ssp. drummondii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,127006,24709,Active,Potentilla flabellifolia,fan-leaved cinquefoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,205296,524574,Active,Potentilla glandulosa ssp. ashlandica,mountain cinquefoil,Potentilla glandulosa var. nevadensis,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,205302,524577,Active,Potentilla glandulosa ssp. glandulosa,sticky cinquefoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,205313,524582,Active,Potentilla glandulosa ssp. pseudorupestris,false rock-loving cinquefoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,220098,531457,Active,Potentilla gracilis var. fastigiata,slender cinquefoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,158772,504582,Active,Potentilla millefolia,cut-leaved cinquefoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,192144,519598,Active,Poteridium annuum,"Western burnet, Prairie burnet",Sanguisorba annua,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,127080,24776,Active,Prunus emarginata,bitter cherry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,120348,25290,Active,Purshia tridentata,antelope-bush,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,208591,526557,Active,Rosa woodsii ssp. ultramontana,Woods' rose,Rosa woodsii var. ultramontana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,128893,24968,Active,Rubus leucodermis,white-stemmed raspberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,128937,25007,Active,Rubus parviflorus,thimbleberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,160052,505002,Active,Sanguisorba occidentalis,western burnet,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,120368,25308,Active,Sibbaldia procumbens,sibbaldia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,120383,25321,Active,Sorbus californica,California mountain-ash,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,120389,25327,Active,Sorbus sitchensis,Western mountain ash,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,120397,25334,Active,Spiraea douglasii,Douglas' spirea,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Rosaceae,164776,505337,Active,Spiraea splendens,dense-flowered spiraea,Spiraea densiflora,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Rosales,Urticaceae,203961,524787,Active,Urtica dioica ssp. holosericea,stinging nettle,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Santalales,Santalaceae,131312,27887,Active,Arceuthobium americanum,lodgepole pine dwarf-mistletoe,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Santalales,Santalaceae,131316,27890,Active,Arceuthobium campylopodum,"western dwarf-mistletoe, sugar pine dwarf-mistletoe, fir dwarf-mistletoe","Arceuthobium californicum, Arceuthobium abietinum",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Santalales,Santalaceae,131289,27866,Active,Phoradendron juniperinum,incense-cedar mistletoe,Phoradendron libocedri,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Sapindales,Sapindaceae,126732,28742,Active,Acer glabrum,Torrey's maple,Acer glabrum var. torreyi,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,213792,530046,Active,Ribes cereum var. cereum,wax currant,Ribes cereum,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,214643,530056,Active,Ribes inerme var. inerme,white-stemmed gooseberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125288,24486,Active,Ribes montigenum,mountain gooseberry,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125289,24487,Active,Ribes nevadense,mountain pink currant,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,214670,530069,Active,Ribes roezlii var. roezlii,Sierra gooseberry,Ribes roezlii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125316,24510,Active,Ribes viscosissimum,Sticky flowering currant,Ribes viscosissimum var. hallii,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Haloragaceae,161492,503906,Active,Myriophyllum sibiricum,Siberian water-milfoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Haloragaceae,125171,27039,Active,Myriophyllum spicatum,Eurasian water milfoil,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Paeoniaceae,94370,18795,Active,Paeonia brownii,western paeony,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124384,24395,Active,Lithophragma glabrum,bulbous woodlandstar,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124391,24400,Active,Lithophragma tenellum,slender woodlandstar,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,785276,895022,Active,Micranthes bryophora,bud saxifrage,Saxifraga bryophora,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,785292,895038,Active,Micranthes nidifica,peak saxifrage,"Saxifraga nidifica var. nidifica, Saxifraga nidifica",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,186629,517096,Active,Micranthes odontoloma,streambank saxifrage,"Saxifraga arguta, Saxifraga odontoloma",Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,186631,517097,Active,Micranthes oregana,bog saxifrage,Saxifraga oregana,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,785265,895011,Active,Micranthes tolmiei,Tolmie's saxifrage,Saxifraga tolmiei,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,194087,518534,Active,Pectiantia pentandra,alpine bishop's-cap,Mitella pentandra,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,123429,24254,Active,Saxifraga aprica,Sierra saxifrage,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Convolvulaceae,135213,30679,Active,Calystegia malacophylla ssp. malacophylla,Sierra morning-glory,Calystegia malacophylla,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Convolvulaceae,135217,30682,Active,Calystegia occidentalis ssp. occidentalis,western morning glory,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,bindweed,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Convolvulaceae,208224,527587,Active,Cuscuta californica var. californica,California doddeer,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Convolvulaceae,136084,30743,Active,Cuscuta occidentalis,short-flowered dodder,Cuscuta californica var. breviflora,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Solanaceae,176204,510718,Active,Chamaesaracha nana,dwarf chamaesarachia,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Solanaceae,134416,30571,Active,Nicotiana attenuata,coyote tobacco,,Present
+LAVO,Lassen Volcanic National Park,Vascular Plant,6,Solanales,Solanaceae,162428,503955,Active,Nicotiana quadrivalvis,Indian tobacco,,Present

@@ -1,0 +1,1374 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+BISC,Biscayne National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,white-tailed deer,,Present
+BISC,Biscayne National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,gray fox,,Present
+BISC,Biscayne National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,,Present
+BISC,Biscayne National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,STRIPED SKUNK,,Present
+BISC,Biscayne National Park,Mammal,1,Carnivora,Mustelidae,93311,180572,Active,Lutra canadensis,NORTHERN RIVER OTTER,,Present
+BISC,Biscayne National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,common raccoon,,Present
+BISC,Biscayne National Park,Mammal,1,Cetacea,Balaenidae,92615,180538,Active,Balaena glacialis,"black right whale, black whale, right whale",,Present
+BISC,Biscayne National Park,Mammal,1,Cetacea,Balaenopteridae,92602,180526,Active,Balaenoptera borealis,Sie whale,,Present
+BISC,Biscayne National Park,Mammal,1,Cetacea,Balaenopteridae,92603,180527,Active,Balaenoptera physalus,Fin whale,,Present
+BISC,Biscayne National Park,Mammal,1,Cetacea,Balaenopteridae,92607,180530,Active,Megaptera novaeangliae,HUMPBACK WHALE,,Present
+BISC,Biscayne National Park,Mammal,1,Cetacea,Delphinidae,92491,180426,Active,Tursiops truncatus,BOTTLE-NOSED DOLPHIN,,Present
+BISC,Biscayne National Park,Mammal,1,Cetacea,Physeteridae,92559,180488,Active,Physeter macrocephalus,Sperm whale,,Probably Present
+BISC,Biscayne National Park,Mammal,1,Chiroptera,Molossidae,89600,180079,Active,Eumops glaucinus,WAGNER'S MASTIFF BAT,,Present
+BISC,Biscayne National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,BRAZILIAN FREE-TAILED BAT,,Present
+BISC,Biscayne National Park,Mammal,1,Chiroptera,Vespertilionidae,88744,180020,Active,Lasiurus seminolus,SEMINOLE BAT,,Present
+BISC,Biscayne National Park,Mammal,1,Lagomorpha,Leporidae,89647,180120,Active,Sylvilagus palustris,marsh rabbit,,Present
+BISC,Biscayne National Park,Mammal,1,Rodentia,Cricetidae,107226,202382,Active,Neotoma floridana smalli,Key Largo woodrat,,Present
+BISC,Biscayne National Park,Mammal,1,Rodentia,Cricetidae,90746,180279,Active,Peromyscus gossypinus,cotton mouse,,Present
+BISC,Biscayne National Park,Mammal,1,Rodentia,Cricetidae,91743,180349,Active,Sigmodon hispidus,hispid cotton rat,,Present
+BISC,Biscayne National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,house mouse,,Present
+BISC,Biscayne National Park,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,black rat,,Present
+BISC,Biscayne National Park,Mammal,1,Rodentia,Sciuridae,260611,552498,Active,Sciurus aureogaster,Mexican red-bellied squirrel,,Present
+BISC,Biscayne National Park,Mammal,1,Rodentia,Sciuridae,89707,180175,Active,Sciurus carolinensis,eastern gray squirrel,,Present
+BISC,Biscayne National Park,Mammal,1,Sirenia,Trichechidae,95030,180684,Active,Trichechus manatus,manatee,,Present
+BISC,Biscayne National Park,Mammal,1,Soricomorpha,Soricidae,88688,179971,Active,Cryptotis parva,LEAST SHREW,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,80390,175372,Active,Buteo brachyurus,Short-tailed Hawk,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,79572,175359,Active,Buteo lineatus,Red-shouldered Hawk,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,79579,175365,Active,Buteo platypterus,Broad-winged Hawk,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,79494,175289,Active,Elanoides forficatus,Swallow-tailed Kite,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Cathartidae,79476,175272,Active,Coragyps atratus,Black Vulture,,Present
+BISC,Biscayne National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,77778,175070,Active,Anas fulvigula,Mottled Duck,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,77751,175046,Active,Dendrocygna bicolor,Fulvous Whistling-Duck,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,78560,175171,Active,Melanitta nigra,Black Scoter,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,78577,175187,Active,Mergus serrator,Red breasted Merganser,,Present
+BISC,Biscayne National Park,Bird,2,Anseriformes,Anatidae,78542,175155,Active,Somateria mollissima,Common Eider,,Present
+BISC,Biscayne National Park,Bird,2,Apodiformes,Apodidae,83046,178001,Active,Chaetura pelagica,Chimney Swift,,Present
+BISC,Biscayne National Park,Bird,2,Apodiformes,Trochilidae,83884,178032,Active,Archilochus colubris,Ruby-throated Hummingbird,,Present
+BISC,Biscayne National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+BISC,Biscayne National Park,Bird,2,Caprimulgiformes,Caprimulgidae,82999,177960,Active,Caprimulgus carolinensis,Chuck-will's-widow,,Present
+BISC,Biscayne National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83000,177961,Active,Caprimulgus vociferus,Whip-poor-will,,Present
+BISC,Biscayne National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83034,177992,Active,Chordeiles gundlachii,Antillean Nighthawk,,Present
+BISC,Biscayne National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Charadriidae,77631,176507,Active,Charadrius melodus,Piping Plover,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Charadriidae,77630,176506,Active,Charadrius semipalmatus,Semipalmated Plover,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Charadriidae,77642,176517,Active,Charadrius wilsonia,Wilson's Plover,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Charadriidae,77697,176567,Active,Pluvialis squatarola,Black-bellied Plover,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Haematopodidae,77592,176472,Active,Haematopus palliatus,American Oystercatcher,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,Herring Gull,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81078,176837,Active,Larus atricilla,Laughing Gull,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81061,176821,Active,Larus fuscus,Lesser Black-backed Gull,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,80384,176815,Active,Larus marinus,Great Black-backed Gull,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81080,176839,Active,Larus philadelphia,Bonaparte's Gull,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81079,176838,Active,Larus pipixcan,Franklin's Gull,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,266845,554447,Active,Rynchops niger,Black Skimmer,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81144,176897,Active,Sterna anaethetus,Bridled Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81174,176923,Active,Sterna antillarum,Least Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81175,176924,Active,Sterna caspia,Caspian Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81138,176891,Active,Sterna dougallii,Roseate Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81133,176887,Active,Sterna forsteri,Forster's Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81141,176894,Active,Sterna fuscata,Sooty Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81134,176888,Active,Sterna hirundo,Common Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81173,176922,Active,Sterna maxima,Royal Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81177,176926,Active,Sterna nilotica,Gull-billed Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Laridae,81178,176927,Active,Sterna sandvicensis,Sandwich Tern,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Recurvirostridae,80285,176726,Active,Himantopus mexicanus,Black-necked Stilt,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,Actitis macularia,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,77702,176571,Active,Arenaria interpres,Ruddy Turnstone,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland Sandpiper,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79284,176669,Active,Calidris alba,Sanderling,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79276,176661,Active,Calidris alpina,Dunlin,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79255,176642,Active,Calidris canutus,Red Knot,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79259,176646,Active,Calidris maritima,Purple Sandpiper,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79267,176653,Active,Calidris melanotos,Pectoral Sandpiper,,Probably Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79282,176667,Active,Calidris pusilla,Semipalmated Sandpiper,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79250,176638,Active,Catoptrophorus semipalmatus,Willet,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Wilson's Snipe,Gallinago gallinago,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79291,176675,Active,Limnodromus griseus,Short-billed Dowitcher,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79303,176686,Active,Limosa fedoa,Marbled Godwit,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79206,176599,Active,Numenius phaeopus,Whimbrel,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,265861,554376,Active,Phalaropus fulicaria,Red Phalarope,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser Yellowlegs,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Stercorariidae,80359,176793,Active,Stercorarius parasiticus,Parasitic Jaeger,,Present
+BISC,Biscayne National Park,Bird,2,Charadriiformes,Stercorariidae,80358,176792,Active,Stercorarius pomarinus,Pomarine Jaeger,,Present
+BISC,Biscayne National Park,Bird,2,Ciconiiformes,Ciconiidae,85488,174897,Active,Mycteria americana,Wood Stork,,Present
+BISC,Biscayne National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,"Rock Dove, Rock Pigeon",,Present
+BISC,Biscayne National Park,Bird,2,Columbiformes,Columbidae,82767,177152,Active,Columbina passerina,Common Ground-Dove,,Present
+BISC,Biscayne National Park,Bird,2,Columbiformes,Columbidae,83466,177179,Active,Geotrygon chrysia,Key West Quail-Dove,,Present
+BISC,Biscayne National Park,Bird,2,Columbiformes,Columbidae,525785,676903,Active,Patagioenas leucocephala,White-crowned Pigeon,Columba leucocephala,Present
+BISC,Biscayne National Park,Bird,2,Columbiformes,Columbidae,82752,177139,Active,Streptopelia decaocto,Eurasian Collared-Dove,,Present
+BISC,Biscayne National Park,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,,Present
+BISC,Biscayne National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+BISC,Biscayne National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+BISC,Biscayne National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,,Present
+BISC,Biscayne National Park,Bird,2,Cuculiformes,Cuculidae,89098,177828,Active,Coccyzus minor,Mangrove Cuckoo,,Present
+BISC,Biscayne National Park,Bird,2,Cuculiformes,Cuculidae,89109,177838,Active,Crotophaga ani,Smooth-billed Ani,,Present
+BISC,Biscayne National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+BISC,Biscayne National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+BISC,Biscayne National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+BISC,Biscayne National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,Common Loon,,Present
+BISC,Biscayne National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+BISC,Biscayne National Park,Bird,2,Gruiformes,Rallidae,87281,176284,Active,Gallinula chloropus,Common Moorhen,,Present
+BISC,Biscayne National Park,Bird,2,Gruiformes,Rallidae,591334,707815,Active,Porphyrio martinica,Purple Gallinule,Porphyrula martinica,Present
+BISC,Biscayne National Park,Bird,2,Gruiformes,Rallidae,86532,176209,Active,Rallus longirostris,Clapper Rail,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,94228,179124,Active,Cardinalis cardinalis,Northern Cardinal,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,Guiraca caerulea,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,94263,179156,Active,Passerina ciris,Painted Bunting,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,88071,179883,Active,Piranga olivacea,Scarlet Tanager,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,88076,179888,Active,Piranga rubra,Summer Tanager,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Cardinalidae,94273,179165,Active,Spiza americana,Dickcissel,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Corvidae,87112,179737,Active,Corvus ossifragus,Fish Crow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Corvidae,86252,179680,Active,Cyanocitta cristata,Blue Jay,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Hirundinidae,87427,178464,Active,Progne subis,Purple Martin,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,93664,179091,Active,Euphagus carolinus,Rusty Blackbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,93655,179083,Active,Icterus galbula,Baltimore Oriole,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,94220,179117,Active,Molothrus bonariensis,Shiny Cowbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,94210,179108,Active,Quiscalus major,Boat-tailed Grackle,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Icteridae,94206,179104,Active,Quiscalus quiscula,Common Grackle,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Mimidae,89975,178623,Active,Mimus gundlachii,Bahama Mockingbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92645,178888,Active,Dendroica caerulescens,Black-throated Blue Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92679,178918,Active,Dendroica discolor,Prairie Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92665,178905,Active,Dendroica dominica,Yellow-throated Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92664,178904,Active,Dendroica fusca,Blackburnian Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92643,178886,Active,Dendroica magnolia,Magnolia Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92683,178921,Active,Dendroica palmarum,Palm Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,"Cuban Yellow Warbler, Yellow Warbler",,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92675,178914,Active,Dendroica pinus,Pine Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92674,178913,Active,Dendroica striata,Blackpoll Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92644,178887,Active,Dendroica tigrina,Cape May Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92656,178898,Active,Dendroica virens,Black-throated Green Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,628198,726195,Active,Helmitheros vermivorum,Worm-eating Warbler,Helmitheros vermivorus,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,91016,178848,Active,Limnothlypis swainsonii,Swainson's Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92701,178938,Active,Oporornis agilis,Connecticut Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92623,178868,Active,Parula americana,Northern Parula,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,91014,178846,Active,Protonotaria citrea,Prothonotary Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,628220,726205,Active,Seiurus aurocapilla,Ovenbird,Seiurus aurocapillus,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92698,178935,Active,Seiurus motacilla,Louisiana Waterthrush,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,91024,178855,Active,Vermivora peregrina,Tennessee Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92744,178977,Active,Wilsonia canadensis,Canada Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Parulidae,92739,178972,Active,Wilsonia citrina,Hooded Warbler,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Passerellidae,83867,179333,Active,Ammodramus savannarum,Grasshopper Sparrow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Passerellidae,84785,179439,Active,Spizella pallida,Clay-colored Sparrow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Spindalidae,88086,179897,Active,Spindalis zena,Western Spindalis,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Sturnidae,265051,554025,Active,Acridotheres tristis,Common Myna,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Sturnidae,86221,179652,Active,Gracula religiosa,Hill Myna,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Troglodytidae,88350,178581,Active,Thryothorus ludovicianus,Carolina Wren,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Turdidae,87177,179796,Active,Catharus fuscescens,Veery,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Turdidae,87174,179793,Active,Catharus minimus,Gray-cheeked Thrush,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85846,178359,Active,Contopus virens,Eastern Wood-Pewee,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85830,178344,Active,Empidonax minimus,Least Flycatcher,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85791,178309,Active,Myiarchus crinitus,Great Crested Flycatcher,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85811,178327,Active,Myiarchus sagrae,La Sagra' Flycatcher,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85813,178329,Active,Sayornis phoebe,Eastern Pheobe,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85759,178280,Active,Tyrannus dominicensis,Gray Kingbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85757,178279,Active,Tyrannus tyrannus,Eastern Kingbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Vireonidae,93581,179016,Active,Vireo altiloquus,Black-whiskered Vireo,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Vireonidae,93567,179003,Active,Vireo bellii,Bell's Vireo,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Vireonidae,93573,179009,Active,Vireo flavifrons,Yellow-throated Vireo,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Vireonidae,93552,178991,Active,Vireo griseus,White-eyed Vireo,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+BISC,Biscayne National Park,Bird,2,Passeriformes,Vireonidae,93575,179010,Active,Vireo solitarius,Blue-headed Vireo,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,Casmerodius albus,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,"Great Blue Heron, Great White Heron",,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,Cattle Egret,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84476,174827,Active,Egretta caerulea,Little Blue Heron,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84473,174824,Active,Egretta rufescens,Reddish Egret,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84475,174826,Active,Egretta tricolor,Tricolored Heron,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84493,174842,Active,Nyctanassa violacea,Yellow-crowned Night-Heron,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Pelecanidae,83383,174685,Active,Pelecanus occidentalis,Brown Pelican,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Threskiornithidae,85526,174930,Active,Eudocimus albus,White Ibis,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Threskiornithidae,85527,174931,Active,Eudocimus ruber,Scarlet Ibis,,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Threskiornithidae,85538,174941,Active,Platalea ajaja,Roseate Spoonbill,Ajaia ajaja,Present
+BISC,Biscayne National Park,Bird,2,Pelecaniformes,Threskiornithidae,85519,174924,Active,Plegadis falcinellus,Glossy Ibis,,Present
+BISC,Biscayne National Park,Bird,2,Phaethontiformes,Phaethontidae,83370,174673,Active,Phaethon aethereus,Red-billed Tropicbird,,Present
+BISC,Biscayne National Park,Bird,2,Phaethontiformes,Phaethontidae,83373,174676,Active,Phaethon lepturus,White-tailed Tropicbird,,Present
+BISC,Biscayne National Park,Bird,2,Phoenicopteriformes,Phoenicopteridae,76600,174976,Active,Phoenicopterus ruber,American Flamingo,,Present
+BISC,Biscayne National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+BISC,Biscayne National Park,Bird,2,Piciformes,Picidae,84833,178166,Active,Dryocopus pileatus,Pileated Woodpecker,,Present
+BISC,Biscayne National Park,Bird,2,Piciformes,Picidae,84865,178195,Active,Melanerpes carolinus,Red-bellied Woodpecker,,Present
+BISC,Biscayne National Park,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,,Present
+BISC,Biscayne National Park,Bird,2,Podicipediformes,Podicipedidae,81686,174482,Active,Podiceps auritus,Horned Grebe,,Present
+BISC,Biscayne National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+BISC,Biscayne National Park,Bird,2,Procellariiformes,Procellariidae,115224,203446,Active,Calonectris diomedea,Cory's Shearwater,,Present
+BISC,Biscayne National Park,Bird,2,Procellariiformes,Procellariidae,82443,174561,Active,Puffinus lherminieri,Audubon's Shearwater,,Present
+BISC,Biscayne National Park,Bird,2,Procellariiformes,Procellariidae,82436,174555,Active,Puffinus puffinus,Manx Shearwater,,Present
+BISC,Biscayne National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+BISC,Biscayne National Park,Bird,2,Strigiformes,Strigidae,543205,686658,Active,Megascops asio,Eastern Screech-Owl,Otus asio,Present
+BISC,Biscayne National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,Barn Owl,,Present
+BISC,Biscayne National Park,Bird,2,Suliformes,Anhingidae,83461,174755,Active,Anhinga anhinga,Anhinga,,Present
+BISC,Biscayne National Park,Bird,2,Suliformes,Fregatidae,84405,174763,Active,Fregata magnificens,Magnificent Frigatebird,,Present
+BISC,Biscayne National Park,Bird,2,Suliformes,Phalacrocoracidae,83419,174717,Active,Phalacrocorax auritus,Double-crested Cormorant,,Present
+BISC,Biscayne National Park,Bird,2,Suliformes,Sulidae,83414,174712,Active,Morus bassanus,Northern Gannet,,Present
+BISC,Biscayne National Park,Bird,2,Suliformes,Sulidae,83398,174699,Active,Sula dactylatra,Masked Booby,,Present
+BISC,Biscayne National Park,Bird,2,Suliformes,Sulidae,83405,174704,Active,Sula leucogaster,Brown Booby,,Present
+BISC,Biscayne National Park,Reptile,3,Crocodilia,Alligatoridae,80888,174367,Active,Alligator mississipiensis,,,Present
+BISC,Biscayne National Park,Reptile,3,Crocodilia,Crocodylidae,80882,174361,Active,Crocodylus acutus,American crocodile,Crocodylus accutus,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,122049,209200,Active,Coluber constrictor paludicola,Everglades Racer,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,122585,209201,Active,Coluber constrictor priapus,Southern Black Racer,,Probably Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,79720,174159,Active,Diadophis punctatus punctatus,"Ringneck Snake, Ring-necked Snake",Diadophis punctatus,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,106461,202172,Active,Drymarchon corais couperi,Eastern Indigo Snake,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,79739,174176,Active,Elaphe guttata guttata,"Corn Snake, Cornsnake",Elaphe guttata,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,122596,209211,Active,Elaphe obsoleta quadrivittata,Yellow Rat Snake,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,122598,209213,Active,Elaphe obsoleta rossalleni,Everglades Rat Snake,,Probably Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,115871,209373,Active,Nerodia clarkii compressicauda,"Mangrove Salt Marsh Snake, Mangrove Saltmarsh Watersnake",Nerodia compressicauda,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,115849,209353,Active,Nerodia fasciata pictiventris,"Florida Water Snake, Florida Watersnake",,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Colubridae,79735,174172,Active,Opheodrys aestivus,"Rough Green Snake, Rough Greensnake",,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Dactyloidae,77539,173885,Active,Anolis carolinensis,Green Anole,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Dactyloidae,77560,173903,Active,Anolis sagrei,"Brown Anole, Cuban Brown Anole",,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Elapidae,80874,174354,Active,Micrurus fulvius,Eastern Coral Snake,Micrurus fulvius fulvius,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Gekkonidae,78937,174057,Active,Hemidactylus garnotii,"Fox Gecko, Indopacific Gecko, Indo-Pacific Gecko, Indo-Pacific House Gecko",,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Gekkonidae,78938,174058,Active,Hemidactylus mabouia,"Afroamerican house gecko, Afro-American House Gecko, Cosmopolitan House Gecko, Wood Slave",,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Gekkonidae,78939,174059,Active,Hemidactylus turcicus,"Mediterranean Gecko, Mediterranean Gekko, Mediterranean House Gecko",,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Scincidae,78432,173965,Active,Eumeces egregius,Mole Skink,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Scincidae,78427,173960,Active,Eumeces inexpectatus,Southeastern Five-lined Skink,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Scincidae,78481,174008,Active,Scincella lateralis,"Ground Skink, Little Brown Skink",,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Sphaerodactylidae,120603,208985,Active,Sphaerodactylus notatus notatus,Reef Gecko,Sphaerodactylus notatus,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Teiidae,78488,174014,Active,Cnemidophorus sexlineatus,Six-lined Racerunner,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Viperidae,80824,174309,Active,Crotalus adamanteus,Eastern diamondback rattlesnake,,Present
+BISC,Biscayne National Park,Reptile,3,Squamata,Viperidae,117358,209507,Active,Sistrurus miliarius barbouri,"Dusky Pigmy Rattlesnake, Dusky Pygmy Rattlesnake",,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Cheloniidae,77479,173830,Active,Caretta caretta,Loggerhead sea turtle,,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Cheloniidae,77482,173833,Active,Chelonia mydas,Green sea turtle,,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Cheloniidae,77485,173836,Active,Eretmochelys imbricata,Hawksbill sea turtle,Eretmochelys imbricata imbricata,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Cheloniidae,259467,551770,Active,Lepidochelys kempii,Kemp's Ridley sea turtle,,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Dermochelyidae,77493,173843,Active,Dermochelys coriacea,Leatherback sea turtle,,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Emydidae,117919,208616,Active,Malaclemys terrapin rhizophorarum,"Mangrove Diamondback Terrapin, Mangrove Diamond-backed Terrapin",,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Emydidae,117921,208618,Active,Malaclemys terrapin tequesta,"Eastern Florida Diamondback Terrapin, Eastern Florida Diamond-backed Terrapin, Florida East Coast Diamondback Terrapin",,Probably Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Emydidae,117092,208596,Active,Terrapene carolina bauri,Florida Box Turtle,,Present
+BISC,Biscayne National Park,Reptile,3,Testudines,Kinosternidae,76870,173765,Active,Kinosternon baurii,Striped Mud Turtle,,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Bufonidae,83330,173489,Active,Bufo marinus,"Cane Toad, Giant Toad, Marine Toad",,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Bufonidae,83315,173475,Active,Bufo terrestris,Southern Toad,,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Eleutherodactylidae,593533,-708179,Inactive,Eleutherodactylus planirostris planirostris,greenhouse frog,,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Hylidae,74974,173505,Active,Hyla cinerea,"Green Tree Frog, Green Treefrog",,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Hylidae,74973,173504,Active,Hyla squirella,Squirrel Treefrog,,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Hylidae,75010,173538,Active,Osteopilus septentrionalis,Cuban Treefrog,Osteopilus septentrioinalis,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Microhylidae,83306,173467,Active,Gastrophryne carolinensis,Eastern Narrow-mouthed Toad,,Present
+BISC,Biscayne National Park,Amphibian,4,Anura,Ranidae,83272,173436,Active,Rana sphenocephala,Southern Leopard Frog,,Present
+BISC,Biscayne National Park,Fish,5,Albuliformes,Albulidae,65060,161121,Active,Albula vulpes,bonefish,,Present
+BISC,Biscayne National Park,Fish,5,Amiiformes,Amiidae,65041,161104,Active,Amia calva,bowfin,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Anguillidae,65066,161127,Active,Anguilla rostrata,American eel,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Chlopsidae,435204,635854,Active,Chilorhinus suensonii,seagrass eel,Chilorhinus suensoni,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Chlopsidae,65094,161152,Active,Kaupichthys hyoproroides,False moray,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Congridae,67029,161326,Active,Conger oceanicus,Conger eel,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Congridae,67030,161327,Active,Conger triporiceps,Manytooth conger,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Congridae,435595,635414,Active,Heteroconger longissimus,brown garden eel,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Congridae,67076,161369,Active,Paraconger caudilimbatus,Margintail conger,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Moringuidae,65078,161138,Active,Moringua edwardsi,spaghetti eel,,Probably Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66050,161169,Active,Anarchias similis,pygmy moray,,Probably Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66053,161171,Active,Echidna catenata,Chain moray,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66063,161180,Active,Enchelycore nigricans,Viper moray,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66069,161186,Active,Gymnothorax funebris,Green moray,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66126,161237,Active,Gymnothorax miliaris,goldentail moray,Muraena miliaris,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66071,161188,Active,Gymnothorax moringa,Spotted moray,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66076,161192,Active,Gymnothorax saxicola,honeycomb moray,"Gymnothorax nigromarginatus, Gymnothorax ocellatus",Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66077,161193,Active,Gymnothorax vicinus,Purplemouth moray,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Muraenidae,66130,161240,Active,Muraena retifera,reticulate moray,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Ophichthidae,67939,161421,Active,Ahlia egmontis,Key worm eel,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Ophichthidae,68058,161529,Active,Ichthyapus ophioneus,finless snake eel,,Probably Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Ophichthidae,67971,161450,Active,Myrichthys ocellatus,goldspotted eel,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Ophichthidae,67974,161453,Active,Myrophis punctatus,speckled worm eel,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Ophichthidae,441933,635651,Active,Ophichthus gomesii,shrimp eel,Ophichthus gomesi,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Ophichthidae,67987,161465,Active,Ophichthus ophis,Spotted snake eel,,Present
+BISC,Biscayne National Park,Fish,5,Anguilliformes,Ophichthidae,68005,161481,Active,Ophichthus puncticeps,palespotted eel,,Present
+BISC,Biscayne National Park,Fish,5,Atheriniformes,Atherinidae,71589,166006,Active,Atherinomorus stipes,Hardhead silverside,,Present
+BISC,Biscayne National Park,Fish,5,Atheriniformes,Atherinidae,71624,166038,Active,Hypoatherina harringtonensis,reef silverside,,Present
+BISC,Biscayne National Park,Fish,5,Atheriniformes,Atherinopsidae,71600,166016,Active,Labidesthes sicculus,brook silverside,Labidesthes sicculus vanhyningi,Present
+BISC,Biscayne National Park,Fish,5,Atheriniformes,Atherinopsidae,71568,165989,Active,Membras martinica,rough silverside,,Present
+BISC,Biscayne National Park,Fish,5,Atheriniformes,Atherinopsidae,71573,165993,Active,Menidia beryllina,inland silverside,,Present
+BISC,Biscayne National Park,Fish,5,Aulopiformes,Synodontidae,63686,162376,Active,Synodus foetens,inshore lizardfish,,Present
+BISC,Biscayne National Park,Fish,5,Aulopiformes,Synodontidae,63687,162377,Active,Synodus intermedius,sand diver,,Present
+BISC,Biscayne National Park,Fish,5,Aulopiformes,Synodontidae,63693,162382,Active,Synodus synodus,Red lizardfish,,Present
+BISC,Biscayne National Park,Fish,5,Aulopiformes,Synodontidae,63736,162420,Active,Trachinocephalus myops,Snakefish,,Present
+BISC,Biscayne National Park,Fish,5,Batrachoidiformes,Batrachoididae,69644,164424,Active,Opsanus beta,Gulf toadfish,,Present
+BISC,Biscayne National Park,Fish,5,Batrachoidiformes,Batrachoididae,69643,164423,Active,Opsanus tau,oyster toadfish,,Present
+BISC,Biscayne National Park,Fish,5,Batrachoidiformes,Batrachoididae,69641,164421,Active,Porichthys plectrodon,Atlantic midshipman,Porichthys porosissimus,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Belonidae,68400,165548,Active,Ablennes hians,flat needlefish,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Belonidae,68441,165585,Active,Platybelone argalus,Keeltail needlefish,Platybelone argalus argalus,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Belonidae,68404,165551,Active,Strongylura marina,Atlantic needlefish,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Belonidae,68406,165553,Active,Strongylura notata,redfin needlefish,Strongylura notata notata,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Belonidae,68407,165554,Active,Strongylura timucu,timucu,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Belonidae,68426,165571,Active,Tylosurus acus,Agujon,Tylosurus acus acus,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Belonidae,68432,165577,Active,Tylosurus crocodilus,Houndfish,"Tylosurus crocodilus crocodilus, Strongylura raphidoma",Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,400584,616681,Active,Cheilopogon furcatus,spotfin flyingfish,Cypselurus furcatus,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,400586,616682,Active,Cheilopogon melanurus,Atlantic flyingfish,Cypselurus melanurus,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,67471,165435,Active,Cypselurus comatus,Clearwing flyingfish,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,68355,165507,Active,Exocoetus obtusirostris,Oceanic two-wing flyingfish,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,68365,165516,Active,Hirundichthys affinis,Fourwing flyingfish,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,400609,616693,Active,Hirundichthys rondeletii,blackwing flyingfish,"Prognichthys rondeleti, Hirundichthys rondeleti",Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,68366,165517,Active,Hirundichthys speculiger,mirrorwing flyingfish,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,68372,165522,Active,Parexocoetus brachypterus,sailfin flyingfish,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Exocoetidae,457010,645263,Active,Prognichthys occidentalis,bluntnose flyingfish,Prognichthys gibbifrons,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Hemiramphidae,68345,165499,Active,Chriodorus atherinoides,Hardhead halfbeak,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Hemiramphidae,67500,165461,Active,Hemiramphus balao,Balao,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Hemiramphidae,67499,165460,Active,Hemiramphus brasiliensis,Ballyhoo,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Hemiramphidae,400588,616683,Active,Hyporhamphus meeki,false silverstripe halfbeak,,Present
+BISC,Biscayne National Park,Fish,5,Beloniformes,Hemiramphidae,67514,165474,Active,Hyporhamphus unifasciatus,Atlantic silverstripe halfbeak,,Present
+BISC,Biscayne National Park,Fish,5,Beryciformes,Holocentridae,72577,166172,Active,Holocentrus adscensionis,Squirrelfish,Holocentrus ascensionis,Present
+BISC,Biscayne National Park,Fish,5,Beryciformes,Holocentridae,72578,166173,Active,Holocentrus rufus,longspine squirrelfish,,Present
+BISC,Biscayne National Park,Fish,5,Beryciformes,Holocentridae,73425,166211,Active,Myripristis jacobus,blackbar soldierfish,,Present
+BISC,Biscayne National Park,Fish,5,Beryciformes,Holocentridae,410523,622125,Active,Sargocentron coruscum,reef squirrelfish,Holocentrus coruscus,Present
+BISC,Biscayne National Park,Fish,5,Beryciformes,Holocentridae,409242,622110,Active,Sargocentron vexillarium,dusky squirrelfish,Holocentrus vexillarius,Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,70209,160304,Active,Carcharhinus acronotus,Blacknose shark,,Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,69372,160275,Active,Carcharhinus leucas,bull shark,Carcharhinus cf. leucas,Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,70224,160318,Active,Carcharhinus limbatus,blacktip shark,,Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,70244,160336,Active,Carcharhinus perezii,Caribbean reef shark,,Probably Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,69387,160289,Active,Carcharhinus plumbeus,sandbar shark,,Probably Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,69276,160189,Active,Galeocerdo cuvier,tiger shark,,Probably Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,70888,160433,Active,Negaprion brevirostris,lemon shark,,Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Carcharhinidae,69290,160200,Active,Rhizoprionodon terraenovae,Atlantic sharpnose shark,,Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Sphyrnidae,70971,160508,Active,Sphyrna lewini,scalloped hammerhead,,Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Sphyrnidae,70979,160515,Active,Sphyrna mokarran,great hammerhead,,Probably Present
+BISC,Biscayne National Park,Fish,5,Carcharhiniformes,Sphyrnidae,70965,160502,Active,Sphyrna tiburo,bonnethead,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69761,161735,Active,Brevoortia smithi,yellowfin menhaden,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69763,161737,Active,Dorosoma cepedianum,American gizzard shad,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69764,161738,Active,Dorosoma petenense,threadfin shad,,Probably Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69781,161753,Active,Harengula clupeola,false pilchard,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69782,161754,Active,Harengula humeralis,redear sardine,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69783,161755,Active,Harengula jaguana,scaled sardine,Harengula pensacolae,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69787,161759,Active,Jenkinsia lamprotaenia,dwarf herring,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69789,161760,Active,Jenkinsia majua,little-eye herring,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69775,161748,Active,Opisthonema oglinum,Atlantic thread herring,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Clupeidae,69792,161763,Active,Sardinella aurita,Spanish sardine,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Engraulidae,71348,161838,Active,Anchoa hepsetus,striped anchovy,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Engraulidae,71352,161841,Active,Anchoa lamprotaenia,big-eye anchovy,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Engraulidae,71349,161839,Active,Anchoa mitchilli,bay anchovy,,Present
+BISC,Biscayne National Park,Fish,5,Clupeiformes,Engraulidae,71369,161857,Active,Anchoviella perfasciata,flat anchovy,,Present
+BISC,Biscayne National Park,Fish,5,Cypriniformes,Catostomidae,65736,163922,Active,Erimyzon sucetta,lake chubsucker,,Present
+BISC,Biscayne National Park,Fish,5,Cypriniformes,Cyprinidae,72077,163537,Active,Ctenopharyngodon idella,grass carp,,Present
+BISC,Biscayne National Park,Fish,5,Cypriniformes,Cyprinidae,70817,163368,Active,Notemigonus crysoleucas,golden shiner,,Present
+BISC,Biscayne National Park,Fish,5,Cypriniformes,Cyprinidae,71992,163460,Active,Notropis petersoni,coastal shiner,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Aplocheilidae,68968,165698,Active,Rivulus marmoratus,MANGROVE RIVULUS,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Cyprinodontidae,68895,165631,Active,Cyprinodon variegatus,SHEEPSHEAD MINNOW,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Cyprinodontidae,68954,165685,Active,Floridichthys carpio,GOLDSPOTTED KILLFISH,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Cyprinodontidae,68964,165694,Active,Jordanella floridae,"American flagfish, flagfish",,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68951,165682,Active,Adinia xenica,DIAMOND KILLIFISH,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68918,165652,Active,Fundulus chrysotus,golden topminnow,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68910,165645,Active,Fundulus confluentus,marsh killifish,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68917,165651,Active,Fundulus grandis,GULF KILLIFISH,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68934,165667,Active,Fundulus seminolis,Seminole killifish,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68923,165657,Active,Fundulus similis,LONGNOSE KILLIFISH,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68949,165680,Active,Lucania goodei,"bluefin killifish, blue-fintop minnow",,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Fundulidae,68947,165679,Active,Lucania parva,rainwater killifish,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Poeciliidae,71083,165913,Active,Belonesox belizanus,"pike killifish, piketop minnow",,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Poeciliidae,71063,165896,Active,Gambusia holbrooki,"mosquitofish, western mosquitofish, mosquitofish","Gambusia affinis, Gambusia affinis holbrooki",Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Poeciliidae,71048,165882,Active,Gambusia rhizophorae,MANGROVE GAMBUSIA,,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Poeciliidae,71085,165915,Active,Heterandria formosa,"dwarf livebearer, least killifish",,Present
+BISC,Biscayne National Park,Fish,5,Cyprinodontiformes,Poeciliidae,71065,165898,Active,Poecilia latipinna,SAILFIN MOLLY,Mollienisia latipinna,Present
+BISC,Biscayne National Park,Fish,5,Elopiformes,Elopidae,65049,161111,Active,Elops saurus,LADYFISH,,Present
+BISC,Biscayne National Park,Fish,5,Elopiformes,Megalopidae,65054,161116,Active,Megalops atlanticus,TARPON,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Aulostomidae,74183,166411,Active,Aulostomus maculatus,Trumpetfish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Fistulariidae,74188,166416,Active,Fistularia tabacaria,Cornetfish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,67132,166653,Active,Anarchopterus criniger,Fringed pipefish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,67137,166658,Active,Bryx dunckeri,pugnose pipefish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,66667,166597,Active,Cosmocampus albirostris,whitenose pipefish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,66673,166601,Active,Cosmocampus brachycephalus,crested pipefish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,66677,166605,Active,Cosmocampus elucens,shortfin pipefish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74937,166488,Active,Hippocampus erectus,LINED SEAHORSE,Hippocampus hudsonius,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74942,166492,Active,Hippocampus reidi,longsnout seahorse,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74943,166493,Active,Hippocampus zosterae,DWARF SEAHORSE,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,66587,166524,Active,Micrognathus crinitus,Insular pipefish,"Micrognathus ensenadae, Micrognathus vittatus",Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,66597,166533,Active,Microphis brachyurus,"opossum pipefish, shorttailed pipefish",,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74221,166446,Active,Syngnathus floridae,DUSKY PIPEFISH,"Syngnathus mackayi, Syngnathus mackayi mackayi",Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74898,166452,Active,Syngnathus louisianae,CHAIN PIPEFISH,Sygnathus louisianae,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74900,166454,Active,Syngnathus pelagicus,Sargassum pipefish,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74904,166458,Active,Syngnathus scovelli,GULF PIPEFISH,,Present
+BISC,Biscayne National Park,Fish,5,Gasterosteiformes,Syngnathidae,74901,166455,Active,Syngnathus springeri,Bull pipefish,,Present
+BISC,Biscayne National Park,Fish,5,Lepisosteiformes,Lepisosteidae,65033,161098,Active,Lepisosteus platyrhincus,Florida gar,,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Antennariidae,70557,164523,Active,Antennarius multiocellatus,Longlure frogfish,Lophiocharon tenebrosus,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Antennariidae,70558,164524,Active,Antennarius ocellatus,Ocellated frogfish,,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Antennariidae,70565,164530,Active,Antennarius pauciradiatus,Dwarf frogfish,,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Antennariidae,70559,164525,Active,Antennarius radiosus,Siglespot frogfish,,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Antennariidae,70593,164556,Active,Antennarius striatus,striated frogfish,,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Antennariidae,70554,164520,Active,Histrio histrio,Sargassumfish,,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Ogcocephalidae,72095,164581,Active,Ogcocephalus cubifrons,"polka-dot batfish, spotted batfish",Ogcocephalus radiatus,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Ogcocephalidae,72089,164576,Active,Ogcocephalus nasutus,shortnose batfish,,Present
+BISC,Biscayne National Park,Fish,5,Lophiiformes,Ogcocephalidae,72088,164575,Active,Ogcocephalus vespertilio,Longnose batfish,,Present
+BISC,Biscayne National Park,Fish,5,Mugiliformes,Mugilidae,81303,170355,Active,Agonostomus monticola,mountain mullet,,Probably Present
+BISC,Biscayne National Park,Fish,5,Mugiliformes,Mugilidae,81281,170335,Active,Mugil cephalus,STRIPED MULLET,,Present
+BISC,Biscayne National Park,Fish,5,Mugiliformes,Mugilidae,81282,170336,Active,Mugil curema,WHITE MULLET,,Present
+BISC,Biscayne National Park,Fish,5,Mugiliformes,Mugilidae,81299,170351,Active,Mugil gyrans,"fantail mullet, whirligig mullet",,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Dasyatidae,63932,160951,Active,Dasyatis americana,SOUTHERN STINGRAY,,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Dasyatidae,63934,160953,Active,Dasyatis sabina,ATLANTIC STINGRAY,,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Dasyatidae,63935,160954,Active,Dasyatis say,BLUNTNOSE STINGRAY,,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Gymnuridae,63944,160962,Active,Gymnura micrura,SMOOTH BUTTERFLY RAY,,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Mobulidae,63977,160992,Active,Manta birostris,Atlantic manta,,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Myliobatidae,63961,160978,Active,Aetobatus narinari,SPOTTED EAGLE RAY,,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Rhinopteridae,63969,160985,Active,Rhinoptera bonasus,COWNOSE RAY,,Present
+BISC,Biscayne National Park,Fish,5,Myliobatiformes,Urolophidae,406827,621035,Active,Urobatis jamaicensis,yellow stingray,Urolophus jamaicensis,Present
+BISC,Biscayne National Park,Fish,5,Ophidiiformes,Bythitidae,75738,164966,Active,Ogilbia cayorum,Key brotula,,Present
+BISC,Biscayne National Park,Fish,5,Ophidiiformes,Bythitidae,75762,164988,Active,Stygnobrotula latebricola,black brotula,,Present
+BISC,Biscayne National Park,Fish,5,Ophidiiformes,Carapidae,64816,165096,Active,Carapus bermudensis,Pearlfish,,Present
+BISC,Biscayne National Park,Fish,5,Ophidiiformes,Ophidiidae,74778,164825,Active,Lepophidium brevibarbe,blackedge cusk-eel,,Present
+BISC,Biscayne National Park,Fish,5,Ophidiiformes,Ophidiidae,74796,164841,Active,Ophidion grayi,Bloched cusk-eel,,Present
+BISC,Biscayne National Park,Fish,5,Ophidiiformes,Ophidiidae,75755,164981,Active,Parophidion schmidti,Dusky cusk-eel,,Present
+BISC,Biscayne National Park,Fish,5,Ophidiiformes,Ophidiidae,75759,164985,Active,Petrotyx sanguineus,Redfin brotula,,Present
+BISC,Biscayne National Park,Fish,5,Orectolobiformes,Ginglymostomatidae,66896,159977,Active,Ginglymostoma cirratum,Nurse shark,,Present
+BISC,Biscayne National Park,Fish,5,Orectolobiformes,Rhincodontidae,65289,159857,Active,Rhincodon typus,whale shark,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Acanthuridae,74590,172252,Active,Acanthurus bahianus,Ocean surgeon,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Acanthuridae,74591,172253,Active,Acanthurus chirurgus,Doctorfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Acanthuridae,74592,172254,Active,Acanthurus coeruleus,Blue Tang,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Acanthuridae,74594,172256,Active,Acanthurus randalli,Gulf surgeonfish,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72302,168201,Active,Apogon aurolineatus,Bridle cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72303,168202,Active,Apogon binotatus,Barred cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72314,168212,Active,Apogon lachneri,Whitestar cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72305,168204,Active,Apogon maculatus,Flamefish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72315,168213,Active,Apogon phenax,mimic cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72307,168206,Active,Apogon planifrons,Pale cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72308,168207,Active,Apogon pseudomaculatus,Twospot cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72309,168208,Active,Apogon quadrisquamatus,sawcheek cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,72312,168210,Active,Apogon townsendi,Belted cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,73064,168285,Active,Astrapogon alutus,Bronze cardinalfish,Apogonichthys alutus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,73065,168286,Active,Astrapogon puncticulatus,Blackfin cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,73066,168287,Active,Astrapogon stellatus,Conchfish,Apogon stellatus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,73094,168311,Active,Phaeoptyx pigmentaria,dusky cardinalfish,Apogon pigmentarius,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Apogonidae,73093,168310,Active,Phaeoptyx xenus,sponge cardinalfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Ariommatidae,77188,172540,Active,Ariomma regulus,Spotted driftfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,77000,171165,Active,Chasmodes saburrae,FLORIDA BLENNY,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,77002,171167,Active,Entomacrodus nigricans,Pearl blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,77841,171199,Active,Hypleurochilus aequipinnis,Oyster blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,77844,171200,Active,Hypleurochilus bermudensis,Barred blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,76990,171156,Active,Hypsoblennius hentz,Feather blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,76997,171162,Active,Hypsoblennius invemar,tessellated blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,76991,171157,Active,Hypsoblennius ionthas,freckled blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,77847,171203,Active,Ophioblennius atlanticus,Redlip blenny,Alticus atlanticus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,77959,171304,Active,Parablennius marmoreus,seaweed blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Blenniidae,77962,171307,Active,Scartella cristata,molly miller,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Callionymidae,81386,171737,Active,Diplogrammus pauciradiatus,ray-finned fish,"Chalinops pauciradiatus, Callionymus calliurus",Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Callionymidae,81393,171743,Active,Paradiplogrammus bairdi,lancer dragonet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,75159,168602,Active,Alectis ciliaris,"African pompano, threadfin",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,75968,168607,Active,Carangoides bartholomaei,yellow jack,Caranx bartholomaei,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,75977,168615,Active,Carangoides ruber,bar jack,Caranx ruber,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,75974,168612,Active,Caranx crysos,BLUE RUNNER,Carangoides crysos,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,75970,168609,Active,Caranx hippos,CREVALLE JACK,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,75972,168610,Active,Caranx latus,HORSE-EYE JACK,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76038,168670,Active,Chloroscombrus chrysurus,ATLANTIC BUMPER,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76098,168724,Active,Decapterus macarellus,Mackerel scad,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,77037,168725,Active,Decapterus punctatus,Round Scad,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,77051,168738,Active,Elagatis bipinnulata,Rainbow runner,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,77054,168740,Active,Hemicaranx amblyrhynchus,BLUNTNOSE JACK,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,77056,168742,Active,Naucrates ductor,Pilotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76041,168673,Active,Oligoplites saurus,LEATHERJACKET,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76045,168677,Active,Selar crumenophthalmus,Bigeye scad,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76053,168684,Active,Selene setapinnis,Atlantic moonfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76049,168680,Active,Selene vomer,LOOKDOWN,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76058,168689,Active,Seriola dumerili,Greater amberjack,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76061,168691,Active,Seriola rivoliana,"almaco jack, Pacific amberjack",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76063,168693,Active,Seriola zonata,Banded rudderfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76080,168708,Active,Trachinotus carolinus,FLORIDA POMPANO,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76081,168709,Active,Trachinotus falcatus,PERMIT,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Carangidae,76083,168710,Active,Trachinotus goodei,Palometa,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,71266,168113,Active,Enneacanthus gloriosus,Bluespotted Sunfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,72231,168138,Active,Lepomis gulosus,warmouth,Chaenobryttus gulosus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,72235,168141,Active,Lepomis macrochirus,coppernose bluegill sunfish,Lepomis macrochirus purpurescens,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,72247,168152,Active,Lepomis marginatus,Dollar Sunfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,72249,168154,Active,Lepomis microlophus,Redear Sunfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,72250,168155,Active,Lepomis punctatus,"eastern stumpknocker, spotted sunfish",Lepomis punctatus punctatus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,72256,168160,Active,Micropterus salmoides,Florida largemouth bass,Micropterus salmoides floridanus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centrarchidae,72263,168167,Active,Pomoxis nigromaculatus,Black Crappie,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centropomidae,74665,167645,Active,Centropomus ensiferus,SWORDSPINE SNOOK,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centropomidae,74666,167646,Active,Centropomus parallelus,FAT SNOOK,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centropomidae,74667,167647,Active,Centropomus pectinatus,Tarpon snook,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Centropomidae,74668,167648,Active,Centropomus undecimalis,SNOOK,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaenopsidae,79595,171450,Active,Acanthemblemaria aspera,Roughhead blenny,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaenopsidae,79597,171452,Active,Acanthemblemaria chaplini,Papillose blenny,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaenopsidae,79615,171469,Active,Chaenopsis limbaughi,yellowface pikeblenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaenopsidae,79614,171468,Active,Chaenopsis ocellata,Bluethroat pikeblenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaenopsidae,78741,171405,Active,Emblemaria pandionis,sailfin blenny,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaenopsidae,79621,171474,Active,Hemiemblemaria simulus,Wrasse blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaenopsidae,79591,171447,Active,Stathmonotus stahli,Eelgrass blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaetodontidae,75326,169558,Active,Chaetodon capistratus,Foureye butterflyfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaetodontidae,75324,169556,Active,Chaetodon ocellatus,Spotfin butterflyfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaetodontidae,75331,169562,Active,Chaetodon sedentarius,Reef butterflyfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Chaetodontidae,75332,169563,Active,Chaetodon striatus,Banded angelfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,462836,648192,Active,Amphilophus citrinellus,"midas cichlid, Midas cichlid","Cichlasoma citrinellum, Amphilophus citrinellum",Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,77306,169772,Active,Astronotus ocellatus,oscar,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,77400,169857,Active,Cichla ocellaris,"butterfly peacock bass, peacock cichlid",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,77309,169775,Active,Cichlasoma bimaculatum,"black acara, twospotted cichlid",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,465171,649465,Active,Cichlasoma urophthalma,Mayan cichlid,Cichlasoma urophthalmus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,267085,553306,Active,Hemichromis letourneuxi,"African jewelfish, Letourneaux's jewel cichlid",Hemichromis letourneauxi,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,267089,553308,Active,Oreochromis aureus,blue tilapia,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,79050,170015,Active,Oreochromis mossambicus,"Mozambique mouth-breeder, Mozambique mouthbrooder, Mozambique tilapia",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,466178,649548,Active,Parachromis managuensis,"jaguar guapote, Managua cichlid",Cichlasoma managuense,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cichlidae,77350,169811,Active,Tilapia mariae,spotted tilapia,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Cirrhitidae,80086,170224,Active,Amblycirrhitus pinos,Caribbean hawkfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Coryphaenidae,77111,168792,Active,Coryphaena equiselis,Pompano dolphin,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Coryphaenidae,77110,168791,Active,Coryphaena hippurus,Dolphin,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Dactyloscopidae,76195,171043,Active,Dactyloscopus crossotus,Bigeye stargazer,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Dactyloscopidae,76194,171042,Active,Dactyloscopus tridigitatus,Sand stargazer,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Dactyloscopidae,76189,171038,Active,Gillellus greyae,Arrow stargazer,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Dactyloscopidae,76204,171051,Active,Platygillellus rubrocinctus,saddle stargazer,Heteristius rubrocinctus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Echeneidae,75128,168575,Active,Echeneis naucrates,SHARKSUCKER,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Echeneidae,75129,168576,Active,Echeneis neucratoides,WHITEFIN SHARKSUCKER,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Echeneidae,75123,168570,Active,Remora osteochir,Marlinsucker,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Echeneidae,75124,168571,Active,Remora remora,REMORA,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Elassomatidae,72265,168169,Active,Elassoma evergladei,Everglades pygmy sunfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Eleotridae,82257,171919,Active,Dormitator maculatus,FAT SLEEPER,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Eleotridae,441662,636827,Active,Eleotris amblyopsis,Spinycheek Sleeper,"Eleotris pisonis, Eleotris abacurus",Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Eleotridae,82211,171878,Active,Erotelis smaragdus,EMERALD SLEEPER,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Ephippidae,75305,169539,Active,Chaetodipterus faber,ATLANTIC SPADEFISH,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gerreidae,79385,169029,Active,Diapterus auratus,Irish pompano,Diapterus olisthostomus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gerreidae,79370,169015,Active,Eucinostomus argenteus,SPOTFIN MOJARRA,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gerreidae,79371,169016,Active,Eucinostomus gula,SILVER JENNY,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gerreidae,79381,169025,Active,Eucinostomus harengulus,Tidewater Mojarra,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gerreidae,79374,169019,Active,Eucinostomus melanopterus,Flagfin mojarra,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gerreidae,79389,169032,Active,Gerres cinereus,YELLOWFIN MOJARRA,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gerreidae,79413,169054,Active,Ulaema lefroyi,mottled mojarra,Eucinostomus lefroyi,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiesocidae,70500,164472,Active,Acyrtops beryllinus,emerald clingfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiesocidae,70487,164460,Active,Gobiesox strumosus,SKILLETFISH,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82142,171815,Active,Barbulifer ceuthoecus,Bearded goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82145,171818,Active,Bathygobius curacao,Notchtongue goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82146,171819,Active,Bathygobius mystacium,Island frillfin,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82148,171820,Active,Bathygobius soporator,FRILLFIN GOBY,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81403,171752,Active,Coryphopterus dicrus,Colon goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81404,171753,Active,Coryphopterus eidolon,Pallid goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81405,171754,Active,Coryphopterus glaucofraenum,Bridled goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81406,171755,Active,Coryphopterus hyalinus,Glass goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81407,171756,Active,Coryphopterus lipernes,Peppermint goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81408,171757,Active,Coryphopterus personatus,Masked goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81409,171758,Active,Coryphopterus punctipectophorus,Spotted goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,440778,636803,Active,Ctenogobius saepepallens,dash goby,Gobionellus saepepallens,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,440712,636772,Active,Elacatinus evelynae,"sharknose goby, sharpnose goby",Gobiosoma evelynae,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,440720,636776,Active,Elacatinus horsti,yellowline goby,Gobiosoma horsti,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,440735,636783,Active,Elacatinus macrodon,tiger goby,"Garmannia macrodon, Gobiosoma macrodon",Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,440741,636786,Active,Elacatinus oceanops,neon goby,Gobiosoma oceanops,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81416,171764,Active,Evorthodus lyricus,LYRE GOBY,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82156,171828,Active,Gnatholepis thompsoni,Goldspot goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81421,171769,Active,Gobionellus oceanicus,HIGHFIN GOBY,"Gobionellus hastatus, Gobionellus gracillimus",Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81443,171789,Active,Gobiosoma bosc,naked goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81447,171792,Active,Gobiosoma grosvenori,Rockcut goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,81446,171791,Active,Gobiosoma robustum,CODE GOBY,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82231,171896,Active,Lophogobius cyprinoides,Crested goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82238,171901,Active,Lythrypnus phorellus,Convict goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82239,171902,Active,Lythrypnus spilus,Bluegold goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82137,171810,Active,Microgobius carri,Seminole goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82134,171808,Active,Microgobius gulosus,CLOWN GOBY,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82138,171811,Active,Microgobius microlepis,Banner goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,82245,171908,Active,Nes longus,Orangespotted goby,Gobiosoma longum,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Gobiidae,74570,172234,Active,Priolepis hipoliti,rusty goby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79446,169084,Active,Anisotremus surinamensis,Black margate,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79448,169086,Active,Anisotremus virginicus,Porkfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79420,169060,Active,Haemulon album,Margate,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79417,169058,Active,Haemulon aurolineatum,tomtate,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79423,169063,Active,Haemulon carbonarium,Caesar grunt,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79424,169064,Active,Haemulon chrysargyreum,Smallmouth grunt,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79425,169065,Active,Haemulon flavolineatum,French grunt,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79426,169066,Active,Haemulon macrostomum,Spanish grunt,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79427,169067,Active,Haemulon melanurum,Cottonwick,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79435,169074,Active,Haemulon parra,Sailors choice,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,389697,613026,Active,Haemulon plumierii,white grunt,Haemulon plumieri,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79429,169069,Active,Haemulon sciurus,Bluestriped grunt,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79434,169073,Active,Haemulon striatum,Stripped grunt,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,79438,169077,Active,Orthopristis chrysoptera,PIGFISH,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Haemulidae,80125,169093,Active,Pomadasys crocro,Burro grunt,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Inermiidae,77154,168830,Active,Emmelichthyops atlanticus,Bonnetmouth,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Inermiidae,77156,168832,Active,Inermia vittata,boga,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Istiophoridae,76325,172488,Active,Istiophorus platypterus,Sailfish,Makaira albida,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Istiophoridae,76329,172491,Active,Makaira nigricans,"Atlantic blue marlin, blue marlin, Cuban black marlin",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Kyphosidae,460364,645471,Active,Kyphosus sectator,Bermuda chub,Kyphosus sectatrix,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82115,170483,Active,Bodianus pulchellus,Spotfin hogfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82116,170484,Active,Bodianus rufus,Spanish hogfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82798,170496,Active,Clepticus parrae,Creole wrasse,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82804,170500,Active,Doratonotus megalepis,Dwarf wrasse,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82807,170503,Active,Halichoeres bivittatus,Slippery dick,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82809,170505,Active,Halichoeres cyanocephalus,Yellowcheek wrasse,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82810,170506,Active,Halichoeres garnoti,Yellowhead wrasse,Halichoeres garnoti valenciennes,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82811,170507,Active,Halichoeres maculipinna,Clown wrasse,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82812,170508,Active,Halichoeres pictus,rainbow wrasse,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82813,170509,Active,Halichoeres poeyi,Blackear wrasse,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82815,170510,Active,Halichoeres radiatus,Puddingwife,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82876,170566,Active,Lachnolaimus maximus,Hogfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,82878,170568,Active,Thalassoma bifasciatum,Bluehead,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,396024,614502,Active,Xyrichtys martinicensis,rosy razorfish,Hemipteronotus martinicensis,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,396047,614513,Active,Xyrichtys novacula,pearly razorfish,Hemipteronotus novacula,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labridae,396394,614546,Active,Xyrichtys splendens,green razorfish,Hemipteronotus splendens,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78745,171409,Active,Labrisomus bucciferus,Puffcheek blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78749,171412,Active,Labrisomus guppyi,Mimic blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78750,171413,Active,Labrisomus haitiensis,Longfin blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78753,171416,Active,Labrisomus kalisherae,Downy blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78751,171414,Active,Labrisomus nigricinctus,Spotcheek blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78752,171415,Active,Labrisomus nuchipinnis,Hairy blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78758,171420,Active,Malacoctenus aurolineatus,Goldline blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78760,171422,Active,Malacoctenus macropus,Rosy blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78761,171423,Active,Malacoctenus triangulatus,Saddled blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78767,171429,Active,Paraclinus cingulatus,Coral blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78769,171430,Active,Paraclinus fasciatus,Banded blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78766,171428,Active,Paraclinus grandicomis,Horned blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78772,171433,Active,Paraclinus marmoratus,Marbled blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78773,171434,Active,Paraclinus nigripinnis,Blackfin blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Labrisomidae,78778,171439,Active,Starksia ocellata,Checkered blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lobotidae,79361,169007,Active,Lobotes surinamensis,TRIPLETAIL,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,78038,168902,Active,Etelis oculatus,queen snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77978,168849,Active,Lutjanus analis,Mutton snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77980,168850,Active,Lutjanus apodus,Schoolmaster,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77982,168852,Active,Lutjanus buccanella,Blackfin snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77983,168853,Active,Lutjanus campechanus,"northern red snapper, red snapper",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77976,168847,Active,Lutjanus cyanopterus,cubera snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77977,168848,Active,Lutjanus griseus,GRAY SNAPPER,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77987,168857,Active,Lutjanus jocu,dog snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77988,168858,Active,Lutjanus mahogoni,Mahogany snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77991,168860,Active,Lutjanus synagris,Lane snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,77992,168861,Active,Lutjanus vivanus,silk snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,78043,168907,Active,Ocyurus chrysurus,Yellowtail snapper,Lutjanus chrysurus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Lutjanidae,78045,168909,Active,Rhomboplites aurorubens,Vermilion snapper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Malacanthidae,75098,168548,Active,Malacanthus plumieri,Sand tilefish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Microdesmidae,74497,172169,Active,Cerdale floridana,pugjaw wormfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Microdesmidae,74493,172165,Active,Microdesmus longipinnis,PINK WORMFISH,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Microdesmidae,441738,636863,Active,Ptereleotris calliura,blue goby,"Ptereleotris calliurus, Ioglossus calliurus",Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Microdesmidae,440795,636811,Active,Ptereleotris helenae,"hovering dartfish, hovering goby",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Mullidae,74088,169408,Active,Mulloidichthys martinicus,Yellow goatfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Mullidae,74371,169421,Active,Pseudupeneus maculatus,Spotted goatfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Nomeidae,77203,172554,Active,Nomeus gronovii,Man-of-war fish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Nomeidae,77205,172556,Active,Psenes cyanophrys,Freckled driftfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Nomeidae,77206,172557,Active,Psenes maculatus,silver driftfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Opistognathidae,75262,170928,Active,Opistognathus aurifrons,ellowhead jawfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Opistognathidae,75266,170931,Active,Opistognathus macrognathus,Spotfin jawfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Opistognathidae,75261,170927,Active,Opistognathus maxillosus,Mottled jawfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Opistognathidae,75267,170932,Active,Opistognathus whitehursti,Dusky jawfish,Opistognathus whitehurstii,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pempheridae,74427,169472,Active,Pempheris schomburgkii,Glassy sweeper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Percidae,73145,168358,Active,Etheostoma fusiforme,swamp darter,Etheostoma fusiforme barratti,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Polynemidae,82075,170447,Active,Polydactylus octonemus,ATLANTIC THREADFIN,Polynemus octonemus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Polynemidae,82079,170450,Active,Polydactylus oligodon,Little-scale threadfin,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Polynemidae,82076,170448,Active,Polydactylus virginicus,Barbu,Polynemus virginicus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacanthidae,75402,169626,Active,Holacanthus bermudensis,Blue angelfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacanthidae,75399,169623,Active,Holacanthus ciliaris,Queen angelfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacanthidae,75401,169625,Active,Holacanthus tricolor,Rock beauty,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacanthidae,75409,169632,Active,Pomacanthus arcuatus,Gray angelfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacanthidae,75410,169633,Active,Pomacanthus paru,French angelfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,79084,170046,Active,Abudefduf saxatilis,Sergeant major,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,79085,170047,Active,Abudefduf taurus,Night seargeant,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,79122,170080,Active,Chromis cyanea,Blue chromis,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,79124,170082,Active,Chromis insolata,Sunshinefish,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,79126,170084,Active,Chromis multilineata,Brown chromis,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,79128,170086,Active,Chromis scotti,Purple reef-fish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,79162,170116,Active,Microspathodon chrysurus,Yellowtail damselfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,398505,615394,Active,Stegastes diencaeus,longfin damselfish,Pomacentrus diencaeus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,397569,615345,Active,Stegastes leucostictus,beaugregory,Pomacentrus leucostictus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,398552,615416,Active,Stegastes partitus,bicolor damselfish,Pomacentrus partitus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,399252,615485,Active,Stegastes planifrons,threespot damselfish,Pomacentrus planifrons,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomacentridae,398544,615412,Active,Stegastes variabilis,cocoa damselfish,Pomacentrus variabilis,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Pomatomidae,75110,168559,Active,Pomatomus saltatrix,BLUEFISH,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Priacanthidae,72279,168181,Active,Heteropriacanthus cruentatus,"bulleye, glasseye snapper",Priacanthus cruentatus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Priacanthidae,72275,168178,Active,Priacanthus arenatus,bigeye,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Priacanthidae,72289,168190,Active,Pristigenys alta,Short bigeye,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Rachycentridae,75118,168566,Active,Rachycentron canadum,Cobia,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75183,170857,Active,Cryptotomus roseus,Bluelip parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75187,170860,Active,Nicholsina usta,EMERALD PARROTFISH,Nicholsina usta usta,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,74330,170812,Active,Scarus coelestinus,Midnight parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,74329,170811,Active,Scarus coeruleus,Blue parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,74332,170814,Active,Scarus guacamaia,Rainbow parrotfish,Pseudoscarus guacamaia,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,394404,614740,Active,Scarus iseri,striped parrotfish,"Scarus croicensis, Scarus isertae",Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,74333,170815,Active,Scarus taeniopterus,Princess parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,74334,170816,Active,Scarus vetula,Queen parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75189,170862,Active,Sparisoma atomarium,Greenblotch parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75190,170863,Active,Sparisoma aurofrenatum,Redband parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75191,170864,Active,Sparisoma chrysopterum,redtail parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75192,170865,Active,Sparisoma radians,bucktooth parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75193,170866,Active,Sparisoma rubripinne,"redfin parrotfish, yellowtail parrotfish",Sparisoma pachycephalum,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scaridae,75194,170867,Active,Sparisoma viride,stoplight parrotfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,80711,169259,Active,Bairdiella chrysoura,silver perch,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,80694,169243,Active,Cynoscion arenarius,sand seatrout,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,80689,169239,Active,Cynoscion nebulosus,spotted seatrout,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,80692,169241,Active,Cynoscion regalis,"gray trout, sea trout, weakfish",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,73984,169314,Active,Equetus lanceolatus,"jackknife fish, jackknife-fish",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,73987,169317,Active,Equetus punctatus,spotted drum,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,80720,169267,Active,Leiostomus xanthurus,spot,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,73001,169274,Active,Menticirrhus americanus,"jewsharp drummer, southern kingfish",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,73011,169283,Active,Micropogonias undulatus,Atlantic croaker,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,73996,169325,Active,Odontoscion dentex,reef croaker,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,460064,646513,Active,Pareques acuminatus,high-hat,Equetus acuminatus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,73989,169319,Active,Pareques umbrosus,cubbyu,Equetus umbrosus,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sciaenidae,73957,169290,Active,Sciaenops ocellatus,red drum,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76285,172451,Active,Acanthocybium solandri,wahoo,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,75695,172402,Active,Euthynnus alletteratus,"false albacore, little tuna, little tunny",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,75694,172401,Active,Katsuwonus pelamis,"Arctic bonito, mushmouth, oceanic bonito, skipjack, skipjack tuna, striped tuna, victor fish",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76238,172409,Active,Sarda sarda,"Atlantic bonito, bloater, bone jack, Boston mackerel, common bonito",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76267,172435,Active,Scomberomorus cavalla,king mackerel,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76268,172436,Active,Scomberomorus maculatus,"Atlantic Spanish mackerel, Spanish mackerel",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76269,172437,Active,Scomberomorus regalis,"cero, painted mackerel",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76254,172423,Active,Thunnus albacares,yellowfin tuna,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76258,172427,Active,Thunnus atlanticus,blackfin tuna,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Scombridae,76259,172428,Active,Thunnus obesus,bigeye tuna,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75447,167746,Active,Alphestes afer,mutton hamlet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,86788,181220,Active,Cephalopholis cruentata,Graysby,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75441,167740,Active,Cephalopholis fulva,coney,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75445,167744,Active,Dermatolepis inermis,marbled grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75502,167796,Active,Diplectrum bivittatum,dwarf sand perch,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75499,167793,Active,Diplectrum formosum,sand perch,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74721,167696,Active,Epinephelus adscensionis,rock hind,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74723,167698,Active,Epinephelus drummondhayi,speckled hind,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74724,167699,Active,Epinephelus flavolimbatus,yellowedge grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74727,167700,Active,Epinephelus guttatus,red hind,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74720,167695,Active,Epinephelus itajara,"goliath grouper, jewfish",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74729,167702,Active,Epinephelus morio,red grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74731,167704,Active,Epinephelus nigritus,warsaw grouper,,Probably Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74732,167705,Active,Epinephelus niveatus,snowy grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,74733,167706,Active,Epinephelus striatus,Nassau grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75516,167808,Active,Hypoplectrus chlorurus,yellowtail hamlet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75517,167809,Active,Hypoplectrus gemma,blue hamlet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75519,167810,Active,Hypoplectrus guttavarius,"golden hamlet, shy hamlet",,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75520,167811,Active,Hypoplectrus indigo,Indigo hamlet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75521,167812,Active,Hypoplectrus nigricans,Black hamlet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75522,167813,Active,Hypoplectrus puella,Banded hamlet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75514,167806,Active,Hypoplectrus unicolor,Butter hamlet,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75527,167818,Active,Liopropoma eukrines,Wrasse bass,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75530,167820,Active,Liopropoma rubre,Peppermint bass,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75463,167760,Active,Mycteroperca bonaci,Black grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75465,167762,Active,Mycteroperca interstitialis,yellowmouth grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75461,167759,Active,Mycteroperca microlepis,GAG,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75466,167763,Active,Mycteroperca phenax,Scamp,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75467,167764,Active,Mycteroperca venenosa,Yellowfin grouper,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,75549,167838,Active,Paranthias furcifer,Creaole-fish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,71142,168001,Active,Pseudogramma gregoryi,reef bass,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,70452,167985,Active,Rypticus bistrispinus,Freckled soapfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,70458,167990,Active,Rypticus saponaceus,Greater soapfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,70459,167991,Active,Rypticus subbifrenatus,Spotted soapfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,76503,167852,Active,Serranus baldwini,Lantern bass,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,76510,167859,Active,Serranus tabacarius,Tobacco fish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,76512,167860,Active,Serranus tigrinus,Harlequin bass,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Serranidae,76513,167861,Active,Serranus tortugarum,Chalk bass,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80231,169189,Active,Archosargus probatocephalus,SHEEPSHEAD,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80233,169190,Active,Archosargus rhomboidalis,Sea bream,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80239,169196,Active,Calamus arctifrons,Grass progy,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80240,169197,Active,Calamus bajonado,Jolthead progy,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80241,169198,Active,Calamus calamus,Saucereye progy,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80246,169201,Active,Calamus nodosus,knobbed porgy,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80250,169205,Active,Calamus penna,Sheepshead porgy,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80248,169203,Active,Calamus proridens,littlehead porgy,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80235,169192,Active,Diplodus holbrookii,spottail pinfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sparidae,80229,169187,Active,Lagodon rhomboides,pinfish,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sphyraenidae,468626,650251,Active,Sphyraena barracuda,great barracuda,Sphyraena barracuda,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sphyraenidae,82053,170427,Active,Sphyraena borealis,southern sennet,Sphyraena picudilla,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Sphyraenidae,82054,170428,Active,Sphyraena guachancho,Guaguanche,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Tripterygiidae,78697,171366,Active,Enneanectes altivelis,Lofty blenny,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Tripterygiidae,78698,171367,Active,Enneanectes boehlkei,Roughhead triplefin,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Tripterygiidae,78702,171370,Active,Enneanectes jordani,Mimic triplefin,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Tripterygiidae,78699,171368,Active,Enneanectes pectoralis,Redeye triplefin,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Uranoscopidae,76209,171056,Active,Astroscopus y-graecum,SOUTHERN STARGAZER,,Present
+BISC,Biscayne National Park,Fish,5,Perciformes,Xiphiidae,76319,172482,Active,Xiphias gladius,"broadbill, swordfish",,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Achiridae,79960,172986,Active,Achirus lineatus,LINED SOLE,Trinectes lineatus,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Achiridae,79957,172983,Active,Trinectes inscriptus,Scrawled sole,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Achiridae,79956,172982,Active,Trinectes maculatus,HOGCHOKER,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Bothidae,78234,172759,Active,Bothus lunatus,"peacock flounder, Peacock Flounder",,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Bothidae,78237,172761,Active,Bothus ocellatus,Eyed flounder,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Bothidae,78238,172762,Active,Bothus robinsi,"twospot flounder, Twospot Flounder",,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Cynoglossidae,80983,173062,Active,Symphurus plagiusa,BLACKCHEEK TONGUEFISH,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Cynoglossidae,80993,173071,Active,Symphurus urospilus,"spottail tonguefish, Spottail Tonguefish",,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Paralichthyidae,78192,172720,Active,Citharichthys arenaceus,"sand whiff, Sand Whiff",,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Paralichthyidae,78193,172721,Active,Citharichthys cornutus,Horned whiff,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Paralichthyidae,78196,172724,Active,Citharichthys macrops,Spotted whiff,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Paralichthyidae,78197,172725,Active,Citharichthys spilopterus,BAY WHIFF,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Paralichthyidae,78209,172736,Active,Paralichthys albigutta,GULF FLOUNDER,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Paralichthyidae,78807,172792,Active,Syacium micrurum,Channel flounder,,Present
+BISC,Biscayne National Park,Fish,5,Pleuronectiformes,Paralichthyidae,78808,172793,Active,Syacium papillosum,Dusky flounder,,Present
+BISC,Biscayne National Park,Fish,5,Pristiformes,Pristidae,62702,160809,Active,Pristis pectinata,Smalltooth sawfish,,Present
+BISC,Biscayne National Park,Fish,5,Rajiformes,Rajidae,62775,160875,Active,Raja texana,Roundel skate,,Present
+BISC,Biscayne National Park,Fish,5,Rhinobatiformes,Rhinobatidae,62709,160815,Active,Rhinobatos lentiginosus,Atlantic guitarfish,,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Dactylopteridae,74642,167624,Active,Dactylopterus volitans,Flying gurnard,,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Scorpaenidae,68248,166813,Active,Scorpaena albifimbria,"coral scorpionfish, lesser scorpionfish",,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Scorpaenidae,68251,166816,Active,Scorpaena brasiliensis,"barbfish, goosehead scorpionfish",,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Scorpaenidae,68252,166817,Active,Scorpaena calcarata,smoothhead scorpionfish,,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Scorpaenidae,68253,166818,Active,Scorpaena dispar,hunchback scorpionfish,,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Scorpaenidae,68256,166820,Active,Scorpaena grandicornis,"plumed scorpionfish, poison grouper",,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Scorpaenidae,68261,166825,Active,Scorpaena plumieri,spotted scorpionfish,Scorpaena plumieri plumieri,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Scorpaenidae,68303,166863,Active,Scorpaenodes tredecimspinosus,deepreef scorpionfish,,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Triglidae,69112,166989,Active,Prionotus punctatus,"bluewing searobin, spotted searobin",,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Triglidae,69114,166990,Active,Prionotus roseus,Bluespotted searobin,,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Triglidae,69098,166976,Active,Prionotus scitulus,LEOPARD SEAROBIN,Prionotus scitulus scitulus,Present
+BISC,Biscayne National Park,Fish,5,Scorpaeniformes,Triglidae,69099,166977,Active,Prionotus tribulus,BIGHEAD SEAROBIN,,Present
+BISC,Biscayne National Park,Fish,5,Siluriformes,Ariidae,532772,680665,Active,Ariopsis felis,hardhead catfish,Arius felis,Present
+BISC,Biscayne National Park,Fish,5,Siluriformes,Ariidae,67607,164159,Active,Bagre marinus,GAFFTOPSAIL CATFISH,,Present
+BISC,Biscayne National Park,Fish,5,Siluriformes,Clariidae,67565,164120,Active,Clarias batrachus,"clarias catfish, walking catfish",,Present
+BISC,Biscayne National Park,Fish,5,Siluriformes,Ictaluridae,66271,164041,Active,Ameiurus natalis,Yellow Bullhead,,Present
+BISC,Biscayne National Park,Fish,5,Siluriformes,Ictaluridae,66273,164043,Active,Ameiurus nebulosus,marbled brown bullhead,Ameiurus nebulosus marmoratus,Present
+BISC,Biscayne National Park,Fish,5,Siluriformes,Loricariidae,69589,164375,Active,Pterygoplichthys multiradiatus,sailfin catfish,Liposarcus multiradiatus,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Balistidae,81469,173138,Active,Balistes capriscus,Gray triggerfish,Balistes carolinensis,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Balistidae,81470,173139,Active,Balistes vetula,Queen triggerfish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Balistidae,81505,173170,Active,Canthidermis sufflamen,Ocean triggerfish,Canthidermis sabaco,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Balistidae,81509,173174,Active,Melichthys niger,"black durgon, Black Durgon, black triggerfish",,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Diodontidae,83215,173385,Active,Chilomycterus antennatus,Bridled burrfish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Diodontidae,83216,173386,Active,Chilomycterus antillarum,Web burrfish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Diodontidae,83223,173392,Active,Diodon holocanthus,Balloonfish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Diodontidae,83222,173391,Active,Diodon hystrix,PORCUPINEFISH,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Molidae,83248,173414,Active,Mola mola,"ocean sunfish, Ocean Sunfish",,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,81464,173133,Active,Aluterus monoceros,"unicorn filefish, Unicorn Filefish",,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,459250,646456,Active,Aluterus schoepfii,orange filefish,Aluterus schoepfi,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,81465,173134,Active,Aluterus scriptus,Scrawled filefish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,460668,646153,Active,Cantherhines dumerilii,whitespotted filefish,Cantherhines dumerili,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,81490,173157,Active,Cantherhines macrocerus,"whitespotted filefish, Whitespotted Filefish",,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,81491,173158,Active,Cantherhines pullus,Orangespotted filefish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,81514,173179,Active,Monacanthus ciliatus,Fringed filefish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,81516,173180,Active,Monacanthus tuckeri,Slender filefish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,459246,646454,Active,Stephanolepis hispida,"planehead filefish, Planehead Filefish, planehead filefish","Stephanolepis hispidus, Monacanthus hispidus",Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Monacanthidae,81481,173149,Active,Stephanolepis setifer,pygmy filefish,Monacanthus setifer,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Ostraciidae,81588,173245,Active,Acanthostracion quadricornis,"scrawled cowfish, scrawled cowfish","Acanthostracion tricornis, Lactophrys quadricornis",Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Ostraciidae,81580,173238,Active,Lactophrys bicaudalis,Spotted trunkfish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Ostraciidae,81579,173237,Active,Lactophrys trigonus,trunkfish,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Ostraciidae,81581,173239,Active,Lactophrys triqueter,Smooth trunkfish,Rhinesomus triqueter,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Tetraodontidae,82341,173320,Active,Canthigaster rostrata,Sharpnose puffer,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Tetraodontidae,82307,173290,Active,Sphoeroides maculatus,"northern puffer, Northern Puffer",,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Tetraodontidae,82314,173297,Active,Sphoeroides nephelus,SOUTHERN PUFFER,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Tetraodontidae,82319,173300,Active,Sphoeroides spengleri,BANDTAIL PUFFER,,Present
+BISC,Biscayne National Park,Fish,5,Tetraodontiformes,Tetraodontidae,82308,173291,Active,Sphoeroides testudineus,CHECKERED PUFFER,,Present
+BISC,Biscayne National Park,Fish,5,Torpediniformes,Narcinidae,62741,160844,Active,Narcine brasiliensis,Lesser electric eel,,Present
+BISC,Biscayne National Park,Fish,5,Torpediniformes,Torpedinidae,62730,160834,Active,Torpedo nobiliana,Atlantic torpedo,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Alismatales,Alismataceae,140809,38923,Active,Sagittaria lancifolia,"bulltongue, bulltongue arrowhead, scythefruit arrowhead",,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Alismatales,Cymodoceaceae,185174,514405,Active,Halodule wrightii,shoalweed,Halodule beaudettei,Present
+BISC,Biscayne National Park,Vascular Plant,6,Alismatales,Cymodoceaceae,142321,39083,Active,Syringodium filiforme,"manatee grass, manatee-grass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Alismatales,Hydrocharitaceae,141518,38961,Active,Halophila decipiens,Caribbean seagrass,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Alismatales,Hydrocharitaceae,141510,38954,Active,Thalassia testudinum,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Apiales,Apiaceae,134753,29612,Active,Centella asiatica,spadeleaf,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Apiales,Apiaceae,169663,507572,Active,Cyclospermum leptophyllum,marsh parsley,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Apiales,Araliaceae,133456,29515,Active,Hydrocotyle verticillata,"whorled marsh pennywort, whorled marshpennywort, whorled pennyroyal",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Apiales,Araliaceae,160146,505047,Active,Schefflera actinophylla,Australian umbrella tree,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148473,42434,Active,Acoelorraphe wrightii,"Everglades palm, paurotis palm",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,285618,565059,Active,Chamaedorea seifrizii,Bamboo palm,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,155878,501601,Active,Coccothrinax barbadensis,Puerto Rico silver palm,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148492,42451,Active,Cocos nucifera,coconut palm,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,162260,503507,Active,Livistona chinensis,"Chinese fan palm, fountain palm",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,161753,504333,Active,Phoenix canariensis,Canary Island date palm,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148499,42458,Active,Phoenix dactylifera,date palm,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,161755,504334,Active,Phoenix reclinata,"reclining date palm, Senegal date palm",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148540,42495,Active,Pseudophoenix sargentii,Florida cherry palm,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148553,42506,Active,Sabal palmetto,"cabbage palm, cabbage palmetto",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148555,42508,Active,Serenoa repens,saw palmetto,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148558,42510,Active,Thrinax morrisii,"brittle-thatch, Key thatch palm, Key thatchpalm",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148560,42512,Active,Thrinax radiata,"Florida thatch palm, Florida thatchpalm",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Arecales,Arecaceae,148563,42515,Active,Washingtonia robusta,"Mexican fan palm, Washington fan palm",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,156579,503110,Active,Hymenocallis latifolia,perfumed spiderlily,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,87056,182666,Active,Agave decipiens,false sisal,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,87885,182694,Active,Agave sisalana,"sisal, sisal hemp",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,860254,810220,Active,Asparagus aethiopicus,Sprenger's asparagus-fern,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,103367,193452,Active,Asparagus densiflorus,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,144275,43183,Active,Cordyline fruticosa,tiplant,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,169292,505867,Active,Dracaena marginata,dragontree,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,161054,502691,Active,Furcraea foetida,Mauritius hemp,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,160062,505007,Active,Sansevieria hyacinthoides,"bowstring hemp, iguanatail",Sansevieria metallica,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Asparagaceae,166927,505784,Active,Yucca aloifolia,aloe yucca,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Orchidaceae,147925,43497,Active,Bletia purpurea,pinepink,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Orchidaceae,224487,534903,Active,Encyclia boothiana var. erythronioides,dollar orchid,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Orchidaceae,147989,43554,Active,Encyclia tampensis,Tampa butterfly orchid,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asparagales,Orchidaceae,149632,43654,Active,Oeceoclades maculata,"ground orchid, monk orchid",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,141407,36496,Active,Ambrosia artemisiifolia,"annual ragweed, common ragweed, low ragweed, ragweed, Roman wormwood, short ragweed, small ragweed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,101613,193313,Active,Aster bracei,Brace's aster,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,134190,35516,Active,Aster subulatus,annual saltmarsh aster,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,134642,35683,Active,Baccharis angustifolia,saltwater false willow,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,134648,35689,Active,Baccharis glomeruliflora,silverling,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,134641,35682,Active,Baccharis halimifolia,eastern baccharis,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,109434,196224,Active,Bidens alba var. radiata,"bidens, romerillo",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,135953,35782,Active,Borrichia arborescens,tree seaside tansy,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,135952,35781,Active,Borrichia frutescens,"bushy seaoxeye, bushy seaside tansy",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,153635,501011,Active,Borrichia X cubana,Cuban borrichia,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,155642,501164,Active,Calyptocarpus vialis,straggler daisy,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,137302,37034,Active,Chromolaena odorata,jack-in-the-bush,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,212079,527478,Active,Conyza canadensis var. pusilla,Canadian horseweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,109436,196226,Active,Eclipta prostrata,"eclipta, false daisy, yerba de tago, yerba de tajo",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,139596,37304,Active,Emilia fosbergii,Florida tasselflower,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,139597,37305,Active,Emilia sonchifolia,Lilac tassleflower,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,136932,35940,Active,Erigeron quercifolius,oakleaf fleabane,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,136973,35978,Active,Eupatorium capillifolium,dogfennel,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,136977,35981,Active,Eupatorium serotinum,"late eupatorium, lateflowering thoroughwort",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,159957,502630,Active,Flaveria linearis,narrowleaf yellowtops,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,140480,37383,Active,Flaveria trinervia,clustered yellowtops,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,142218,36629,Active,Helianthus debilis ssp. debilis,cucumberleaf sunflower,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,137437,36038,Active,Iva imbricata,"seacoast marsh elder, seacoast marshelder",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,143703,37854,Active,Launaea intybacea,achicoria azul,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,145892,38093,Active,Melanthera nivea,"pineland squarestem, snow squarestem, yerba de cabra",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,137443,36043,Active,Mikania scandens,"climbing hempvine, climbing hempweed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,135443,38164,Active,Parthenium hysterophorus,"ragweed parthenium, Santa Maria feverfew, whitetop weed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,158612,504157,Active,Pectis glaucescens,"sanddune chinchweed, sanddune cinchweed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,135469,38188,Active,Pectis prostrata,"spreading chinchweed, spreading cinchweed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,158610,504156,Active,Pectis X floridana,hybrid Florida cinchweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,109449,196238,Active,Pluchea carolinensis,cure for all,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,290938,565416,Active,Pluchea odorata,"marsh fleabane, sweetscent",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,137469,36067,Active,Pluchea rosea,rosy camphorweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,139379,36226,Active,Solidago sempervirens,seaside goldenrod,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,137730,38424,Active,Sonchus asper,"perennial sowthistle, prickly sow thistle, prickly sowthistle, spiny sowthistle, spiny-leaf sow-thistle",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,138162,38575,Active,Tridax procumbens,"cadillo chisaca, coat buttons, coatbuttons, tridax",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,139150,38626,Active,Vernonia cinerea,little ironweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,139194,38666,Active,Wedelia trilobata,"Bay Biscayne creeping oxeye, wedelia",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Asteraceae,139237,38704,Active,Youngia japonica,oriental false hawksbeard,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Asterales,Goodeniaceae,160142,505045,Active,Scaevola sericea,beach naupaka,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Boraginaceae,128537,31403,Active,Nama jamaicense,Jamaicanweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Cordiaceae,131053,31748,Active,Cordia sebestena,largeleaf geigertree,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Ehretiaceae,131036,31732,Active,Bourreria succulenta,"bodywood, pigeon berry",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,92857,184853,Active,Argusia gnaphalodes,sea rosemary,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130272,31643,Active,Heliotropium angiospermum,"scorpionstail, scorpion's-tail",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130263,31635,Active,Heliotropium curassavicum,"quail plant, salt heliotrope, seaside heliotrope",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130280,31650,Active,Heliotropium polyphyllum,pineland heliotrope,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130281,31651,Active,Heliotropium procumbens,fourspike heliotrope,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,132839,32035,Active,Tournefortia volubilis,twining soldierbush,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Bataceae,106160,192295,Active,Batis maritima,"saltwort, turtleweed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Brassicaceae,121329,22760,Active,Cakile lanceolata,coastal searocket,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Brassicaceae,121342,22772,Active,Cardamine pensylvanica,"Pennsylvania bittercress, Quaker bittercress",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Brassicaceae,124539,23126,Active,Erucastrum gallicum,"common dogmustard, common dog-mustard",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Brassicaceae,123284,22955,Active,Lepidium virginicum,"peppergrass, poorman pepperweed, poorman's pepper, poorman's pepperwort, Virginia pepperweed, Virginian peppercress",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Capparaceae,120488,22606,Active,Capparis cynophallophora,Jamaican caper,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Capparaceae,120489,22607,Active,Capparis flexuosa,"bay-leaved caper, falseteeth, limber caper",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Brassicales,Caricaceae,117497,22324,Active,Carica papaya,"papaya, pawpaw",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Canellales,Canellaceae,88438,184100,Active,Canella winteriana,"cinnamonbark, wild cinnamon",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,112561,19904,Active,Sesuvium maritimum,"annual seapurslane, slender seapurslane",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,112628,19910,Active,Sesuvium portulacastrum,"cencilla, shoreline seapurslane",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,108595,19940,Active,Trianthema portulacastrum,"desert horsepurslane, desert horse-purslane, horse purslane",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,122908,20767,Active,Alternanthera flavescens,yellow joyweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118940,20735,Active,Amaranthus hybridus,"green pigweed, slim amaranth, smooth amaranth, smooth pigweed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,121126,20751,Active,Amaranthus viridis,slender amaranth,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115442,20556,Active,Atriplex pentandra,"crested saltbush, seashore orach",Atriplex arenaria,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,92900,181968,Active,Blutaparon vermiculare,silverhead,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,124117,20780,Active,Celosia nitida,West Indian cock's comb,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,113707,20808,Active,Gomphrena serrata,arrasa con todo,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,114321,20815,Active,Iresine diffusa,Juba's bush,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,121829,20649,Active,Salicornia bigelovii,dwarf saltwort,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,121841,20650,Active,Salicornia perennis,Virginia glasswort,Salicornia virginica,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111959,20661,Active,Suaeda linearis,annual seepweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Cactaceae,92037,181908,Active,Acanthocereus tetragonus,triangle cactus,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101470,195403,Active,Harrisia simpsonii,Simpson's applecactus,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Cactaceae,103962,19699,Active,Opuntia cochenillifera,"cochineal cactus, cochineal nopal cactus",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Cactaceae,157192,-504071,Active,Opuntia corallicola,Florida semaphore cactus,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Cactaceae,107552,19736,Active,Opuntia stricta,erect pricklypear,Opuntia stricta var. dillenii,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102315,19670,Active,Boerhavia diffusa,red spiderling,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102326,19671,Active,Boerhavia erecta,erect spiderling,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,107388,19595,Active,Guapira discolor,"beeftree, longleaf blolly",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,108168,19605,Active,Okenia hypogaea,burrowing four o'clock,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,108190,19607,Active,Pisonia aculeata,pullback,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Phytolaccaceae,101421,19536,Active,Petiveria alliacea,guinea henweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Phytolaccaceae,101399,19534,Active,Rivina humilis,"bloodberry rougeplant, rougeplant",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Plumbaginaceae,121531,21330,Active,Limonium carolinianum,"American thrift, canker root, Carolina sea lavender, Carolina sealavender, lavender thrift, seaside thrift",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119199,21038,Active,Coccoloba diversifolia,"pigeon plum, tietongue",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119200,21039,Active,Coccoloba uvifera,seagrape,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,"akulikuli-kula, common purslane, duckweed, garden purslane, little hogweed, little-hogweed, purslane, pursley, wild portulaca",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113175,20425,Active,Portulaca pilosa,"chisme, kiss me quick, kiss-me-quick",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Celastrales,Celastraceae,131367,27936,Active,Hippocratea volubilis,medicine vine,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Celastrales,Celastraceae,131936,27968,Active,Maytenus phyllanthoides,"Florida mayten, guttapercha mayten",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Celastrales,Celastraceae,131941,27972,Active,Schaefferia frutescens,Florida boxwood,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Commelinales,Commelinaceae,142375,39131,Active,Commelina diffusa,"climbing dayflower, spreading dayflower",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Commelinales,Commelinaceae,142376,39132,Active,Commelina erecta,"erect dayflower, whitemouth dayflower",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Commelinales,Commelinaceae,162568,505554,Active,Tradescantia spathacea,"boatlily, oyster plant",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Cornales,Loasaceae,159683,503771,Active,Mentzelia floridana,poorman's patch,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118451,22339,Active,Melothria pendula,"creeping cucumber, drooping melonette, Guadeloupe cucumber, meloncito",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118517,22399,Active,Momordica charantia,"balsam pear, balsampear",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Cycadales,Zamiaceae,199839,523618,Active,Zamia integrifolia,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Primulaceae,94860,183615,Active,Ardisia elliptica,Shoebutton,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Primulaceae,121016,23889,Active,Ardisia escallonoides,"island marlberry, marbleberry",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Primulaceae,157389,503230,Active,Jacquinia keyensis,joewood,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Primulaceae,121721,24040,Active,Samolus ebracteatus,"bractless brookweed, limewater brookweed, Mojave water pimpernel",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Primulaceae,202872,524659,Active,Samolus valerandi ssp. parviflorus,"seaside brookweed, smallflower water pimpernel, water brookweed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Sapotaceae,153854,501507,Active,Chrysophyllum oliviforme,"damson-plum, saffron-tree, satinleaf",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Sapotaceae,201725,524300,Active,Manilkara jaimiqui ssp. emarginata,wild dilly,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Sapotaceae,120273,23823,Active,Manilkara zapota,"naseberry, sapodilla",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Sapotaceae,162860,505216,Active,Sideroxylon celastrinum,"bumelia, saffron plum",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Sapotaceae,162864,505218,Active,Sideroxylon foetidissimum,false mastic,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ericales,Sapotaceae,162877,505224,Active,Sideroxylon salicifolium,white bully,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,128278,26421,Active,Acacia choriophylla,"cinnecord, Florida acacia",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,128284,26427,Active,Acacia farnesiana,"aroma, Ellington's curse, huisache, kandaroma, klu, klu bush, popinac, sweet acacia, Texas huisache",,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,128316,26456,Active,Alysicarpus vaginalis,white moneywort,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,129168,26500,Active,Caesalpinia bonduc,yellow nicker,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,129174,26506,Active,Caesalpinia major,Hawai'i pearls,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,155692,501188,Active,Canavalia rosea,baybean,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,294256,566617,Active,Chamaecrista nictitans var. aspera,"partridge pea, sensitive partridge pea, sensitive plant",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,129250,26575,Active,Crotalaria pumila,low rattlebox,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,129253,26578,Active,Crotalaria rotundifolia,rabbitbells,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,129938,26594,Active,Dalbergia brownei,Brown's Indian rosewood,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,129939,26595,Active,Dalbergia ecastaphyllum,coinvine,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,130007,26656,Active,Delonix regia,royal poinciana,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,130018,26666,Active,Desmanthus virgatus,wild tantan,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,123857,25804,Active,Desmodium incanum,"tickclover, zarzabacoa comun",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,123887,25831,Active,Desmodium triflorum,threeflower ticktrefoil,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,130031,26678,Active,Erythrina herbacea,"eastern coralbean, redcardinal",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,130726,26701,Active,Galactia striata,Florida hammock milkpea,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,156694,503165,Active,Indigofera spicata,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,122731,26766,Active,Leucaena leucocephala,"koa haole, lead tree, white leadtree",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,157737,503631,Active,Lysiloma latisiliquum,false tamarind,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,289290,565287,Active,Lysiloma sabicu,horseflesh mahogany,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,157770,503647,Active,Macroptilium lathyroides,wild bushbean,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,158887,503721,Active,Medicago lupulina,"black medic, black medic clover, black medick, hop clover, hop medic, nonesuch, yellow trefoil",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,184908,516979,Active,Melilotus albus,"Bokhara-clover, honey-clover, white melilot, white sweet-clover",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,122841,26865,Active,Piscidia piscipula,"Fish-fuddle tree, Florida fishpoison tree, Jamaican-dogwood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,122850,26873,Active,Pithecellobium keyense,Florida Keys blackbead,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,123653,26875,Active,Pithecellobium unguis-cati,catclaw blackbead,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,123655,26877,Active,Pongamia pinnata,Karum tree,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,161931,504766,Active,Rhynchosia minima,least snoutbean,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,161944,504772,Active,Rhynchosia swartzii,Swartz's snoutbean,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,162191,505161,Active,Senna mexicana,Chapman's wild sensitive plant,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,218149,530345,Active,Senna pendula var. glabrata,"Christmas cassia, Christmas senna, climbing cassia, valamuerto",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,167787,507837,Active,Sesbania herbacea,"bigpod sesbania, Colorado riverhemp, hemp sesbania, peatree",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,216690,530495,Active,Sophora tomentosa var. occidentalis,yellow necklacepod,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,216692,530496,Active,Sophora tomentosa var. truncata,yellow necklacepod,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,123763,26974,Active,Stylosanthes calcicola,Everglade Key pencilflower,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,123765,26976,Active,Stylosanthes hamata,cheesytoes,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,123770,26980,Active,Tamarindus indica,tamarind,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,126576,26206,Active,Trifolium repens,"Dutch clover, ladino clover, white clover, white Dutch clover",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Fabaceae,125146,27016,Active,Vigna luteola,"Dalrymple vigna, deer pea, hairypod cowpea",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Polygalaceae,132460,29336,Active,Polygala grandiflora,Showy milkwort,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fabales,Surianaceae,126847,28846,Active,Suriana maritima,"bay cedar, baycedar, bay-cedar, guitar",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fagales,Casuarinaceae,105743,19516,Active,Casuarina equisetifolia,"Australian pine, Australian-pine, beach she-oak, coast she-oak, common ironwood, horsetail casuarina",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Fagales,Myricaceae,96173,19261,Active,Myrica cerifera,"southern bayberry, wax myrtle",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,130912,30168,Active,Catharanthus roseus,Madagascar periwinkle,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,155102,501885,Active,Cynanchum angustifolium,"gulf coast swallow-wort, Gulf coast swallowwort",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,155129,501898,Active,Cynanchum northropiae,fragrant swallow-wort,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,155141,501903,Active,Cynanchum scoparium,leafless swallow-wort,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,130917,30172,Active,Echites umbellata,devil's potato,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,130930,30184,Active,Nerium oleander,oleander,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,162481,503980,Active,Ochrosia elliptica,"elliptic yellowwood, kopsia",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,160578,504237,Active,Pentalinon luteum,hammock viper's-tail,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,130969,30219,Active,Rhabdadenia biflora,mangrovevine,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,132641,30403,Active,Sarcostemma clausum,white twinevine,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,130979,30228,Active,Thevetia peruviana,luckynut,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Apocynaceae,130986,30234,Active,Vallesia antillana,tearshrub,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Gentianaceae,129050,30053,Active,Eustoma exaltatum,"catchfly prairie gentian, catchfly prairiegentian, catchfly prairie-gentian",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Gentianaceae,129099,30098,Active,Leiphaimos parasitica,parasitic ghostplant,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Loganiaceae,160419,503858,Active,Mitreola petiolata,lax hornpod,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Loganiaceae,128146,29961,Active,Spigelia anthelmia,West Indian pinkroot,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,138826,34958,Active,Chiococca alba,West Indian milkberry,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,138827,34959,Active,Chiococca parvifolia,pineland milkberry,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139654,34985,Active,Erithalis fruticosa,blacktorch,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139657,34988,Active,Ernodea littoralis,coughbush,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139660,34990,Active,Exostema caribaeum,"Caribbean princewood, princewood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,137990,34803,Active,Galium tinctorium,"dye bedstraw, stiff marsh bedstraw",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139664,34994,Active,Genipa clusiifolia,sevenyear apple,Casasia clusiifolia,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139667,34997,Active,Guettarda elliptica,"elliptic-leaf velvetseed, hammock velvetseed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139668,34998,Active,Guettarda scabra,"roughleaf velvetseed, wild guave",,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139677,35005,Active,Hamelia patens,scarletbush,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,186033,514495,Active,Hedyotis corymbosa,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139750,35071,Active,Morinda citrifolia,Indian mulberry,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,139751,35072,Active,Morinda royoc,redgal,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,141232,35092,Active,Psychotria nervosa,Seminole balsamo,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,141276,35131,Active,Randia aculeata,white indigoberry,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,141286,35140,Active,Richardia grandiflora,largeflower Mexican clover,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,130826,35244,Active,Spermacoce assurgens,woodland false buttonweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,130822,35240,Active,Spermacoce floridana,Florida false buttonweed,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Gentianales,Rubiaceae,164734,505317,Active,Spermacoce verticillata,shrubby false buttonweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Acanthaceae,133082,32137,Active,Avicennia germinans,black mangrove,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Acanthaceae,109404,196198,Active,Blechum pyramidatum,Browne's blechum,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Acanthaceae,153356,502052,Active,Dicliptera sexangularis,sixangle foldwing,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Lamiaceae,128603,32682,Active,Salvia coccinea,Tropical sage,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Lamiaceae,128670,32742,Active,Salvia serotina,littlewoman,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Oleaceae,129720,32966,Active,Jasminum fluminense,Brazilian jasmine,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Oleaceae,129723,32969,Active,Jasminum nitidum,angelwing jasmine,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Oleaceae,129725,32970,Active,Jasminum sambac,"Arabian jasmine, pikake",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Orobanchaceae,137851,33505,Active,Buchnera americana,American bluehearts,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130336,33038,Active,Bacopa monnieri,"coastal waterhyssop, herb of grace, herb-of-grace",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135659,33211,Active,Linaria canadensis,Canada toadflax,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,"broadleaf plantain, buckhorn plantain, common plantain, great plantain, rippleseed plantain",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,137855,33509,Active,Capraria biflora,goatweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Tetrachondraceae,128143,29959,Active,Polypremum procumbens,juniper-leaf,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Verbenaceae,133102,32155,Active,Citharexylum spinosum,"fiddlewood, spiny fiddlewood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Verbenaceae,133925,32175,Active,Lantana camara,largeleaf lantana,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Verbenaceae,133928,32178,Active,Lantana involucrata,buttonsage,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Verbenaceae,133949,32197,Active,Phyla nodiflora,"frog fruit, sawtooth fogfruit, turkey tangle, turkey tangle fogfruit, turkey tangle frogfruit",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Verbenaceae,133950,32198,Active,Phyla stoechadifolia,"southern fogfruit, southern frogfruit",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Lamiales,Verbenaceae,133958,32204,Active,Stachytarpheta jamaicensis,light-blue snakeweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Laurales,Lauraceae,91180,18173,Active,Cassytha filiformis,devil's gut,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Laurales,Lauraceae,162485,503982,Active,Ocotea coriacea,"Florida nectandra, lancewood",Nectandra coriacea,Present
+BISC,Biscayne National Park,Vascular Plant,6,Liliales,Smilacaceae,145277,43349,Active,Smilax auriculata,"earleaf greenbrier, wild-bamboo",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Liliales,Smilacaceae,145284,43355,Active,Smilax havanensis,Everglades greenbrier,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Magnoliales,Annonaceae,85889,18101,Active,Annona glabra,pond apple,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Chrysobalanaceae,129626,25148,Active,Chrysobalanus icaco,"coco plum, icaco, icaco coco plum",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132975,28181,Active,Acalypha chamaedryfolia,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153230,501408,Active,Chamaesyce blodgettii,limestone sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153232,501409,Active,Chamaesyce bombensis,Dixie sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153243,501414,Active,Chamaesyce conferta,Everglade Key sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,107427,195985,Active,Chamaesyce hirta,"pillpod sandmat, pill-pod sandmat",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153274,501429,Active,Chamaesyce hypericifolia,"graceful sandmat, graceful spurge",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,107428,195986,Active,Chamaesyce hyssopifolia,"hyssop spurge, hyssopleaf sandmat, leafy spurge",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153283,501433,Active,Chamaesyce lasiocarpa,roadside sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153291,501437,Active,Chamaesyce mendezii,Mendez's sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153293,501438,Active,Chamaesyce mesembrianthemifolia,coastal beach sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153308,501445,Active,Chamaesyce ophthalmica,Florida hammock sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,122709,28247,Active,Chamaesyce porteriana,Porter's sandmat,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,158932,502538,Active,Euphorbia graminea,grassleaf spurge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,158189,502845,Active,Gymnanthes lucida,oysterwood,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123596,28325,Active,Hippomane mancinella,manchineel,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,234533,539019,Active,Poinsettia cyathophora var. graminifolia,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,192084,519287,Active,Poinsettia heterophylla,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124202,28393,Active,Ricinus communis,"agaliya, castor bean, castorbean, lama palagi, maskerekur, toto ni vavalagi, uluchula skoki",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Malpighiaceae,131446,29264,Active,Byrsonima lucida,locustberry,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117391,22229,Active,Passiflora multiflora,whiteflower passionflower,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117395,22232,Active,Passiflora suberosa,"corky passionflower, corkystem passionflower, devil's pumpkin, huehue haole, indigo berry, maypop, wild passionfruit",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Passifloraceae,117377,22216,Active,Turnera ulmifolia,ramgoat dashalong,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,123642,28367,Active,Phyllanthus amarus,carry me seed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,123646,28370,Active,Phyllanthus caroliniensis ssp. saxicola,Carolina leaf-flower,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,296204,566750,Active,Phyllanthus pentaphyllus var. floridanus,fivepetal leaf-flower,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Phyllanthaceae,124188,28380,Active,Phyllanthus tenellus,"Mascarene Island leafflower, Mascarene Island leaf-flower",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Putranjivaceae,123584,28314,Active,Drypetes diversifolia,milkbark,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Putranjivaceae,123585,28315,Active,Drypetes lateriflora,Guiana plum,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malpighiales,Rhizophoraceae,130541,27791,Active,Rhizophora mangle,"American mangrove, red mangrove",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123245,21670,Active,Abutilon permolle,"coastal Indian mallow, velvety abutilon",,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123131,21568,Active,Ayenia euphrasiifolia,"dwarf ayenia, eyebright ayenia",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123954,21711,Active,Gossypium hirsutum,upland cotton,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,124857,21802,Active,Herissantia crispa,"bladdermallow, bladder-mallow",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123187,21618,Active,Hibiscus tiliaceus,"mahoe, sea hibiscus",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,158795,503678,Active,Malvastrum corchorifolium,"Caribbean false mallow, false mallow",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,158589,504146,Active,Pavonia paludicola,"mangrove mallow, swampbush",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,162843,505208,Active,Sida abutifolia,"procumbent sida, prostrate sida, spreading fanpetals",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123970,21726,Active,Sida acuta,common wireweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123980,21735,Active,Sida ciliaris,"bracted fanpetals, bracted sida, fringed sida, salmon sida",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123976,21731,Active,Sida rhombifolia,"arrowleaf sida, axocatzín, Cuba jute, Cuban jute, Cuban-jute",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,124010,21762,Active,Thespesia populnea,"cork-tree, majagua, portia tree, seaside mahoe, Spanish cork",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Malvales,Malvaceae,123124,21561,Active,Waltheria indica,"sleepy morning, uhaloa",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Combretaceae,130513,27766,Active,Conocarpus erectus,button mangrove,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Combretaceae,159228,503318,Active,Laguncularia racemosa,white mangrove,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Combretaceae,130509,27762,Active,Terminalia catappa,"false kamani, India almond, Indian almond, tropical almond",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Lythraceae,125230,27092,Active,Ammannia latifolia,pink redstem,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Lythraceae,213622,529064,Active,Lythrum alatum var. lanceolatum,winged lythrum,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,153390,-502068,Inactive,Callistemon viminalis,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126131,27180,Active,Calyptranthes pallens,"pale lidflower, white spicewood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126151,27199,Active,Eugenia axillaris,white stopper,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126157,27203,Active,Eugenia confusa,redberry stopper,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126162,27208,Active,Eugenia foetida,boxleaf stopper,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126172,27217,Active,Eugenia rhombea,red stopper,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126180,27224,Active,Eugenia uniflora,"pitanga, Suriname cherry",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126188,27231,Active,Myrcianthes fragrans,"twinberry, twinberry stopper",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Myrtaceae,126600,27240,Active,Psidium guajava,"abas, goyavier, guabang, guava, kautonga, kuahpa",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Onagraceae,129440,27641,Active,Gaura angustifolia,southern beeblossom,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Myrtales,Onagraceae,162935,503565,Active,Ludwigia octovalvis,"Mexican primrosewillow, Mexican primrose-willow",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Oxalidales,Oxalidaceae,128425,29067,Active,Oxalis corniculata,"creeping oxalis, creeping woodsorrel, 'ihi, yellow oxalis, yellow wood sorrel",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Oxalidales,Oxalidaceae,212786,529315,Active,Oxalis debilis var. corymbosa,pink woodsorrel,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Piperales,Aristolochiaceae,93944,18339,Active,Aristolochia pentandra,Marsh's dutchman's pipe,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Bromeliaceae,147699,42361,Active,Tillandsia balbisiana,northern needleleaf,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Bromeliaceae,219970,530694,Active,Tillandsia fasciculata var. densispica,giant airplant,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Bromeliaceae,147703,42365,Active,Tillandsia flexuosa,twisted airplant,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Bromeliaceae,161368,505511,Active,Tillandsia paucifolia,potbelly airplant,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Bromeliaceae,147707,42369,Active,Tillandsia recurvata,"ballmoss, small ballmoss",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Bromeliaceae,147710,42371,Active,Tillandsia usneoides,Spanish moss,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Bromeliaceae,147711,42372,Active,Tillandsia utriculata,spreading airplant,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,138271,39878,Active,Cladium jamaicense,Jamaica swamp sawgrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,138311,39913,Active,Cyperus compressus,poorland flatsedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,156148,501917,Active,Cyperus croceus,Baldwin's flatsedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,138282,39888,Active,Cyperus esculentus,"chufa flatsedge, yellow nutgrass, yellow nutsedge",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,139002,39938,Active,Cyperus ligularis,Alabama swamp flatsedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,139021,39955,Active,Cyperus planifolius,flatleaf flatsedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,139023,39957,Active,Cyperus polystachyos,manyspike flatsedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,138297,39900,Active,Cyperus rotundus,"chaguan humatag, cocograss, kili'o'opu, nutgrass, pakopako, purple nutsedge",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,139072,40000,Active,Cyperus sphacelatus,roadside flatsedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,139038,39970,Active,Cyperus surinamensis,tropical flatsedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,140174,40036,Active,Eleocharis cellulosa,"Gulf Coast spikerush, Gulfcoast spikesedge",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,140185,40046,Active,Eleocharis geniculata,Canada spikesedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,140187,40048,Active,Eleocharis interstincta,knotted spikerush,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,140271,40123,Active,Fimbristylis cymosa,tropical fimbry,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,140254,40108,Active,Fimbristylis spadicea,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,158354,503295,Active,Kyllinga brevifolia,shortleaf spikesedge,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Cyperaceae,161954,504777,Active,Rhynchospora colorata,starrush whitetop,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Juncaceae,143455,39238,Active,Juncus roemerianus,needlegrass rush,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,86362,182522,Active,Andropogon glomeratus var. pumilus,bushy bluestem,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,142938,40463,Active,Andropogon longiberbis,hairy bluestem,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,140391,41428,Active,Aristida purpurascens,arrowfeather threeawn,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,209719,526948,Active,Bothriochloa ischaemum var. songarica,"king ranch bluestem, yellow bluestem",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,140980,41480,Active,Bothriochloa pertusa,pitted beardgrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143607,40575,Active,Cenchrus echinatus,"burgrass, common sandbur, field sandbur, konpeito-gusa, sandburr, se mbulabula, southern sandbur, vao tui tui",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143609,40577,Active,Cenchrus incertus,"coast sandspur, field sandbur, sandbur, southern sandbur, spiny burrgrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,"Bermudagrass, chiendent pied-de-poule, common bermudagrass, devilgrass, grama-seda, manienie, motie molulu",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,141946,41630,Active,Dactyloctenium aegyptium,"crowfoot grass, Durban crowsfoot grass, Egyptian grass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143653,40616,Active,Digitaria bicornis,Asian crabgrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143656,40619,Active,Digitaria ciliaris,"fingergrass, Henry's crabgrass, kukaepua'a, saulangi, smooth crabgrass, southern crab grass, southern crabgrass, tropical crabgrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,"desert saltgrass, inland saltgrass, marsh spikegrass, saltgrass, seashore saltgrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,142014,41692,Active,Eleusine indica,"crowsfoot grass, goose grass, goosegrass, Indian goose grass, Indian goosegrass, manienie ali'I, silver crabgrass, wiregrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,180596,512950,Active,Eragrostis amabilis,Japanese lovegrass,Eragrostis tenella,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,145609,40775,Active,Eragrostis ciliaris,gophertail lovegrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,144589,40720,Active,Eragrostis elliottii,field lovegrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143269,41713,Active,Eremochloa ophiuroides,centipede grass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143300,41741,Active,Eustachys glauca,saltmarsh fingergrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143302,41743,Active,Eustachys petraea,pinewoods fingergrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,159256,503331,Active,Lasiacis divaricata,smallcane,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,143393,41825,Active,Leptochloa fascicularis,"bearded sprangletop, sprangletop",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,144137,41878,Active,Monanthochloe littoralis,shoregrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,144165,41902,Active,Muhlenbergia capillaris,hairawn muhly,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,145048,41961,Active,Neyraudia reynaudiana,"Burma reed, silk reed, silkreed",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146297,40903,Active,Panicum amarum,"bitter panicgrass, bitter panicum",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,213298,529360,Active,Panicum dichotomiflorum var. bartowense,"fall panicgrass, fall panicum, western witchgrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146343,40945,Active,Panicum maximum,guineagrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,158505,504106,Active,Panicum repens,"couch panicum, creeping panic, panic rampant, torpedo grass, torpedograss, wainaku grass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146308,40913,Active,Panicum virgatum,"old switch panic grass, switchgrass",,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,193989,518488,Active,Paspalidium chapmanii,Chapman's bristlegrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,147252,41011,Active,Paspalum blodgettii,Blodgett's crowngrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,147234,40996,Active,Paspalum caespitosum,blue crowngrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,147240,41000,Active,Paspalum notatum,"Bahia grass, bahiagrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,147277,41034,Active,Paspalum pleostachyum,tropical paspalum,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,147286,41042,Active,Paspalum setaceum,"fringeleaf paspalum, sand paspalum, slender crown grass, thin paspalum",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,147288,41044,Active,Paspalum vaginatum,seashore paspalum,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,145096,42004,Active,Pennisetum purpureum,"bokso, elephant grass, herbe elephant, merker grass, napier grass, puk-soh",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,147319,41072,Active,Phragmites australis,common reed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,145148,42051,Active,Rhynchelytrum repens,"Natal grass, rose Natal grass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,163463,504836,Active,Rottboellia cochinchinensis,"itch grass, itchgrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,145170,42071,Active,Schizachyrium gracile,wire bluestem,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,145996,42075,Active,Schizachyrium sanguineum,crimson bluestem,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,139267,41252,Active,Setaria macrosperma,coral bristlegrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,162807,505191,Active,Setaria parviflora,"knotroot bristlegrass, marsh bristle grass, marsh bristlegrass, yellow bristlegrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,197002,521825,Active,Sorghum arundinaceum,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,139288,41271,Active,Spartina patens,"marshhay cordgrass, salt meadow cordgrass, saltmeadow cordgrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,139293,41276,Active,Spartina spartinae,gulf cordgrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146062,42134,Active,Sporobolus domingensis,coral dropseed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,295935,566314,Active,Sporobolus indicus var. indicus,smut grass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,295937,566315,Active,Sporobolus indicus var. pyramidalis,West Indian dropseed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146077,42148,Active,Sporobolus pyramidatus,whorled dropseed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146054,42127,Active,Sporobolus virginicus,seashore dropseed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146087,42157,Active,Stenotaphrum secundatum,"St. Augustine grass, St. Augustinegrass",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,205166,523024,Active,Urochloa adspersa,Dominican signalgrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,205183,523032,Active,Urochloa subquadripara,tropical signalgrass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146768,42274,Active,Zoysia matrella,Manila grass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Poaceae,146769,42275,Active,Zoysia tenuifolia,Mascarene grass,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Poales,Typhaceae,147661,42327,Active,Typha domingensis,southern cattail,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Blechnaceae,89993,17864,Active,Blechnum serrulatum,toothed midsorus fern,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Lomariopsidaceae,85279,17604,Active,Nephrolepis cordifolia,"Boston fern, narrow swordfern, sword fern, tuber ladder fern",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,205210,524533,Active,Pleopeltis polypodioides ssp. michauxiana,resurrection fern,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Pteridaceae,80969,17305,Active,Acrostichum aureum,golden leatherfern,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Pteridaceae,80980,17306,Active,Acrostichum danaeifolium,inland leatherfern,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81930,17700,Active,Pteris bahamensis,Bahama brake,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82664,17706,Active,Pteris vittata,"Chinese brake, ladder brake",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Polypodiales,Thelypteridaceae,77231,17258,Active,Thelypteris kunthii,Kunth's maiden fern,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Psilotales,Psilotaceae,79121,17008,Active,Psilotum nudum,whisk fern,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102583,18915,Active,Argemone mexicana,"Mexican prickly poppy, Mexican pricklypoppy, yellow pricklypoppy",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Cannabaceae,162585,505562,Active,Trema lamarckianum,Lamarck's trema,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Cannabaceae,95897,19104,Active,Trema micranthum,"Florida trema, Jamaican nettletree",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Moraceae,105495,19092,Active,Ficus aurea,"Florida strangler, Florida strangler fig",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Moraceae,166250,506543,Active,Ficus benghalensis,Banyan tree,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Moraceae,95123,19094,Active,Ficus citrifolia,"shortleaf fig, wild banyantree",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Moraceae,159927,502616,Active,Ficus microcarpa,Indian laurel,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Rhamnaceae,124745,28520,Active,Colubrina arborescens,"coffee colubrina, greenheart",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Rhamnaceae,124746,28521,Active,Colubrina asiatica,"Asian nakedwood, Asian snakewood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Rhamnaceae,124749,28524,Active,Colubrina elliptica,soldierwood,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Rhamnaceae,124780,28552,Active,Gouania lupuloides,whiteroot,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Rhamnaceae,124786,28558,Active,Krugiodendron ferreum,leadwood,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Rhamnaceae,124789,28560,Active,Reynosia septentrionalis,darlingplum,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Urticaceae,98075,19121,Active,Boehmeria cylindrica,"smallspike false nettle, small-spike false nettle",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Urticaceae,100806,19165,Active,Parietaria floridana,"Florida pellitory, pellitory",,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Rosales,Urticaceae,99006,19133,Active,Pilea microphylla,rockweed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Santalales,Santalaceae,131294,27870,Active,Phoradendron rubrum,mahogany mistletoe,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Santalales,Schoepfiaceae,131266,27845,Active,Schoepfia chrysophylloides,graytwig,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Santalales,Ximeniaceae,131272,27850,Active,Ximenia americana,"tallow wood, tallowwood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126800,28803,Active,Mangifera indica,mango,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126802,28805,Active,Metopium toxiferum,Florida poisontree,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126810,28812,Active,Schinus terebinthifolius,"Brazilian peppertree, Brazilian pepper-tree, Christmas berry, Christmasberry, Florida holly, warui",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Burseraceae,126758,28766,Active,Bursera simaruba,"gumbo limbo, West Indian birch",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Meliaceae,128380,29026,Active,Swietenia mahagoni,West Indian mahogany,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Rutaceae,127412,28875,Active,Amyris elemifera,"sea torchwood, torchwood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Rutaceae,127421,28883,Active,Citrus aurantifolia,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Rutaceae,127422,28884,Active,Citrus aurantium,sour orange,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Rutaceae,127423,28885,Active,Citrus limon,,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Rutaceae,127426,28888,Active,Citrus reticulata,tangerine,,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Rutaceae,127398,28862,Active,Zanthoxylum fagara,lime pricklyash,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Sapindaceae,125709,28665,Active,Cardiospermum corindum,"faux persil, faux-persil",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Sapindaceae,125712,28668,Active,Cardiospermum microcarpum,heartseed,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Sapindaceae,125720,28675,Active,Dodonaea viscosa,"Florida hopbush, hopbush, hopseed bush",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Sapindaceae,125726,28680,Active,Exothea paniculata,"butterbough, inkwood",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Sapindaceae,125743,28696,Active,Sapindus saponaria,"western soapberry, wingleaf soapberry",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Sapindales,Simaroubaceae,126845,28844,Active,Simarouba glauca,"bitter ash, bitter damson, bitterwood, paradise tree, paradisetree, paradise-tree",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Saxifragales,Crassulaceae,158316,503277,Active,Kalanchoe pinnata,cathedral bells,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Schizaeales,Anemiaceae,87126,17975,Active,Anemia adiantifolia,"pine fern, pineland fern",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Convolvulaceae,137119,30834,Active,Dichondra carolinensis,"Carolina ponysfoot, grass ponysfoot",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Convolvulaceae,136103,30760,Active,Ipomoea alba,"tropical white morningglory, tropical white morning-glory",,Probably Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Convolvulaceae,289963,565748,Active,Ipomoea hederacea,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Convolvulaceae,229776,536327,Active,Ipomoea indica var. acuminata,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Convolvulaceae,202825,524173,Active,Ipomoea pes-caprae ssp. brasiliensis,Brazilian bayhops,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Convolvulaceae,288508,565243,Active,Ipomoea triloba,"littlebell, three-lobed morning-glory",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Convolvulaceae,136153,30805,Active,Ipomoea violacea,"beach moonflower, heavenlyblue morningglory, heavenlyblue morning-glory, ololiuqui, sea moonflower",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,210609,527045,Active,Capsicum annuum var. glabriusculum,"cayenne pepper, chilipiquin",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,134332,30496,Active,Cestrum diurnum,"day cestrum, day flowering jessamine, day jasmine, day jessamine, inkberry, tentanchinu, thauthau, tintan china",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,134378,30537,Active,Lycium carolinianum,"Carolina desert-thorn, Carolina wolfberry",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,134437,30590,Active,Physalis angulata,"cutleaf groundcherry, cut-leaf ground-cherry, lanceleaf groundcherry",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,287266,565523,Active,Solanum americanum,"American black nightshade, common purple nightshade, smallflower nightshade",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,132657,30418,Active,Solanum bahamense,Bahama nightshade,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,132671,30430,Active,Solanum erianthum,"mullein nightshade, potatotree",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Solanales,Solanaceae,200870,521680,Active,Solanum verbascifolium,,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Vitales,Vitaceae,154801,501557,Active,Cissus verticillata,Possum grape,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Vitales,Vitaceae,124836,28602,Active,Parthenocissus quinquefolia,"American ivy, fiveleaved ivy, Virginia creeper, woodbine",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Vitales,Vitaceae,124843,28609,Active,Vitis rotundifolia,"muscadine, muscadine grape",,Present
+BISC,Biscayne National Park,Vascular Plant,6,Zingiberales,Musaceae,147731,42390,Active,Musa acuminata,edible banana,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,158174,502838,Active,Guajacum sanctum,holywood,,Present
+BISC,Biscayne National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128413,29056,Active,Tribulus cistoides,"Jamaican feverplant, puncture vine",,Present
+BISC,Biscayne National Park,Insect,11,,,907303,,Active,Lasioglossum puteulanum,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Apidae,61235,154396,Active,Apis mellifera,honey bee,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Apidae,987812,,Inactive,Euglossa dilemma,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Apidae,571886,699305,Active,Melissodes communis,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Halictidae,687481,754356,Active,Augochloropsis anonyma,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Halictidae,696200,757815,Active,Halictus poeyi,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Halictidae,60924,154357,Active,Lasioglossum,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Halictidae,695655,758371,Active,Lasioglossum eleutherense,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Halictidae,698157,758441,Active,Lasioglossum flaveriae,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Halictidae,987816,,Active,Lasioglossum lepidii,,,Present
+BISC,Biscayne National Park,Insect,11,Hymenoptera,Halictidae,698294,759407,Active,Lasioglossum surianae,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,,,1002927,,Active,Madracis auretenra,ten-ray star coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,,,1002930,,Active,Pseudodiploria clivosa,knobby brain coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,,,1002926,,Active,Pseudodiploria strigosa,symmetrical brain coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,,,1002928,,Active,Undaria agaricites,lettuce coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170184,50877,Active,Millepora alcicornis,fire coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170928,50880,Active,Millepora complanata,bladed fire coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Anthoathecatae,Milleporidae,170205,50878,Active,Millepora squarrosa,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Acroporidae,213963,52862,Active,Acropora cervicornis,staghorn coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Acroporidae,213113,52861,Active,Acropora palmata,elkhorn coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Agariciidae,217766,53055,Active,Agaricia fragilis,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Agariciidae,213935,53037,Active,Helioseris cucullata,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Astrocoeniidae,211234,52844,Active,Stephanocoenia intersepta,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219546,53289,Active,Colpophyllia natans,boulder brain coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219483,53286,Active,Diploria labyrinthiformis,grooved brain coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,221396,53267,Active,Favia fragum,golfball coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219785,53255,Active,Montastraea cavernosa,great star coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Faviidae,219743,53253,Active,Solenastrea bournoni,smooth star coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Meandrinidae,226501,53420,Active,Dichocoenia stokesi,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Meandrinidae,228880,53622,Active,Eusmilia fastigiata,smooth flower coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Meandrinidae,226564,53423,Active,Meandrina meandrites,maze coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Merulinidae,1002923,,Active,Orbicella annularis,lobed star coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Merulinidae,1002924,,Active,Orbicella faveolata,mountainous star coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Merulinidae,991865,,Active,Orbicella franksi,boulder star coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,227955,53474,Active,Mussa angulosa,"large flower coral, spiny flower coral",,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,223775,53482,Active,Mycetophyllia aliciae,knobby cactus coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,198870,-521943,Active,Mycetophyllia danaana,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Mussidae,223041,53479,Active,Mycetophyllia lamarckiana,ridged cactus coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Pocilloporidae,214714,53009,Active,Madracis decactis,ten-ray star coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,221091,53184,Active,Porites astreoides,"mustard hill coral, yellow porites",,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,221112,53185,Active,Porites divaricata,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,221154,53187,Active,Porites furcata,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Poritidae,220194,53180,Active,Porites porites,,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Siderastreidae,216176,53091,Active,Siderastrea radians,lesser starlet coral,,Present
+BISC,Biscayne National Park,Other Non-vertebrates,12,Scleractinia,Siderastreidae,215602,53090,Active,Siderastrea siderea,massive starlet coral,,Present

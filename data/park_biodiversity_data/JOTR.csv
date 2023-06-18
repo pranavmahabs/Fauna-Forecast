@@ -1,0 +1,924 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+JOTR,Joshua Tree National Park,Mammal,1,Artiodactyla,Bovidae,152594,-501756,Inactive,Ovis canadensis nelsoni,Nelson's bighorn sheep,Ovis canadensis,Present
+JOTR,Joshua Tree National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,mule deer,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,coyote,"Canis latrans latrans, Canis latrans mearnsi",Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,gray fox,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,kit fox,Vulpes macrotis arsipus,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,"Felis rufus, Felis rufus baileyi",Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,cougar,Felis concolor,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,western spotted skunk,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,long-tailed weasel,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American badger,Taxidea taxus berlandieri,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,ringtail,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American black bear,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Molossidae,89602,180080,Active,Eumops perotis,western mastiff-bat,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Phyllostomidae,89592,180071,Active,Macrotus californicus,California leaf-nosed bat,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,pallid bat,Antrozous pallidus pallidus,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's big-eared bat,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,Eptesicus fuscus pallidus,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,spotted bat,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,hoary bat,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,260621,552502,Active,Lasiurus xanthinus,western yellow bat,"Lasiurus ega, Lasiurus ega xanthina",Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,Californian myotis,Myotis californicus stephensi,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,fringed myotis,Myotis thysanodes thysanodes,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,long-legged myotis,Myotis volans interior,Present
+JOTR,Joshua Tree National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,western pipistrelle,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,black-tailed jackrabbit,Lepus californicus deserticola,Present
+JOTR,Joshua Tree National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,desert cottontail,Sylvilagus audubonii arizonae,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,white-throated woodrat,Neotoma albigula venusta,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,91770,180373,Active,Neotoma fuscipes,dusky-footed woodrat,Neotoma fuscipes simplex,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,91771,180374,Active,Neotoma lepida,desert woodrat,Neotoma lepida lepida,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,91781,180383,Active,Onychomys torridus,southern grasshopper mouse,Onychomys torridus pulcher,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,brush deermouse,Peromyscus boylii rowleyi,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,90751,180283,Active,Peromyscus californicus,California deermouse,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,canyon deermouse,Peromyscus crinitus stephensi,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,90754,180286,Active,Peromyscus eremicus,cactus deermouse,Peromyscus eremicus eremicus,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,North American deermouse,Peromyscus maniculatus sonoriensis,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,Piñon deermouse,Peromyscus truei chlorus,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,western harvest mouse,Reithrodontomys megalotis megalotis,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's pocket gopher,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,260597,552491,Active,Chaetodipus californicus,California pocket mouse,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,260638,552510,Active,Chaetodipus fallax,San Diego pocket mouse,"Perognathus fallax pallidus, Perognathus fallax",Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,260578,552482,Active,Chaetodipus formosus,long-tailed pocket mouse,"Perognathus formosus mesembrinus, Chaetodipus mojavensis, Perognathus formosus",Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,260586,552486,Active,Chaetodipus penicillatus,desert pocket mouse,Perognathus penicillatus,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,260588,552487,Active,Chaetodipus spinatus,spiny pocket mouse,Perognathus spinatus,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,90699,180236,Active,Dipodomys deserti,desert kangaroo rat,Dipodomys deserti deserti,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,90705,180241,Active,Dipodomys merriami,Merriam's kangaroo rat,Dipodomys merriami merriami,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,90706,180242,Active,Dipodomys microps,chisel-toothed kangaroo rat,Dipodomys microps occidentalis,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Heteromyidae,90733,180267,Active,Perognathus longimembris,little pocket mouse,Perognathus longimembris longimembris,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,house mouse,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,black rat,,Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,white-tailed antelope squirrel,"Citellus leucurus, Citellus leucurus leucurus",Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Sciuridae,89677,180148,Active,Spermophilus beecheyi,California ground squirrel,"Citellus beecheyi fisheri, Citellus beecheyi, Citellus beecheyi parvulus",Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Sciuridae,89691,180160,Active,Spermophilus tereticaudus,round-tailed ground squirrel,"Citellus tereticaudus tereticaudus, Citellus tereticaudus",Present
+JOTR,Joshua Tree National Park,Mammal,1,Rodentia,Sciuridae,90654,180196,Active,Tamias obscurus,California chipmunk,"Eutamias merriami, Eutamias merriami merriami, Tamias merriami",Present
+JOTR,Joshua Tree National Park,Mammal,1,Soricomorpha,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's gray shrew,,Present
+JOTR,Joshua Tree National Park,Bird,2,,,773785,,Inactive,Setophaga occidentalis,Hermit Warbler,Dendroica occidentalis,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,Accipiter striatus velox,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,Aquila chrysaetos canadensis,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,Buteo jamaicensis calurus,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,Buteo lagopus sanctijohannis,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,79579,175365,Active,Buteo platypterus,Broad-winged Hawk,,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,Circus cyaneus hudsonius,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,79487,175282,Active,Elanus leucurus,White-tailed Kite,Elanus leucurus majusculus,Probably Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,Cathartes aura teter,Present
+JOTR,Joshua Tree National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,Pandion haliaetus carolinensis,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,Mareca americana,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,"Anas carolinensis, Anas crecca carolinensis",Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,Anas cyanoptera septentrionalium,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,Anas discors discors,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,Anas platyrhynchos platyrhynchos,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77839,175125,Active,Aythya americana,Redhead,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked Duck,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78513,175129,Active,Aythya valisineria,Canvasback,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,Branta canadensis leucopareia,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,Snow Goose,"Chen caerulescens caerulescens, Chen hyperborea",Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78573,175183,Active,Lophodytes cucullatus,Hooded Merganser,,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78551,175163,Active,Melanitta fusca,White-winged Scoter,Melanitta deglandi,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78577,175187,Active,Mergus serrator,Red-breasted Merganser,Mergus serrator serrator,Present
+JOTR,Joshua Tree National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,Ruddy Duck,Oxyura jamaicensis rubida,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,Aeronautes saxatalis saxatalis,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Apodidae,83047,178002,Active,Chaetura vauxi,Vaux's Swift,Chaetura vauxi vauxi,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Trochilidae,83888,178036,Active,Calypte anna,Anna's Hummingbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Trochilidae,83887,178035,Active,Calypte costae,Costa's Hummingbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Trochilidae,83894,178041,Active,Selasphorus sasin,Allen's Hummingbird,Selasphorus sasin sasin,Present
+JOTR,Joshua Tree National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83029,177988,Active,Chordeiles acutipennis,Lesser Nighthawk,Chordeiles acutipennis texensis,Present
+JOTR,Joshua Tree National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,Chordeiles minor hesperis,Present
+JOTR,Joshua Tree National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,Phalaenoptilus nuttallii nuttallii,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,Charadrius vociferus vociferus,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California gull,,Probably Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Probably Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Recurvirostridae,80285,176726,Active,Himantopus mexicanus,Black-necked Stilt,,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,Actitis macularia,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,Ereunetes mauri,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,Erolia minutilla,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,80257,176700,Active,Gallinago gallinago,Common Snipe,"Capella gallinago, Gallinago gallinago delicata",Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed Dowitcher,,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,80295,176735,Active,Phalaropus lobatus,Red-necked Phalarope,Lobipes lobatus,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,Steganopus tricolor,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,Totanus melanoleucus,Present
+JOTR,Joshua Tree National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,Tringa solitaria cinnamomea,Present
+JOTR,Joshua Tree National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+JOTR,Joshua Tree National Park,Bird,2,Columbiformes,Columbidae,82767,177152,Active,Columbina passerina,Common Ground-Dove,"Columbigallina passerina, Columbina passerina pallescens",Present
+JOTR,Joshua Tree National Park,Bird,2,Columbiformes,Columbidae,525775,676899,Active,Patagioenas fasciata,Band-tailed Pigeon,"Columba fasciata monilis, Columba fasciata fasciata",Probably Present
+JOTR,Joshua Tree National Park,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,Zenaida asiatica mearnsi,Present
+JOTR,Joshua Tree National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,"Zenaida macroura marginella, Zenaidura macroura marginella, Zenaidura macroura",Present
+JOTR,Joshua Tree National Park,Bird,2,Coraciiformes,Alcedinidae,83966,178106,Active,Megaceryle alcyon,Belted Kingfisher,"Ceryle alcyon, Megaceryle alcyon caurina",Present
+JOTR,Joshua Tree National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,Coccyzus americanus occidentalis,Present
+JOTR,Joshua Tree National Park,Bird,2,Cuculiformes,Cuculidae,89107,177836,Active,Geococcyx californianus,Greater Roadrunner,,Present
+JOTR,Joshua Tree National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,Falco columbarius columbarius,Present
+JOTR,Joshua Tree National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+JOTR,Joshua Tree National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,Falco sparverius sparverius,Present
+JOTR,Joshua Tree National Park,Bird,2,Galliformes,Odontophoridae,84296,175877,Active,Callipepla gambelii,Gambel's Quail,"Lophortyx gambelii, Callipepla gambelii gambelii, Lophortyx gambelii gambelii",Present
+JOTR,Joshua Tree National Park,Bird,2,Galliformes,Odontophoridae,84314,175893,Active,Oreortyx pictus,Mountain Quail,"Oreortyx picta, Oreortyx pictus russelli, Oreortyx pictus eremophilus",Present
+JOTR,Joshua Tree National Park,Bird,2,Galliformes,Phasianidae,84331,175908,Active,Alectoris chukar,chukar,Alectoris graeca,Present
+JOTR,Joshua Tree National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,Common Loon,,Present
+JOTR,Joshua Tree National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,Fulica americana americana,Present
+JOTR,Joshua Tree National Park,Bird,2,Gruiformes,Rallidae,773824,,Active,Gallinula galeata,Common Gallinule,"Gallinula chloropus, Gallinula chloropus cachinnans",Present
+JOTR,Joshua Tree National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+JOTR,Joshua Tree National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,Rallus limicola limicola,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,Psaltriparus minimus socialbilis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,Eremophila alpestris ammophila,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,94237,179132,Active,Cardinalis sinuatus,Pyrrhuloxia,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,Guiraca caerulea,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,Pheucticus melanocephalus maculatus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Cardinalidae,88076,179888,Active,Piranga rubra,Summer Tanager,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Corvidae,266936,554128,Active,Aphelocoma californica,Western Scrub-Jay,"Aphelocoma californica cana, Aphelocoma coerulescens obscura, Aphelocoma californica obscura, Aphelocoma coerulescens",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,Corvus corax sinuatus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller 's Jay,Cyanocitta stelleri frontalis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,Carpodacus mexicanus frontalis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,Purple Finch,Carpodacus purpureus californicus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,Hesperiphona vespertina,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,95309,179257,Active,Spinus lawrencei,Lawrence's Goldfinch,Carduelis lawrencei,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,95297,179246,Active,Spinus pinus,Pine Siskin,"Carduelis pinus pinus, Spinus pinus pinus, Carduelis pinus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,95306,179254,Active,Spinus psaltria,Lesser Goldfinch,"Carduelis psaltria, Carduelis psaltria hesperophilus, Spinus psaltria hesperophilus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Fringillidae,95300,179249,Active,Spinus tristis,American Goldfinch,Carduelis tristis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,Hirundo rustica erythrogaster,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Petrochelidon pyrrhonota pyrrhonota,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Hirundinidae,87427,178464,Active,Progne subis,Purple Martin,Progne subis subis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,"Stelgidopteryx serripennis serripennis, Stelgidopteryx ruficollis",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,Iridoprocne bicolor,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,Tachycineta thalassina lepida,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,Agelaius phoeniceus sonoriensis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,"Icterus bullockii bullockii, Icterus bullockii parvus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,93641,179070,Active,Icterus cucullatus,Hooded Oriole,"Icterus cucullatus californicus, Icterus cucullatus nelsoni",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,93655,179083,Active,Icterus galbula,Baltimore Oriole,Icterus galbula bullocki,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,Molothrus ater obscurus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,94211,179109,Active,Quiscalus mexicanus,Great-tailed Grackle,Cassidix mexicanus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,"Lanius ludovicianus nevadensis, Lanius ludovicianus sonoriensis, Lanius ludovicianus gambeli",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,Mimus polyglottos leucopterus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Mimidae,89989,178636,Active,Toxostoma bendirei,Bendire's Thrasher,Toxostoma bendirei bendirei,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Mimidae,90007,178652,Active,Toxostoma crissale,Crissal Thrasher,"Toxostoma dorsale dorsale, Toxostoma dorsale",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Mimidae,89999,178645,Active,Toxostoma lecontei,Le Conte's Thrasher,Toxostoma lecontei lecontei,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Mimidae,89996,178642,Active,Toxostoma redivivum,California Thrasher,Toxostoma redivivum redivivum,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,Toxostoma rufum longicauda,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,"Anthus spinoletta pacificus, Anthus spinoletta, Anthus spinoletta rubescens",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Paridae,266962,554140,Active,Baeolophus inornatus,Oak Titmouse,"Baeolophus inornatus mohavensis, Parus inornatus, Parus inornatus mohavensis",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,"Parus gambeli, Poecile gambeli baileyae",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773817,,Inactive,Cardellina canadensis,Canada Warbler,Wilsonia canadensis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773781,,Inactive,Cardellina pusilla,Wilson's Warbler,"Wilsonia pusilla pileolata, Wilsonia pusilla chryseola, Wilsonia pusilla",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,92737,178970,Active,Cardellina rubrifrons,Red-faced Warbler,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773777,,Inactive,Geothlypis tolmiei,MacGillivray's Warbler,"Oporornis tolmiei, Oporornis tolmiei tolmiei",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,Geothlypis trichas occidentalis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,Icteria virens auricollis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,93546,178986,Active,Myioborus pictus,Painted Redstart,"Setophaga picta picta, Setophaga picta, Myioborus pictus pictus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773769,,Inactive,Oreothlypis celata,Orange-crowned Warbler,"Vermivora celata orestera, Vermivora celata, Vermivora celata celata, Vermivora celata lutescens",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773766,,Inactive,Oreothlypis luciae,Lucy's Warbler,Vermivora luciae,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773768,,Inactive,Oreothlypis ruficapilla,Nashville Warbler,"Vermivora ruficapilla, Vermivora ruficapilla ridgwayi",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773767,,Inactive,Oreothlypis virginiae,Virginia's Warbler,Vermivora virginiae,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773814,,Inactive,Parkesia motacilla,Louisiana waterthrush,Seiurus motacilla,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,628220,726205,Active,Seiurus aurocapilla,Ovenbird,"Seiurus aurocapillus, Seiurus aurocapillus cinereus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773822,,Inactive,Setophaga caerulescens,Black-throated Blue Warbler,Dendroica caerulescens,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773816,,Inactive,Setophaga citrina,Hooded Warbler,Wilsonia citrina,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773779,,Inactive,Setophaga coronata,Yellow-rumped Warbler,"Dendroica coronata auduboni, Dendroica auduboni auduboni, Dendroica auduboni, Dendroica coronata",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773786,,Inactive,Setophaga nigrescens,Black-throated Gray Warbler,Dendroica nigrescens,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773821,,Inactive,Setophaga palmarum,Palm Warbler,Dendroica palmarum,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773820,,Inactive,Setophaga pensylvanica,Chestnut-sided Warbler,Dendroica pensylvanica,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773778,,Inactive,Setophaga petechia,Yellow Warbler,"Dendroica petechia morcomi, Dendroica petechia",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Parulidae,773780,,Inactive,Setophaga townsendi,Townsend's Warbler,Dendroica townsendi,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84716,179377,Active,Aimophila ruficeps,Rufous-crowned Sparrow,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,83867,179333,Active,Ammodramus savannarum,Grasshopper Sparrow,Ammodramus savannarum perpallidus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84745,179402,Active,Amphispiza belli,Sage Sparrow,"Amphispiza belli nevadensis, Amphispiza belli canescens, Amphispiza belli belli",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,Amphispiza bilineata deserticola,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,Chondestes grammacus strigatus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,"Junco caniceps, Junco aikeni, Junco oreganus mearnsi, Junco oreganus montanus, Junco hyemalis thurberi, Junco hyemalis hyemalis, Junco oreganus thurberi, Junco phaeonotus, Junco hyemalis cismontanus, Junco hyemalis oreganus, Junco caniceps caniceps, Junco hyemalis caniceps, Junco oreganus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,"Melospiza lincolnii lincolnii, Melospiza lincolnii alticola",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,"Melospiza melodia fisherella, Melospiza melodia morphna",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,773763,,Inactive,Melozone aberti,Abert's Towhee,Pipilo aberti,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,773823,,Inactive,Melozone crissalis,California Towhee,"Pipilo fuscus, Pipilo crissalis",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,"Passerculus sandwichensis anthinus, Passerculus sandwichensis nevadensis",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,85612,179464,Active,Passerella iliaca,Fox Sparrow,"Passerella iliaca schistacea, Passerella iliaca monoensis, Passerella iliaca canescens, Passerella iliaca olivacea",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,"Oberholseria chlorura, Chlorura chlorura",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,"Pipilo erythrophthalmus megalonyx, Pipilo erythrophthalmus montanus, Pipilo erythrophthalmus, Pipilo maculatus montanus, Pipilo maculatus megalonyx",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,Pooecetes gramineus confinis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84795,179448,Active,Spizella atrogularis,Black-chinned Sparrow,Spizella atrogularis evura,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,Spizella breweri breweri,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,Spizella passerina arizonae,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned Sparrow,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,"Zonotrichia leucophrys leucophrys, Zonotrichia leucophrys oriantha, Zonotrichia leucophrys gambelii",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passerellidae,84802,179454,Active,Zonotrichia querula,Harris's Sparrow,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,Passer domesticus domesticus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,Polioptila caerulea amoenissima,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Polioptilidae,88042,179857,Active,Polioptila melanura,Black-tailed Gnatcatcher,Polioptila melanura lucida,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Ptilogonatidae,88064,179877,Active,Phainopepla nitens,Phainopepla,Phainopepla nitens lepida,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,Regulus calendula cineraceus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,Regulus satrapa olivaceus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Remizidae,90917,178759,Active,Auriparus flaviceps,Verdin,Auriparus flaviceps acaciarum,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,Sitta carolinensis aculeata,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Sittidae,90949,178788,Active,Sitta pygmaea,Pygmy Nuthatch,Sitta pygmaea melanotis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Troglodytidae,88356,178587,Active,Campylorhynchus brunneicapillus,Cactus Wren,Campylorhynchus brunneicapillus couesi,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,Catherpes mexicanus conspersus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,Telmatodytes palustris,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,Salpinctes obsoletus obsoletus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,"Thryomanes bewickii eremophilus, Thryomanes bewickii correctus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,Troglodytes aedon parkmanii,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Troglodytidae,773813,,Inactive,Troglodytes hiemalis,Winter Wren,"Troglodytes troglodytes, Troglodytes troglodytes pacificus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,"Hylocichla guttata slevini, Catharus guttatus sleveni, Catharus guttatus sequoiensis, Hylocichla guttata, Catharus guttatus guttatus, Hylocichla guttata guttata",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,"Catharus ustulatus ustulatus, Hylocichla ustulata ustulata, Hylocichla ustulata",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Turdidae,87152,179773,Active,Ixoreus naevius,Varied Thrush,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,Myadestes townsendi townsendi,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,"Sialia mexicana bairdi, Sialia mexicana occidentalis",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,"Turdus migratorius caurinus, Turdus migratorius propinquus",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,Nuttallornis borealis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,"Contopus sordidulus veliei, Contopus richardsonii, Contopus richardsonii richardsonii",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85834,178348,Active,Empidonax difficilis,Pacific-slope Flycatcher,Empidonax difficilis difficilis,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,Empidonax traillii brewsteri,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,Myiarchus cinerascens cinerascens,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85860,178371,Active,Pyrocephalus rubinus,Vermilion Flycatcher,Pyrocephalus rubinus flammeus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,Sayornis nigricans semiatra,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,Sayornis saya saya,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,Tyrannus vociferans vociferans,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Vireonidae,93567,179003,Active,Vireo bellii,Bell's Vireo,Vireo bellii pusillus,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Vireonidae,266864,554456,Active,Vireo cassinii,Cassin's Vireo,"Vireo solitarius cassinii, Vireo cassinii cassinii, Vireo solitarius",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,"Vireo gilvus leucopolius, Vireo gilvus swainsoni",Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Vireonidae,93558,178997,Active,Vireo huttoni,Hutton's Vireo,Vireo huttoni huttoni,Present
+JOTR,Joshua Tree National Park,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,"Casmerodius albus egretta, Casmerodius albus",Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,Ardea herodias hyperonca,Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Ardeidae,84508,174856,Active,Botaurus lentiginosus,American Bittern,,Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,Butorides virescens anthonyi,Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,"Egretta thula brewsteri, Leucophoyx thula brewsteri",Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,Nycticorax nycticorax hoactli,Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,White-faced Ibis,,Present
+JOTR,Joshua Tree National Park,Bird,2,Pelecaniformes,Threskiornithidae,85519,174924,Active,Plegadis falcinellus,Glossy Ibis,,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,"Colaptes auratus borealis, Colaptes cafer collaris, Colaptes auratus luteus, Colaptes cafer, Colaptes auratus cafer, Colaptes auratus collaris",Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,266003,554081,Active,Colaptes chrysoides,Gilded Flicker,Colaptes chrysoides mearnsi,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84858,178189,Active,Melanerpes formicivorus,Acorn Woodpecker,"Balanosphyra formicivora formicivora, Melanerpes formicivorus bairdi, Melanerpes formicivorus formicivorus, Balanosphyra formicivora bairdi, Balanosphyra formicivora",Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis's Woodpecker,Asyndesmus lewis,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84868,178198,Active,Melanerpes uropygialis,Gila Woodpecker,Centurus uropygialis,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84933,178256,Active,Picoides albolarvatus,White-headed Woodpecker,Dendrocopos albolarvatus,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84935,178258,Active,Picoides nuttallii,Nuttall's Woodpecker,Dendrocopos nuttallii,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,85737,178260,Active,Picoides scalaris,Ladder-backed Woodpecker,"Picoides scalaris cactophilus, Dendrocopos scalaris cactophilus, Dendrocopos scalaris",Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,Dendrocopos villosus,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,Sphyrapicus varius nuchalis,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84885,178212,Active,Sphyrapicus ruber,Red-breasted Sapsucker,Sphyrapicus varius daggetti,Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,"Sphyrapicus thyroideus thyroideus, Sphyrapicus thyroideus nataliae",Present
+JOTR,Joshua Tree National Park,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,Sphyrapicus varius varius,Present
+JOTR,Joshua Tree National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+JOTR,Joshua Tree National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,Eared Grebe,"Podiceps caspicus, Podiceps caspicus californicus, Podiceps nigricollis californicus",Present
+JOTR,Joshua Tree National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,Podilymbus podiceps podiceps,Present
+JOTR,Joshua Tree National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,Aegolius acadicus acadicus,Present
+JOTR,Joshua Tree National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+JOTR,Joshua Tree National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,Asio otus wilsonianus,Present
+JOTR,Joshua Tree National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,"Athene cunicularia hypugaea, Speotyto cunicularia hypugaea, Speotyto cunicularia",Present
+JOTR,Joshua Tree National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,Bubo virginianus pallescens,Present
+JOTR,Joshua Tree National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,Western Screech-Owl,"Otus kennicottii, Otus asio, Otus kennicottii yumanensis",Present
+JOTR,Joshua Tree National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,Barn Owl,Tyto alba pratincola,Present
+JOTR,Joshua Tree National Park,Reptile,3,,,773811,,Inactive,Coluber flagellum piceus,red racer,"Masticophis flagellum piceus, Masticophis flagellum",Present
+JOTR,Joshua Tree National Park,Reptile,3,,,773810,,Inactive,Coluber lateralis lateralis,California striped racer,"Masticophis lateralis lateralis, Masticophis lateralis",Present
+JOTR,Joshua Tree National Park,Reptile,3,,,773812,,Inactive,Hypsiglena chlorophaea deserticola,northern desert nightsnake,"Hypsiglena torquata, Hypsiglena torquata deserticola",Present
+JOTR,Joshua Tree National Park,Reptile,3,,,773807,,Inactive,Plestiodon gilberti rubricaudatus,western red-tailed skink,"Eumeces gilberti rubricaudatus, Eumeces gilberti",Present
+JOTR,Joshua Tree National Park,Reptile,3,,,773808,,Inactive,Rena humilis cahuilae,desert threadsnake,Leptotyphlops humilis cahuilae,Present
+JOTR,Joshua Tree National Park,Reptile,3,,,773809,,Inactive,Rena humilis humilis,southwestern threadsnake,Leptotyphlops humilis humilis,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Anguidae,78979,174095,Active,Anniella pulchra,California legless lizard,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Anguidae,120650,209026,Active,Elgaria multicarinata webbii,San Diego alligator lizard,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Charinidae,80849,174331,Active,Lichanura trivirgata,rosy boa,"Lichanura roseofusca gracia, Lichanura roseofusca, Lichanura trivirgata gracia",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,79769,174202,Active,Arizona elegans,glossy snake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,122661,209270,Active,Arizona elegans candida,Mojave glossy snake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,122662,209271,Active,Arizona elegans eburnata,desert glossy snake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,79780,174212,Active,Chionactis occipitalis,western shovel-nosed snake,Chionactis occipitalis occipitalis,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,773774,,Inactive,Lampropeltis californiae,California kingsnake,"Lampropeltis getula, Lampropeltis getulus, Lampropeltis getula californiae, Lampropeltis getulus californiae",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,79834,174261,Active,Phyllorhynchus decurtatus,spotted leaf-nosed snake,Phyllorhynchus decurtatus perkinsi,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,gopher snake,Pituophis melanoleucus,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,117242,209402,Active,Pituophis catenifer affinis,Sonoran gopher snake,Pituophis melanoleucus affinis,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,117247,209407,Active,Pituophis catenifer deserticola,Great Basin gopher snake,Pituophis melanoleucus deserticola,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,79840,174267,Active,Rhinocheilus lecontei,Long-nosed snake,Rhinocheilus lecontei lecontei,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,79845,174271,Active,Salvadora hexalepis,western patch-nosed snake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,117259,209418,Active,Salvadora hexalepis hexalepis,desert patch-nosed snake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,117260,209419,Active,Salvadora hexalepis mojavensis,Mojave patch-nosed snake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,80794,174282,Active,Tantilla hobartsmithi,Smith's black-headed snake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Colubridae,153288,-501435,Active,Trimorphodon lyropanes,California lyresnake,"Trimorphodon vandenburghi, Trimorphodon biscutatus",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Crotaphytidae,118782,208791,Active,Crotaphytus bicinctores,Great Basin collared lizard,"Crotaphytus collaris baileyi, Crotaphytus collaris, Crotaphytus insularis",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,long-nosed leopard lizard,"Crotaphytus wislizenii, Crotaphytus wislizenii wislizenii, Gambelia wislizenii wislizenii",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Eublepharidae,78920,174041,Active,Coleonyx variegatus,western banded gecko,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Iguanidae,78384,173921,Active,Dipsosaurus dorsalis,desert iguana,Dipsosaurus dorsalis dorsalis,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Iguanidae,286229,564596,Active,Sauromalus ater,common chuckwalla,"Sauromalus obesus obesus, Sauromalus obesus",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,common sagebrush lizard,,Probably Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Iguanidae,118749,208761,Active,Sceloporus occidentalis longipes,Great Basin fence lizard,Sceloporus occidentalis,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Iguanidae,773773,,Inactive,Sceloporus uniformis,yellow-backed spiny lizard,"Sceloporus magister, Sceloporus magister uniformis",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Iguanidae,78418,173952,Active,Urosaurus graciosus,western long-tailed brush lizard,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,common side-blotched lizard,Uta stansburiana stejnegeri,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Leptotyphlopidae,118388,209590,Active,Rena humilis,western threadsnake,Leptotyphlops humilis,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Phrynosomatidae,77563,173906,Active,Callisaurus draconoides,zebra-tailed lizard,"Callisaurus draconoides rhodostictus, Callisaurus draconoides gabbi",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Phrynosomatidae,118813,208819,Active,Phrynosoma blainvillii,Blainville's horned lizard,"Phrynosoma coronatum blainvillei, Phrynosoma coronatum",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Phrynosomatidae,78408,173943,Active,Phrynosoma platyrhinos,desert horned lizard,Phrynosoma platyrhinos calidiarum,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Phrynosomatidae,78416,173950,Active,Uma scoparia,Mohave fringe-toad lizard,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Teiidae,691482,-756806,Inactive,Aspidoscelis tigris tigris,Great Basin whiptail,"Cnemidophorus tigris, Aspidoscelis tigris, Cnemidophorus tigris tigris",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,80826,174310,Active,Crotalus atrox,western diamond-backed rattlesnake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,80827,174311,Active,Crotalus cerastes,sidewinder,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,118307,209517,Active,Crotalus cerastes cerastes,Mohave Desert sidewinder,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,118309,209519,Active,Crotalus cerastes laterorepens,Colorado desert sidewinder,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,80829,174313,Active,Crotalus mitchellii,speckled rattlesnake,"Crotalus mitchelli pyrrhus, Crotalus mitchelli",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,538634,683065,Active,Crotalus oreganus helleri,Southern Pacific Rattlesnake,"Crotalus viridis, Crotalus viridis helleri",Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,80832,174316,Active,Crotalus ruber,red diamond rattlesnake,,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Viperidae,80833,174317,Active,Crotalus scutulatus,Mohave rattlesnake,Crotalus scutulatus scutulatus,Present
+JOTR,Joshua Tree National Park,Reptile,3,Squamata,Xantusiidae,78976,174092,Active,Xantusia vigilis,desert night lizard,Xantusia vigilis vigilis,Present
+JOTR,Joshua Tree National Park,Reptile,3,Testudines,Testudinidae,77507,173856,Active,Gopherus agassizii,desert tortoise,Xerobates agassizii,Present
+JOTR,Joshua Tree National Park,Amphibian,4,Anura,Bufonidae,761739,773513,Active,Anaxyrus boreas,Western toad,"Bufo boreas, Bufo boreas halophilus",Probably Present
+JOTR,Joshua Tree National Park,Amphibian,4,Anura,Bufonidae,761753,773527,Active,Anaxyrus punctatus,red-spotted toad,Bufo punctatus,Present
+JOTR,Joshua Tree National Park,Amphibian,4,Anura,Hylidae,260115,550237,Active,Pseudacris cadaverina,California treefrog,"Hyla cadaverina, Hyla californiae",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141571,39009,Active,Potamogeton nodosus,Long-leaved Pondweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Apiales,Apiaceae,134792,29648,Active,Cymopterus multinervatus,"Arizona springparsley, purplenerve springparsley, wild parsnip",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Apiales,Apiaceae,208290,527618,Active,Cymopterus panamintensis var. acutifolius,Panamint springparsley,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Apiales,Apiaceae,135412,29725,Active,Lomatium mohavense,"Mojave Desert Parsley, Mojave Lomatium",Lomatium mohavense ssp. mohavense,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Arecales,Arecaceae,148562,42514,Active,Washingtonia filifera,California Fan Palm,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,216912,530998,Active,Allium atrorubens var. cristatum,Wild Onion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,163040,506823,Active,Allium denticulatum,Toothed Wild Onion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,86985,182601,Active,Allium fimbriatum var. fimbriatum,Fringed Onion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149559,42648,Active,Allium parishii,Parish's Onion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Asparagaceae,140575,42777,Active,Androstephium breviflorum,Smallflower Androstephium,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Asparagaceae,206277,524921,Active,Dichelostemma capitatum ssp. capitatum,Blue Dicks,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Asparagaceae,141699,42949,Active,Hesperocallis undulata,Desert Lily,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Asparagaceae,141743,42989,Active,Nolina bigelovii,Bigelow's Nolina,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Asparagaceae,141740,42986,Active,Nolina parryi,Parry's Nolina,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Asparagaceae,288412,565605,Active,Yucca brevifolia,Joshua Tree,Yucca brevifolia var. brevifolia,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Asparagaceae,166933,505787,Active,Yucca schidigera,Mohave Yucca,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asparagales,Orchidaceae,147073,43481,Active,Epipactis gigantea,Stream Orchid,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,89891,185202,Active,Adenophyllum cooperi,Cooper's Dogweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,89892,185203,Active,Adenophyllum porophylloides,San Felipe Dogweed,Dyssodia porophylloides,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,141408,36497,Active,Ambrosia acanthicarpa,Annual Burrweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,141419,36506,Active,Ambrosia dumosa,Burroweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,141436,36521,Active,Ambrosia trifida,Giant Ragweed,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,141447,36531,Active,Anisocoma acaulis,Scale-bud,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,133599,35462,Active,Artemisia dracunculus,Tarragon,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,133614,35476,Active,Artemisia ludoviciana ssp. albula,White Mugwort,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,106061,192205,Active,Atrichoseris platyphylla,Gravel-ghost,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,134644,35685,Active,Baccharis brachyphylla,Short-leaved Baccharis,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,86066,183763,Active,Baccharis salicifolia,Mule-fat,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,134662,35700,Active,Baccharis sergiloides,Desert Baccharis,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,135842,36800,Active,Baileya pauciradiata,Few Flowered Desert Marigold,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,135844,36802,Active,Baileya pleniradiata,Woolly Marigold,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136716,36866,Active,Brickellia californica,California Brickellia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136725,36874,Active,Brickellia desertorum,Desert Brickellia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136732,36880,Active,Brickellia incana,Woolly Brickellia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,209799,526986,Active,Brickellia oblongifolia var. linifolia,Pinyon Brickellia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136791,36933,Active,Calycoseris parryi,Yellow Tackstem,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136792,36934,Active,Calycoseris wrightii,White Tackstem,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137251,36989,Active,Chaenactis fremontii,Fremont Pincushion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137255,36992,Active,Chaenactis macrantha,Mohave Pincushion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137261,36998,Active,Chaenactis stevioides,Desert Pincushion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137266,37001,Active,Chaenactis xantiana,Xantus' pincushion,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137337,37066,Active,Chrysothamnus nauseosus ssp. mohavensis,Mojave Rabbitbrush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137342,37070,Active,Chrysothamnus paniculatus,Mohave Rabbitbrush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137361,37088,Active,Chrysothamnus teretifolius,Needle-leaved Rabbitbrush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137364,37090,Active,Chrysothamnus viscidiflorus,Sticky-leaved Rabbitbrush,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,140089,36388,Active,Cirsium neomexicanum,New Mexico Thistle,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,138585,37113,Active,Conyza canadensis,Canada Horseweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,138599,37126,Active,Coreopsis bigelovii,Bigelow's Coreopsis,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,212094,527485,Active,Coreopsis californica var. californica,California Coreopsis,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,139518,37234,Active,Dicoria canescens,Desert Dicoria,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,139531,37246,Active,Dimorphotheca sinuata,glandular Cape marigold,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,139600,37308,Active,Encelia farinosa,"Brittlebush, Incienso",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,139601,37309,Active,Encelia frutescens,"Button Encelia, Rayless Encelia",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,156109,502295,Active,Encelia virginensis,Virgin Encelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,139619,37325,Active,Ericameria cooperi,Cooper's Goldenbush,Haplopappus cooperi,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,212473,527910,Active,Ericameria cuneata var. spathulata,"cliff goldenbush, cliff heathgoldenrod",Ericameria cuneata ssp. spathulata,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,139621,37327,Active,Ericameria linearifolia,Showy Goldenbush,"Haplopappus linearifolius, Haplopappus linearifolius ssp. interior",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,216990,531034,Active,Erigeron breweri var. covillei,Coville's Fleabane,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136031,35852,Active,Erigeron divergens,Spreading Fleabane,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136908,35919,Active,Erigeron parishii,Parish's Daisy,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,216436,531207,Active,Eriophyllum confertiflorum var. confertiflorum,Golden Yarrow,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,139636,37340,Active,Eriophyllum pringlei,Pringle's Woolly Sunflower,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,183337,513168,Active,Eriophyllum wallacei,Wallace's Woolly Daisy,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,140467,37371,Active,Filago arizonica,Arizona Herba Impia,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,140469,37373,Active,Filago depressa,Dwarf Filago,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,140533,37430,Active,Geraea canescens,Hairy Desert-sunflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,208782,525873,Active,Gnaphalium canescens ssp. beneolens,Everlasting Cudweed,Gnaphalium beneolens,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,133746,36706,Active,Gnaphalium luteoalbum,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,133749,36709,Active,Gnaphalium palustre,"cudweed, lowland cudweed, marsh everlasting, western marsh cudweed",,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,179662,514144,Active,Gnaphalium stramineum,Chilean Cudweed,Pseudognaphalium stramineum,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,141121,37482,Active,Gutierrezia microcephala,Small-headed Matchweed,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,207082,525046,Active,Heterotheca sessiliflora ssp. echioides,sessileflower false goldenaster,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,210318,528398,Active,Heterotheca villosa var. hispida,Hairy Goldenaster,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,143052,37758,Active,Hulsea vestita ssp. parryi,Parry's Hulsea,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,212220,528514,Active,Hymenoclea salsola var. salsola,Cheesebush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,143077,37780,Active,Hymenoxys cooperi,Cooper's Goldflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,218280,531060,Active,Isocoma acradenia var. eremophila,"alkali goldenbush, goldenweed",,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,"China lettuce, prickly lettuce, wild lettuce",,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,143713,37863,Active,Layia glandulosa,White Layia,Layia glandulosa ssp. glandulosa,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,160475,503385,Active,Lepidospartum squamatum,Scale-broom,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,144734,38044,Active,Malacothrix californica,California Dandelion,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,144741,38050,Active,Malacothrix glabrata,Desert Dandelion,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,144748,38057,Active,Malacothrix stebbinsii,Stebbins' Malacothrix,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,145926,38123,Active,Monoptilon bellidiforme,Desert Star,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,145927,38124,Active,Monoptilon bellioides,Mojave Desert Star,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,145932,38129,Active,Nicolletia occidentalis,Western Nicolletia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,213277,529350,Active,Palafoxia arida var. arida,"desert palafox, desert palafoxia",,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,214277,529431,Active,Pectis papposa var. papposa,Chinch-weed,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,135496,38211,Active,Perityle emoryi,Emory's Rock-daisy,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,160641,504267,Active,Peucephyllum schottii,Schott's Pygmy Cedar,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,164226,504455,Active,Pleurocoronis pluriseta,Arrow-leaf,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137471,36069,Active,Pluchea sericea,Arrow-weed,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136351,38261,Active,Porophyllum gracile,Odora,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136357,38267,Active,Prenanthella exigua,Bright-white,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136388,38295,Active,Psathyrotes ramosissima,Turtleback,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136409,38313,Active,Psilostrophe cooperi,Paper Flower,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136428,38330,Active,Rafinesquia californica,California Chicory,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,136429,38331,Active,Rafinesquia neomexicana,Desert Chicory,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,217259,530312,Active,Senecio flaccidus var. douglasii,Douglas' Shrubby Ragwort,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,217263,530314,Active,Senecio flaccidus var. monoensis,Mono Ragwort,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,138503,36159,Active,Senecio mohavensis,Mojave Groundsel,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,110175,196289,Active,Stephanomeria exigua ssp. exigua,Slender Stephanomeria,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,137759,38450,Active,Stephanomeria parryi,Parry's Rock Pink,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,138049,38473,Active,Stylocline micropoides,"Desert Nest Straw, Woolly Nest-straw",,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,221054,531526,Active,Tetradymia axillaris var. longispina,Catclaw Horsebrush,Tetradymia spinosa var. longispina,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,138080,38500,Active,Tetradymia stenolepis,Mojave Horsebrush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,138160,38573,Active,Trichoptilium incisum,Yellow-head,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,288377,565589,Active,Uropappus lindleyi,Silver Puffs,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,164964,507235,Active,Viguiera parishii,Parish's Viguiera,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Asteraceae,215557,530879,Active,Xylorhiza tortifolia var. tortifolia,"Mojave aster, Mojave woodyaster",Machaeranthera tortifolia,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Campanulaceae,136294,34597,Active,Nemacladus rubescens,Desert Nemacladus,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Asterales,Campanulaceae,136296,34599,Active,Nemacladus sigmoideus,Small-flowered Nemacladus,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,217347,531246,Active,Amsinckia menziesii var. intermedia,"coast buckthorn, coast fiddleneck, common fiddleneck, intermediate fiddleneck",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,217353,531249,Active,Amsinckia tessellata var. tessellata,bristly fiddleneck,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,131093,31784,Active,Cryptantha angustifolia,Narrow-leaved Cryptantha,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,131096,31787,Active,Cryptantha barbigera,Bearded Cryptantha,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,131103,31793,Active,Cryptantha circumscissa,Capped Cryptantha,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,131115,31803,Active,Cryptantha dumetorum,Bush-loving Cryptantha,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132081,31833,Active,Cryptantha maritima,Guadalupe Cryptantha,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132084,31836,Active,Cryptantha micrantha,Purple-root Cryptantha,Cryptantha micrantha var. lepida,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132106,31856,Active,Cryptantha pterocarya,Wing-nut Cryptantha,"Cryptantha pterocarya var. cycloptera, Cryptantha pterocarya var. pterocarya",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132108,31858,Active,Cryptantha racemosa,Bushy Cryptantha,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132136,31883,Active,Cryptantha utahensis,Scented Cryptantha,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,128502,31372,Active,Eriodictyon angustifolium,Narrow Leaved Yerba Santa,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,220984,531493,Active,Eriodictyon trichocalyx var. lanatum,Hairy Yerba Santa,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,218716,531379,Active,Eriodictyon trichocalyx var. trichocalyx,hairy yerba santa,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,211550,529253,Active,Nama demissum var. demissum,Purple Mat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,231337,537751,Active,Nama hispidum var. spathulatum,Hairy Purple Mat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132768,31971,Active,Pectocarya heterocarpa,Wing-nutted Combseed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132770,31973,Active,Pectocarya platycarpa,Broad-fruited Combseed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132772,31975,Active,Pectocarya recurvata,Arch-nutted Combseed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132773,31976,Active,Pectocarya setosa,bristly Combseed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Boraginaceae,132806,32005,Active,Plagiobothrys jonesii,Popcorn-flower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Ehretiaceae,130258,31630,Active,Pholisma arenarium,Dune Food,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Ehretiaceae,219976,530697,Active,Tiquilia canescens var. canescens,"crinklemat, gray coldenia, gray tiquilia, ratear coldenia, woody crinklemat",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Ehretiaceae,161393,505523,Active,Tiquilia plicata,Plicate Tiquila,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,218714,531378,Active,Emmenanthe penduliflora var. penduliflora,whisperingbells,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,211081,528101,Active,Eucrypta chrysanthemifolia var. bipinnatifida,Common Eucrypta,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128508,31378,Active,Eucrypta micrantha,Desert Eucrypta,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,211575,529265,Active,Nemophila menziesii var. integrifolia,Baby Blue Eyes,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128571,31434,Active,Phacelia affinis,Purple Bell Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,161021,-502675,Inactive,Phacelia bicolor var. bicolor,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129807,31466,Active,Phacelia campanularia ssp. campanularia,desertbells,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129808,31467,Active,Phacelia campanularia ssp. vasiformis,Desert-bells,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,221033,531516,Active,Phacelia crenulata var. ambigua,Heliotrope Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216053,529550,Active,Phacelia crenulata var. crenulata,cleftleaf wildheliotrope,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129821,31479,Active,Phacelia cryptantha,Limestone Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129823,31480,Active,Phacelia curvipes,"Washoe phacelia, Washoe scorpion-weed",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129828,31485,Active,Phacelia distans,Common Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129839,31495,Active,Phacelia fremontii,Fremont's Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129858,31511,Active,Phacelia lemmonii,Lemmon's Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128584,31446,Active,Phacelia neglecta,"alkali phacelia, alkali scorpion-weed",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129923,31570,Active,Phacelia pedicellata,Specter Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130210,31588,Active,Phacelia rotundifolia,Round-leafed Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130227,31602,Active,Phacelia tanacetifolia,Tansy-leafed Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130233,31608,Active,Phacelia vallis-mortae,Death Valley Phacelia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130239,31613,Active,Pholistoma membranaceum,White Fiesta Flower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,121247,22687,Active,Arabis dispar,Pinyon Rock-cress,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,121257,22696,Active,Arabis glaucovalvula,Glaucous-valved Rockcress,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,121285,22720,Active,Arabis perennans,Perennial Rock-cress,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,124470,23064,Active,Brassica tournefortii,Asian Mustard,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,124485,23078,Active,Caulanthus cooperi,Cooper's Caulanthus,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,124493,23085,Active,Caulanthus hallii,Hall's Caulanthus,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,122345,22830,Active,Descurainia pinnata ssp. glabra,Smooth Western Tansy-mustard,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,122346,22831,Active,Descurainia pinnata ssp. halictorum,"western tansy mustard, western tansymustard",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,122348,22833,Active,Descurainia pinnata ssp. menziesii,Menzies' Western Tansy-mustard,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,153464,502103,Active,Dithyrea californica,Spectacle-pod,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,106535,195784,Active,Erysimum capitatum var. capitatum,Western Wallflower,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,165277,507695,Active,Guillenia lasiophylla,California Mustard,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,161238,503045,Active,Hirschfeldia incana,Shortpod Mustard,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,123298,22968,Active,Lepidium lasiocarpum var. lasiocarpum,Hairypod Pepperweed,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,125056,23230,Active,Lesquerella tenella,Palmer Bead Pod,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,Tumble-mustard,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,125952,23314,Active,Sisymbrium irio,London Rocket,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,125955,23317,Active,Sisymbrium orientale,Indian Hedge Mustard,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,125973,23333,Active,Streptanthella longirostris,Longbeak Twistfower,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,127145,23428,Active,Thysanocarpus curvipes,Common Fringe-pod,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Brassicaceae,127146,23429,Active,Thysanocarpus laciniatus,Common Lace-pod,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Cleomaceae,120524,22639,Active,Cleomella obtusifolia,Mojave Cleomella,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Cleomaceae,120532,22646,Active,Isomeris arborea,Bladderpod,"Isomeris arborea arborea, Cleome isomeris, Isomeris arborea var. angustata",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Cleomaceae,120552,22664,Active,Wislizenia refracta ssp. refracta,spectacle fruit,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Brassicales,Resedaceae,162688,504012,Active,Oligomeris linifolia,Linear-leaved Cambess,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,108595,19940,Active,Trianthema portulacastrum,Horse-purslane,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117602,20723,Active,Amaranthus blitoides,Mat Amaranth,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118907,20732,Active,Amaranthus fimbriatus,Fringed Amaranth,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,92057,181926,Active,Amaranthus pringlei,Pringle's amaranth,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106084,192226,Active,Atriplex canescens var. canescens,"4-wing Saltbush, Four-wing Saltbush, Shadscale",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,114182,20539,Active,Atriplex hymenelytra,Desert Holly,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115475,20559,Active,Atriplex polycarpa,Cattle Saltbush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118184,20598,Active,Chenopodium californicum,California Goosefoot,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118252,20604,Active,Chenopodium desiccatum,"arid goosefoot, aridland goosefoot, desert goosefoot, narrowleaf goosefoot",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118285,20607,Active,Chenopodium fremontii,Fremont's goosefoot,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115495,20690,Active,Grayia spinosa,Hop-sage,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,Tumbleweed,Salsola kali var. tenuifolia,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165472,505404,Active,Suaeda moquinii,Bush Seepweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115213,20835,Active,Tidestromia oblongifolia,Arizona Honeysweet,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105352,19806,Active,Echinocereus engelmannii,Engelmann's Hedgehog Cactus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105452,19815,Active,Echinocereus triglochidiatus,Mohave Moundcactus,Echinocereus triglochidiatus var. mojavensis,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211616,528158,Active,Ferocactus cylindraceus var. cylindraceus,"California barrel cactus, campus barrel cactus",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211621,528160,Active,Ferocactus cylindraceus var. lecontei,Leconte's Barrel Cactus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100511,195254,Active,Opuntia acanthocarpa var. coloradensis,Buckhorn Cholla,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100515,195258,Active,Opuntia basilaris var. basilaris,Beavertail Cactus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,103907,19694,Active,Opuntia bigelovii,Teddy-bear Cholla,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,103940,19697,Active,Opuntia chlorotica,Pancake Prickly Pear,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,104820,19704,Active,Opuntia echinocarpa,"Golden Cholla, Silver Cholla",Opuntia echinocarpa var. echinocarpa,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101374,195317,Active,Opuntia engelmannii var. engelmannii,Engelmann Prickly-pear,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101392,195333,Active,Opuntia parishii,Devil Cholla,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105964,19724,Active,Opuntia phaeacantha,"great pricklypear, Mojave pricklypear",Opuntia phaeacantha var. major,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,159955,-502629,Inactive,Opuntia polyacantha var. erinacea,"grizzlybear pricklypear, Mohave pricklypear, grizzlybear pricklypear, grizzlybear pricklypear","Opuntia erinacea, Opuntia erinacea var. ursina, Opuntia erinacea var. erinacea",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Cactaceae,107486,19730,Active,Opuntia ramosissima,Pencil Cactus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,106710,20228,Active,Achyronychia cooperi,Onyxflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,293768,566583,Active,Arenaria macradenia var. macradenia,Parish's Sandwort,Arenaria macradenia var. parishiorum,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Molluginaceae,112115,19900,Active,Mollugo cerviana,Carpet-weed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Montiaceae,116856,20467,Active,Calyptridium monandrum,"Common Pussypaws, Sand-cress",Cistanthe monandra,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Montiaceae,203977,525127,Active,Claytonia parviflora ssp. utahensis,Narrow-leaved Miner's Lettuce,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Montiaceae,203979,525128,Active,Claytonia parviflora ssp. viridis,streambank springbeauty,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Montiaceae,111245,20396,Active,Claytonia perfoliata ssp. perfoliata,Miner's Lettuce,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,207742,526849,Active,Abronia villosa var. villosa,"desert sand verbena, woolly desert sand verbena",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,106564,19581,Active,Allionia incarnata,Windmills,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,152922,501005,Active,Boerhavia coccinea,Scarlet Spiderling,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102303,19669,Active,Boerhavia coulteri,Coulter's Spiderling,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102348,19673,Active,Boerhavia intermedia,Fivewing Spiderling,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102414,19679,Active,Boerhavia triquetra,Slender Boerhavia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,103091,19680,Active,Boerhavia wrightii,Wright's Spiderling,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,211468,529214,Active,Mirabilis bigelovii var. bigelovii,Bigelow's Desert Four-o'clock,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,211470,529215,Active,Mirabilis bigelovii var. retrorsa,Wishbone Plant,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,101160,19661,Active,Mirabilis pumila,Trailing Four-o'clock,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119159,21001,Active,Centrostegia thurberi,Thurber's Spineflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209455,527343,Active,Chorizanthe brevicornu var. brevicornu,Brittle Spineflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119229,21065,Active,Eriogonum angulosum,Angle Stem Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119782,21080,Active,Eriogonum brachyanthum,Yellow Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119816,21110,Active,Eriogonum davidsonii,Davidson's Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102446,195450,Active,Eriogonum deflexum var. deflexum,Skeleton Weed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209059,527988,Active,Eriogonum fasciculatum var. flavoviride,California Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209061,527989,Active,Eriogonum fasciculatum var. foliolosum,California Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209064,527990,Active,Eriogonum fasciculatum var. polifolium,California Buckwheat,Eriogonum fasciculatum ssp. polifolium,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209076,527996,Active,Eriogonum heermannii var. argense,Heermann's buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102480,195481,Active,Eriogonum heermannii var. heermannii,Heermann's buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102497,195497,Active,Eriogonum inflatum var. deflatum,Desert Trumpet,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102496,195496,Active,Eriogonum inflatum var. inflatum,Desert Trumpet,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119901,21188,Active,Eriogonum maculatum,Spotted Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120720,21202,Active,Eriogonum nidularium,Birdnest Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209108,528010,Active,Eriogonum nudum var. pauciflorum,Few-flowered Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120742,21222,Active,Eriogonum plumatella,Flat-topped Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120748,21228,Active,Eriogonum pusillum,Yellow-turbans,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120752,21231,Active,Eriogonum reniforme,Kidney-leaf Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120764,21242,Active,Eriogonum saxatile,Rock Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120779,21256,Active,Eriogonum thomasii,Thomas' Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120781,21258,Active,Eriogonum thurberi,Thurber's Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120797,21272,Active,Eriogonum viridescens,twotooth buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209555,528028,Active,Eriogonum wrightii var. nodosum,Wright's Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209560,528030,Active,Eriogonum wrightii var. trachygonum,Wright's Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103703,195625,Active,Eriogonum wrightii var. wrightii,Wright's Buckwheat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120833,21304,Active,Oxytheca trilobata,Three-lobed Oxytheca,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,121516,21317,Active,Pterostegia drymarioides,Woodland Pterostegia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,Curly Dock,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118421,20962,Active,Rumex hymenosepalus,Wild Rhubarb,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113912,20431,Active,Portulaca halimoides,Silkcotton Purslane,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Simmondsiaceae,132006,28030,Active,Simmondsia chinensis,Jojoba,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117477,22306,Active,Tamarix aphylla,Athel,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cornales,Loasaceae,159649,503755,Active,Mentzelia affinis,Yellow Blazing Star,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cornales,Loasaceae,159653,503757,Active,Mentzelia albicaulis,White-stemmed Blazing Star,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cornales,Loasaceae,159685,503772,Active,Mentzelia gracilenta,Slender Blazing Star,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cornales,Loasaceae,159693,503776,Active,Mentzelia involucrata,Sand Stickleaf,"Mentzelia involucrata var. megalantha, Mentzelia involucrata var. involucrata",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cornales,Loasaceae,159720,503789,Active,Mentzelia nitens,Shining Stickleaf,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cornales,Loasaceae,203407,524452,Active,Petalonyx thurberi ssp. thurberi,Thurber Sandpaper Plant,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Crossosomatales,Crossosomataceae,121553,21350,Active,Crossosoma bigelovii,Bigelow's Ragged Rock Flower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118459,22346,Active,Brandegea bigelovii,Desert Star-vine,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118488,22372,Active,Cucurbita palmata,Coyote Melon,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Dipsacales,Adoxaceae,131713,35323,Active,Sambucus mexicana,Blue Elderberry,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ephedrales,Ephedraceae,166435,508165,Active,Ephedra aspera,"aspera Mormon tea, boundary ephedra, Mormon tea, rough jointfir",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156846,502312,Active,Ephedra californica,Desert Tea,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ephedrales,Ephedraceae,224497,534908,Active,Ephedra fasciculata var. clokeyi,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156854,502316,Active,Ephedra nevadensis,Nevada Ephedra,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156860,502319,Active,Ephedra viridis,Green Ephedra,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Ericaceae,127208,23485,Active,Arctostaphylos glauca,Big-berry Manzanita,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,138955,31051,Active,Eriastrum densifolium ssp. austromontanum,Southern Mountain Eriastrum,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,138957,31053,Active,Eriastrum densifolium ssp. mohavense,Mojave Eriastrum,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,139809,31102,Active,Gilia australis,Southern Gilia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,139824,31116,Active,Gilia caruifolia,Caraway-leaved Gilia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,139849,31139,Active,Gilia latifolia,Broad-leaf Gilia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,139862,31150,Active,Gilia leptomeria,Great Basin Gilia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,157480,502770,Active,Gilia maculata,Little San Bernardino Mountains Gilia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,139887,31173,Active,Gilia scopulorum,Rock Gilia,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,139792,31088,Active,Gilia sinuata,Rosy Gilia,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,139891,31177,Active,Gilia stellata,Star Gilia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,203709,524203,Active,Langloisia setosissima ssp. punctata,Lilac Sunbonnet,Langloisia punctata,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,127557,31240,Active,Leptodactylon jaegeri,San Jacinto prickly-phlox,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,127549,31233,Active,Leptodactylon pungens,Mountain Prickly Phlox,Leptodactylon pungens ssp. hallii,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,127609,31288,Active,Linanthus aureus ssp. aureus,Golden Gilia,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,127610,31289,Active,Linanthus aureus ssp. decorus,Cream Gilia,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,127614,31292,Active,Linanthus bigelovii,Bigelow's Linanthus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,127625,31301,Active,Linanthus dichotomus,Evening Snow,Linanthus dichotomus ssp. dichotomus,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,161624,503469,Active,Linanthus jonesii,Jones' Linanthus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,127592,31272,Active,Linanthus parryae,Sand-blossoms,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,162304,503528,Active,Loeseliastrum matthewsii,Desert Calico,Langloisia matthewsii,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ericales,Polemoniaceae,162306,503529,Active,Loeseliastrum schottii,Schott's Calico,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,128285,26428,Active,Acacia greggii,Catclaw,Acacia greggii var. arizonica,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,121405,25398,Active,Astragalus acutirostris,Keel Beak Milkvetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,121448,25436,Active,Astragalus bernardinus,San Bernardino Milk-vetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,121484,25469,Active,Astragalus coccineus,Scarlet Milk-vetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,95345,192462,Active,Astragalus didymocarpus var. dispermus,Dwarf White Milk-vetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,122115,25555,Active,Astragalus layneae,Layne's Milk-vetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,96121,192563,Active,Astragalus lentiginosus var. fremontii,Freckled Milkvetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,96156,192595,Active,Astragalus lentiginosus var. variabilis,Freckled Milk-vetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,96335,192635,Active,Astragalus mohavensis var. hemigyrus,"curve-podded Mojave milk-vetch, halfring milkvetch, Mojave milkvetch",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,96368,192665,Active,Astragalus nuttallianus var. austrinus,"Rio Fronteras milkvetch, smallflowered milkvetch",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,96370,192667,Active,Astragalus nuttallianus var. cedrosensis,"Cedros Island milkvetch, turkey peas, turkeypeas",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,96371,192668,Active,Astragalus nuttallianus var. imperfectus,Nuttall?s Locoweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,122990,25621,Active,Astragalus palmeri,Palmer's Milk-vetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,123086,25708,Active,Astragalus tricarinatus,Triple-ribbed Milkvetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,129182,26513,Active,Caesalpinia virgata,Narrow Hoffmannseggia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,129977,26629,Active,Dalea mollis,Silky Dalea,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,129979,26630,Active,Dalea mollissima,Silky Dalea,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,121876,26719,Active,Glycyrrhiza lepidota,Wild Licorice,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,161244,503048,Active,Hoffmannseggia glauca,Hog Potato,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,128217,26367,Active,Lotus argophyllus var. argophyllus,silver bird's-foot trefoil,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,128237,26385,Active,Lotus humistratus,Short-podded Lotus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,211412,528934,Active,Lotus procumbens var. procumbens,silky deerweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,128252,26399,Active,Lotus rigidus,Shrubby Deervetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,211414,528935,Active,Lotus salsuginosus var. brevivexillus,Humble Deervetch,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,211418,528937,Active,Lotus scoparius var. brevialatus,Short-winged Deerweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,128260,26405,Active,Lotus strigosus,Hairy Deervetch,"Lotus strigosus var. tomentellus, Lotus strigosus var. strigosus",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,124671,25935,Active,Lupinus andersonii,Anderson's Lupine,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,124695,25957,Active,Lupinus arizonicus,Arizona Lupine,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,124705,25966,Active,Lupinus bicolor,Miniature Lupine,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,125532,25989,Active,Lupinus concinnus,"pale desert lupine, bajada lupine, scarlet lupine, Orcutt lupine, Orcutt's lupine","Lupinus pallidus, Lupinus concinnus ssp. concinnus, Lupinus concinnus ssp. orcuttii",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,212887,528979,Active,Lupinus excubitus var. austromontanus,mountain bush lupine,Lupinus excubitus ssp. austromontanus,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,212890,528980,Active,Lupinus excubitus var. excubitus,Adonis Lupine,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,228309,537157,Active,Lupinus polyphyllus var. burkei,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,126482,26121,Active,Lupinus sparsiflorus,Mohave Few-flowered Lupine,"Lupinus sparsiflorus ssp. mohavensis, Lupinus sparsiflorus ssp. sparsiflorus",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,122744,26778,Active,Marina parryi,Parry Dalea,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,122778,26808,Active,Olneya tesota,Ironwood,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,215957,529863,Active,Prosopis glandulosa var. torreyana,Honey Mesquite,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,123660,26881,Active,Prosopis pubescens,Screwbean Mesquite,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,217009,529904,Active,Psorothamnus arborescens var. simplifolius,California indigobush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,123711,26927,Active,Psorothamnus emoryi,Emory's Indigo-bush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,123715,26930,Active,Psorothamnus polydenius,Nevada Indigo-bush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,123716,26931,Active,Psorothamnus schottii,Schott's Indigo-bush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,123718,26933,Active,Psorothamnus spinosus,Smoke Tree,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,162153,505143,Active,Senna armata,Spiny Senna,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,127330,26286,Active,Trifolium microcephalum,Small-head Field Clover,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Fabaceae,127375,26326,Active,Trifolium variegatum,Variegated Clover,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fabales,Polygalaceae,131511,29322,Active,Polygala acanthoclada,Desert Milkwort,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fagales,Fagaceae,106413,195174,Active,Quercus cornelius-mulleri,Muller's Oak,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fagales,Fagaceae,165853,507262,Active,Quercus john-tuckeri,Tucker's Oak,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fagales,Fagaceae,105657,195082,Active,Quercus palmeri,Palmer's Oak,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Fagales,Fagaceae,95756,19383,Active,Quercus X munzii,Munz' Oak,Quercus munzii,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Apocynaceae,130893,30150,Active,Amsonia tomentosa,Woolly Amsonia,Amsonia tomentosa var. brevifolia,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Apocynaceae,130900,30157,Active,Apocynum cannabinum,Indian Hemp,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Apocynaceae,131796,30243,Active,Asclepias albicans,White-stemmed Milkweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Apocynaceae,131820,30265,Active,Asclepias erosa,Desert Milkweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Apocynaceae,131822,30267,Active,Asclepias fascicularis,Narrow-leaf Milkweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Apocynaceae,131867,30307,Active,Asclepias subulata,Rush Milkweed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Apocynaceae,155143,501904,Active,Cynanchum utahense,Utah Cynanchum,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Rubiaceae,138009,34820,Active,Galium angustifolium ssp. gracillimum,Slender Bedstraw,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Rubiaceae,138753,34892,Active,Galium multiflorum,Kellogg's Bedstraw,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Rubiaceae,138754,34893,Active,Galium munzii,Munz's Bedstraw,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Gentianales,Rubiaceae,138794,34929,Active,Galium stellatum ssp. eremicum,Star-flowered Bedstraw,Galium stellatum var. eremicum,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,Red-stemmed Filaree,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Geraniales,Geraniaceae,130124,29153,Active,Erodium texanum,Texas Filaree,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Acanthaceae,134558,34353,Active,Justicia californica,Chuparosa,Beloperone californica,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Bignoniaceae,203450,523850,Active,Chilopsis linearis ssp. arcuata,Desert-willow,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,135639,32524,Active,Hyptis emoryi,Desert Lavender,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,Wild Horehound,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,136534,32609,Active,Monardella linoides ssp. linoides,Narrow-leaved Manardella,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,136511,32589,Active,Monardella robisonii,Robison's Monardella,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,128599,32679,Active,Salazaria mexicana,Mexican Bladder Sage,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,128619,32697,Active,Salvia apiana,White Sage,Salvia apiana var. compacta,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,128631,32707,Active,Salvia columbariae,Chia Sage,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,296267,566780,Active,Salvia dorrii var. pilosa,purple sage,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,160035,504995,Active,Salvia mohavensis,Mojave Sage,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,128657,32730,Active,Salvia pachyphylla,Thick-leaved Sage,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Lamiaceae,128616,32694,Active,Salvia vaseyi,Vasey's Sage,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Oleaceae,129710,32957,Active,Forestiera pubescens,Desert Olive,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Oleaceae,129687,32936,Active,Fraxinus velutina,Velvet Ash,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Oleaceae,129741,32985,Active,Menodora scabra,Rough Menodora,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Oleaceae,129742,32986,Active,Menodora scoparia,Desert Olive,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Oleaceae,129743,32987,Active,Menodora spinescens,Spiny Menodora,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130396,33092,Active,Castilleja angustifolia,Northwestern Paintbrush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Orobanchaceae,131208,33117,Active,Castilleja foliolosa,Texas Paintbrush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134483,34286,Active,Orobanche cooperi,Cooper's Broom-rape,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,Clustered Broom-rape,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134493,34295,Active,Orobanche parishii ssp. parishii,Parish's Broom-rape,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,135742,33287,Active,Mimulus aurantiacus,Sticky Monkeyflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,215272,529190,Active,Mimulus bigelovii var. bigelovii,Bigelow's monkeyflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,235448,537555,Active,Mimulus bigelovii var. cuspidatus,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,135773,33314,Active,Mimulus fremontii,Fremont's monkeyflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,135686,33236,Active,Mimulus guttatus,Common Yellow Monkeyflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,289337,565309,Active,Mimulus parishii,Parish's Monkeyflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,188087,517215,Active,Mimulus pilosus,Clammy Monkeyflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Phrymaceae,135724,33270,Active,Mimulus rubellus,Red Monkeyflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137816,33474,Active,Antirrhinum coulterianum,Coulter's Snapdragon,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137812,33470,Active,Antirrhinum filipes,Tangled Snapdragon,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,229998,536477,Active,Keckiella antirrhinoides var. microphylla,"bush penstemon, snapdragon penstemon",Keckiella antirrhinoides ssp. microphylla,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,138420,33657,Active,Mohavea confertiflora,Ghostflower,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130615,33675,Active,Penstemon centranthifolius,Scarlet Bugler,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,231087,538492,Active,Penstemon eatonii var. undosus,"Eaton's penstemon, firecracker penstemon",Penstemon eatonii ssp. undosus,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132360,33926,Active,Penstemon incertus,Mojave Beardtongue,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131533,33782,Active,Penstemon thurberi,Thurber's Beardtongue,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,164190,504438,Active,Plantago ovata,Desert Plantain,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129388,32907,Active,Plantago patagonica,"woolly Indianwheat, woolly plantain",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Lamiales,Verbenaceae,133079,32134,Active,Aloysia wrightii,Oreganillo,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Liliales,Liliaceae,210580,527031,Active,Calochortus palmeri var. palmeri,Palmer's Mariposa,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Liliales,Liliaceae,140679,42870,Active,Calochortus striatus,Alkali Mariposa Lily,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Liliales,Melanthiaceae,144245,43156,Active,Zigadenus brevibracteatus,Desert Death-camas,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,122696,28235,Active,Bernardia myricifolia,Western Bernardia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153214,501400,Active,Chamaesyce albomarginata,Rattlesnake Weed,Euphorbia albomarginata,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153295,501439,Active,Chamaesyce micromera,Sonoran Sandmat,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153323,501452,Active,Chamaesyce polycarpa,Small-seeded Spurge,Chamaesyce polycarpa var. polycarpa,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153340,501460,Active,Chamaesyce setiloba,Yuma Spurge,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153769,501467,Active,Chamaesyce vallis-mortae,Death Valley Spurge,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123529,28265,Active,Croton californicus,California Croton,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,176657,512387,Active,Ditaxis californica,California Ditaxis,Argythamnia californica,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,176670,512393,Active,Ditaxis lanceolata,Narrowleaf Ditaxis,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,176674,512395,Active,Ditaxis neomexicana,New Mexico Ditaxis,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,176676,512396,Active,Ditaxis serrata,Yuma Ditaxis,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124223,28411,Active,Stillingia linearifolia,Linear-leaved Stillingia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124224,28412,Active,Stillingia paucidentata,Mojave Stillingia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124225,28413,Active,Stillingia spinulosa,Annual Stillingia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Picrodendraceae,124235,28422,Active,Tetracoccus hallii,Holly-leaved Spurge,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Salicaceae,119734,22529,Active,Salix exigua,Sandbar Willow,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Salicaceae,119745,22539,Active,Salix gooddingii,Goodding's Black Willow,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Salicaceae,165842,507257,Active,Salix laevigata,Polished Willow,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malpighiales,Salicaceae,119759,22551,Active,Salix lasiolepis,Arroyo Willow,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,123130,21567,Active,Ayenia compacta,Ayenia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,124046,21795,Active,Eremalche exilis,White Mallow,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,124049,21798,Active,Eremalche rotundifolia,Desert Five-spot,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,123198,21628,Active,Hibiscus denudatus,Rock Hibicus,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,160196,-502945,Inactive,Sphaeralcea ambigua var. ambigua,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,292027,566477,Active,Sphaeralcea ambigua var. rugosa,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,124982,21915,Active,Sphaeralcea angustifolia,Narrow-leaved Desert Mallow,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Malvales,Malvaceae,160200,-502947,Inactive,Sphaeralcea emoryi var. emoryi,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,127918,27470,Active,Camissonia boothii ssp. condensata,Booth Primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,127919,27471,Active,Camissonia boothii ssp. decorticans,Desert Shredding Primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,127920,27472,Active,Camissonia boothii ssp. desertorum,Desert Shedding Primerose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128723,27476,Active,Camissonia brevipes ssp. brevipes,Yellow Cups,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128726,27479,Active,Camissonia californica,California Primerose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128729,27481,Active,Camissonia campestris ssp. campestris,Mojave suncup,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128732,27484,Active,Camissonia cardiophylla ssp. cardiophylla,heartleaf suncup,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128734,27486,Active,Camissonia chamaenerioides,Long-capsuled Primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128741,27492,Active,Camissonia claviformis ssp. aurantiaca,Orange Clavate-fruited Primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128740,27491,Active,Camissonia claviformis ssp. claviformis,Brown-eyed Primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128754,27503,Active,Camissonia contorta,Contorted Sun-cup,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128767,27515,Active,Camissonia ignota,Jurupa Hills Suncups,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128773,27520,Active,Camissonia kernensis ssp. gilmanii,Gilman's Evening-primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128778,27525,Active,Camissonia micrantha,Small-flowered Evening-primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128787,27533,Active,Camissonia pallida ssp. hallii,Hall's suncup,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128786,27532,Active,Camissonia pallida ssp. pallida,"paleyellow suncup, pale-yellow suncup",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,128796,27541,Active,Camissonia refracta,Narrow Leaved Primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,126657,27292,Active,Epilobium canum ssp. latifolium,Mountain California-fuchsia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,204082,525177,Active,Oenothera californica ssp. avita,California Primrose,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Myrtales,Onagraceae,127829,27390,Active,Oenothera deltoides ssp. deltoides,Decumbens,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Pinales,Cupressaceae,103492,194816,Active,Juniperus californica,California Juniper,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Pinales,Pinaceae,93102,183353,Active,Pinus monophylla,Single-leaf Pinyon Pine,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Cyperaceae,146156,39578,Active,Carex douglasii,Douglas' Sedge,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Cyperaceae,138282,39888,Active,Cyperus esculentus,"chufa flatsedge, yellow nutgrass, yellow nutsedge",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Cyperaceae,156197,501940,Active,Cyperus squarrosus,Bearded Flatsedge,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Cyperaceae,140191,40051,Active,Eleocharis macrostachya,Common Spikerush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Cyperaceae,140204,40063,Active,Eleocharis parishii,Parish's Spikerush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Cyperaceae,291365,565758,Active,Scirpus americanus,American Tule,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Juncaceae,206354,524958,Active,Juncus acutus ssp. leopoldii,Wire grass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Juncaceae,143439,39223,Active,Juncus balticus,Baltic Rush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Juncaceae,143510,39288,Active,Juncus macrophyllus,Long-leaved Rush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Juncaceae,144375,39329,Active,Juncus xiphioides,Iris-leaved Rush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,168693,507943,Active,Achnatherum hymenoides,Indian Ricegrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,168724,507958,Active,Achnatherum speciosum,Desert Needlegrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,171664,508500,Active,Agrostis viridis,Water Bentgrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,140362,41401,Active,Aristida adscensionis,Six-weeks Three-awn,Aristida adscensionis var. abortiva,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,216324,531154,Active,Aristida purpurea var. fendleriana,Fendler Three-awn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,90811,185314,Active,Aristida purpurea var. longiseta,Red Three-awn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,90812,185315,Active,Aristida purpurea var. nealleyi,Purple Three-awn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,90813,185316,Active,Aristida purpurea var. parishii,Purple Threeawn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,90810,185313,Active,Aristida purpurea var. purpurea,purple threeawn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,90814,185317,Active,Aristida purpurea var. wrightii,Wright Three-awn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,140983,41483,Active,Bothriochloa barbinodis,Cane Bluestem,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,209730,526953,Active,Bouteloua aristidoides var. aristidoides,Needle Grama,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,141003,41500,Active,Bouteloua curtipendula,Sideoats Grama,Bouteloua curtipendula var. caespitosa,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,142976,40498,Active,Bromus diandrus,Ripgut Brome,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,207293,525345,Active,Bromus madritensis ssp. rubens,Red Brome,Bromus rubens,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,Cheatgrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,143552,40525,Active,Bromus trinii,Chilean Chess,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,Bermuda Grass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,Inland Saltgrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,155230,502210,Active,Echinochloa crus-galli,Barnyard Grass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,203124,525111,Active,Elymus elymoides ssp. brevifolius,squirreltail,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,203126,525112,Active,Elymus elymoides ssp. californicus,squirreltail,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,203128,525113,Active,Elymus elymoides ssp. elymoides,Squirreltail,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,144587,40719,Active,Eragrostis cilianensis,Stinkgrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,143290,41732,Active,Erioneuron pulchellum,Fluff Grass,"Tridens pulchellus, Dasyochloa pulchella",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,146261,40871,Active,Hordeum jubatum,Foxtail Barley,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,202798,524160,Active,Hordeum murinum ssp. glaucum,smooth barley,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,143388,41820,Active,Leptochloa uninervia,On-nerve Sprangletop,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,144108,41851,Active,Melica bulbosa,Oniongrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,144110,41853,Active,Melica frutescens,Tall Oniongrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,144113,41856,Active,Melica imperfecta,Small-flowered Melica,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,144148,41888,Active,Muhlenbergia microsperma,Littleseed Muhly,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,144199,41933,Active,Muhlenbergia porteri,Bushymuhly,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,161443,503883,Active,Muhlenbergia rigens,Deergrass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,146336,40939,Active,Panicum hirticaule,Panic Grass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,147319,41072,Active,Phragmites australis,Common Reed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,169485,507995,Active,Pleuraphis rigida,Big Galleta,Hilaria rigida,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,164251,504467,Active,Poa fendleriana,Mutton Grass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,148126,41171,Active,Polypogon monspeliensis,Rabbitfoot Beard Grass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,145164,42066,Active,Schismus barbatus,Common Mediterranean Grass,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,146055,42128,Active,Sporobolus airoides,Alkali Sacaton,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,Sand Dropseed,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,146717,42228,Active,Tridens muticus,Slim Tridens,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,215518,530860,Active,Vulpia microstachys var. pauciflora,Pacific Festuca,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,215522,530862,Active,Vulpia octoflora var. hirtella,sixweeks fescue,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Poaceae,215524,530863,Active,Vulpia octoflora var. octoflora,"eight-flower six-weeks grass, sixweeks fescue",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Typhaceae,147659,42325,Active,Typha angustifolia,Narrow-leaf Cattail,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Poales,Typhaceae,147661,42327,Active,Typha domingensis,Southern Cattail,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,78603,17521,Active,Dryopteris arguta,Wood Fern,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81002,17308,Active,Adiantum capillus-veneris,Southern Maiden-hair,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Pteridaceae,80913,17439,Active,Cheilanthes covillei,Coville's Lipfern,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Pteridaceae,154374,-502136,Active,Cheilanthes covillei X parryi,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Pteridaceae,153790,501477,Active,Cheilanthes parryi,Parry's Cloak Fern,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82452,17457,Active,Cheilanthes viscida,Viscid Lip-fern,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Pteridaceae,203396,524447,Active,Pentagramma triangularis ssp. maxonii,"Maxon's goldback fern, Maxon's goldfern",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Pteridaceae,203400,524449,Active,Pentagramma triangularis ssp. triangularis,"goldback fern, goldfern, western goldfern",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,85369,17745,Active,Woodsia oregana,Oregon Woodsia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,85380,17746,Active,Woodsia plummerae,Plummer's Cliff Fern,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102594,18916,Active,Argemone munita,Chicalote,Argemone munita ssp. argentea,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Papaveraceae,95632,18955,Active,Eschscholzia caespitosa,Tufted Eschscholzia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Papaveraceae,95665,18958,Active,Eschscholzia glyptosperma,Desert Golden Poppy,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Papaveraceae,96646,18963,Active,Eschscholzia minutiflora,Pygmy Poppy,Eschscholzia minutiflora ssp. minutiflora,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Papaveraceae,96657,18964,Active,Eschscholzia parishii,Parish's Poppy,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Papaveraceae,98196,18983,Active,Platystemon californicus,Cream Cups,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93504,18702,Active,Clematis ligusticifolia,"hierba de chivo, old-man's-beard, virgins bower, virginsbower, virgin's-bower, western white clematis",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93825,18707,Active,Clematis pauciflora,"Few-flowered Clematis, Yerba de Chiva",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92875,18487,Active,Delphinium parishii ssp. parishii,Desert Larkspur,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,94091,18489,Active,Delphinium parishii ssp. subglobosum,oceanblue larkspur,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Cannabaceae,102979,19045,Active,Celtis reticulata,Net-leaf Hackberry,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rhamnaceae,124747,28522,Active,Colubrina californica,Las Animas Colubrina,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rhamnaceae,212058,527468,Active,Condalia globosa var. pubescens,"bitter condalia, bitter snakewood",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rhamnaceae,192338,520016,Active,Rhamnus ilicifolia,Hollyleaf Redberry,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rhamnaceae,107452,196006,Active,Ziziphus obtusifolia var. canescens,Graythorn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rhamnaceae,161987,-503070,Active,Ziziphus parryi ssp. parryi,Lotebush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rosaceae,129629,25150,Active,Coleogyne ramosissima,Black Brush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rosaceae,171406,508134,Active,Ivesia saxosa,Rock Ivesia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Rosales,Rosaceae,106660,195897,Active,Purshia tridentata var. glandulosa,Desert Bitterbrush,Purshia glandulosa,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Santalales,Santalaceae,131285,27862,Active,Phoradendron californicum,Desert Mistletoe,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Santalales,Santalaceae,171393,508128,Active,Phoradendron densum,Dense Mistletoe,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Santalales,Santalaceae,131299,27875,Active,Phoradendron villosum,Oak Mistletoe,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126786,28791,Active,Rhus trilobata,Squawbush,Rhus trilobata var. pilosissima,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Sapindales,Meliaceae,128378,29024,Active,Melia azedarach,"China Berry, Persian Lilac",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Sapindales,Rutaceae,128356,29004,Active,Thamnosma montana,Turpentine Broom,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Sapindales,Simaroubaceae,151358,501319,Active,Castela emoryi,Crucifixion Thorn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Saxifragales,Crassulaceae,200344,524024,Active,Dudleya saxosa ssp. aloides,Panamint liveforever,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Convolvulaceae,154180,501847,Active,Cuscuta denticulata,Desert Dodder,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Solanaceae,134361,30521,Active,Datura wrightii,"Jimsonweed, Sacred Datura",,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Solanaceae,134373,30532,Active,Lycium andersonii,Anderson's Desert-thorn,"Lycium andersonii var. andersonii, Lycium andersonii var. deserticola",Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Solanaceae,134380,30539,Active,Lycium cooperi,Cooper's Box-thorn,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Solanaceae,170566,508057,Active,Nicotiana obtusifolia,Desert Tobacco,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Solanaceae,134443,30596,Active,Physalis crassifolia,Thickgroundcherry,Physalis crassifolia var. crassifolia,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Solanaceae,196277,519020,Active,Physalis lobata,,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Solanales,Solanaceae,163955,505276,Active,Solanum xanti,Purple Nightshade,,Probably Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Zygophyllales,Krameriaceae,158339,503288,Active,Krameria erecta,Pima Rhatany,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Zygophyllales,Krameriaceae,121914,26753,Active,Krameria grayi,White Rhatany,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128391,29036,Active,Fagonia laevis,California Fagonia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128393,29038,Active,Fagonia pachyacantha,Sticky Fagonia,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128399,29043,Active,Kallstroemia californica,California Caltrop,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128408,29051,Active,Larrea tridentata,Creosote Bush,,Present
+JOTR,Joshua Tree National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128414,29057,Active,Tribulus terrestris,Puncture-vine,,Present

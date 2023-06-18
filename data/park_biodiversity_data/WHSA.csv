@@ -1,0 +1,546 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+WHSA,White Sands National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,Pronghorn,,Present
+WHSA,White Sands National Park,Mammal,1,Artiodactyla,Bovidae,414461,625180,Active,Oryx gazella,Gemsbok,,Present
+WHSA,White Sands National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Common Gray Fox,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,Kit Fox,Vulpes velox,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,Felis concolor,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Mephitidae,93305,180567,Active,Conepatus leuconotus,White-backed Hog-nosed Skunk,Conepatus mesoleucus,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,,Present
+WHSA,White Sands National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,,Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Mexican Free-tailed bat,,Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,,Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88725,180003,Active,Myotis velifer,Cave Myotis,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,Black-tailed Jackrabbit,,Present
+WHSA,White Sands National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,599267,-711626,Inactive,Neotoma leucodon,Eastern White-throated Woodrat,Neotoma albigula,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,91773,180376,Active,Neotoma micropus,Southern Plains Woodrat,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,91779,180381,Active,Onychomys arenicola,Mearns's Grasshopper Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,90754,180286,Active,Peromyscus eremicus,Cactus Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,White-footed Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Cricetidae,91743,180349,Active,Sigmodon hispidus,Hispid Cotton Rat,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Geomyidae,672482,-744896,Inactive,Cratogeomys castanops,Yellow-faced Pocket Gopher,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Geomyidae,90676,180215,Active,Geomys arenarius,Desert Pocket Gopher,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Heteromyidae,260580,552483,Active,Chaetodipus hispidus,Hispid Pocket Mouse,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Heteromyidae,260586,552486,Active,Chaetodipus penicillatus,Sonoran Desert Pocket Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Heteromyidae,90705,180241,Active,Dipodomys merriami,Merriam's Kangaroo Rat,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Heteromyidae,90710,180246,Active,Dipodomys spectabilis,Banner-tailed Kangaroo Rat,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Heteromyidae,90727,180261,Active,Perognathus flavescens,Plains Pocket Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Heteromyidae,90728,180262,Active,Perognathus flavus,Silky Pocket Mouse,,Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,House Mouse,,Probably Present
+WHSA,White Sands National Park,Mammal,1,Rodentia,Sciuridae,89689,180159,Active,Spermophilus spilosoma,Spotted Ground Squirrel,,Present
+WHSA,White Sands National Park,Mammal,1,Soricomorpha,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's Desert Shrew,,Present
+WHSA,White Sands National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+WHSA,White Sands National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+WHSA,White Sands National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+WHSA,White Sands National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Western Red-tailed Hawk,,Present
+WHSA,White Sands National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+WHSA,White Sands National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+WHSA,White Sands National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+WHSA,White Sands National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common Merganser,Mergus merganser americanus,Present
+WHSA,White Sands National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+WHSA,White Sands National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+WHSA,White Sands National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+WHSA,White Sands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83029,177988,Active,Chordeiles acutipennis,Lesser Nighthawk,,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Charadriidae,77635,176510,Active,Charadrius alexandrinus,Snowy Plover,Charadrius alexandrinus nivosus,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Laridae,81079,176838,Active,Larus pipixcan,Franklin's Gull,,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed Dowitcher,,Present
+WHSA,White Sands National Park,Bird,2,Charadriiformes,Scolopacidae,79303,176686,Active,Limosa fedoa,Marbled Godwit,,Present
+WHSA,White Sands National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+WHSA,White Sands National Park,Bird,2,Columbiformes,Columbidae,82778,177162,Active,Columbina inca,Inca Dove,,Present
+WHSA,White Sands National Park,Bird,2,Columbiformes,Columbidae,82752,177139,Active,Streptopelia decaocto,Eurasian Collared-Dove,,Present
+WHSA,White Sands National Park,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,,Present
+WHSA,White Sands National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+WHSA,White Sands National Park,Bird,2,Cuculiformes,Cuculidae,89107,177836,Active,Geococcyx californianus,Greater Roadrunner,,Present
+WHSA,White Sands National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+WHSA,White Sands National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+WHSA,White Sands National Park,Bird,2,Galliformes,Odontophoridae,84296,175877,Active,Callipepla gambelii,Gambel's Quail,,Present
+WHSA,White Sands National Park,Bird,2,Galliformes,Odontophoridae,84291,175872,Active,Callipepla squamata,Scaled Quail,,Present
+WHSA,White Sands National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Present
+WHSA,White Sands National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,Eremophila alpestris occidentalis,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Calcariidae,85686,179530,Active,Calcarius ornatus,Chestnut-collared Longspur,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,94237,179132,Active,Cardinalis sinuatus,Pyrrhuloxia,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,88072,179884,Active,Piranga flava,Hepatic Tanager,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,88071,179883,Active,Piranga olivacea,Scarlet Tanager,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Cardinalidae,94273,179165,Active,Spiza americana,Dickcissel,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Corvidae,87105,179730,Active,Corvus cryptoleucus,Chihuahuan Raven,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,93641,179070,Active,Icterus cucullatus,Hooded Oriole,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,93634,179064,Active,Icterus spurius,Orchard Oriole,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,94219,179116,Active,Molothrus aeneus,Bronzed Cowbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,94211,179109,Active,Quiscalus mexicanus,Great-tailed Grackle,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,94206,179104,Active,Quiscalus quiscula,Common Grackle,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,Lanius ludovicianus sonoriensis,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Mimidae,90007,178652,Active,Toxostoma crissale,Crissal Thrasher,Toxostoma crissale dorsale,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Mimidae,89990,178637,Active,Toxostoma curvirostre,Curve-billed Thrasher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92645,178888,Active,Dendroica caerulescens,Black-throated Blue Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler (Audubon's),,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92672,178911,Active,Dendroica pensylvanica,Chestnut-sided Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,168055,-505796,Inactive,Helmitheros vermivorum,Worm-eating Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92700,178937,Active,Oporornis formosus,Kentucky Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,MacGillivray's Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92623,178868,Active,Parula americana,Northern Parula,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,168057,-505797,Inactive,Seiurus aurocapilla,Ovenbird,Seiurus aurocapillus,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92621,178866,Active,Vermivora luciae,Lucy's Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92739,178972,Active,Wilsonia citrina,Hooded Warbler,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,Wilsonia pusilla pileolata,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84745,179402,Active,Amphispiza belli,Sage Sparrow,Amphispiza belli nevadensis,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,Passerculus sandwichensis nevadensis,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,Pooecetes gramineus confinis,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84785,179439,Active,Spizella pallida,Clay-colored Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,Zonotrichia leucophrys oriantha,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passerellidae,84802,179454,Active,Zonotrichia querula,Harris's Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,Polioptila caerulea amoenissima,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Polioptilidae,88042,179857,Active,Polioptila melanura,Black-tailed Gnatcatcher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Ptilogonatidae,88064,179877,Active,Phainopepla nitens,Phainopepla,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Remizidae,90917,178759,Active,Auriparus flaviceps,Verdin,Auriparus flaviceps ornatus,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Troglodytidae,88356,178587,Active,Campylorhynchus brunneicapillus,Cactus Wren,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Turdidae,87174,179793,Active,Catharus minimus,Gray-cheeked Thrush,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+WHSA,White Sands National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+WHSA,White Sands National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,Cattle Egret,,Present
+WHSA,White Sands National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,,Present
+WHSA,White Sands National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+WHSA,White Sands National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,"Northern Flicker (red-shafted), Red-shafted Flicker (northern flicker)",,Present
+WHSA,White Sands National Park,Bird,2,Piciformes,Picidae,84858,178189,Active,Melanerpes formicivorus,Acorn Woodpecker,,Present
+WHSA,White Sands National Park,Bird,2,Piciformes,Picidae,85737,178260,Active,Picoides scalaris,Ladder-backed Woodpecker,,Present
+WHSA,White Sands National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+WHSA,White Sands National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+WHSA,White Sands National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79769,174202,Active,Arizona elegans,Painted Desert Glossy Snake,Arizona elegans philipi,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79800,174230,Active,Gyalopion canum,Chihuahuan Hook-nosed Snake,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79046,174155,Active,Heterodon nasicus,Western Hog-nosed Snake,Heterodon nasicus nasicus,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,Texas Nightsnake,"Hypsiglena torquata janii, Hypsiglena jani",Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,122635,209247,Active,Lampropeltis getula,Desert Kingsnake,Lampropeltis getula splendida,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79808,174238,Active,Masticophis flagellum,Western Coachwhip,"Masticophis flagellum testaceus, Coluber flagellum",Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,Desert Striped Whipsnake,Masticophis taeniatus taeniatus,Probably Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,Sonoran Gophersnake,Pituophis catenifer affinis,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79840,174267,Active,Rhinocheilus lecontei,Texas Long-nosed Snake,"Rhinocheilus lecontei tesselatus, Rhinocheilus lecontei tessellatus",Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79845,174271,Active,Salvadora hexalepis,Big Bend Patch-nosed Snake,"Salvadora deserticola, Salvadora hexalepis deserticola",Probably Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79849,174275,Active,Sonora semiannulata,Variable Groundsnake,Sonora semiannulata semiannulata,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,80795,174283,Active,Tantilla nigriceps,Plains Black-headed Snake,Tantilla nigriceps nigriceps,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,Western Black-necked Gartersnake,Thamnophis cyrtopsis cyrtopsis,Probably Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,Eastern Collared Lizard,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,Long-nosed Leopard Lizard,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Iguanidae,537754,683043,Active,Sceloporus cowlesi,Southwestern Fence Lizard,"Sceloporus undulatus, Sceloporus undulatus consobrinus",Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Iguanidae,77526,173873,Active,Sceloporus magister,Twin-spotted Spiny Lizard,"Sceloporus bimaculosus, Sceloporus magister bimaculosus",Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,Common Side-blotched Lizard,Uta stansburiana stejnegeri,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Leptotyphlopidae,80855,174337,Active,Leptotyphlops humilis,Trans-Pecos Threadsnake,Leptotyphlops humilis segregus,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Phrynosomatidae,77568,173910,Active,Cophosaurus texanus,Chihuahuan Greater Earless Lizard,Cophosaurus texanus scitulus,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Phrynosomatidae,78390,173927,Active,Holbrookia maculata,Bleached Earless Lizard,"Holbrookia maculata ruthveni, Holbrookia maculata approximans",Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Phrynosomatidae,78402,173938,Active,Phrynosoma cornutum,Texas Horned Lizard,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Phrynosomatidae,78407,173942,Active,Phrynosoma modestum,Round-tailed Horned Lizard,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Teiidae,564321,-695090,Inactive,Aspidoscelis exsanguis,Chihuahuan Spotted Whiptail,,Probably Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Teiidae,565052,-695107,Active,Aspidoscelis gypsi,Little White Whiptail,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Teiidae,667564,-745366,Inactive,Aspidoscelis inornata,Plains Striped Whiptail,"Cnemidophorus inornatus, Aspidoscelis inornatus llanuras, Aspidoscelis inornata llanuras, Cnemidophorus inornatus arizonae",Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Teiidae,564312,-695086,Inactive,Aspidoscelis marmorata,Western Marbled Whiptail,Aspidoscelis marmorata marmorata,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Teiidae,695985,-756569,Inactive,Aspidoscelis neomexicana,New Mexico Whiptail,Cnemidophorus neomexicanus,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Viperidae,80826,174310,Active,Crotalus atrox,Western Diamond-backed Rattlesnake,,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,Green Prairie Rattlesnake,Crotalus viridis viridis,Present
+WHSA,White Sands National Park,Reptile,3,Squamata,Viperidae,80819,174304,Active,Sistrurus catenatus,Desert Massasauga,Sistrurus catenatus edwardsii,Present
+WHSA,White Sands National Park,Reptile,3,Testudines,Emydidae,76884,173778,Active,Terrapene ornata,Desert Box Turtle,Terrapene ornata luteola,Present
+WHSA,White Sands National Park,Amphibian,4,Anura,Bufonidae,83325,173484,Active,Bufo cognatus,Great Plains Toad,Anaxyrus cognatus,Present
+WHSA,White Sands National Park,Amphibian,4,Anura,Bufonidae,83326,173485,Active,Bufo debilis,Western Green Toad,Bufo debilis insidior,Present
+WHSA,White Sands National Park,Amphibian,4,Anura,Bufonidae,84003,173491,Active,Bufo punctatus,Red-spotted Toad,Anaxyrus punctatus,Present
+WHSA,White Sands National Park,Amphibian,4,Anura,Scaphiopodidae,83264,173429,Active,Scaphiopus couchii,Couch's Spadefoot,,Present
+WHSA,White Sands National Park,Amphibian,4,Anura,Scaphiopodidae,115593,206989,Active,Spea bombifrons,Plains Spadefoot,,Present
+WHSA,White Sands National Park,Amphibian,4,Anura,Scaphiopodidae,115598,206993,Active,Spea multiplicata,Mexican Spadefoot,Spea multiplicata stagnalis,Present
+WHSA,White Sands National Park,Amphibian,4,Caudata,Ambystomatidae,75874,173592,Active,Ambystoma tigrinum,Barred Tiger Salamander,"Ambystoma tigrinum mavortium, Ambystoma mavortium mavortium",Present
+WHSA,White Sands National Park,Fish,5,Cyprinodontiformes,Cyprinodontidae,68908,165643,Active,Cyprinodon tularosa,White Sands pupfish,,Present
+WHSA,White Sands National Park,Vascular Plant,6,,,769247,-9801053,Active,Chrysothamnus nauseosus var. alyssoides,rubber rabbitbrush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,,,158031,-502502,Inactive,Lappula redowskii var. redowskii,stickseed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,,,164235,-504459,Active,Opuntia kleiniae var. kleiniae,Klein pencil cholla,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Alismatales,Ruppiaceae,141631,39063,Active,Ruppia maritima,widgeon grass,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asparagales,Asparagaceae,144221,43134,Active,Yucca baccata,datil yucca,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asparagales,Asparagaceae,144226,43139,Active,Yucca elata,soaptree yucca,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,140163,36454,Active,Acourtia nana,desert holly,Perezia nana,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,140168,36459,Active,Acroptilon repens,Russian knapweed,Centaurea repens,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,141407,36496,Active,Ambrosia artemisiifolia,ragweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,141458,36541,Active,Aphanostephus ramosissimus,plains dozedaisy,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,133588,35452,Active,Artemisia bigelovii,sagebrush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,133600,35463,Active,Artemisia filifolia,sand sagebrush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,134643,35684,Active,Baccharis bigelovii,bigelow baccharis,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,86066,183763,Active,Baccharis salicifolia,seepwillow baccharis,Baccharis glutinosa,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,134658,35698,Active,Baccharis salicina,willow baccharis,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,135831,36791,Active,Bahia absinthifolia,bahia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,102222,193381,Active,Bahia absinthifolia var. dealbata,Dealbata's bahia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,135837,36797,Active,Bahia pedata,bluntscale bahia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,135839,36799,Active,Baileya multiradiata,cloth of gold,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,136734,36882,Active,Brickellia laciniata,splitleaf brickellbush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,136792,36934,Active,Calycoseris wrightii,white cupfruit,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,136826,36965,Active,Centaurea melitensis,malta starthistle,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,137325,37055,Active,Chrysothamnus nauseosus,rubber rabbitbrush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,137357,37084,Active,Chrysothamnus pulchellus,southwest rabbitbrush,Ericameria pulchella var. pulchella,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,140094,36392,Active,Cirsium ochrocentrum,yellow thistle,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,140135,36429,Active,Cirsium wheeleri,wheeler thistle,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,137372,37098,Active,Clappia suaedifolia,clappia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,138585,37113,Active,Conyza canadensis,Canada horseweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,139526,37241,Active,Dicranocarpus parviflorus,pitchfork,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,139544,37258,Active,Dyssodia aurea,fetid marigold,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,139551,37264,Active,Dyssodia pentachaeta,common dogweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,287357,565159,Active,Engelmannia peristenia,Engelmann daisy,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,294302,566639,Active,Ericameria nauseosa var. glabrata,rubber rabbitbrush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,294311,566643,Active,Ericameria nauseosa var. latisquamea,rubber rabbitbrush,Ericameria nauseosa ssp. nauseosa var. latisquamea,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,181412,513019,Active,Erigeron arenarius,fleabane,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,216986,531032,Active,Erigeron bellidiastrum var. arenarius,sandwort daisy fleabane,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,155415,502384,Active,Erigeron colomexicanus,spreading daisy,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,136031,35852,Active,Erigeron divergens,spreading daisy,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,140490,37392,Active,Flourensia cernua,American tarbush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,141121,37482,Active,Gutierrezia microcephala,three leaf snakeweed,Xanthocephalum microcephalum,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,broom snakeweed,Xanthocephalum sarothrae,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,142204,36616,Active,Helianthus annuus,common sunflower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,133707,36671,Active,Helianthus petiolaris,prairie sunflower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,133709,36673,Active,Helianthus petiolaris ssp. fallax,prairie sunflower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,156587,503114,Active,Hymenoclea monogyra,singlewhorl burro-bush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,180358,514978,Active,Hymenopappus arenosus,hymenopappus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,212226,528517,Active,Hymenopappus filifolius var. cinereus,yellow cutleaf,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,143080,37783,Active,Hymenoxys odorata,bitter rubberweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,770764,-9801051,Active,Isocoma heterophyllus,jimmy weed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,143104,37804,Active,Isocoma pluriflora,"goldenweed, jimmy weed",Isocoma wrightii,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,137435,36036,Active,Iva dealbata,woolly marshelder,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,159207,503308,Active,Laennecia coulteri,Coulter's horseweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144661,37979,Active,Machaeranthera australis,goldenweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144667,37984,Active,Machaeranthera canescens,hoary tansy aster,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,201705,524291,Active,Machaeranthera canescens ssp. glabra,hoary tansy aster,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144683,37999,Active,Machaeranthera linearis,sand goldenweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144688,38002,Active,Machaeranthera parviflora,wild aster,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,201709,524293,Active,Machaeranthera pinnatifida ssp. pinnatifida,lacy tansyaster,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144693,38007,Active,Machaeranthera scabrella,goldenweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144697,38010,Active,Machaeranthera spinulosa,ironplant goldenweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144700,38013,Active,Machaeranthera tanacetifolia,tohoka daisy,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,144737,38047,Active,Malacothrix fendleri,Fendler's desert dandelion,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,135444,38165,Active,Parthenium incanum,mariola,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,135456,38176,Active,Pectis angustifolia,lemonweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,214264,529425,Active,Pectis angustifolia var. angustifolia,crownseed pectis,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,136399,38304,Active,Pseudoclappia arenaria,TransPecos false clapdaisy,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,136412,38316,Active,Psilostrophe tagetina,wooly paperflower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,217001,529900,Active,Psilostrophe tagetina var. tagetina,wooly paperflower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,136440,38341,Active,Ratibida columnifera,prairie coneflower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,137659,38360,Active,Sartwellia flaveriae,threadleaf sartwell,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,138465,36124,Active,Senecio douglasii,Douglas Groundsel,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,217259,530312,Active,Senecio flaccidus var. douglasii,Douglas senecio,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,217261,530313,Active,Senecio flaccidus var. flaccidus,threadleaf groundsel,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,195153,521330,Active,Senecio longilobus,threadleaf groundsel,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,138522,36176,Active,Senecio riddellii,Ridell groundsel,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,138531,36184,Active,Senecio spartioides,broom groundsel,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,137760,38451,Active,Stephanomeria pauciflora,wire lettuce,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,138107,38525,Active,Thelesperma megapotamicum,greenthread,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,139123,38601,Active,Verbesina encelioides,golden crownbeard,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,139125,38603,Active,Verbesina encelioides ssp. exauriculata,golden crownbeard,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Asterales,Asteraceae,139913,38715,Active,Zinnia grandiflora,Rocky Mountain zinnia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Boraginaceae,132057,31811,Active,Cryptantha fulvocanescens,yellow cryptantha,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Boraginaceae,213915,527561,Active,Cryptantha fulvocanescens var. fulvocanescens,tawny cryptantha,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Boraginaceae,214083,528677,Active,Lappula occidentalis var. cupulata,flatspine stickseed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Boraginaceae,128545,31410,Active,Nama carnosum,gype nama,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Boraginaceae,128549,31414,Active,Nama hispidum,hispid nama,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Ehretiaceae,161376,505515,Active,Tiquilia canescens,woody crinklemat,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Ehretiaceae,219976,530697,Active,Tiquilia canescens var. canescens,woody crinklemat,Coldenia canescens,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Ehretiaceae,161382,505518,Active,Tiquilia hispidissima,purple borage,Coldenia hispidissima,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130263,31635,Active,Heliotropium curassavicum,alkali heliotrope,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130276,31647,Active,Heliotropium greggii,heliotrope,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129818,31476,Active,Phacelia corrugata,blue-curls,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129820,31478,Active,Phacelia crenulata,scorpionweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,160652,504272,Active,Phacelia integrifolia,scalloped phacelia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128585,31447,Active,Phacelia robusta,phacelia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,122340,22826,Active,Descurainia pinnata,tansy mustard,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,153387,502067,Active,Dimorphocarpa wislizeni,Wislizeni's spectaclepod,"Dimorphocarpa wislizenii, Dithyrea wislizeni",Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,153452,502098,Active,Diplotaxis tenuifolia,slimleaf wallrocket,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,217983,531290,Active,Lepidium alyssoides var. angustifolium,"pepperweed, peppergrass",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,160467,503381,Active,Lepidium montanum,mountain pepperweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,232418,536671,Active,Lepidium montanum var. alyssoides,pepperweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125000,23180,Active,Lesquerella fendleri,Fendlers bladderpod,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125006,23186,Active,Lesquerella gordonii,Gordon's bladderpod,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125086,23258,Active,Nerisyrenia camporum,mustard,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125087,23259,Active,Nerisyrenia linearifolia,narrowleaf greggia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125952,23314,Active,Sisymbrium irio,London rocket,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,200513,522084,Active,Streptanthus arizonicus,Arizona jewel flower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Brassicaceae,203833,524726,Active,Streptanthus carinatus ssp. arizonicus,lyreleaf jewelflower,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Koeberliniaceae,120534,22648,Active,Koeberlinia spinosa,spiny allthorn,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Brassicales,Resedaceae,162688,504012,Active,Oligomeris linifolia,oligomeris,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,108595,19940,Active,Trianthema portulacastrum,horse purslane,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,112940,20677,Active,Allenrolfea occidentalis,"pickle-weed, iodinebush",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117602,20723,Active,Amaranthus blitoides,prostrate pigweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120123,20745,Active,Amaranthus retroflexus,pigweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111538,20518,Active,Atriplex canescens,four-wing saltbush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117671,20588,Active,Bassia hyssopifolia,smotherweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111892,20655,Active,Salsola kali,Russian thistle,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,Russian thistle,Salsola kali var. tenuifolia,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165468,505402,Active,Suaeda calceoliformis,pursh seepweed,Suaeda depressa,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165472,505404,Active,Suaeda moquinii,Torrey seepweed,Suaeda torreyana,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,112896,20673,Active,Suaeda suffrutescens,desert seepweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,219233,530599,Active,Suaeda suffrutescens var. detonsa,desert seepweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115202,20834,Active,Tidestromia lanuginosa,wooly tidestromia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,175696,511474,Active,Coryphantha fragrans,spinystar,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,106909,19828,Active,Coryphantha macromeris,nipple beehive cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,212133,527503,Active,Coryphantha macromeris var. macromeris,nipple beehive cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,212141,527507,Active,Coryphantha scheeri var. uncinata,Scheer's beehive cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,212143,527508,Active,Coryphantha scheeri var. valida,mulee,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,107709,19840,Active,Coryphantha vivipara,biscuit cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,106809,19819,Active,Echinocactus horizonthalonius,turkshead cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211005,527805,Active,Echinocactus horizonthalonius var. horizonthalonius,turkshead cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211024,527814,Active,Echinocereus coccineus var. gurneyi,Gurney's hedgehog cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211884,527828,Active,Echinocereus fendleri var. rectispinus,Fendler hedgehog cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105452,19815,Active,Echinocereus triglochidiatus,claret cup hedgehog cactus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101434,195371,Active,Echinocereus triglochidiatus var. triglochidiatus,claret cup hedgehog cactus,Echinocereus triglochidiatus var. gonacanthus,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211073,528098,Active,Escobaria vivipara var. radiosa,spinystar,Coryphantha vivipara var. radiosa,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211079,528100,Active,Escobaria vivipara var. vivipara,biscuit cactus,Coryphantha vivipara var. vivipara,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101373,195316,Active,Opuntia engelmannii,Engleman prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101374,195317,Active,Opuntia engelmannii var. engelmannii,Engelmann's pricklypear,Opuntia phaeacantha var. discata,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,104898,19711,Active,Opuntia imbricata,"tree cholla, walkingstick cholla",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100541,195281,Active,Opuntia imbricata var. imbricata,tree cholla,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,104931,19714,Active,Opuntia leptocaulis,"desert Christmas cactus, tesajo",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101386,195328,Active,Opuntia macrocentra var. macrocentra,purple pricklypear,Opuntia violacea var. macrocentra,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105897,19718,Active,Opuntia macrorhiza,tuberous prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100548,195288,Active,Opuntia macrorhiza var. pottsii,plains prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100555,195294,Active,Opuntia phaeacantha var. major,great pricklypear cactus,Opuntia phaeacantha var. brunnea,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100552,195291,Active,Opuntia phaeacantha var. phaeacantha,New Mexico prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105986,19726,Active,Opuntia polyacantha,starvation prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100557,195296,Active,Opuntia polyacantha var. polyacantha,starvation prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100559,195298,Active,Opuntia polyacantha var. rufispina,starvation prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,108430,19743,Active,Opuntia violacea,purple prickly pear,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,159523,504196,Active,Peniocereus greggii,night blooming cereus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,160908,505080,Active,Sclerocactus papyracanthus,grama grass cactus,Pediocactus papyracanthus,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Frankeniaceae,117486,22314,Active,Frankenia jamesii,frankenia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102534,19553,Active,Abronia angustifolia,sand verbena,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,106541,19579,Active,Allionia choisyi,smooth trailing four o'clock,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,106564,19581,Active,Allionia incarnata,trailing four o'clock,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,106586,19583,Active,Ammocodon chenopodioides,goosefoot moonpod,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,107355,19592,Active,Cyphomeris gypsophiloides,red cyphomeris,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100427,19654,Active,Mirabilis multiflora,Colorado four o'clock,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,109340,19614,Active,Selinocarpus diffusus,spreading moonpod,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,109351,19615,Active,Selinocarpus lanceolatus,gyp moonpod,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Plumbaginaceae,121534,21333,Active,Limonium limbatum,sea-lavender,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120757,21236,Active,Eriogonum rotundifolium,round leaf wild buckwheat,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118421,20962,Active,Rumex hymenosepalus,canaigre,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,purslane,Portulaca retusa,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113175,20425,Active,Portulaca pilosa,shaggy portulaca,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117479,22308,Active,Tamarix chinensis,salt cedar,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117475,22304,Active,Tamarix gallica,"French tamarix, salt cedar",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117482,22310,Active,Tamarix ramosissima,"salt cedar, tamarisk",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cornales,Loasaceae,107731,19842,Active,Cevallia sinuata,cevallia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cornales,Loasaceae,184970,517008,Active,Mentzelia integra,Adonis blazingstar,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cornales,Loasaceae,159716,503787,Active,Mentzelia multicaulis,mentzelia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cornales,Loasaceae,159718,503788,Active,Mentzelia multiflora,desert mentzelia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cornales,Loasaceae,214490,529148,Active,Mentzelia multiflora var. integra,desert mentzelia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cornales,Loasaceae,160298,503800,Active,Mentzelia pumila,stick-leaf,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cornales,Loasaceae,215198,529155,Active,Mentzelia pumila var. pumila,blazing star,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118483,22368,Active,Cucurbita foetidissima,buffalo gourd,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118500,22383,Active,Ibervillea tenuisecta,globe berry,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156858,502318,Active,Ephedra torreyana,Mormon tea,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Ephedrales,Ephedraceae,216353,531168,Active,Ephedra torreyana var. torreyana,Torrey's mormon tea,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Ephedrales,Ephedraceae,94064,183498,Active,Ephedra trifurca,canatilla,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Ericales,Fouquieriaceae,159988,502645,Active,Fouquieria splendens,ocotillo,Fouquieria splendens ssp. splendens,Present
+WHSA,White Sands National Park,Vascular Plant,6,Ericales,Polemoniaceae,126978,31198,Active,Ipomopsis longiflora,pale trumpets,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Ericales,Polemoniaceae,127531,31217,Active,Ipomopsis pumila,low gilia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,121417,25408,Active,Astragalus allochrous,halfmoon loco,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,97858,192807,Active,Astragalus allochrous var. playanus,halfmoon loco,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,123111,25730,Active,Astragalus wootonii,Wooton's milkvetch,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,129963,26616,Active,Dalea formosa,feather dalea,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,161244,503048,Active,Hoffmannseggia glauca,Indian rushpea,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,121893,26734,Active,Hoffmanseggia glauca,hog-potato,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,alfalfa,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,yellow sweet clover,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,123657,26879,Active,Prosopis glandulosa,honey mesquite,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,215957,529863,Active,Prosopis glandulosa var. torreyana,honey mesquite,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,159878,504647,Active,Psorothamnus scoparius,broompea,Dalea scoparia,Present
+WHSA,White Sands National Park,Vascular Plant,6,Fabales,Fabaceae,162186,505159,Active,Senna lindheimeriana,senna,Cassia lindheimeriana,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130872,30131,Active,Amsonia arenaria,blue-star,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131799,30246,Active,Asclepias arenaria,sand milkweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131804,30250,Active,Asclepias brachystephana,milkweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131834,30278,Active,Asclepias latifolia,broadleaf milkweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131868,30308,Active,Asclepias subverticillata,poison milkweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Gentianaceae,129022,30028,Active,Centaurium calycosum,Arizona centaury,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Gentianaceae,167815,507850,Active,Centaurium maryannum,gypsum centaury,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Gentianaceae,129033,30038,Active,Centaurium texense,Lady Birds centaury,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Gentianaceae,129050,30053,Active,Eustoma exaltatum,catch-fly gentian,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Gentianaceae,129051,30054,Active,Eustoma grandiflorum,bluebell,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Gentianales,Rubiaceae,138772,34909,Active,Galium proliferum,Great Basin beadstraw,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134519,34318,Active,Chilopsis linearis,desert willow,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,203452,523851,Active,Chilopsis linearis ssp. linearis,desert willow,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Lamiaceae,135629,32515,Active,Hedeoma nanum,false pennyroyal,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Lamiaceae,164295,504488,Active,Poliomintha incana,hoary rosemarymint,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Martyniaceae,159811,504615,Active,Proboscidea parviflora,New Mexico devils claw,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,161635,503474,Active,Linaria dalmatica,dalmatian toadflax,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133079,32134,Active,Aloysia wrightii,Wright's beebrush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Verbenaceae,157507,502783,Active,Glandularia bipinnatifida,Dakota mock vervain,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133949,32197,Active,Phyla nodiflora,Texas frog-fruit,Phyla incisa,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133022,32083,Active,Verbena bipinnatifida,Dakota verbena,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,prostrate vervain,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153214,501400,Active,Chamaesyce albomarginata,whitemargin spurge,Euphorbia albomarginata,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153285,501434,Active,Chamaesyce lata,hoary euphorbia,Euphorbia lata,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153337,501459,Active,Chamaesyce serrula,sawtooth spurge,Euphorbia serrula,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153773,501469,Active,Chamaesyce villifera,spurge,Euphorbia villifera,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123536,28271,Active,Croton dioicus,croton,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119649,22452,Active,Populus angustifolia,narrowlead cottonwood,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119644,22448,Active,Populus deltoides var. wislizenii,Rio Grande cottonwood,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119656,22459,Active,Populus fremontii,Fremont poplar,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Salicaceae,105798,195713,Active,Populus wislizeni,Rio Grande cottonwood,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119745,22539,Active,Salix gooddingii,goodding willow,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malvales,Malvaceae,124904,21845,Active,Malvella lepidota,"scurfy mallow, scurfymallow",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malvales,Malvaceae,124905,21846,Active,Malvella leprosa,scrufy sida,Sida leprosa var. depauperata,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malvales,Malvaceae,124982,21915,Active,Sphaeralcea angustifolia,narrow-leaf globemallow,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Malvales,Malvaceae,125815,21942,Active,Sphaeralcea hastulata,globemallow,"Sphaeralcea subhastata, Sphaeralcea arenaria",Present
+WHSA,White Sands National Park,Vascular Plant,6,Malvales,Malvaceae,125816,21943,Active,Sphaeralcea incana,soft globemallow,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Myrtales,Onagraceae,155631,501159,Active,Calylophus hartwegii,yellow evening primrose,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Myrtales,Onagraceae,201971,523731,Active,Calylophus hartwegii ssp. fendleri,Hartweg's sundrops,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Myrtales,Onagraceae,129445,27646,Active,Gaura coccinea,scarlet gaura,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Myrtales,Onagraceae,287457,565206,Active,Gaura mollis,lizard tail,Gaura parviflora,Present
+WHSA,White Sands National Park,Vascular Plant,6,Myrtales,Onagraceae,127810,27373,Active,Oenothera albicaulis,prairie evening primrose,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Myrtales,Onagraceae,127882,27438,Active,Oenothera pallida ssp. gypsophila,pale evening primrose,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Myrtales,Onagraceae,127883,27439,Active,Oenothera pallida ssp. runcinata,white evening primrose,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Pinales,Cupressaceae,103533,194853,Active,Juniperus monosperma,one seed juniper,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Cyperaceae,171421,508141,Active,Schoenoplectus americanus,bullrush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Cyperaceae,195269,521093,Active,Schoenoplectus maritimus,salt marsh bulrush,"Scirpus maritimus, Bolboschoenus maritimus ssp. paludosus",Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Juncaceae,143517,39294,Active,Juncus mexicanus,rush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Juncaceae,144366,39320,Active,Juncus torreyi,Torrey rush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,168693,507943,Active,Achnatherum hymenoides,Indian ricegrass,Oryzopsis hymenoides,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,140362,41401,Active,Aristida adscensionis,six-weeks threeawn,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,140392,41429,Active,Aristida purpurea,purple threeawn,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,90811,185314,Active,Aristida purpurea var. longiseta,purple threeawn,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,140416,41450,Active,Arundo donax,giant reed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,140998,41497,Active,Bouteloua aristidoides,needle grama,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,140999,41498,Active,Bouteloua barbata,six-weeks grama,Bouteloua barbata var. barbata,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,140993,41492,Active,Bouteloua breviseta,gyp grama,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,141003,41500,Active,Bouteloua curtipendula,side-oats grama,,Probably Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,141004,41501,Active,Bouteloua eriopoda,black grama,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,blue grama,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,141005,41502,Active,Bouteloua hirsuta,hairy grama,,Probably Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,141071,41562,Active,Chloris crinita,twoflower chloris,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,141066,41558,Active,Chloris virgata,feather fingergrass,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,177219,512087,Active,Dasyochloa pulchella,fluff grass,Erioneuron pulchellum,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,saltgrass,Distichlis spicata ssp. stricta,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,144156,41895,Active,Muhlenbergia arenacea,ear muhly,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,144160,41899,Active,Muhlenbergia asperifolia,scratchgrass,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,144199,41933,Active,Muhlenbergia porteri,bush muhly,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,144200,41934,Active,Muhlenbergia pungens,sandhill muhly,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,147319,41072,Active,Phragmites australis,common reed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,169483,507994,Active,Pleuraphis mutica,tobosagrass,Hilaria mutica,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,145997,42076,Active,Schizachyrium scoparium,bluestem,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,207004,525009,Active,Schizachyrium scoparium ssp. scoparium,bluestem,Schizachyrium neomexicanum,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,146006,42084,Active,Scleropogon brevifolius,burrograss,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,139263,41249,Active,Setaria leucopila,plains bristlegrass,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,146055,42128,Active,Sporobolus airoides,alkali sacaton,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,146059,42131,Active,Sporobolus contractus,spike dropseed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,sand dropseed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,146065,42137,Active,Sporobolus flexuosus,mesa dropseed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,146066,42138,Active,Sporobolus giganteus,giant dropseed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,146073,42144,Active,Sporobolus nealleyi,gypgrass,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Poaceae,164799,505348,Active,Sporobolus wrightii,Wright sacaton,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Typhaceae,147659,42325,Active,Typha angustifolia,narrow-leaved cattail,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Poales,Typhaceae,147660,42326,Active,Typha latifolia,broadleaf cattail,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102836,18926,Active,Argemone polyanthemos,prickly poppy,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130518,27770,Active,Elaeagnus angustifolia,Russian olive,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Rosales,Rhamnaceae,124760,28534,Active,Condalia spathulata,knifeleaf condalia,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Rosales,Rosaceae,129647,25167,Active,Fallugia paradoxa,Apache plume,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Santalales,Santalaceae,203510,523879,Active,Comandra umbellata ssp. pallida,pale bastard toad flax,Comandra pallida,Present
+WHSA,White Sands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126772,28779,Active,Rhus aromatica,"squaw-bush, sumac",,Present
+WHSA,White Sands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126782,28788,Active,Rhus microphylla,littleleaf sumac,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126786,28791,Active,Rhus trilobata,skunkbush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,213717,530010,Active,Rhus trilobata var. pilosissima,skunkbush,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,213725,530014,Active,Rhus trilobata var. trilobata,skunkbush,Rhus aromatica ssp. flabelliformis,Present
+WHSA,White Sands National Park,Vascular Plant,6,Sapindales,Nitrariaceae,128410,29053,Active,Peganum harmala,African rue,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137117,30832,Active,Cressa truxillensis,dressa,Cressa depressa,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137135,30849,Active,Evolvulus sericeus,evolvulus,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Convolvulaceae,136134,30789,Active,Ipomoea purpurea,common morning glory,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Solanaceae,134361,30521,Active,Datura wrightii,jimson weed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Solanaceae,213559,529034,Active,Lycium berlandieri var. parviflorum,terrac wolfberry,Lycium parviflorum,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Solanaceae,134386,30544,Active,Lycium pallidum,pale wolfberry,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Solanaceae,134391,30549,Active,Lycium torreyi,Torrey wolfberry,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Solanales,Solanaceae,132669,30429,Active,Solanum elaeagnifolium,silverleaf nightshade,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128401,29045,Active,Kallstroemia hirsutissima,carpetweed,,Present
+WHSA,White Sands National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128408,29051,Active,Larrea tridentata,creosote bush,,Present

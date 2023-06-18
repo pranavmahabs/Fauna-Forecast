@@ -1,0 +1,1373 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+ROMO,Rocky Mountain National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,Pronghorn Antelope,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Artiodactyla,Bovidae,86816,183838,Active,Bos taurus,"aurochs, Aurochs, domestic cattle (feral), domesticated cattle",,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,bighorn sheep,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Artiodactyla,Cervidae,95052,180703,Active,Alces alces,Moose,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,"wapiti, or American elk",,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,mule deer,Odocoileus hemionus hemionus,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,white-tailed deer,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,coyote,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,gray fox,,Probably Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,red fox,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Felidae,93325,180585,Active,Lynx canadensis,lynx,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,striped skunk,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,western spotted skunk,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mustelidae,93288,180551,Active,Gulo gulo,wolverine,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,river otter,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mustelidae,93296,180559,Active,Martes americana,marten,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,ermine,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,long-tailed weasel,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,Mink,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,badger,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,raccoon,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,black bear,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's big-eared bat,Plecotus townsendii,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,silver-haired bat,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,hoary bat,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western small-footed myotis,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,long-eared myotis,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,little brown bat,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,long-legged myotis,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,snowshoe hare,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Lagomorpha,Leporidae,89644,180118,Active,Lepus townsendii,white-tailed jackrabbit,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,nuttall's cottontail,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Lagomorpha,Ochotonidae,89634,180109,Active,Ochotona princeps,pika,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,beaver,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,90763,180294,Active,Clethrionomys gapperi,southern red-backed vole,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,long-tailed vole,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,91701,180310,Active,Microtus montanus,montane vole,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,bushy-tailed woodrat,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,91772,180375,Active,Neotoma mexicana,mexican woodrat,,Probably Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,muskrat,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,deer mouse,Peromyscus maniculatus rufinus,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,260607,552496,Active,Peromyscus nasutus,rock mouse,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Cricetidae,91754,180359,Active,Phenacomys intermedius,heather vole,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Dipodidae,91785,180387,Active,Zapus princeps,western jumping mouse,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,porcupine,Erethizon dorsatum epixanthum,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,northern pocket gopher,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,yellow-bellied marmot,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,89705,180173,Active,Sciurus aberti,Abert's squirrel,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,89704,180172,Active,Sciurus niger,Fox Squirrel,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,89682,180152,Active,Spermophilus elegans,Wyoming ground squirrel,Spermophilus elegans elegans,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,89684,180154,Active,Spermophilus lateralis,golden-mantled ground squirrel,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,rock squirrel,,Probably Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,90653,180195,Active,Tamias minimus,least chipmunk,Tamias minimus operarius,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,90661,180201,Active,Tamias quadrivittatus,Colorado chipmunk,,Probably Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,90669,180209,Active,Tamias umbrinus,uinta chipmunk,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,"chickaree, Pine Squirrel",,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Soricomorpha,Soricidae,88122,179929,Active,Sorex cinereus,masked shrew,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Soricomorpha,Soricidae,88660,179946,Active,Sorex hoyi,pygmy shrew,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Soricomorpha,Soricidae,88665,179950,Active,Sorex monticolus,montane shrew,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Soricomorpha,Soricidae,88666,179951,Active,Sorex nanus,dwarf shrew,,Present
+ROMO,Rocky Mountain National Park,Mammal,1,Soricomorpha,Soricidae,88127,179933,Active,Sorex palustris,water shrew,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,79570,175357,Active,Buteo jamaicensis harlani,Harlan's Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,303665,571694,Active,Buteo jamaicensis kriderii,Krider's Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,79579,175365,Active,Buteo platypterus,Broad-winged Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77723,175020,Active,Anser albifrons,Greater White-fronted Goose,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,77839,175125,Active,Aythya americana,Redhead,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked Duck,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,78513,175129,Active,Aythya valisineria,Canvasback,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,78530,175144,Active,Bucephala islandica,Barrow's Goldeneye,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common Merganser,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,Ruddy Duck,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Apodiformes,Apodidae,83039,177997,Active,Cypseloides niger,Black Swift,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Apodiformes,Trochilidae,83884,178032,Active,Archilochus colubris,Ruby-throated hummingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Laridae,81883,176959,Active,Chlidonias niger,Black Tern,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,Herring Gull,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California Gull,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Laridae,81080,176839,Active,Larus philadelphia,Bonaparte's Gull,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Laridae,81079,176838,Active,Larus pipixcan,Franklin's Gull,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Laridae,81133,176887,Active,Sterna forsteri,Forster's Tern,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79222,176612,Active,Actitis macularia,Spotted Sandpiper,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79269,176655,Active,Calidris bairdii,Baird's Sandpiper,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79250,176638,Active,Catoptrophorus semipalmatus,Willet,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,80257,176700,Active,Gallinago gallinago,Wilson's Snipe,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79303,176686,Active,Limosa fedoa,Marbled Godwit,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,80295,176735,Active,Phalaropus lobatus,Red-necked Phalarope,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser Yellowlegs,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Columbiformes,Columbidae,82670,177065,Active,Columba fasciata,Band-tailed Pigeon,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,,Probably Present
+ROMO,Rocky Mountain National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Galliformes,Phasianidae,84278,175860,Active,Dendragapus obscurus,Dusky Grouse,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Galliformes,Phasianidae,83172,175827,Active,Lagopus leucurus,White-tailed Ptarmigan,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,Common Loon,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Gruiformes,Rallidae,87281,176284,Active,Gallinula chloropus,Common Moorhen,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Bombycillidae,88292,178529,Active,Bombycilla garrulus,Bohemian Waxwing,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Calcariidae,85680,179525,Active,Calcarius mccownii,McCown's Longspur,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Cardinalidae,88072,179884,Active,Piranga flava,Hepatic Tanager,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Cardinalidae,88071,179883,Active,Piranga olivacea,Scarlet Tanager,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,86252,179680,Active,Cyanocitta cristata,Blue Jay,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,86237,179667,Active,Perisoreus canadensis,Gray Jay,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Corvidae,87094,179720,Active,Pica pica,Black-billed Magpie,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,95280,179230,Active,Carduelis flammea,Common Redpoll,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,94337,179222,Active,Leucosticte atrata,Black Rosy-Finch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,94338,179223,Active,Leucosticte australis,Brown-capped Rosy-Finch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,83794,179268,Active,Loxia leucoptera,White-winged Crossbill,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Hirundinidae,87415,178453,Active,Hirundo pyrrhonota,Cliff Swallow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,93664,179091,Active,Euphagus carolinus,Rusty Blackbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,93655,179083,Active,Icterus galbula,Baltimore Oriole,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,94206,179104,Active,Quiscalus quiscula,Common Grackle,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,"Northern Shrike, Great Gray Shrike",,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,Parus atricapillus,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,Parus gambeli,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92645,178888,Active,Dendroica caerulescens,Black-throated Blue Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92673,178912,Active,Dendroica castanea,Bay-breasted Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92652,178894,Active,Dendroica coronata auduboni,Audubon's Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92650,178892,Active,Dendroica coronata coronata,Myrtle Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92664,178904,Active,Dendroica fusca,Blackburnian Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92669,178909,Active,Dendroica graciae,Grace's Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92643,178886,Active,Dendroica magnolia,Magnolia Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92683,178921,Active,Dendroica palmarum,Palm Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92672,178911,Active,Dendroica pensylvanica,Chestnut-sided Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92644,178887,Active,Dendroica tigrina,Cape May Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92656,178898,Active,Dendroica virens,Black-throated Green Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,91019,178850,Active,Helmitheros vermivorus,Worm-eating Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,Macgillivray's Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92623,178868,Active,Parula americana,Northern Parula,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92689,178927,Active,Seiurus aurocapillus,Ovenbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,91021,178852,Active,Vermivora chrysoptera,Golden-winged Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,91024,178855,Active,Vermivora peregrina,Tennessee Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92739,178972,Active,Wilsonia citrina,Hooded Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84745,179402,Active,Amphispiza belli,Sage Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,637412,730152,Active,Junco hyemalis caniceps,Gray-headed Junco,Junco hyemalis caniceps,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84760,179416,Active,Junco hyemalis mearnsi,Pink-sided Junco,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84762,179418,Active,Junco hyemalis shufeldti,Oregon Junco,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,85612,179464,Active,Passerella iliaca,Fox Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84785,179439,Active,Spizella pallida,Clay-colored Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passerellidae,84802,179454,Active,Zonotrichia querula,Harris’s Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Sittidae,90949,178788,Active,Sitta pygmaea,Pygmy Nuthatch,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Troglodytidae,1112527,,Inactive,Troglodytes pacificus,,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Troglodytidae,88312,178547,Active,Troglodytes troglodytes,Winter Wren,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87177,179796,Active,Catharus fuscescens,Veery,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87156,179777,Active,Hylocichla mustelina,Wood Thrush,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87152,179773,Active,Ixoreus naevius,Varied Thrush,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87184,179801,Active,Sialia sialis,Eastern Bluebird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85853,178365,Active,Contopus borealis,Olive-sided Flycatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85830,178344,Active,Empidonax minimus,Least Flycatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85757,178279,Active,Tyrannus tyrannus,Eastern Kingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Vireonidae,266864,554456,Active,Vireo cassinii,Cassin's Vireo,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Vireonidae,93552,178991,Active,Vireo griseus,White-eyed Vireo,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,Plumbeous Vireo,Vireo solitarius,Present
+ROMO,Rocky Mountain National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Pelecaniformes,Ardeidae,84508,174856,Active,Botaurus lentiginosus,American Bittern,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Pelecaniformes,Ardeidae,84497,174846,Active,Ixobrychus exilis,Least Bittern,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,White-faced Ibis,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,84855,178186,Active,Melanerpes erythrocephalus,Red-headed Woodpecker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis’s Woodpecker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,84928,178251,Active,Picoides tridactylus,American Three-toed Woodpecker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,Sphyrapicus varius,Present
+ROMO,Rocky Mountain National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Podicipediformes,Podicipedidae,81686,174482,Active,Podiceps auritus,Horned Grebe,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,Eared Grebe,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Strigiformes,Strigidae,82974,177938,Active,Aegolius funereus,Boreal Owl,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Strigiformes,Strigidae,82935,177902,Active,Glaucidium gnoma,Northern Pygmy-Owl,,Present
+ROMO,Rocky Mountain National Park,Bird,2,Strigiformes,Strigidae,80741,177856,Active,Otus asio,Eastern Screech-owl,Otus kennicottii,Present
+ROMO,Rocky Mountain National Park,Bird,2,Strigiformes,Strigidae,80765,177878,Active,Otus flammeolus,Flammulated Owl,,Present
+ROMO,Rocky Mountain National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,western terrestrial garter snake,,Present
+ROMO,Rocky Mountain National Park,Reptile,3,Squamata,Iguanidae,77517,173865,Active,Sceloporus undulatus,Eastern fence lizard,,Probably Present
+ROMO,Rocky Mountain National Park,Amphibian,4,Anura,Bufonidae,116685,207127,Active,Bufo boreas boreas,Boreal Toad,,Present
+ROMO,Rocky Mountain National Park,Amphibian,4,Anura,Hylidae,118899,207312,Active,Pseudacris maculata,boreal chrous frog,Pseudacris triseriata,Present
+ROMO,Rocky Mountain National Park,Amphibian,4,Anura,Ranidae,83277,173440,Active,Rana sylvatica,wood frog,,Present
+ROMO,Rocky Mountain National Park,Amphibian,4,Caudata,Ambystomatidae,75874,173592,Active,Ambystoma tigrinum,tiger salamander,"Ambystoma tigrinum nebulosum, Ambystoma tigrinum utahense",Present
+ROMO,Rocky Mountain National Park,Fish,5,Cypriniformes,Catostomidae,65704,163894,Active,Catostomus catostomus,western longnose sucker,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Cypriniformes,Catostomidae,65705,163895,Active,Catostomus commersoni,western white sucker,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Salmoniformes,Salmonidae,71777,161983,Active,Oncorhynchus clarkii,cutthroat trout,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Salmoniformes,Salmonidae,262033,553416,Active,Oncorhynchus clarkii bouvieri,Yellowstone cutthroat trout,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Salmoniformes,Salmonidae,262754,553429,Active,Oncorhynchus clarkii pleuriticus,Colorado river cutthroat trout,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Salmoniformes,Salmonidae,114434,201901,Active,Oncorhynchus clarkii stomias,greenback cutthroat trout,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Salmoniformes,Salmonidae,71783,161989,Active,Oncorhynchus mykiss,rainbow trout,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Salmoniformes,Salmonidae,71792,161997,Active,Salmo trutta,brown trout,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Salmoniformes,Salmonidae,71801,162003,Active,Salvelinus fontinalis,brook trout,,Present
+ROMO,Rocky Mountain National Park,Fish,5,Scorpaeniformes,Cottidae,70728,167237,Active,Cottus bairdii,mottled sculpin,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Araceae,149495,42590,Active,Lemna minor,Duckweed,Lemna minuscula,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Araceae,159321,503362,Active,Lemna turionifera,turion duckweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Hydrocharitaceae,140828,38940,Active,Elodea bifoliata,"two leaf waterweed, Waterweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Juncaginaceae,162639,505588,Active,Triglochin maritimum,Arrowgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Juncaginaceae,141548,38989,Active,Triglochin palustre,Swamp Arrowgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141584,39020,Active,Potamogeton alpinus,Pondweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141591,39027,Active,Potamogeton epihydrus,ribbonleaf pondweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141597,39032,Active,Potamogeton gramineus,Pondweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141570,39008,Active,Potamogeton natans,Pondweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141580,39017,Active,Potamogeton pusillus,Pondweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,292289,566095,Active,Stuckenia filiformis ssp. alpinus,Pondweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,287316,565547,Active,Stuckenia pectinatus,Pondweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,132568,29433,Active,Angelica ampla,Angelica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,132579,29443,Active,Angelica grayi,Grays Angelica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,132584,29448,Active,Angelica pinnata,"smallleaf angelica, small-leaf angelica",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,134751,29610,Active,Carum carvi,Caraway,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,133391,29457,Active,Cicuta douglasii,Water Hemlock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,133407,29471,Active,Conioselinum scopulorum,Hemlock-Parsley,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,133409,29473,Active,Conium maculatum,Poison Hemlock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,134814,29668,Active,Harbouria trachypleura,Whiskbroom Parsley,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,160212,502953,Active,Heracleum maximum,"common cowparsnip, cow parsnip, cowparsnip",Heracleum sphondylium ssp. montanum,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,133473,29530,Active,Ligusticum filicinum,"fernleaf licoriceroot, fernleaf licorice-root",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,133475,29532,Active,Ligusticum porteri,Lovage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,126345,29779,Active,Oreoxis alpina,"alpine oreoxis, tundra alpine-parsley",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,126358,29790,Active,Osmorhiza depauperata,Sweet Cicely,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,133490,29546,Active,Oxypolis fendleri,Cowbane,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,126410,29837,Active,Pseudocymopterus montanus,Sweet Cicily,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Apiaceae,126431,29856,Active,Sanicula marilandica,"Sanicle, Snakeroot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Apiales,Araliaceae,132504,29376,Active,Aralia nudicaulis,Wild Sarsaparilla,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150333,42717,Active,Allium brevistylum,Short-styled Onion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150338,42721,Active,Allium cernuum,Nodding Onion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149554,42643,Active,Allium geyeri,Geyer Onion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Asparagaceae,140583,42784,Active,Asparagus officinalis,Asparagus,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Asparagaceae,141708,42957,Active,Leucocrinum montanum,Sand Lily,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Asparagaceae,201715,524296,Active,Maianthemum racemosum ssp. amplexicaule,False Solomon's Seal,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Asparagaceae,157789,503656,Active,Maianthemum stellatum,Few Flowered Solomon's Seal,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Iridaceae,144318,43221,Active,Iris missouriensis,"Rocky Mt. Iris, Blue Flag",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Iridaceae,145188,43269,Active,Sisyrinchium montanum,Blue-eyed Grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Iridaceae,163901,505250,Active,Sisyrinchium pallidum,pale blue-eyed grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147938,43508,Active,Calypso bulbosa,Calypso,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,210225,525507,Active,Coeloglossum viride ssp. bracteatum,long-bract frog orchid,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147955,43523,Active,Corallorrhiza maculata,Spotted Coral-root,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147958,43526,Active,Corallorrhiza striata,Striped Coral-root,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147959,43527,Active,Corallorrhiza trifida,Green Coral-root,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147960,43528,Active,Corallorrhiza wisteriana,Spring Coral-root,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147977,43543,Active,Cypripedium fasciculatum,"Brownie Ladyslipper, Purple Ladyslipper",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,226562,534229,Active,Cypripedium parviflorum var. pubescens,Yellow Ladyslipper,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,148032,43593,Active,Goodyera oblongifolia,Rattlesnake-plantain,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,187983,515940,Active,Limnorchis hyperborea,northern green orchid,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,149607,43631,Active,Listera borealis,"northern listera, northern twayblade",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,149609,43633,Active,Listera convallarioides,Twayblade,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,205473,526068,Active,Listera cordata ssp. nephrophylla,Heart-leaved Twayblade,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,111099,196398,Active,Platanthera dilatata var. dilatata,White Bog-orchid,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,290105,565412,Active,Platanthera huronensis,Huron green orchid,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,146996,43411,Active,Platanthera obtusata,One-leaved Bog-orchid,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147026,43439,Active,Platanthera stricta,"Modoc bog orchid, slender bog orchid",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asparagales,Orchidaceae,147064,43473,Active,Spiranthes romanzoffiana,Lady's Tresses,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,207757,526856,Active,Achillea millefolium var. occidentalis,Yarrow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141398,36488,Active,Agoseris aurantiaca,Burnt-orange Dandelion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,85167,182408,Active,Agoseris glauca var. agrestis,Tall False-dandelion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,85168,182409,Active,Agoseris glauca var. dasycephala,"pale agoseris, pale goat-chicory",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,85166,182407,Active,Agoseris glauca var. glauca,pale agoseris,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,85170,182410,Active,Agoseris glauca var. laciniata,"Arizona mountain dandelion, false agoseris",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141435,36520,Active,Ambrosia tomentosa,"Rag-weed, Skeletonleaf bursage",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141444,36529,Active,Anaphalis margaritacea,Pearly Everlasting,Anaphalis margaritacea var. angustior,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133768,36726,Active,Antennaria corymbosa,"flattop pussytoes, flat-top pussytoes, meadow everlasting",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,88640,185151,Active,Antennaria media,Rocky Mountain pussytoes,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,89846,185162,Active,Antennaria microphylla,"littleleaf pussytoes, Rocky Mountain pussytoes, small leaf everlasting, smallleaf pussytoes",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,135784,36749,Active,Antennaria parvifolia,"little-leaf pussytoes, Rocky Mountain pussytoes, small leaf pussytoes, smalleaf pussytoes, small-leaf pussytoes",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,205034,525241,Active,Antennaria pulcherrima ssp. anaphaloides,,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,135790,36754,Active,Antennaria rosea,Pussytoes,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,135798,36761,Active,Antennaria umbrinella,"brown everlasting, umber pussytoes",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,139495,36330,Active,Anthemis cotula,Mayweed chamomile,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141463,36546,Active,Arctium minus,Common Burdock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,94145,184938,Active,Arnica chamissonis ssp. foliosa,Chamisso arnica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141480,36561,Active,Arnica cordifolia,Heartleaf Arnica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141483,36564,Active,Arnica fulgens,Meadow Arnica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141485,36566,Active,Arnica latifolia,broadleaf arnica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141491,36571,Active,Arnica mollis,Rayless Arnica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,94149,184941,Active,Arnica parryi ssp. parryi,Rayless Arnica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141495,36575,Active,Arnica rydbergii,Rydberg Arnica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133567,35433,Active,Artemisia arctica ssp. arctica,Arctic Mountain-sage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,200620,523668,Active,Artemisia campestris ssp. borealis,Sagewort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,221912,531551,Active,Artemisia campestris ssp. borealis var. borealis,field sagewort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,221916,531553,Active,Artemisia campestris ssp. borealis var. scouleriana,Field sagewort,Oligosporus pacificus,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,86028,183729,Active,Artemisia cana ssp. viscidula,"Coaltown sagebrush, mountain silver sagebrush, silver sagebrush",Seriphidium canum,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133599,35462,Active,Artemisia dracunculus,Wild Tarragon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133602,35465,Active,Artemisia frigida,Silver Sage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133612,35474,Active,Artemisia ludoviciana,"cudweed sagewort, gray sagewort, Louisiana sagewort, Louisiana wormwood, mugwort wormwood, prairie sage, white sagebrush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133624,35485,Active,Artemisia pattersonii,Patterson Mountain-sage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133633,35493,Active,Artemisia scopulorum,Rocky Mountain-sage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,86039,183739,Active,Artemisia tridentata ssp. spiciformis,Subalpine Big Sagebrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,86041,183740,Active,Artemisia tridentata ssp. vaseyana,Mountain Sagebrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,102172,193336,Active,Aster lanceolatus ssp. hesperius,Siskiyou aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,135834,36794,Active,Bahia dissecta,Ragleaf Bahia,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136729,36878,Active,Brickellia grandiflora,Tasselflower brickellia,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,202000,523745,Active,Carduus nutans ssp. macrolepis,Musk Thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,151841,501347,Active,Centaurea biebersteinii,Spotted Knapweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136818,36958,Active,Centaurea diffusa,Diffuse knapweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,137368,37094,Active,Chrysothamnus viscidiflorus ssp. lanceolatus,Rabbitbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,139500,36335,Active,Cirsium arvense,Canada Thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140051,36353,Active,Cirsium centaureae,American Thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140055,36357,Active,Cirsium coloradense,Colorado Thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140064,36365,Active,Cirsium eatonii,"Eaton's thistle, mountaintop thistle",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140094,36392,Active,Cirsium ochrocentrum,yellowspine thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140097,36395,Active,Cirsium parryi,"Cloudcroft thistle, Gila thistle, Mogollon thistle, pale thistle, Parry's thistle",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140118,36413,Active,Cirsium scariosum,meadow thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140119,36414,Active,Cirsium scopulorum,mountain thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140129,36423,Active,Cirsium undulatum,Purple Thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,Bull Thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138585,37113,Active,Conyza canadensis,Horseweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138685,37203,Active,Crepis runcinata,"dandelion hawksbeard, fiddleleaf hawksbeard, fiddle-leaf hawksbeard, fiddle-leaf hawk's-beard",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,221144,531865,Active,Ericameria nauseosa ssp. nauseosa var. glabrata,"green rubber rabbitbrush, rubber rabbitbrush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,216424,531201,Active,Ericameria parryi var. parryi,Rabbitbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,135988,35813,Active,Erigeron acris ssp. politus,Bitter fleabane,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136021,35843,Active,Erigeron compositus,Cut-leaved Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136023,35845,Active,Erigeron coulteri,Coulter Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136031,35852,Active,Erigeron divergens,Spreading Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136032,35853,Active,Erigeron eatonii,"Eaton's daisy, Eaton's fleabane",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136036,35857,Active,Erigeron elatior,"Beautiful Daisy, Tall Fleabane",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136042,35862,Active,Erigeron eximius,Pale Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136045,35865,Active,Erigeron flagellaris,Whiplash Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136852,35869,Active,Erigeron formosissimus,Greenes Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136857,35873,Active,Erigeron glabellus,"smooth fleabane, streamside fleabane",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136878,35892,Active,Erigeron leiomerus,"glaber daisy, rockslide yellow fleabane",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136883,35897,Active,Erigeron lonchophyllus,Spearleaf Fleabane,Trimorpha lonchophylla var. laurentiana,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136888,35900,Active,Erigeron melanocephalus,Black-headed Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136913,35923,Active,Erigeron peregrinus ssp. callianthemus,Subalpine Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136916,35926,Active,Erigeron pinnatisectus,Pinnate-leaved Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136940,35948,Active,Erigeron simplex,Arctic Fleabane,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136943,35950,Active,Erigeron speciosus,"aspen fleabane, Oregon daisy, Oregon fleabane, threenerve fleabane",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,209007,527963,Active,Erigeron speciosus var. macranthus,Aspen Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,209019,527969,Active,Erigeron subtrinervis var. subtrinervis,Dryland Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136960,35966,Active,Erigeron ursinus,"bear daisy, Bear River fleabane",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136965,35970,Active,Erigeron vetensis,Early Blue Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,170623,508084,Active,Eucephalus engelmannii,Engelmann's aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,181551,513443,Active,Eurybia glauca,gray aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,159933,502619,Active,Filago arvensis,"Field fluffweed, field cottonrose",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,140496,37398,Active,Gaillardia aristata,Blanketflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,158128,502816,Active,Gnaphalium uliginosum,"low cudweed, marsh cudweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141106,37469,Active,Grindelia revoluta,rolled gumweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141110,37472,Active,Grindelia squarrosa,"curlycup gumweed, curlytop gumweed, gumweed, rosinweed, tarweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,141111,37473,Active,Grindelia subalpina,Mountain Gumweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,142051,37597,Active,Helianthella quinquenervis,Aspen Sunflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,142204,36616,Active,Helianthus annuus,Common Sunflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,133715,36679,Active,Helianthus pumilus,Dwarf Sunflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,214125,528364,Active,Heliomeris multiflora var. multiflora,"showy goldeneye, showy goldeneyes",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,142127,37665,Active,Heterotheca fulcrata,"mountain camphorweed, rockyscree false goldenaster, rockyscree falsegoldenaster",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,160256,502974,Active,Heterotheca pumila,alpine false goldenaster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,142153,37689,Active,Heterotheca villosa,"hairy false goldaster, hairy false goldenaster, hairy goldaster, hairy goldenaster",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,142158,37693,Active,Hieracium albiflorum,"white hawkweed, whiteflower hawkweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,142162,37697,Active,Hieracium aurantiacum,Orange Hawkweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,211283,528463,Active,Hieracium gracile var. gracile,slender hawkweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,142182,36597,Active,Lactuca biennis,"tall blue lettuce, wild blue lettuce",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,204394,526007,Active,Lactuca tatarica ssp. pulchella,,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,143758,37903,Active,Leucanthemum vulgare,Ox-eye Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,143786,37929,Active,Liatris ligulistylis,"Rocky Mountain blazing star, Rocky Mountain gayfeather, strap-style gayfeather",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,143794,37936,Active,Liatris punctata,Gayfeather,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,157720,503623,Active,Lygodesmia juncea,Skeletonweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,213626,529066,Active,Machaeranthera bigelovii var. bigelovii,"Bigelow tansyaster, Bigelow's tansyaster",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,144667,37984,Active,Machaeranthera canescens,Tansy Aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,144717,38029,Active,Madia glomerata,Tarweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,153776,501470,Active,Matricaria discoidea,pineapple-weed,Lepidotheca suaveolens,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,166406,508151,Active,Oligoneuron rigidum,stiff goldenrod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,189643,517768,Active,Oligosporus campestris,,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,135418,38141,Active,Onopordum tauricum,Scotch thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,189990,517938,Active,Oreochrysum parryi,Parry's goldenrod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,192568,518142,Active,Packera cana,woolly groundsel,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,192570,518143,Active,Packera crocata,saffron ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,192574,518145,Active,Packera dimorphophylla,splitleaf groundsel,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,192576,518146,Active,Packera fendleri,Fendler's ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,192601,518158,Active,Packera streptanthifolia,"cleftleaf groundsel, Rocky Mountain groundsel",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,192606,518160,Active,Packera werneriifolia,hoary groundsel,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,137460,36059,Active,Petasites sagittatus,"arrow butterbur, arrowleaf sweet coltsfoot, arrow-leaf sweet-colt's-foot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136375,38283,Active,Prenanthes racemosa ssp. multiflora,Rattlesnakeroot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,171356,508110,Active,Pseudognaphalium stramineum,"annual cudweed, cotton cudweed, cottonbatting cudweed, cottonbatting plant",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,171358,508111,Active,Pseudognaphalium viscosum,Cudweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,160809,504695,Active,Pyrrocoma crocea,curlyhead goldenweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,136440,38341,Active,Ratibida columnifera,Prairie Coneflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,215720,530172,Active,Rudbeckia hirta var. pulcherrima,Black-eyed Susan,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,215722,530173,Active,Rudbeckia laciniata var. ampla,"cutleaf coneflower, green-head coneflower",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,215732,530178,Active,Rudbeckia laciniata var. laciniata,Golden-glow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,217228,530298,Active,Senecio amplectens var. amplectens,showy alpine ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,217230,530299,Active,Senecio amplectens var. holmii,"Holm's groundsel, Holm's ragwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,137508,36101,Active,Senecio atratus,Black-tipped Senecio,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,137510,36103,Active,Senecio bigelovii,nodding ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,217236,530301,Active,Senecio bigelovii var. hallii,Bigelow Groundsel,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138456,36116,Active,Senecio crassulus,Thick-bracted Senecio,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,217250,530308,Active,Senecio eremophilus var. kingii,Western Golden Ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,217265,530315,Active,Senecio fremontii var. blitoides,Rock Ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138491,36148,Active,Senecio integerrimus,Lambstongue Groundsel,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138518,36172,Active,Senecio pudicus,bashful ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138521,36175,Active,Senecio rapifolius,Turnip-leaved Senecio,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138529,36182,Active,Senecio serra,"butterweed, butterweed groundsel, tall ragwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138530,36183,Active,Senecio soldanella,Colorado ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138531,36184,Active,Senecio spartioides,Broom Senecio,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138536,36189,Active,Senecio taraxacoides,dandelion ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,137495,36090,Active,Senecio triangularis,Arrowleaf Ragwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138544,36196,Active,Senecio wootonii,Wooton Senecio,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,139377,36224,Active,Solidago canadensis,"Canada goldenrod, Canadian goldenrod, common goldenrod",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,139415,36259,Active,Solidago gigantea,giant goldenrod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,139435,36277,Active,Solidago missouriensis,Smooth Goldenrod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,216623,530463,Active,Solidago multiradiata var. scopulorum,"arctic goldenrod, manyray goldenrod, mountain goldenrod, Rocky Mountain goldenrod","Solidago multiradiata, Solidago multiradiata ssp. scopulorum",Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,220255,531829,Active,Solidago simplex ssp. simplex var. nana,Dwarf Goldenrod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,220258,531830,Active,Solidago simplex ssp. simplex var. simplex,"Mt. Albert goldenrod, New Mexican goldenrod",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,216659,530480,Active,Solidago speciosa var. pallida,showy goldenrod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,163985,505290,Active,Solidago velutina,"sparse goldenrod, threenerve goldenrod, three-nerve goldenrod",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,137729,38423,Active,Sonchus arvensis ssp. uliginosus,"Marsh sowthistle, Swamp sow-thistle",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,197656,522184,Active,Symphyotrichum ascendens,Pacific Aster,Virgulaster ascendens,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,197658,522185,Active,Symphyotrichum boreale,northern bog aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,295960,566326,Active,Symphyotrichum campestre var. campestre,western meadow aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,197695,522202,Active,Symphyotrichum ericoides,Sand Aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,197701,522205,Active,Symphyotrichum falcatum,Rough White Aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,197707,522208,Active,Symphyotrichum foliaceum,Subalpine Aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,237310,541092,Active,Symphyotrichum laeve var. geyeri,Skmooth Aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,290897,566829,Active,Symphyotrichum lanceolatum var. hesperium,Sky-blue Aster,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,198434,522235,Active,Symphyotrichum porteri,"Porter Aster, Smooth White Aster",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,295998,566344,Active,Symphyotrichum spathulatum var. spathulatum,Western Aster,Aster spathulatus,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138556,36206,Active,Taraxacum eriophorum,woolbearing dandelion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138563,36212,Active,Taraxacum lyratum,alpine dandelion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,Common Dandelion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,203865,524741,Active,Taraxacum officinale ssp. ceratophorum,Common Dandelion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,219289,530625,Active,Tetraneuris acaulis var. caespitosa,caespitose four-nerve daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138092,38511,Active,Tetraneuris grandiflora,"Alpine Sunflower, Old-Man-of-the-Mt",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138107,38525,Active,Thelesperma megapotamicum,Slender thelesperma,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,161405,505529,Active,Tonestus lyallii,Lyall haplopappus,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,162520,505531,Active,Tonestus pygmaeus,pygmy goldenweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,162543,505542,Active,Townsendia exscapa,Easter Daisy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138132,38548,Active,Townsendia hookeri,"Hooker's Townsend daisy, Hooker's townsend-daisy, Hooker's townsendia",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,138150,38564,Active,Tragopogon dubius,Salsify,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Asteraceae,165239,507677,Active,Tripleurospermum perforata,Scentless chamomile,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Campanulaceae,135374,34489,Active,Campanula parryi,Parry Harebell,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Campanulaceae,136183,34497,Active,Campanula rotundifolia,Harebell,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Campanulaceae,135357,34473,Active,Campanula uniflora,Alpine Harebell,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Campanulaceae,136984,34615,Active,Triodanis perfoliata,Venus' Looking-glass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Asterales,Menyanthaceae,129105,30102,Active,Menyanthes trifoliata,Water-clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,131013,31711,Active,Amsinckia menziesii,Fiddleneck,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,131119,31807,Active,Cryptantha fendleri,Cryptantha,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,131081,31773,Active,Cryptantha minima,"little catseye, little cryptantha, small cryptantha",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,131087,31779,Active,Cryptantha virgata,Miner's candle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,132144,31890,Active,Cynoglossum officinale,Houndstongue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,209616,528057,Active,Eritrichium nanum var. aretioides,Alpine Forget-me-not,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,132185,31927,Active,Hackelia floribunda,Tall Stickweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,214085,528678,Active,Lappula occidentalis var. occidentalis,Beggar's Tick,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,132734,31940,Active,Lithospermum incisum,Puccoon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,132746,31951,Active,Lithospermum multiflorum,Puccoon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,130299,31668,Active,Mertensia ciliata,Chiming Bells,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,130314,31681,Active,Mertensia lanceolata,"Bluebells, Lanceleaf Chiming Bells",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,161466,503894,Active,Myosotis asiatica,Alpine Forget-me-not,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Boraginaceae,214503,529700,Active,Plagiobothrys scouleri var. hispidulus,meadow popcorn-flower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128524,31392,Active,Hydrophyllum fendleri,Fendler Waterleaf,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,128572,31435,Active,Phacelia alba,"white phacelia, white scorpionweed, white scorpion-weed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129877,31529,Active,Phacelia hastata,Scorpion Weed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,160650,504271,Active,Phacelia heterophylla,"variable-leaf scorpion-weed, varileaf phacelia, virgate phacelia, wand phacelia",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,130215,31592,Active,Phacelia sericea,Purple Fringe,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,123368,23030,Active,Alyssum alyssoides,Pale alyssum,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,170615,508080,Active,Alyssum minus,"alyssum, European alyssum",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121249,22689,Active,Arabis drummondii,Canadian rockcress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121251,22690,Active,Arabis fendleri,Fendler's Rockcress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121256,22695,Active,Arabis glabra,tower rockcress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,89503,184344,Active,Arabis hirsuta,Tower Mustard,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,89523,184362,Active,Arabis holboellii var. retrofracta,"Holboell False Arabis, Second Rockcress",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121307,22740,Active,Barbarea orthoceras,"American yellowrocket, erectpod wintercress, wintercress",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121308,22741,Active,Barbarea vulgaris,Yellow rocket,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,124457,23052,Active,Berteroa incana,Hoary alyssum,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,120479,22599,Active,Camelina microcarpa,Smallseed falseflax,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121335,22766,Active,Capsella bursa-pastoris,Shepherd's Purse,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121360,22789,Active,Cardamine cordifolia,Brookcress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,121342,22772,Active,Cardamine pensylvanica,Bittercress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,124514,23103,Active,Conringia orientalis,Hare's Ear Mustard,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122335,22821,Active,Descurainia californica,Sierran tansymustard,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,198744,523966,Active,Descurainia incana ssp. incana,mountain tansy-mustard,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,198746,523967,Active,Descurainia incana ssp. incisa,Hoary Tansy Mustard,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,Tansy Mustard,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122370,22853,Active,Draba albertina,"Arc Dome draba, slender draba",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122381,22863,Active,Draba aurea,Golden Draba,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,217957,531278,Active,Draba breweri var. cana,lanceleaf draba,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122390,22871,Active,Draba crassa,Thick-leaf whitlow-grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122391,22872,Active,Draba crassifolia,"Rocky Mountain draba, snowbed draba, snowbed whitlowgrass, snowbed whitlow-grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122397,22878,Active,Draba fladnizensis,"arctic draba, Austrian draba",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122401,22881,Active,Draba grayana,Gray's peak whitlow-grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122411,22890,Active,Draba lonchocarpa,lancepod draba,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122415,22894,Active,Draba nemorosa,Yellow whitlowort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,154382,502140,Active,Draba porsildii,Porsildraba,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122437,22913,Active,Draba spectabilis,Showy Draba,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122443,22919,Active,Draba streptobrachia,Colorado divide whitlow-grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,122445,22920,Active,Draba streptocarpa,Twisted Pod Draba,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,123259,22932,Active,Erysimum capitatum,"coast wallflower, sand dune wallflower, western wallflower",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,123283,22954,Active,Lepidium campestre,"cream-anther field pepperwort, field pepperweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,123307,22976,Active,Lepidium ramosissimum,"manybranched pepperweed, pepperweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,125034,23210,Active,Lesquerella montana,Bladderpod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,163404,504808,Active,Rorippa alpina,alpine yellowcress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,123326,22993,Active,Rorippa nasturtium-aquaticum,Watercress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,123344,23009,Active,Rorippa palustris ssp. hispida,"bog yellowcress, hispid yellowcress",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,123355,23019,Active,Rorippa teres,southern marsh yellowcress,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,Jim Hill Mustard,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,125960,23321,Active,Smelowskia calycina,Fernleaf Candytuft,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,127139,23422,Active,Thlaspi arvense,Fanweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Brassicaceae,219915,530668,Active,Thlaspi montanum var. montanum,"alpine pennycress, Wild Candytuft",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Brassicales,Cleomaceae,120510,22626,Active,Cleome serrulata,Rocky Mountain Bee Plant,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117602,20723,Active,Amaranthus blitoides,Prostrate Pigweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120123,20745,Active,Amaranthus retroflexus,Amaranth,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106131,192269,Active,Atriplex micrantha,two-scale saltbush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117727,20593,Active,Chenopodium atrovirens,"dark goosefoot, pinyon goosefoot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117738,20594,Active,Chenopodium berlandieri,"netseed lambsquarters, pigseed goosefoot, pitseed goosefoot, pit-seed goosefoot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118195,20599,Active,Chenopodium capitatum,"Strawberry-blite, Squaw Paint",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118252,20604,Active,Chenopodium desiccatum,"arid goosefoot, aridland goosefoot, desert goosefoot, narrowleaf goosefoot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118274,20606,Active,Chenopodium foliosum,leafy goosefoot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118285,20607,Active,Chenopodium fremontii,Fremont Chenopod,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118586,20610,Active,Chenopodium glaucum,"oakleaf goosefoot, oak-leaf goosefoot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118652,20616,Active,Chenopodium leptophyllum,"narrowleaf goosefoot, narrowleaf lambsquarters, narrowleaved goosefoot, slimleaf goosefoot, slimleaf lambsquarters",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120014,20630,Active,Chenopodium rubrum,red goosefoot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115607,20700,Active,Monolepis nuttalliana,Monolepis,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111903,20656,Active,Salsola collina,"Russian Thistle, Tumbleweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,Russian-thistle,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105986,19726,Active,Opuntia polyacantha,Prickly-pear,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101420,195359,Active,Pediocactus simpsonii var. minor,Mountain Ball Cactus,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,88974,184229,Active,Arenaria fendleri var. fendleri,Fendler's Sandwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202710,523825,Active,Cerastium arvense ssp. strictum,Field Mouse-ear Chickweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202716,523828,Active,Cerastium beeringianum ssp. earlei,Alpine mouse-ear,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,109551,19954,Active,Cerastium fontanum,Mouseear chickweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202723,523831,Active,Cerastium fontanum ssp. vulgare,Big Chickweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,110047,20276,Active,Dianthus armeria,Deptford Pink,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,210987,527797,Active,Drymaria effusa var. depressa,Spreading drymaria,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,111034,20293,Active,Gypsophila paniculata,Baby's breath,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114699,20008,Active,Minuartia obtusiloba,Alpine Sandwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,112278,19983,Active,Minuartia rubella,Beautiful Sandwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114744,20012,Active,Minuartia stricta,"bog stitchwort, Rock sandwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114799,20017,Active,Moehringia lateriflora,"blunt-leaf grove-sandwort, bluntleaf sandwort, grove sandwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,290043,565383,Active,Paronychia pulvinata,Alpine Nailwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,115239,20346,Active,Paronychia sessiliflora,"creeping nailwort, low nailwort, nailwort, stemless nailwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,116472,20035,Active,Sagina saginoides,Sandwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,210806,526696,Active,Silene acaulis ssp. subacaulescens,Moss Pink,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,117118,20045,Active,Silene antirrhina,Sleepy Catchfly,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,218187,530363,Active,Silene drummondii var. drummondii,Drummond's campion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,105562,20075,Active,Silene kingii,King's Campion,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202972,524706,Active,Silene latifolia ssp. alba,Red Catchfly,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,108842,20120,Active,Silene scouleri ssp. hallii,Halls Catchfly,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,110819,20142,Active,Silene vulgaris,Maiden's Tears,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,111610,20153,Active,Spergularia rubra,Sand spurry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,112524,20175,Active,Stellaria calycantha,"northern chickweed, northern starwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,111732,20164,Active,Stellaria crassifolia,"fleshy starwort, thickleaved chickweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,217771,530552,Active,Stellaria graminea var. graminea,grasslike starwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,113304,20185,Active,Stellaria longifolia,Long-leaved Stitchwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,112446,20168,Active,Stellaria longipes,"longstalk starwort, long-stalk starwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114509,20197,Active,Stellaria umbellata,"umbellate chickweed, umbrella starwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Montiaceae,109712,20390,Active,Claytonia lanceolata,Spring Beauty,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Montiaceae,109723,20391,Active,Claytonia megarhiza,Alpine Spring Beauty,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Montiaceae,154850,501580,Active,Claytonia rosea,Spring Beauty,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Montiaceae,117871,20486,Active,Lewisia pygmaea,Pygmy Bitterroot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Montiaceae,118987,20490,Active,Lewisia rediviva,bitteroot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Montiaceae,119042,20495,Active,Lewisia triphylla,"Dwarf Spring Beauty, threeleaf bitterroot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Montiaceae,112161,20406,Active,Montia chamissoi,water miners lettuce,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100394,19651,Active,Mirabilis linearis,narrow-leaf four-o'clock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,101487,195419,Active,Eriogonum alatum var. alatum,winged buckwheat,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102502,195500,Active,Eriogonum jamesii var. flavescens,James' buckwheat,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102507,195505,Active,Eriogonum jamesii var. xanthum,Alpine Golden Buckwheat,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120790,21266,Active,Eriogonum umbellatum,"Subalpine Buckwheat, Sulpherflower",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115983,20844,Active,Koenigia islandica,Koeniga,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,116005,20846,Active,Oxyria digyna,Alpine Sorrell,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,215073,529773,Active,Polygonum amphibium var. emersum,devil's shoestring,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118703,20872,Active,Polygonum arenastrum,Devil's Shoestrings,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118780,20879,Active,Polygonum bistortoides,American bistort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,215085,529779,Active,Polygonum convolvulus var. convolvulus,Black Bindweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119584,20891,Active,Polygonum douglasii,Douglas' knotweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,205256,524555,Active,Polygonum douglasii ssp. engelmannii,Engelmann's knotweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117901,20860,Active,Polygonum lapathifolium,curlytop knotweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120654,20903,Active,Polygonum minimum,"broadleaf knotweed, dwarf knotweed, zigzag knotweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,205271,524562,Active,Polygonum polygaloides ssp. kelloggii,Kellogg's knotweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,122594,20921,Active,Polygonum ramosissimum,"bushy knotweed, tall knotweed, yellow knotweed, yellow-flower knotweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117945,20864,Active,Polygonum viviparum,"Alpine Bistort, serpent-grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115834,20934,Active,Rumex acetosella,Common Sheep Sorrel,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,216445,530189,Active,Rumex aquaticus var. fenestratus,western dock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,Curly Dock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118321,20953,Active,Rumex densiflorus,"dense-flower dock, denseflowered dock",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,216462,530197,Active,Rumex salicifolius var. mexicanus,Mexican dock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Celastrales,Celastraceae,122578,24209,Active,Parnassia fimbriata,Grass-of-Parnassus,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Celastrales,Celastraceae,122574,24205,Active,Parnassia kotzebuei,"Kotzebue's grass of Parnassus, Kotzebue's grass-of-Parnassus",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Celastrales,Celastraceae,213342,529381,Active,Parnassia palustris var. montanensis,Grass-of-Parnassus,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Celastrales,Celastraceae,158595,504149,Active,Paxistima myrsinites,Mountain-lover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Commelinales,Commelinaceae,142415,39168,Active,Tradescantia occidentalis,"prairie spiderwort, spiderwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Cornales,Cornaceae,204792,523904,Active,Cornus sericea ssp. sericea,"Red-osier, redosier dogwood",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Cornales,Hydrangeaceae,124366,24379,Active,Jamesia americana,Waxflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Cornales,Loasaceae,214499,529152,Active,Mentzelia nuda var. nuda,bractless blazingstar,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Cornales,Loasaceae,160308,503805,Active,Mentzelia sinuata,Wavy-leaf stickleaf,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Cornales,Loasaceae,160310,503806,Active,Mentzelia speciosa,Jeweled blazingstar,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Adoxaceae,131740,35348,Active,Adoxa moschatellina,Muskroot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Adoxaceae,218049,531321,Active,Sambucus racemosa var. racemosa,"Red Elderberry, Red-berrried Elder",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Adoxaceae,130845,35261,Active,Viburnum edule,Highbush Cranberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,211331,528896,Active,Lonicera involucrata var. involucrata,"Bush Honeysuckle, twinberry honeysuckle",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131727,35336,Active,Symphoricarpos occidentalis,Snowberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131733,35341,Active,Symphoricarpos rotundifolius,Snowberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Dipsacaceae,133539,35408,Active,Knautia arvensis,"bluebuttons, field scabiosa",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Linnaeaceae,131703,35314,Active,Linnaea borealis,Twinflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Linnaeaceae,204086,525179,Active,Linnaea borealis ssp. americana,,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Valerianaceae,222020,530770,Active,Valeriana acutiloba var. acutiloba,sharpleaf valerian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Valerianaceae,131752,35359,Active,Valeriana edulis,"edible valerian, tobacco root, tobaccoroot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Dipsacales,Valerianaceae,131756,35362,Active,Valeriana occidentalis,"small-flower valerian, western valerian, western valeriana",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Equisetales,Equisetaceae,79672,17152,Active,Equisetum arvense,Field Horsetail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Equisetales,Equisetaceae,79694,17154,Active,Equisetum hyemale,Perennial scouring-rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Equisetales,Equisetaceae,79716,17156,Active,Equisetum laevigatum,Annual Scouring-rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Equisetales,Equisetaceae,80552,17159,Active,Equisetum pratense,meadow horsetail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Equisetales,Equisetaceae,79638,17149,Active,Equisetum variegatum,Variegated scouringrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,127657,23530,Active,Arctostaphylos uva-ursi,"bearberry, bearberry manzanita, kinnikinnick, mealberry",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,203458,523854,Active,Chimaphila umbellata ssp. occidentalis,Pipsissewa,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,119281,23654,Active,Gaultheria humifusa,Creeping Wintergreen,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,119307,23678,Active,Kalmia microphylla,Swamp Laurel,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,161413,503869,Active,Moneses uniflora,Star-flowered Pyrola,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,161418,503871,Active,Monotropa hypopithys,Pinesap,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,157180,504066,Active,Orthilia secunda,One-sided Pyrola,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,120232,23787,Active,Pterospora andromedea,Pinedrops,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,206058,524614,Active,Pyrola asarifolia ssp. asarifolia,"pink wintergreen, Swamp Pyrola",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,120199,23757,Active,Pyrola chlorantha,Green-flowered Pyrola,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,120203,23760,Active,Pyrola minor,Least Pyrola,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,120204,23761,Active,Pyrola picta,"Pictureleaf wintergreen, white-veined wintergreen",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,127719,23587,Active,Vaccinium cespitosum,Dwarf Blueberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,207640,526800,Active,Vaccinium myrtillus ssp. oreophilum,"Huckleberry, Whortleberry",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Ericaceae,127758,23613,Active,Vaccinium scoparium,Broom Huckleberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,138944,31041,Active,Collomia linearis,Collomia,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,139881,31168,Active,Gilia pinnatifida,sticky gilia,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,126970,31190,Active,Gymnosteris parvula,smallflower gymnosteris,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,126972,31192,Active,Ipomopsis aggregata,"scarlet gilia, skyrocket gilia",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,126973,31193,Active,Ipomopsis aggregata ssp. aggregata,Scarlet Gilia,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,202829,524175,Active,Ipomopsis aggregata ssp. collina,scarlet gilia,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,126979,31199,Active,Ipomopsis spicata,"spiked gilia, spiked ipomopsis",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,204288,524481,Active,Phlox gracilis ssp. humilis,Pink microsteris,Microsteris gracilis ssp. humilis,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,138876,30980,Active,Phlox pulvinata,Alpine Phlox,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,138903,31004,Active,Polemonium brandegeei,Honey Polemonium,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,164281,504481,Active,Polemonium confertum,Rocky Mountain Jacob's-ladder,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,138912,31012,Active,Polemonium foliosissimum,Leafy Polemonium,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,205241,524548,Active,Polemonium occidentale ssp. occidentale,"western Jacob's-ladder, western polemonium",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,138924,31023,Active,Polemonium pulcherrimum,"pretty Jacob's-ladder, skunkleaf polemonium",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,205243,524549,Active,Polemonium pulcherrimum ssp. delicatum,Jacobs Ladder,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Polemoniaceae,138926,31025,Active,Polemonium viscosum,Sky Pilot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Primulaceae,121067,23934,Active,Androsace chamaejasme ssp. carinata,Rock-jasmine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Primulaceae,121074,23940,Active,Androsace filiformis,"filiform rockjasmine, slender rockjasmine, slender-stemmed androsace",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Primulaceae,121068,23935,Active,Androsace septentrionalis,Alpine Androsace,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Primulaceae,121079,23945,Active,Dodecatheon pulchellum,Shooting-star,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Primulaceae,121677,24000,Active,Lysimachia thyrsiflora,Swamp Loosestrife,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Primulaceae,121695,24017,Active,Primula angustifolia,Alpine Primrose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ericales,Primulaceae,121708,24029,Active,Primula parryi,Parry Primrose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,121400,25393,Active,Astragalus alpinus,Alpine Vetch,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,122066,25510,Active,Astragalus eucosmus,,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,122073,25517,Active,Astragalus flexuosus,Limber Vetch,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,291817,565016,Active,Astragalus laxmannii,Laxmann's milkvetch,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,96188,192623,Active,Astragalus miser var. oblongifolius,Field Vetch,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,122993,25624,Active,Astragalus parryi,Parry Vetch,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,121876,26719,Active,Glycyrrhiza lepidota,Wild Liquorice,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,214945,528691,Active,Lathyrus lanszwertii var. leucanthus,aspen peavine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,128262,26407,Active,Lotus tenuis,"narrowleaf birdsfoot trefoil, narrowleaf bird's-foot trefoil",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,162956,503575,Active,Lupinus argenteus,silvery lupine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,201661,524270,Active,Lupinus argenteus ssp. ingratus,Small-flowered Lupine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,125523,25980,Active,Lupinus caespitosus,Stemless Lupine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,212862,528967,Active,Lupinus caespitosus var. caespitosus,stemless dwarf lupine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,125524,25981,Active,Lupinus caudatus,tailcup lupine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,158887,503721,Active,Medicago lupulina,Black Medic,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,alfalfa,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,Yellow Sweet-clover,Melilotus alba,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,126532,26167,Active,Oxytropis deflexa,"drooping pointloco, hangpod crazyweed, nodding crazyweed, nodding locoweed, pendant-pod locoweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,126541,26175,Active,Oxytropis lambertii,Locoweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,126542,26176,Active,Oxytropis multiceps,Few-flowered Loco,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,126549,26182,Active,Oxytropis sericea,Rocky Mountain Loco,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,126527,26162,Active,Oxytropis splendens,Whorled-leaf Loco,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,166418,508157,Active,Thermopsis divaricarpa,Golden Banner,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,166420,508158,Active,Thermopsis montana,Golden Banner,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127275,26236,Active,Trifolium dasyphyllum,Alpine Clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127303,26261,Active,Trifolium hybridum,Alsike Clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127313,26270,Active,Trifolium longipes,"longstalk clover, long-stalk clover",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,203936,524775,Active,Trifolium longipes ssp. pygmaeum,pygmy clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127341,26296,Active,Trifolium nanum,Dwarf Clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127351,26304,Active,Trifolium parryi,Parry Clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127354,26307,Active,Trifolium parryi ssp. salictorum,Parry's clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127361,26313,Active,Trifolium pratense,Red Clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,126576,26206,Active,Trifolium repens,White Dutch Clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fabales,Fabaceae,127381,26331,Active,Vicia americana,"American deervetch, American purple vetch, American vetch",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fagales,Betulaceae,92015,181889,Active,Alnus incana ssp. tenuifolia,Alder,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fagales,Betulaceae,102794,19479,Active,Betula nana,Dwarf Birch,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fagales,Betulaceae,103562,19488,Active,Betula occidentalis,"River Birch, Water Birch",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Fagales,Betulaceae,105643,19507,Active,Corylus cornuta,"beaked hazel, beaked hazelnut, western hazel",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Apocynaceae,130899,30156,Active,Apocynum androsaemifolium,Spreading Dogbane,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Apocynaceae,131864,30304,Active,Asclepias speciosa,Showy Milkweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,160020,502660,Active,Frasera speciosa,Monument Plant,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,128149,29964,Active,Gentiana affinis,"pleated gentian, Rocky Mountain gentian",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,128151,29966,Active,Gentiana algida,Arctic Gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,157421,502742,Active,Gentiana fremontii,Bog Moss Gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,157427,502745,Active,Gentiana nutans,tundra gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,128167,29980,Active,Gentiana parryi,Parry's gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,128170,29983,Active,Gentiana prostrata,pygmy gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,129058,30060,Active,Gentianella amarella ssp. acuta,"autumn dwarf gentian, Rose Gentian",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,129073,30074,Active,Gentianella tenella ssp. tenella,Dane's dwarf gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,129078,30079,Active,Gentianopsis barbellata,Fringed Gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,129091,30090,Active,Gentianopsis thermalis,Fringed Gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,128180,29992,Active,Lomatogonium rotatum,Marsh felwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Gentianaceae,129122,30118,Active,Swertia perennis,Star Gentian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Rubiaceae,138015,34826,Active,Galium bifolium,"twinleaf bedstraw, twin-leaf bedstraw",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Rubiaceae,287453,565204,Active,Galium boreale,Northern Bedstraw,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Rubiaceae,137993,34806,Active,Galium trifidum,"small bedstraw, threepetal bedstraw, three-petal bedstraw",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Rubiaceae,137996,34809,Active,Galium trifidum ssp. subbiflorum,"threepetal bedstraw, three-petal bedstraw",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Rubiaceae,138799,34933,Active,Galium triflorum,Fragrant Bedstraw,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Gentianales,Rubiaceae,138802,34936,Active,Galium verum,Yellow Spring bedstraw,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,Filaree,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Geraniales,Geraniaceae,130099,29130,Active,Geranium caespitosum,Wild Geranium,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Geraniales,Geraniaceae,212326,528232,Active,Geranium caespitosum var. caespitosum,pineywoods geranium,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Geraniales,Geraniaceae,130085,29118,Active,Geranium richardsonii,White Geranium,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Isoetales,Isoetaceae,77854,17121,Active,Isoetes bolanderi,Bolander's quillwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Isoetales,Isoetaceae,169608,507546,Active,Isoetes tenella,Spiny-spored quillwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,135601,32490,Active,Dracocephalum parviflorum,American dragonhead,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,Horehound,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,289323,565302,Active,Mentha arvensis,Wild Mint,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,201752,524313,Active,Monarda fistulosa ssp. fistulosa,"Oswego-tea, wild bergamot, wild bergamot beebalm",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,136550,32623,Active,Nepeta cataria,"catmint, catnip, catwort, field balm",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,134944,32381,Active,Prunella vulgaris,Heal-all,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,160941,505096,Active,Scutellaria brittonii,Skullcap,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,129266,32798,Active,Scutellaria galericulata,marsh skullcap,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lamiaceae,295945,566319,Active,Stachys pilosa var. pilosa,hairy hedgenettle,Stachys palustris,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Lentibulariaceae,135338,34456,Active,Utricularia macrorhiza,"common bladderpod, common bladderwort, greater bladderwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,131186,33115,Active,Castilleja flava,"yellow Indian paintbrush, yellow paintbrush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,133158,33138,Active,Castilleja linariifolia,"Narrow-leaved Paintbrush, Wyoming Paintbrush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130370,33069,Active,Castilleja miniata,Scarlet Paintbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130375,33073,Active,Castilleja occidentalis,Western Yellow Paintbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134996,33162,Active,Castilleja puberula,Shortflowered Paintbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,135007,33164,Active,Castilleja rhexiifolia,Rosy Paintbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130386,33083,Active,Castilleja sulphurea,Northern Paintbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,tufted broomrape,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134500,34300,Active,Orobanche uniflora,oneflowered broomrape,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136711,33437,Active,Orthocarpus luteus,Owl-Clover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,208169,526315,Active,Pedicularis bracteosa ssp. paysoniana,Payson's lousewort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,214291,529438,Active,Pedicularis bracteosa var. paysoniana,Payson's lousewort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136639,33372,Active,Pedicularis crenulata,Purple Lousewort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136644,33377,Active,Pedicularis groenlandica,"Elephantella, Little Pink Elephants",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,203321,524411,Active,Pedicularis groenlandica ssp. groenlandica,,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136650,33382,Active,Pedicularis parryi,Parry Lousewort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,158631,504166,Active,Pedicularis procera,"giant lousewort, gray lousewort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136653,33385,Active,Pedicularis racemosa,"parrot's-beak, sickletop lousewort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,203342,524421,Active,Pedicularis racemosa ssp. alba,Mountain Figwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Orobanchaceae,203354,524427,Active,Pedicularis sudetica ssp. scopulorum,Alpine Lousewort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Phrymaceae,135755,33299,Active,Mimulus breweri,Brewer's monkeyflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Phrymaceae,135770,33311,Active,Mimulus floribundus,Many-flowered Monkeyflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Phrymaceae,135774,33315,Active,Mimulus gemmiparus,"Rocky Mountain monkeyflower, Weber monkey-flower",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Phrymaceae,135775,33316,Active,Mimulus glabratus,"roundleaf monkeyflower, round-leaf monkey-flower, roundleaf monkey-flower, smooth monkeyflower",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Phrymaceae,135686,33236,Active,Mimulus guttatus,"common monkeyflower, seep monkeyflower",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Phrymaceae,160403,503850,Active,Mimulus tilingii,"subalpine monkeyflower, subalpine monkey-flower, Tiling's monkeyflower",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137839,33495,Active,Besseya alpina,Alpine Kittentail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137842,33498,Active,Besseya plantaginea,Kittentail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,155598,501143,Active,Callitriche palustris,Water Starwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137858,33511,Active,Chionophila jamesii,Snow-lover,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137883,33534,Active,Collinsia parviflora,Blue-eyed Mary,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,125204,27069,Active,Hippuris vulgaris,Marestail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135654,33207,Active,Limosella aquatica,Mudwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,201475,524246,Active,Linaria dalmatica ssp. dalmatica,Dalmation Toadflax,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135664,33216,Active,Linaria vulgaris,"Butter-and-eggs, Yellow Toadflax",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130639,33697,Active,Penstemon glaber,Mountain Beardtongue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130641,33699,Active,Penstemon hallii,Hall's beardtongue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130644,33700,Active,Penstemon harbourii,Harbour's beardtongue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130693,33745,Active,Penstemon procerus,Clustered Penstemon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132431,33990,Active,Penstemon rydbergii,Large Clustered Penstemon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132432,33991,Active,Penstemon secundiflorus,Sidebells Penstemon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132455,34011,Active,Penstemon unilateralis,Tall Oneside Penstemon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132457,34013,Active,Penstemon virens,Low Penstemon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131545,33793,Active,Penstemon whippleanus,Dark Penstemon,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,164182,504434,Active,Plantago eriopoda,Redwool Plantain,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,Common Plantain,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129373,32894,Active,Plantago tweedyi,Tweedy Plantian,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136668,33399,Active,Veronica americana,American Speedwell,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,204527,524797,Active,Veronica peregrina ssp. xalapensis,Annual Veronica,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136695,33422,Active,Veronica scutellata,"grassleaf speedwell, grass-leaf speedwell, marsh speedwell, skullcap speedwell",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136698,33425,Active,Veronica serpyllifolia ssp. humifusa,"brightblue speedwell, thyme-leaf speedwell",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136697,33424,Active,Veronica serpyllifolia ssp. serpyllifolia,thymeleaf speedwell,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136699,33426,Active,Veronica wormskjoldii,"Veronica, Speedwell",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,133279,34036,Active,Scrophularia lanceolata,Figwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136663,33394,Active,Verbascum thapsus,woolly mullein,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,Vervain,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Liliaceae,140655,42849,Active,Calochortus gunnisonii,Sego Lily,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Liliaceae,111072,196373,Active,Erythronium grandiflorum ssp. grandiflorum,Avalanche Lily,Erythronium grandiflorum,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Liliaceae,161603,503459,Active,Lilium philadelphicum,Wood Lily,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Liliaceae,150370,42750,Active,Lloydia serotina,Alp Lily,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Liliaceae,192225,519636,Active,Prosartes trachycarpa,Fairybells,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Liliaceae,219208,530587,Active,Streptopus amplexifolius var. chalazatus,Twisted-stalk,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Melanthiaceae,150377,42757,Active,Veratrum californicum,California false hellebore,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Melanthiaceae,204614,524838,Active,Zigadenus elegans ssp. elegans,Death Camas,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Liliales,Melanthiaceae,216181,530912,Active,Zigadenus venenosus var. venenosus,meadow deathcamas,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,107303,202452,Active,Huperzia selago,"fir club moss, fir clubmoss",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Lycopodiales,Lycopodiaceae,80036,17018,Active,Lycopodium annotinum,Stiff Club-moss,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132026,28049,Active,Euphorbia brachycera,"horned spurge, shorthorn spurge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,211135,528127,Active,Euphorbia esula var. uralensis,"leafy spurge, Russian leafy spurge, spurge, wolf's milk",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Linaceae,216736,528819,Active,Linum lewisii var. lewisii,Blue Flax,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119649,22452,Active,Populus angustifolia,Narrow-leaved Cottonwood,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119650,22453,Active,Populus balsamifera,Balsam Poplar,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,105864,195773,Active,Populus tremuloides,Quaking Aspen,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119710,22507,Active,Salix bebbiana,Bebb Willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119712,22509,Active,Salix boothii,"blueberry willow, Booth's willow",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119714,22510,Active,Salix brachycarpa,"barrenground willow, shortfruit willow",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119730,22525,Active,Salix drummondiana,Drummond's willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,159418,504965,Active,Salix geyeriana,Geyer's willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,216499,530214,Active,Salix humilis var. tristis,prairie willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119762,22554,Active,Salix lucida,shining willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,201630,524652,Active,Salix lucida ssp. caudata,"greenleaf willow, shining willow",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,119766,22558,Active,Salix monticola,Mountain Willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,197244,520861,Active,Salix nivalis,snow willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,193349,520882,Active,Salix petrophila,alpine willow,Salix arctica ssp. petraea,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,120446,22569,Active,Salix planifolia,Planeleaf Willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,159450,504980,Active,Salix scouleriana,Scouler Willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,120460,22581,Active,Salix serissima,autumn willow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Salicaceae,120475,22595,Active,Salix wolfii,"wolf willow, Wolf's willow",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,125915,22032,Active,Viola adunca,Hook Violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,126868,22048,Active,Viola biflora,Arctic Yellow Violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,214201,530827,Active,Viola canadensis var. rugulosa,"Canadian white violet, Rydberg violet",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,214205,530829,Active,Viola canadensis var. scopulorum,Canadian white violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,204572,524818,Active,Viola epipsila ssp. repens,dwarf marsh violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,126918,22093,Active,Viola labradorica,alpine violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,204577,524820,Active,Viola macloskeyi ssp. pallens,smooth white violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,126955,22126,Active,Viola palustris,marsh violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,116105,22156,Active,Viola renifolia,"northern white violet, white violet",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,215480,530842,Active,Viola vallicola var. major,Yellow-flowered Violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malpighiales,Violaceae,116134,22182,Active,Viola villosa,Canadian white violet,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malvales,Malvaceae,124919,21859,Active,Sidalcea candida,Modest Mallow,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Malvales,Malvaceae,124955,21891,Active,Sidalcea neomexicana,Wild Hollyhock,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,291308,566020,Active,Chamerion angustifolium ssp. circumvagum,Fireweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,177093,510758,Active,Chamerion latifolium,Alpine Fireweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126647,27283,Active,Epilobium anagallidifolium,"alpine willowherb, alpine willowweed, pimpernel willowherb",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126652,27288,Active,Epilobium brachycarpum,"autumn willowherb, autumn willowweed, tall annual willowherb",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126658,27293,Active,Epilobium ciliatum,"fringed willowherb, hairy willowherb, hairy willowweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126660,27295,Active,Epilobium ciliatum ssp. glandulosum,"fringed willowherb, glandular willowherb, glandular willowweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126662,27297,Active,Epilobium clavatum,"clavatefruit willowweed, clubfruit willowherb, talus willowherb",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126671,27304,Active,Epilobium halleanum,"glandular willowherb, Hall's willowweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126673,27306,Active,Epilobium hornemannii,"Hornemann's willowherb, Hornemann's willowweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126676,27309,Active,Epilobium lactiflorum,"broadleaf willowweed, milkflower willowherb, white-flower willowherb",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,126692,27323,Active,Epilobium saximontanum,"Rocky Mountain willowherb, Rocky Mountain willowweed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,129475,27673,Active,Gayophytum diffusum ssp. parviflorum,spreading groundsmoke,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,129481,27679,Active,Gayophytum ramosissimum,Babysbreath,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,127815,27378,Active,Oenothera brachycarpa,shortfruit evening primrose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,202367,524348,Active,Oenothera cespitosa ssp. macroglottis,Stemless Evening-primrose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,127825,27387,Active,Oenothera coronopifolia,Cut-leaf Evening-primrose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,127836,27397,Active,Oenothera flava,"long-tube evening primrose, long-tube evening-primrose, yellow evening primrose, yellow eveningprimrose, yellow evening-primrose",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,127877,27433,Active,Oenothera nuttallii,Nuttall Evening-primrose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,127864,27421,Active,Oenothera villosa,"hairy evening primrose, hairy eveningprimrose, hairy evening-primrose",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Myrtales,Onagraceae,202409,524368,Active,Oenothera villosa ssp. strigosa,"hairy evening primrose, hairy eveningprimrose, hairy evening-primrose",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Nymphaeales,Nymphaeaceae,202353,524341,Active,Nuphar lutea ssp. polysepala,"Rocky Mountain cowlily, Rocky Mountain pondlily, Rocky Mountain pond-lily, yellow pond-lily",Nuphar luteum var. polysepalum,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,153654,501020,Active,Botrychium echo,Reflected moonwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,153656,501021,Active,Botrychium hesperium,western moonwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,81433,17178,Active,Botrychium lanceolatum,"lanceleaf grapefern, lance-leaf moonwort, triangle moonwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,81444,17179,Active,Botrychium lanceolatum var. lanceolatum,"lanceleaf grapefern, lance-leaf moonwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,82136,17181,Active,Botrychium lunaria,Moonwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,82191,17186,Active,Botrychium minganense,"Mingan Island grapefern, Mingan moonwort",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ophioglossales,Ophioglossaceae,153668,501027,Active,Botrychium pinnatum,Pinnate Grape Fern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Cupressaceae,214018,528646,Active,Juniperus communis var. depressa,"common juniper, Dwarf Juniper",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Cupressaceae,103554,194872,Active,Juniperus scopulorum,"Rocky Mountain Juniper, Rocky Mt. Red Cedar",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Pinaceae,91292,181830,Active,Abies lasiocarpa,Subalpine Fir,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Pinaceae,93033,183291,Active,Picea engelmannii,Engelmann Spruce,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Pinaceae,93051,183307,Active,Picea pungens,Colorado Blue Spruce,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Pinaceae,93075,183329,Active,Pinus contorta ssp. latifolia,Lodgepole Pine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Pinaceae,93091,183343,Active,Pinus flexilis,Limber Pine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Pinaceae,93117,183367,Active,Pinus ponderosa ssp. scopulorum,Ponderosa Pine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Pinales,Pinaceae,93983,183424,Active,Pseudotsuga menziesii,Douglas-fir,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145366,39486,Active,Carex albonigra,"blackandwhite sedge, black-and-white sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,144425,39374,Active,Carex aquatilis,water sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,208334,525389,Active,Carex aquatilis ssp. stans,water sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,211770,527072,Active,Carex aquatilis var. aquatilis,"leafy tussock sedge, water sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145379,39498,Active,Carex arapahoensis,Arapaho sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,156428,501205,Active,Carex athrostachya,"slenderbeak sedge, slender-beak sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145394,39510,Active,Carex atratiformis,"black sedge, Blackened Sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145321,39445,Active,Carex aurea,"golden sedge, golden-fruit sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145405,39520,Active,Carex bebbii,"Bebb sedge, Bebb's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145406,39521,Active,Carex bella,"showy sedge, southwestern showy sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145322,39446,Active,Carex brunnescens,brownish sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145329,39452,Active,Carex buxbaumii,"brown bog sedge, Buxbaum sedge, Buxbaum's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145427,39540,Active,Carex capillaris,"hair sedge, hairlike sedge, hair-like sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145324,39448,Active,Carex diandra,"lesser panicled sedge, lesser tussock sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146155,39577,Active,Carex disperma,"softleaf sedge, soft-leaf sedge, softleaved sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146156,39578,Active,Carex douglasii,"Douglas sedge, Douglas' sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,156451,501216,Active,Carex duriuscula,needleleaf sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146159,39580,Active,Carex ebenea,ebony sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146162,39583,Active,Carex echinata ssp. echinata,star sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146164,39585,Active,Carex egglestonii,"Eggleston sedge, Eggleston's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146168,39589,Active,Carex elynoides,"blackroot sedge, black-root sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146195,39612,Active,Carex geophila,White Mountain sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146196,39613,Active,Carex geyeri,"elk sedge, Geyer's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,156478,501229,Active,Carex haydeniana,"cloud sedge, Hayden sedge, Hayden's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,211834,527102,Active,Carex heteroneura var. chalciolepis,Holm sedge,Carex chalciolepis,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146228,39642,Active,Carex hoodii,"hood sedge, Hood's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146234,39648,Active,Carex illota,"sheep sedge, smallhead sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,202034,523761,Active,Carex inops ssp. heliophila,sun sedge,Carex pensylvanica ssp. heliophila,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146239,39652,Active,Carex interior,inland sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,144463,39408,Active,Carex lachenalii,twotipped sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,146257,39669,Active,Carex leptalea,"bristlestalked sedge, bristly-stalk sedge, bristlystalked sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,147091,39674,Active,Carex limosa,mud sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,202594,523770,Active,Carex magellanica ssp. irrigua,boreal bog sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137540,39699,Active,Carex microptera,"ovalhead sedge, smallwing sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,144479,39422,Active,Carex misandra,shortleaved sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137555,39711,Active,Carex nebrascensis,Nebraska sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137556,39712,Active,Carex nelsonii,"Nelson sedge, Nelson's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137562,39718,Active,Carex nigricans,black alpine sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137566,39721,Active,Carex norvegica,"Norway sedge, Scandinavian sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,202612,523779,Active,Carex norvegica ssp. stevenii,Steven's sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137567,39722,Active,Carex nova,"black sedge, new sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137570,39725,Active,Carex obtusata,"blunt sedge, obtuse sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137571,39726,Active,Carex occidentalis,western sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137577,39731,Active,Carex oreocharis,grassyslope sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137581,39735,Active,Carex pachystachya,"chamisso sedge, thickhead sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137588,39741,Active,Carex parryana,"Parry sedge, Parry's sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,166951,507767,Active,Carex pellita,woolly sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137601,39753,Active,Carex phaeocephala,"dunehead sedge, dunhead sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,863005,808445,Active,Carex praeceptorum,early sedge,Carex praeceptorium,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137616,39767,Active,Carex praegracilis,"clustered field sedge, slim sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137620,39770,Active,Carex praticola,"meadow sedge, northern meadow sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,202617,523781,Active,Carex pyrenaica ssp. pyrenaica,Crandall Sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,137637,39786,Active,Carex rossii,"Ross sedge, Ross' sedge, Ross's sedge, shortstemmed sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,208390,525415,Active,Carex rupestris ssp. drummondiana,Drummond sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145306,39431,Active,Carex saxatilis,Rock Sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145307,39432,Active,Carex scoparia,"broom sedge, pointed broom sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,138186,39800,Active,Carex scopulorum,"Holm's Rocky Mountain sedge, mountain sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,175269,510275,Active,Carex siccata,dryspike sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,138192,39806,Active,Carex simulata,"analogue sedge, shortbeak sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,138205,39818,Active,Carex stenoptila,riverbank sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,151292,501288,Active,Carex utriculata,Northwest Territory sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,138253,39861,Active,Carex vernacula,"native sedge, spring sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,145345,39467,Active,Carex vesicaria,"blister sedge, inflated sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,138268,39875,Active,Carex xerantica,"whitescale sedge, white-scale sedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,139099,40025,Active,Eleocharis acicularis,"needle spikerush, needle spikesedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,139092,40019,Active,Eleocharis palustris,"common spikerush, creeping spikerush, creeping spike-rush, marsh spike-rush, spikesedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,155293,502240,Active,Eleocharis quinqueflora,"fewflower spikerush, few-flower spikerush, few-flower spike-rush, fewflowered spikesedge",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,140225,40082,Active,Eriophorum angustifolium ssp. scabriusculum,Cottongrass,Eriophorum angustifolium,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,140290,40140,Active,Kobresia myosuroides,"Bellardi bog sedge, Bellardi kobresia",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,140291,40141,Active,Kobresia sibirica,Siberian bog sedge,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,140927,40235,Active,Scirpus microcarpus,"panicled bulrush, red-tinge bulrush, smallfruit bulrush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Cyperaceae,140966,40270,Active,Scirpus pallidus,"cloaked bulrush, pale bulrush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143465,39247,Active,Juncus albescens,northern white rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,213087,528598,Active,Juncus balticus var. montanus,mountain rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143441,39225,Active,Juncus biglumis,twoflowered rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,Toad Rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143445,39229,Active,Juncus castaneus,chestnut rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143481,39261,Active,Juncus confusus,Colorado rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143486,39266,Active,Juncus drummondii,"Drummond rush, Drummond's rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,158257,503249,Active,Juncus dudleyi,"Dudley rush, Dudley's rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143458,39240,Active,Juncus filiformis,thread rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143502,39280,Active,Juncus interior,inland rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,158272,503256,Active,Juncus longistylis,"long-style rush, long-styled rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143516,39293,Active,Juncus mertensianus,Mertens' rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143518,39295,Active,Juncus nevadensis,"Nevada rush, Sierra rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143520,39297,Active,Juncus nodosus,"jointed rush, knotted rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143525,39300,Active,Juncus parryi,"Parry rush, Parry's rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144356,39311,Active,Juncus saximontanus,Rocky Mountain rush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144367,39321,Active,Juncus tracyi,"Tracy rush, Tracy's rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,143456,39239,Active,Juncus triglumis,"threehulled rush, three-hulled rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144371,39325,Active,Juncus tweedyi,"Tweedy rush, Tweedy's rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144374,39328,Active,Juncus vaseyi,"Vasey rush, Vasey's rush",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144386,39339,Active,Luzula comosa,Pacific woodrush,,Probably Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144395,39347,Active,Luzula parviflora,Small-flowered Woodrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144399,39350,Active,Luzula spicata,Arctic Woodrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Juncaceae,144402,39353,Active,Luzula subcapitata,Spherical Spikerush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,168693,507943,Active,Achnatherum hymenoides,Indian ricegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,168699,507946,Active,Achnatherum lettermanii,"Letterman needlegrass, Letterman's needlegrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,168703,507948,Active,Achnatherum nelsonii,"Columbia needlegrass, Nelson achnatherum",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,168718,507955,Active,Achnatherum richardsonii,"Richardson needlegrass, Richardson's needlegrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,168720,507956,Active,Achnatherum robustum,"sleepy grass, sleepygrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,168722,507957,Active,Achnatherum scribneri,Scribner's needlegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,86312,182478,Active,Agropyron cristatum,Crested Wheatgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,141881,40372,Active,Agropyron desertorum,"clustered wheat grass, desert wheatgrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142882,40412,Active,Agrostis exarata,spike bentgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142884,40414,Active,Agrostis gigantea,Redtop,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,86343,182505,Active,Agrostis humilis,"alpine bentgrass, mountain bent grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142888,40418,Active,Agrostis idahoensis,"Idaho bentgrass, Idaho redtop",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,86345,182507,Active,Agrostis mertensii,"arctic bentgrass, northern bentgrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142895,40424,Active,Agrostis scabra,Ticklegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142869,40400,Active,Agrostis stolonifera,creeping bentgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142899,40428,Active,Agrostis variabilis,mountain bentgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142908,40436,Active,Alopecurus aequalis,Foxtail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142906,40434,Active,Alopecurus alpinus ssp. glaucus,boreal alopecurus,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142910,40438,Active,Alopecurus pratensis,"field meadow-foxtail, meadow foxtail",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,139348,41325,Active,Beckmannia syzigachne,Sloughgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,140974,41475,Active,Blepharoneuron tricholepis,Pine Dropseed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,Blue Grama,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142958,40481,Active,Bromus carinatus,"mountain brome, Rescue Grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,294043,566208,Active,Bromus ciliatus var. ciliatus,fringed brome,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,200693,523702,Active,Bromus inermis ssp. pumpellianus,Pumpelly's brome,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,293799,566598,Active,Bromus inermis var. inermis,Smooth Brome,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142955,40479,Active,Bromus japonicus,"Japanese brome, Japanese bromegrass, Japanese chess",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,153761,501071,Active,Bromus lanatipes,woolly brome,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,142963,40486,Active,Bromus porteri,Porter brome,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,Cheat grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,143573,40544,Active,Calamagrostis canadensis,Bluejoint,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,143594,40563,Active,Calamagrostis purpurascens,purple reedgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,154678,501106,Active,Calamagrostis stricta,"narrowspike reedgrass, slim-stem reed grass, slimstem reedgrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,143617,40584,Active,Cinna latifolia,"drooping woodreed, slender wood-reed",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,Bermuda grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,103360,193446,Active,Dactylis glomerata,Orchard Grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,141954,41638,Active,Danthonia intermedia,timber oatgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,141949,41633,Active,Danthonia parryi,"Parry danthonia, Parry oatgrass, Parry's danthonia, Parry's oatgrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,152411,502001,Active,Deschampsia cespitosa,tufted hairgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,156044,502264,Active,Elymus elymoides,"bottlebrush squirreltail, squirreltail, western bottle-brush grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,203124,525111,Active,Elymus elymoides ssp. brevifolius,squirreltail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144548,40684,Active,Elymus glaucus,"blue wild rye, blue wildrye",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,156050,502267,Active,Elymus lanceolatus,"streambank wheatgrass, streamside wild rye",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,178082,512839,Active,Elymus repens,"twitch, couchgrass, creeping quackgrass, Quackgrass, quickgrass, quitch, scutch",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,156071,502277,Active,Elymus scribneri,"Scribner's wild rye, Scribner's wildrye, spreading wheatgrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,156082,502282,Active,Elymus trachycaulus,"slender wheatgrass, slender wild rye",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,200380,524041,Active,Elymus trachycaulus ssp. trachycaulus,slender wheatgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,200394,524048,Active,Eragrostis secundiflora ssp. oxylepis,red lovegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145629,40793,Active,Festuca baffinensis,Baffin fescue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,201250,524071,Active,Festuca brachyphylla ssp. coloradensis,Colorado fescue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,159915,502610,Active,Festuca minutiflora,"smallflower fescue, small-flower fescue",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145642,40804,Active,Festuca ovina,sheep fescue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145632,40796,Active,Festuca rubra,"ravine fescue, red fescue",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,159917,502611,Active,Festuca saximontana,"mountain fescue, Rocky Mountain fescue",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145668,40828,Active,Festuca thurberi,"Thurber fescue, Thurber's fescue",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145683,40841,Active,Glyceria borealis,Northern Manna Grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,158120,502812,Active,Glyceria grandis,"American mannagrass, manna grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145674,40833,Active,Glyceria striata,"fowl manna grass, fowl mannagrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,143317,41757,Active,Helictotrichon mortonianum,Morton's alpineoatgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,169441,507974,Active,Hesperostipa comata,"Hesperostipa, needle and thread, needleandthread",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145705,40861,Active,Hierochloe hirta ssp. arctica,Sweet Grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,203138,525118,Active,Hordeum brachyantherum ssp. brachyantherum,meadow barley,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,202789,524156,Active,Hordeum jubatum ssp. jubatum,Meadow Foxtail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,158331,503284,Active,Koeleria macrantha,Junegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144087,41832,Active,Leucopoa kingii,"spike fescue, spike-fescue",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,160571,503430,Active,Leymus ambiguus,Colorado wildrye,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,161549,503433,Active,Leymus cinereus,Colorado Wild rye,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,146285,40893,Active,Lolium perenne,Ryegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,169460,507983,Active,Lolium pratense,Ryegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144119,41861,Active,Melica spectabilis,purple oniongrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144175,41911,Active,Muhlenbergia filiculmis,slimstem muhly,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144176,41912,Active,Muhlenbergia filiformis,pullup muhly,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144192,41927,Active,Muhlenbergia montana,mountain muhly,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144201,41935,Active,Muhlenbergia racemosa,"green muhly, marsh muhly",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144204,41938,Active,Muhlenbergia richardsonis,"mat muhly, soft-leaf muhly",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,144218,41950,Active,Muhlenbergia wrightii,spike muhly,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,166776,507086,Active,Nassella viridula,green needlegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145067,41979,Active,Oryzopsis asperifolia,"roughleaf ricegrass, white-grain mountain-rice gras",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,158543,504124,Active,Pascopyrum smithii,Western Wheatgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,139359,41335,Active,Phalaris arundinacea,"reed canary grass, reed canarygrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147309,41063,Active,Phleum alpinum,Alpine Timothy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147308,41062,Active,Phleum pratense,Timothy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,290094,565407,Active,Piptatherum exiguum,little ricegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,290096,565408,Active,Piptatherum pungens,mountain ricegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,205237,524546,Active,Poa abbreviata ssp. pattersonii,"Patterson bluegrass+B2198P, Patterson's bluegrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147323,41076,Active,Poa alpina,alpine bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,148055,41107,Active,Poa annua,annual blue grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147324,41077,Active,Poa arctica,arctic bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147330,41082,Active,Poa compressa,Canada Bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,205856,526419,Active,Poa cusickii ssp. epilis,Cusick's bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,205859,526420,Active,Poa cusickii ssp. pallida,Cusick's bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,164251,504467,Active,Poa fendleriana,"mutton grass, muttongrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,205233,524544,Active,Poa glauca ssp. rupicola,timberline bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,148093,41141,Active,Poa leptocoma,"bog bluegrass, bog bluegrass, marsh, marsh bluegrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147345,41096,Active,Poa lettermanii,"Letterman bluegrass, Letterman's bluegrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,206552,526427,Active,Poa nemoralis ssp. interior,inland bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,148104,41151,Active,Poa palustris,"fowl blue grass, fowl bluegrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,Kentucky Bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,292239,566071,Active,Poa pratensis ssp. pratensis,Kentucky bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,164264,504473,Active,Poa reflexa,nodding bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,147354,41103,Active,Poa secunda,"big bluegrass, Sandberg bluegrass, Sandberg's bluegrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,171404,508133,Active,Poa wheeleri,Wheeler's bluegrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,159840,504629,Active,Psathyrostachys juncea,Russian Wild-rye,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,159857,504637,Active,Pseudoroegneria spicata,"bluebunch wheatgrass, bluebunch-wheat grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,148159,41200,Active,Puccinellia nuttalliana,"Nuttall alkaligrass, Nuttall's alkaligrass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,145166,42068,Active,Schizachne purpurascens,"false melic, false melic grass",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,sand dropseed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,202189,522540,Active,Thinopyrum intermedium,intermediate wheatgrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,215311,531133,Active,Torreyochloa pallida var. pauciflora,pale false mannagrass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,139313,41294,Active,Trisetum spicatum,spike trisetum,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,139334,41312,Active,Trisetum wolfii,"wolf trisetum, Wolf's trisetum",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Poaceae,146744,42252,Active,Vahlodea atropurpurea,Mountain Hair Grass,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Typhaceae,147651,42318,Active,Sparganium angustifolium,Narrow-leaved Bur-reed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Typhaceae,168345,507177,Active,Sparganium natans,small bur-reed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Poales,Typhaceae,147659,42325,Active,Typha angustifolia,Narrow-leaved Cattail,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,75894,17361,Active,Asplenium septentrionale,Grass Fern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,75927,17364,Active,Asplenium trichomanes,Maidenhair Spleenwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,217047,529922,Active,Pteridium aquilinum var. pubescens,"Bracken, eagle fern",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,79551,17534,Active,Dryopteris expansa,spreading woodfern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,79562,17535,Active,Dryopteris filix-mas,Male Fern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Dryopteridaceae,81103,17686,Active,Polystichum lonchitis,Holly Fern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,75636,17235,Active,Polypodium hesperium,Western polypody,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Polypodiaceae,158642,504520,Active,Polypodium saximontanum,irregular polypody,Polypodium amorphum,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Pteridaceae,82497,17461,Active,Cryptogramma acrostichoides,Cliff Brake,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,106025,192173,Active,Athyrium americanum,Alpine Ladyfern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,79007,17412,Active,Athyrium filix-femina,,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84468,17482,Active,Cystopteris fragilis,Brittle Fern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84490,17484,Active,Cystopteris montana,Bladder Fern,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,158195,502848,Active,Gymnocarpium disjunctum,Oak Fern,Gymnocarpium dryopteris ssp. disjunctum,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,85369,17745,Active,Woodsia oregana,"Oregon cliff fern, Oregon woodsia, western cliff fern",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,85391,17747,Active,Woodsia scopulina,"Rocky Mountain cliff fern, Rocky Mountain woodsia",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104816,195045,Active,Mahonia repens,Holly-grape,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102836,18926,Active,Argemone polyanthemos,Prickly Poppy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Papaveraceae,99305,18999,Active,Corydalis aurea,Golden Smoke,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Papaveraceae,208152,526307,Active,Papaver radicatum ssp. kluanense,Alpine Poppy,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,88503,18416,Active,Aconitum columbianum,Monkshood,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92008,181882,Active,Actaea rubra ssp. arguta,Red Baneberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89520,18436,Active,Anemone canadensis,Meadow anemone,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89542,18438,Active,Anemone cylindrica,Thimbleflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,291790,565003,Active,Anemone multifida,Globe Anemone,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91986,181862,Active,Anemone multifida ssp. saxicola,Red Windflower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89019,18427,Active,Anemone narcissiflora,Narcissus Anemone,Anemonastrum narcissiflorum ssp. sibiricum,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,291792,565004,Active,Aquilegia caerulea,Colorado Blue Columbine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96256,18735,Active,Aquilegia elegantula,Rocky Mountain Red Columbine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97163,18745,Active,Aquilegia saximontana,Dwarf Blue Columbine,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,201964,523728,Active,Caltha leptosepala ssp. leptosepala,Marsh-Marigold,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,210437,527419,Active,Clematis columbiana var. columbiana,Subalpine Clematis,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,210444,527422,Active,Clematis hirsutissima var. hirsutissima,Sugarbowls,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,210458,527429,Active,Clematis occidentalis var. occidentalis,western blue virginsbowe,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,90894,18539,Active,Delphinium barbeyi,Subalpine Larkspur,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92831,18483,Active,Delphinium nuttallianum,Nelsons Larkspur,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,88242,18503,Active,Delphinium ramosum,mountain larkspur,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92853,18485,Active,Delphinium X occidentale,Western Larkspur,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,94438,18801,Active,Pulsatilla patens ssp. multifida,Pasque Flower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92438,18559,Active,Ranunculus abortivus,"early woodbuttercup, kidney-leaf buttercup, littleleaf buttercup, smallflower buttercup, smallflower crowfoot",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,94571,18584,Active,Ranunculus adoneus,Snow Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,104694,194936,Active,Ranunculus alismifolius var. montanus,"dwarf buttercup, plantainleaf buttercup",Ranunculus alismifolius,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,95512,18597,Active,Ranunculus cardiophyllus,Heart-leaved Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96869,18600,Active,Ranunculus cymbalaria,shore buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96880,18601,Active,Ranunculus eschscholtzii,Subalpine Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,236578,539475,Active,Ranunculus flammula var. reptans,"greater creeping spearwort, Trailing Buttercup",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96924,18605,Active,Ranunculus gelidus,Tundra buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,217825,529967,Active,Ranunculus glaberrimus var. ellipticus,Sagebrush Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,161847,504726,Active,Ranunculus gmelinii,Yellow Water Crowfoot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93230,18571,Active,Ranunculus hyperboreus,artic buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97712,18616,Active,Ranunculus inamoenus,graceful buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,98475,18625,Active,Ranunculus macounii,Macoun Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93252,18573,Active,Ranunculus pedatifidus,Birdfoot Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93274,18575,Active,Ranunculus pygmaeus,Pygmy Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,161851,504728,Active,Ranunculus ranunculinus,tadpole buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,217855,529981,Active,Ranunculus sceleratus var. sceleratus,Blister Buttercup,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,94504,18578,Active,Ranunculus trichophyllus,Water Crowfoot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89785,18652,Active,Ranunculus uncinatus,"hooked buttercup, woodland buttercup",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,90541,18661,Active,Thalictrum alpinum,Alpine Meadowrue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91431,18670,Active,Thalictrum fendleri,Fendler Meadowrue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91530,18679,Active,Thalictrum sparsiflorum,"fewflower meadowrue, fewflower meadow-rue",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,104784,195016,Active,Thalictrum sparsiflorum var. saximontanum,Few-flowered Meadowrue,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,204228,522967,Active,Trollius albiflorus,Globe-flower,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Cannabaceae,212187,528499,Active,Humulus lupulus var. neomexicanus,common hops,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130527,27779,Active,Shepherdia canadensis,Bitter Buffaloberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rhamnaceae,124284,28467,Active,Ceanothus fendleri,Fendler Buckthorn,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rhamnaceae,124741,28517,Active,Ceanothus velutinus,"Sticky-laurel, Mountain Balm",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,129583,25109,Active,Amelanchier alnifolia,Shadbush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,91112,184598,Active,Argentina anserina,silverweed cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,129613,25136,Active,Cercocarpus montanus,Mountain-mahogany,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126223,24604,Active,Crataegus succulenta,Hawthorn,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,286449,565123,Active,Dasiphora floribunda,Shrubby Cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,198788,523987,Active,Dryas octopetala ssp. hookeriana,Dryad,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126259,24637,Active,Fragaria vesca ssp. bracteata,Wild Strawberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126264,24641,Active,Fragaria virginiana ssp. glauca,Wild Strawberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126270,24647,Active,Geum aleppicum,Avens,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126278,24654,Active,Geum macrophyllum,Avens,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126283,24659,Active,Geum rivale,Purple Avens,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126285,24660,Active,Geum rossii,Alpine Avens,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,106593,195836,Active,Geum triflorum var. triflorum,old man's whiskers,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,130595,25178,Active,Holodiscus dumosus,Mountain Spray,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,120338,25281,Active,Physocarpus monogynus,Ninebark,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126310,24683,Active,Potentilla ambigens,silkyleaf cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126321,24693,Active,Potentilla arguta ssp. arguta,tall cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126999,24702,Active,Potentilla diversifolia,Blueleaf Cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127003,24706,Active,Potentilla effusa,branched cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127005,24708,Active,Potentilla fissa,Big Flower Cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127012,24714,Active,Potentilla gracilis,"graceful cinquefoil, northwest cinquefoil, slender cinquefoil",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127016,24718,Active,Potentilla hippiana,"horse cinquefoil, woolly cinquefoil",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127028,24729,Active,Potentilla nivea,Singleflower Cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127030,24730,Active,Potentilla norvegica,Norway Cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127032,24732,Active,Potentilla ovina,sheep cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127036,24736,Active,Potentilla pensylvanica,"Pennsylvania cinquefoil, prairie cinquefoil",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,159749,504586,Active,Potentilla pulcherrima,Beauty Cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127043,24742,Active,Potentilla recta,sulphur cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127047,24746,Active,Potentilla rupincola,Rocky mountain cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,159758,504590,Active,Potentilla subjuga,Colorado cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,126304,24678,Active,Potentilla uniflora,Singleflower Cinquefoil,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,215988,529878,Active,Prunus pensylvanica var. pensylvanica,Pin cherry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,216022,529894,Active,Prunus virginiana var. melanocarpa,Chokecherry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,120348,25290,Active,Purshia tridentata,Bitterbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127123,24814,Active,Rosa acicularis ssp. sayi,Wild Rose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,127958,24847,Active,Rosa woodsii,Wild Rose,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,196519,520282,Active,Rubacer parviflorus,western thimbleberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,128029,24910,Active,Rubus deliciosus,Boulder Raspberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,206104,524636,Active,Rubus idaeus ssp. strigosus,Red Raspberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,120368,25308,Active,Sibbaldia procumbens,Sibbaldia,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,120388,25326,Active,Sorbus scopulina,Mountain-ash,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Rosaceae,120394,25331,Active,Spiraea betulifolia,Birchleaf spiraea,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Rosales,Urticaceae,101640,19169,Active,Parietaria pensylvanica,Pennsylvania pellitory,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Santalales,Santalaceae,131312,27887,Active,Arceuthobium americanum,Mistletoe,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Santalales,Santalaceae,91861,184678,Active,Arceuthobium cyanocarpum,Mistletoe,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Santalales,Santalaceae,131324,27898,Active,Arceuthobium vaginatum,Mistletoe,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126786,28791,Active,Rhus trilobata,Skunkbrush,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Sapindales,Sapindaceae,126732,28742,Active,Acer glabrum,Mountain Maple/Rocky Mt. Maple,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Crassulaceae,193200,520043,Active,Rhodiola integrifolia,King's Crown,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Crassulaceae,291020,565455,Active,Rhodiola rhodantha,Rose Crown,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Crassulaceae,122486,24126,Active,Sedum lanceolatum,Yellow Stonecrop,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125256,24457,Active,Ribes cereum,Squaw Currant,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125274,24473,Active,Ribes inerme,Mountain Gooseberry,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125277,24476,Active,Ribes lacustre,Prickly Currant,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125279,24478,Active,Ribes laxiflorum,Coloradom Currant,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125288,24486,Active,Ribes montigenum,"alpine prickly currant, gooseberry currant, mountain gooseberry",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Haloragaceae,161492,503906,Active,Myriophyllum sibiricum,"American watermilfoil, shortspike watermilfoil, Siberian water-milfoil",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,122555,24189,Active,Chrysosplenium tetrandrum,Golden Saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124325,24341,Active,Heuchera bracteata,Alumroot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124352,24366,Active,Heuchera parvifolia,Littleleaf Alumroot,Heuchera parviflora,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124384,24395,Active,Lithophragma glabrum,"bulbous woodland-star, smooth woodland-star",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124387,24398,Active,Lithophragma parviflorum,Woodlandstar,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124404,24412,Active,Mitella pentandra,Common Mitreroot,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,211489,529224,Active,Mitella stauropetala var. stenopetala,drywoods miterwort,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,202881,524663,Active,Saxifraga bronchialis ssp. austromontana,matted saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,292270,566086,Active,Saxifraga caespitosa ssp. delicatula,tufted alpine saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,123395,24223,Active,Saxifraga cernua,Nodding Saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,123439,24263,Active,Saxifraga chrysantha,goldbloom saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,202900,524672,Active,Saxifraga flagellaris ssp. crandallii,Crandall's saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,160104,505027,Active,Saxifraga odontoloma,"brook saxifrage, streambank saxifrage",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,123473,24294,Active,Saxifraga rhomboidea,diamond-leaf saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,123419,24245,Active,Saxifraga rivularis,"alpine brook saxifrage, pygmy saxifrage, weak saxifrage",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,125332,24525,Active,Telesonix jamesii,James Saxifrage,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,74271,17076,Active,Selaginella densa,"dense clubmoss, lesser spikemoss, small clubmoss",,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,75186,17086,Active,Selaginella mutica,bluntleaf spikemoss,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,76112,17097,Active,Selaginella underwoodii,Underwood's spikemoss,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,Bindweed,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Solanales,Solanaceae,163938,505268,Active,Solanum physalifolium,ground-cherry nightshade,,Present
+ROMO,Rocky Mountain National Park,Vascular Plant,6,Solanales,Solanaceae,132705,30461,Active,Solanum triflorum,Cutleaf Nightshade,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,,,719625,82754,Active,Acarina,"chiggers, mites, ticks",,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Agelenidae,809986,873673,Active,Agelenopsis utahana,,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Dictynidae,798804,878262,Active,Dictyna brevitarsa,meshweaver,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Dictynidae,798817,878275,Active,Dictyna crosbyi,,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Dictynidae,798905,878363,Active,Dictyna volucripes,,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Dictynidae,789127,879295,Active,Emblyna phylax,,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Dictynidae,789144,879312,Active,Emblyna uintana,,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Gnaphosidae,92447,185598,Active,Zelotes fratris,,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Linyphiidae,817526,850294,Active,Allomengea dentisetis,"dwarf weaver, sheetweb weaver",,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Linyphiidae,820507,856049,Active,Erigone blaesa,"dwarf weaver, sheetweb weaver",,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Linyphiidae,820537,856079,Active,Erigone hypenema,"dwarf weaver, sheetweb weaver",,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Linyphiidae,824300,857226,Active,Grammonota gentilis,"dwarf weaver, sheetweb weaver",,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Lycosidae,813034,864457,Active,Pardosa mackenziana,wolf spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Lycosidae,813060,864483,Active,Pardosa moesta,wolf spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Lycosidae,813106,864529,Active,Pardosa ourayensis,wolf spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Philodromidae,780269,890394,Active,Thanatus altimontis,running crab spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Philodromidae,780279,890404,Active,Thanatus coloradensis,running crab spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Salticidae,789653,886157,Active,Pelegrina flavipes,jumping spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Salticidae,789668,886172,Active,Pelegrina proterva,jumping spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Salticidae,779862,889987,Active,Talavera minuta,jumping spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Theridiidae,239397,-541881,Inactive,Latrodectus hesperus,Western Black Widow Spider,,Present
+ROMO,Rocky Mountain National Park,Spider/Scorpion,10,Araneae,Theridiidae,807509,867519,Active,Steatoda hespera,cobweb weaver,,Present
+ROMO,Rocky Mountain National Park,Insect,11,Coleoptera,Carabidae,567646,697862,Active,Cicindela oregona guttifera,Dappled Tiger Beetle,,Present

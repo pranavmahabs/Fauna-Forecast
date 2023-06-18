@@ -1,0 +1,809 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,"PRONGHORN ANTELOPE, PRONGHORN/ANTELOPE",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Bovidae,107797,203618,Active,Bos bison,"American bison, American Bison, bison",Bison bison,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Bovidae,86816,183838,Active,Bos taurus,DOMESTIC CATTLE/LONGHORN,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,bighorn sheep,Ovis canadensis californiana,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95052,180703,Active,Alces alces,MOOSE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,"ELK, WAPITI/ELK",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,MULE DEER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,"WHITE-TAIL DEER, WHITE-TAILED DEER",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,COYOTE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,RED FOX,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,BOBCAT,Felis rufus,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,Felis concolor,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,STRIPED SKUNK,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,"LONGTAIL WEASEL, LONG-TAILED WEASEL",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93291,180554,Active,Mustela nivalis,LEAST WEASEL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,MINK,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,BADGER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,RACCOON,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,BIG BROWN BAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,SILVER-HAIRED BAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,HOARY BAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,"Eastern Small-footed Bat, Eastern Small-footed Myotis, Small-footed Myotis",Myotis leibii,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,LONG-EARED MYOTIS,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,LITTLE BROWN MYOTIS,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88722,180000,Active,Myotis septentrionalis,Keen's Myotis,Myotis keenii,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,LONG-LEGGED MYOTIS,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89644,180118,Active,Lepus townsendii,"JACK RABBIT, PRAIRIE HARE, WHITE-TAILED JACKRABBIT",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,"COTTONTAIL, DESERT COTTONTAIL",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89651,180124,Active,Sylvilagus floridanus,EASTERN COTTONTAIL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,NUTTALL'S COTTONTAIL,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Perissodactyla,Equidae,95038,180691,Active,Equus caballus,"FERAL HORSE, HORSE, WILD HORSE/FERAL HORSE",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,BEAVER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91703,180312,Active,Microtus ochrogaster,PRAIRIE VOLE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,90766,180297,Active,Microtus pennsylvanicus,MEADOW VOLE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,BUSHY-TAILED WOODRAT,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,MUSKRAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,NORTHERN GRASSHOPPER MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,WHITE-FOOTED MOUSE,Peromyscus leucopus aridulus,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,DEER MOUSE,Peromyscus maniculatus osgoodi,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,WESTERN HARVEST MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Dipodidae,91784,180386,Active,Zapus hudsonius,MEADOW JUMPING MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,PORCUPINE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,NORTHERN POCKET GOPHER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Heteromyidae,90726,180260,Active,Perognathus fasciatus,OLIVE-BACKED POCKET MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,HOUSE MOUSE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,90643,180186,Active,Cynomys ludovicianus,"BLACK-TAIL PRAIRIE DOG, BLACK-TAILED PRAIRIE DOG, PRAIRIE DOG",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,89704,180172,Active,Sciurus niger,FOX SQUIRREL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,89683,180153,Active,Spermophilus franklinii,FRANKLIN GROUND SQUIRREL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,89693,180162,Active,Spermophilus tridecemlineatus,THIRTEEN-LINED GROUND SQUIRREL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,90653,180195,Active,Tamias minimus,LEAST CHIPMUNK,Eutamias minimus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,Accipiter striatus striatus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,Snow Goose,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Apodiformes,Trochilidae,83884,178032,Active,Archilochus colubris,Ruby-throated Hummingbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,Herring Gull,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,Actitis macularia,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland Sandpiper,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser Yellowlegs,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Cuculiformes,Cuculidae,89105,177834,Active,Coccyzus erythropthalmus,Black-billed Cuckoo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,84339,175915,Active,Perdix perdix,Gray Partridge,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,84328,175905,Active,Phasianus colchicus,Ring-necked Pheasant,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,83188,175841,Active,Tympanuchus phasianellus,Sharp-tailed Grouse,Pedioecetes phasianellus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Bombycillidae,88292,178529,Active,Bombycilla garrulus,Bohemian Waxwing,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Calcariidae,85681,179526,Active,Calcarius lapponicus,Lapland Longspur,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Calcariidae,85686,179530,Active,Calcarius ornatus,Chestnut-collared Longspur,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Calcariidae,85688,179532,Active,Plectrophenax nivalis,Snow Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,Guiraca caerulea,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94273,179165,Active,Spiza americana,Dickcissel,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,86252,179680,Active,Cyanocitta cristata,Blue Jay,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,Black-billed Magpie,Pica pica,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95280,179230,Active,Carduelis flammea,Common Redpoll,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95281,179231,Active,Carduelis hornemanni,Hoary Redpoll,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,Purple Finch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,1005332,997805,Active,Haemorhous mexicanus,House Finch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,Leucosticte arctoa,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Hirundo pyrrhonota,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93664,179091,Active,Euphagus carolinus,Rusty Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93634,179064,Active,Icterus spurius,Orchard Oriole,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,94206,179104,Active,Quiscalus quiscula,Common Grackle,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern Shrike,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Motacillidae,87465,178499,Active,Anthus spragueii,Sprague's Pipit,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Paridae,266957,554138,Active,Baeolophus bicolor,Tufted Titmouse,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,Parus atricapillus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92702,178939,Active,Oporornis philadelphia,Mourning Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,628220,726205,Active,Seiurus aurocapilla,Ovenbird,Seiurus aurocapillus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84674,179339,Active,Ammodramus bairdii,Baird's Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,83867,179333,Active,Ammodramus savannarum,Grasshopper Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,"Junco hyemalis hyemalis, Junco hyemalis oreganus",Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84785,179439,Active,Spizella pallida,Clay-colored Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84790,179443,Active,Spizella pusilla,Field Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passerellidae,84802,179454,Active,Zonotrichia querula,Harris's Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87177,179796,Active,Catharus fuscescens,Veery,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87184,179801,Active,Sialia sialis,Eastern Bluebird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85830,178344,Active,Empidonax minimus,Least Flycatcher,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Pheobe,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85757,178279,Active,Tyrannus tyrannus,Eastern Kingbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,93573,179009,Active,Vireo flavifrons,Yellow-throated Vireo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,"Plumbeous Vireo, New Name",,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,84855,178186,Active,Melanerpes erythrocephalus,Red-headed Woodpecker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,543953,686683,Active,Bubo scandiacus,Snowy Owl,Nyctea scandiaca,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,Western Screech-Owl,Otus kennicottii,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82956,177921,Active,Strix varia,Barred Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Suliformes,Phalacrocoracidae,83419,174717,Active,Phalacrocorax auritus,Double-crested Cormorant,,Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Squamata,Colubridae,79731,174169,Active,Coluber constrictor,racer,,Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Squamata,Colubridae,79046,174155,Active,Heterodon nasicus,"EASTERN HOGNOSE, WESTERN HOG-NOSE SNAKE",Heterodon nasicus nasicus,Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,BULLSNAKE,"Pituophis catenifer sayi, Pituophis melanoleucus",Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Squamata,Colubridae,79037,174147,Active,Thamnophis radix,Western Plains Garter Snake,Thamnophis radix haydenii,Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,SAGEBRUSH LIZARD,,Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,"Short-horned Lizard, Pigmy Short-horned Lizard, Pygmy Short-horned Lizard, Short-horned Lizard","Phrynosoma douglassii, Phrynosoma douglasii",Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,"PRAIRIE RATTLESNAKE, RATTLESNAKE",Crotalus viridis viridis,Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Testudines,Chelydridae,76856,173752,Active,Chelydra serpentina,COMMON SNAPPING TURTLE,Chelydra serpentina serpentina,Present
+THRO,Theodore Roosevelt National Park,Reptile,3,Testudines,Emydidae,76890,173783,Active,Chrysemys picta,WESTERN PAINTED TURTLE,Chrysemys picta bellii,Present
+THRO,Theodore Roosevelt National Park,Amphibian,4,Anura,Bufonidae,83325,173484,Active,Bufo cognatus,"GREAT PLAINS TOAD, PLAINS TOAD",,Present
+THRO,Theodore Roosevelt National Park,Amphibian,4,Anura,Bufonidae,83316,173476,Active,Bufo woodhousii,Woodhouse's toad,,Present
+THRO,Theodore Roosevelt National Park,Amphibian,4,Anura,Hylidae,118899,207312,Active,Pseudacris maculata,BOREAL CHORUS FROG,Pseudacris triseriata,Present
+THRO,Theodore Roosevelt National Park,Amphibian,4,Anura,Ranidae,83280,173443,Active,Rana pipiens,"LEOPARD FROG, NORTHERN LEOPARD FROG",,Present
+THRO,Theodore Roosevelt National Park,Amphibian,4,Anura,Scaphiopodidae,115593,206989,Active,Spea bombifrons,PLAINS SPADEFOOT TOAD,Scaphiopus bombifrons,Present
+THRO,Theodore Roosevelt National Park,Amphibian,4,Caudata,Ambystomatidae,75874,173592,Active,Ambystoma tigrinum,TIGER SALAMANDER,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Catostomidae,65732,163919,Active,Carpiodes carpio,RIVER CARPSUCKER/CARPSUCKER,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Catostomidae,266182,553273,Active,Catostomus commersonii,white sucker,Catostomus commersoni,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Catostomidae,65742,163928,Active,Moxostoma macrolepidotum,Shorthead Redhorse,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,72075,163535,Active,Couesius plumbeus,lake chub,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70791,163344,Active,Cyprinus carpio,CARP/EUROPEAN CARP,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70811,163362,Active,Hybognathus argyritis,WESTERN SILVERY MINNOW,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70812,163363,Active,Hybognathus hankinsoni,brassy minnow,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70810,163361,Active,Hybognathus placitus,PLAINS MINNOW,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70817,163368,Active,Notemigonus crysoleucas,golden shiner,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70867,163412,Active,Notropis atherinoides,emerald shiner,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,71946,163419,Active,Notropis stramineus,SAND SHINER,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,72942,163592,Active,Phoxinus eos,northern redbelly dace,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,72055,163517,Active,Pimephales promelas,"FATHEAD MINNOW, FLATHEAD MINNOW",,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,65691,163882,Active,Platygobio gracilis,FLATHEAD CHUB,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70835,163384,Active,Rhinichthys cataractae,LONGNOSE DACE,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Cypriniformes,Cyprinidae,70826,163376,Active,Semotilus atromaculatus,CREEK CHUB,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Esociformes,Esocidae,73559,162139,Active,Esox lucius,NORTHERN PIKE,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Gadiformes,Gadidae,73193,164725,Active,Lota lota,burbot,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Gasterosteiformes,Gasterosteidae,74168,166399,Active,Culaea inconstans,BROOK STICKLEBACK,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Osteoglossiformes,Hiodontidae,71691,161905,Active,Hiodon alosoides,GOLDEYE,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Perciformes,Centrarchidae,72225,168132,Active,Lepomis cyanellus,GREEN SUNFISH,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Perciformes,Centrarchidae,72235,168141,Active,Lepomis macrochirus,Bluegill,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Perciformes,Percidae,73318,168393,Active,Etheostoma exile,Iowa Darter,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Perciformes,Percidae,467623,650171,Active,Sander canadensis,sauger,Stizostedion canadense,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Perciformes,Percidae,467627,650173,Active,Sander vitreus,"walleye, walleye","Stizostedion vitreum, Stizostedion vitreum vitreum",Present
+THRO,Theodore Roosevelt National Park,Fish,5,Perciformes,Sciaenidae,74039,169364,Active,Aplodinotus grunniens,freshwater drum,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Siluriformes,Ictaluridae,66268,164039,Active,Ameiurus melas,Black Bullhead,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Siluriformes,Ictaluridae,66221,163998,Active,Ictalurus punctatus,channel catfish,,Present
+THRO,Theodore Roosevelt National Park,Fish,5,Siluriformes,Ictaluridae,66240,164013,Active,Noturus flavus,STONECAT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Alismataceae,140778,38896,Active,Alisma gramineum,WATER PLANTAIN,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Alismataceae,140802,38917,Active,Sagittaria cuneata,ARROWHEAD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Alismataceae,140792,38908,Active,Sagittaria latifolia,"broadleaf arrowhead, common arrowhead, duck-potato, wapato",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Juncaginaceae,162639,505588,Active,Triglochin maritimum,"arrowgrass, seaside arrowgrass, seaside arrow-grass, shore arrowgrass",Triglochin maritimum var. elatum,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141580,39017,Active,Potamogeton pusillus,BABY PONDWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,158721,504558,Active,Potamogeton richardsonii,CLASPINGLEAF PONDWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,287316,565547,Active,Stuckenia pectinatus,sago pondweed,Potamogeton pectinatus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Alismatales,Potamogetonaceae,141636,39068,Active,Zannichellia palustris,HORNED DUCKWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Apiaceae,133390,29456,Active,Cicuta maculata,COMMON WATER HEMLOCK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Apiaceae,134770,29628,Active,Cymopterus acaulis,CYMOPTERUS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Apiaceae,135382,29699,Active,Lomatium foeniculaceum,WILD PARSLEY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Apiaceae,125493,29734,Active,Lomatium orientale,WILD PARSLEY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Apiaceae,126328,29763,Active,Musineon divaricatum,WILD PARSLEY/MUSINEON,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Apiaceae,126359,29791,Active,Osmorhiza longistylis,SWEET CICELY/ANISE ROOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Apiaceae,126431,29856,Active,Sanicula marilandica,BLACK SNAKEROOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Apiales,Araliaceae,132504,29376,Active,Aralia nudicaulis,WILD SARSAPARILLA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149584,42670,Active,Allium textile,WHITE WILD ONION,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asparagales,Asparagaceae,140583,42784,Active,Asparagus officinalis,ASPARAGUS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asparagales,Asparagaceae,157787,503655,Active,Maianthemum racemosum,"false Solomon's-seal, feathery false lily of the valley, feathery false lily of the vally, feathery false Solomon's seal, feathery false Solomon's-seal",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asparagales,Asparagaceae,157789,503656,Active,Maianthemum stellatum,"false Solomon's seal, little false Solomon's-seal, star false Solomon's-seal, star-flower Solomon's-seal, starry false lily of the valley, starry false Solomon's seal, starry false Solomon's-seal, starry Solomon's-seal",Smilacina stellata,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asparagales,Asparagaceae,144230,43142,Active,Yucca glauca,YUCCA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asparagales,Iridaceae,144339,43240,Active,Sisyrinchium angustifolium,BLUE-EYED GRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asparagales,Iridaceae,145188,43269,Active,Sisyrinchium montanum,"mountain blueeyed grass, mountain blue-eyed grass, strict blue-eyed grass, strict blue-eyed-grass",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133556,35423,Active,Achillea millefolium,"bloodwort, carpenter's weed, common yarrow, hierba de las cortaduras, milenrama, milfoil, plumajillo, western yarrow, yarrow",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,207757,526856,Active,Achillea millefolium var. occidentalis,"common yarrow, western yarrow",Achillea millefolium ssp. lanulosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,140168,36459,Active,Acroptilon repens,"hardheads, Russian knapweed",Centaurea repens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,141401,36490,Active,Agoseris glauca,FALSE DANDELION,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,141430,36516,Active,Ambrosia psilostachya,WESTERN RAGWEED,Ambrosia coronopifolia,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,89846,185162,Active,Antennaria microphylla,PINK PUSSY-TOES,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,89851,185167,Active,Antennaria parlinii,PLAINLEAF PUSSY-TOES,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,89847,185163,Active,Antennaria parvifolia,PUSSY-TOES,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,141463,36546,Active,Arctium minus,COMMON BURDOCK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,141483,36564,Active,Arnica fulgens,ARNICA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133580,35445,Active,Artemisia absinthium,ABSINTHSE WORMWOOD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133587,35451,Active,Artemisia biennis,BIENNIAL WORMWOOD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,86052,183750,Active,Artemisia campestris ssp. caudata,WESTERN SAGEWORT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133590,35454,Active,Artemisia cana,silver sagebrush,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133599,35462,Active,Artemisia dracunculus,SILKY WORMWOOD,"Artemisia glauca dracunculoides, Artemisia dracunculus ssp. dracunculus",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133602,35465,Active,Artemisia frigida,FRINGED SAGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133610,35472,Active,Artemisia longifolia,LONG-LEAVED SAGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133612,35474,Active,Artemisia ludoviciana,WHITE SAGE,"Artemisia ludoviciana ssp. ludoviciana, Artemisia ludoviciana var. ludoviciana",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133638,35498,Active,Artemisia tridentata,BIG SAGEBRUSH,Artemisia tridentata ssp. vaseyana,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,134669,35707,Active,Bidens frondosa,BEGGAR-TICKS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,209778,526976,Active,Brickellia eupatorioides var. eupatorioides,false boneset,Kuhnia eupatorioides,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,135958,35787,Active,Carduus nutans,MUSK THISTLE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,151841,501347,Active,Centaurea biebersteinii,spotted knapweed,Centaurea maculosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139500,36335,Active,Cirsium arvense,CANADA THISTLE/FIELD THISTLE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,140067,36368,Active,Cirsium flodmanii,FLODMAN'S THISTLE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,140129,36423,Active,Cirsium undulatum,wavyleaf thistle,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,138585,37113,Active,Conyza canadensis,HORSE-WEED,Conyza canadensis var. canadensis,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,138590,37118,Active,Conyza ramosissima,SPREADING HORSEWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,138676,37196,Active,Crepis occidentalis,HAWK'S BEARD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,138685,37203,Active,Crepis runcinata,HAWK'S BEARD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139550,37263,Active,Dyssodia papposa,FETID MARIGOLD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139564,37276,Active,Echinacea angustifolia,PURPLE CONEFLOWER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,210997,527801,Active,Echinacea angustifolia var. angustifolia,"blacksamson, blacksamson echinacea",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,294302,566639,Active,Ericameria nauseosa var. glabrata,rubber rabbitbrush,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,294315,566645,Active,Ericameria nauseosa var. nauseosa,gray rabbitbrush,Chrysothamnus nauseosus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136012,35835,Active,Erigeron canus,hoary fleabane,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136857,35873,Active,Erigeron glabellus,"smooth fleabane, streamside fleabane",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,205883,525658,Active,Erigeron glabellus ssp. pubescens,SMOOTH FLEABANE,Erigeron glabellus var. pubescens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136883,35897,Active,Erigeron lonchophyllus,"low-meadow fleabane, shortray boreal daisy, short-ray boreal-daisy, shortray fleabane, spearleaf daisy",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,135983,35809,Active,Erigeron philadelphicus,PHILADELPHIA FLEABANE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136925,35934,Active,Erigeron pumilus,FLEABANE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136944,35951,Active,Erigeron strigosus,DAISY FLEABANE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136946,35953,Active,Erigeron subtrinervis,"threenerve fleabane, three-nerve fleabane, threeveined fleabane",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,140496,37398,Active,Gaillardia aristata,GAILLARDIA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,141110,37472,Active,Grindelia squarrosa,GUMWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,BROOM SNAKEWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,142204,36616,Active,Helianthus annuus,COMMON SUNFLOWER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,142245,36653,Active,Helianthus maximiliani,MAXIMILLIAN SUNFLOWER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,201366,524126,Active,Helianthus pauciflorus ssp. pauciflorus,stiff sunflower,"Helianthus rigidus, Helianthus pauciflorus",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,133707,36671,Active,Helianthus petiolaris,PLAINS SUNFLOWER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,210320,528399,Active,Heterotheca villosa var. villosa,"hairy false goldenaster, hairy false golden-aster",Chrysopsis villosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,143061,37766,Active,Hymenopappus filifolius,HYMENOPAPPUS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,143069,37773,Active,Hymenopappus tenuifolius,"Chalk Hill hymenopappus, chalkhill woollywhite, Chalkhill woolywhite",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,137432,36033,Active,Iva axillaris,POVERTY WEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,137441,36041,Active,Iva xanthifolia,MARSH ELDER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,142189,36602,Active,Lactuca ludoviciana,WESTERN LETTUCE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,PRICKLY LETTUCE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,143794,37936,Active,Liatris punctata,BLAZING STAR,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,157720,503623,Active,Lygodesmia juncea,SKELETONWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,295171,566721,Active,Machaeranthera canescens var. canescens,hoary tansyaster,Aster canescens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,295198,566734,Active,Machaeranthera pinnatifida var. pinnatifida,"cutleaf ironplant, ironplant, lacy tansyaster",Haplopappus spinulosus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,145936,38132,Active,Nothocalais cuspidata,"microseris, sharppoint microseris, sharppoint prairie-dandelion, wavy-leaf prairie-dandelion","Agoseris cuspidata, Microseris cuspidata",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,170736,507631,Active,Oligoneuron album,prairie goldenrod,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,217309,531228,Active,Oligoneuron rigidum var. rigidum,stiff-leaved goldenrod,Solidago rigida,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,192568,518142,Active,Packera cana,woolly groundsel,Senecio canus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,290013,565369,Active,Packera plattensis,prairie groundsel,Senecio plattensis,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136332,38244,Active,Picradeniopsis oppositifolia,PICRADENIOPSIS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,136440,38341,Active,Ratibida columnifera,PRAIRIE CONEFLOWER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,135802,36765,Active,Rudbeckia hirta,"blackeyed Susan, black-eyed Susan",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,138491,36148,Active,Senecio integerrimus,RAGWORT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139377,36224,Active,Solidago canadensis,"Canada goldenrod, Canadian goldenrod, common goldenrod",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,216591,530448,Active,Solidago canadensis var. scabra,"Canada goldenrod, Canadian goldenrod",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139415,36259,Active,Solidago gigantea,giant goldenrod,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139435,36277,Active,Solidago missouriensis,Missouri goldenrod,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139436,36278,Active,Solidago mollis,SOFT GOLDENROD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139440,36281,Active,Solidago nemoralis,GRAY GOLDENROD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139453,36293,Active,Solidago ptarmicoides,"prairie goldenrod, upland white aster, white flat-top goldenrod",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,137727,38421,Active,Sonchus arvensis,"FIELD SOW THISTLE, SOW THISTLE",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,217794,530563,Active,Stenotus armerioides var. armerioides,"goldenweed, thrift mock goldenweed, thrifty goldenweed",Haplopappus armerioides,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,137761,38452,Active,Stephanomeria runcinata,desert wirelettuce,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,295969,566330,Active,Symphyotrichum ericoides var. ericoides,"heath aster, white aster, white heath aster","Aster ericoides, Suaeda depressa",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,236353,541083,Active,Symphyotrichum ericoides var. pansum,manyflowered aster,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,295971,566331,Active,Symphyotrichum falcatum var. falcatum,cluster aster,Aster falcatus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,295975,566333,Active,Symphyotrichum laeve var. laeve,smooth aster,Aster laevis,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,290904,566832,Active,Symphyotrichum lanceolatum var. lanceolatum,white panicle aster,Aster simplex,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,198419,522228,Active,Symphyotrichum oblongifolium,aromatic aster,Aster oblongifolius,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,COMMON DANDELION,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,219285,530623,Active,Tetraneuris acaulis var. acaulis,stemless hymenoxys,Hymenoxys acaulis,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,138150,38564,Active,Tragopogon dubius,GOAT'S BEARD/WESTERN SALSIFY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,139223,38692,Active,Xanthium strumarium,COCKLEBUR,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Asteraceae,215543,530872,Active,Xanthium strumarium var. canadense,"Canada cocklebur, Canada cockleburr, cocklebur, common cocklebur, rough cocklebur, rough cockleburr",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Campanulaceae,136183,34497,Active,Campanula rotundifolia,HAREBELL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Asterales,Campanulaceae,136983,34614,Active,Triodanis leptocarpa,VENUS' LOOKING GLASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,131026,31723,Active,Asperugo procumbens,"CATCHWEED, CATCHWEED/MADWORT",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,131102,31792,Active,Cryptantha celosioides,"buttecandle, minerscandle",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,132144,31890,Active,Cynoglossum officinale,"common houndstongue, gypsyflower, gypsy-flower, hound's tongue, houndstongue",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,132169,31912,Active,Hackelia deflexa,WOOD STICKWEED/STICKSEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,132185,31927,Active,Hackelia floribunda,LARGE-FLOWERED STICKSEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,214083,528677,Active,Lappula occidentalis var. cupulata,"flat-spine sheepburr, flatspine stickseed",Lappula texana,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,214085,528678,Active,Lappula occidentalis var. occidentalis,"desert stickseed, flat-spine sheepburr, flatspine stickseed, western stickseed",Lappula redowskii,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,159254,503330,Active,Lappula squarrosa,"bristly sheepburr, European stickseed",Lappula echinata,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,132739,31945,Active,Lithospermum canescens,HOARY PUCCOON,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,132734,31940,Active,Lithospermum incisum,NARROW-LEAVED PUCCOON,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Boraginaceae,130314,31681,Active,Mertensia lanceolata,BLUEBELLS/MERTENSIA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129877,31529,Active,Phacelia hastata,"silverleaf phacelia, silver-leaf scorpion-weed, spearhead phacelia",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,123370,23032,Active,Alyssum desertorum,ALYSSUM,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,89503,184344,Active,Arabis hirsuta,"creamflower rockcress, hairy rockcress",Arabis hirsuta var. pycnocarpa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,121265,22702,Active,Arabis holboellii,ROCK CRESS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,120479,22599,Active,Camelina microcarpa,FALSE FLAX,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,121335,22766,Active,Capsella bursa-pastoris,SHEPHERD'S PURSE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,124508,23099,Active,Chorispora tenella,BLUE MUSTARD,,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,124514,23103,Active,Conringia orientalis,HARE'S-EAR MUSTARD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,122340,22826,Active,Descurainia pinnata,TANSY MUSTARD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,FLIXWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,122415,22894,Active,Draba nemorosa,YELLOW WHITLOWORT,,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,122431,22908,Active,Draba reptans,"Carolina draba, Carolina whitlowgrass, creeping draba",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,106535,195784,Active,Erysimum capitatum var. capitatum,western wallflower,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,123260,22933,Active,Erysimum cheiranthoides,WORMSEED WALLFLOWER,Erysimum asperum,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,157053,502432,Active,Erysimum inconspicuum,SMALLSEED WALLFLOWER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,123290,22960,Active,Lepidium densiflorum,PEPPERGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,123305,22974,Active,Lepidium perfoliatum,HEART-LEAVED PEPPERGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,124580,23163,Active,Lesquerella alpina,BLADDERPOD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,124584,23167,Active,Lesquerella arenosa,Great Plains bladderpod,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,125028,23205,Active,Lesquerella ludoviciana,HEART-LEAVED PEPPERGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,125104,23274,Active,Physaria brassicoides,double twinpod,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,125107,23277,Active,Physaria didymocarpa,common twinpod,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,123341,23006,Active,Rorippa palustris,YELLOW ROCKET/BOG YELLOW CRESS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,TUMBLING MUSTARD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,125968,23329,Active,Stanleya pinnata,PRINCE'S PLUME,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Brassicaceae,127139,23422,Active,Thlaspi arvense,PENNYCRESS/FIELD PENNYCRESS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Cleomaceae,120510,22626,Active,Cleome serrulata,ROCKY MOUNTAIN BEE PLANT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Cleomaceae,120539,22652,Active,Polanisia dodecandra,"clammyweed, redwhisker clammyweed, red-whisker clammyweed, roughseed clammyweed",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Brassicales,Cleomaceae,120540,22653,Active,Polanisia dodecandra ssp. dodecandra,"redwhisker clammyweed, red-whisker clammyweed",Polanisia graveolens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117557,20719,Active,Amaranthus albus,TUMBLEWEED,,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120123,20745,Active,Amaranthus retroflexus,REDROOT PIGWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111472,20512,Active,Atriplex argentea,SILVERSCALE SALTBUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111538,20518,Active,Atriplex canescens,FOUR-WING SALTBUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111549,20519,Active,Atriplex confertifolia,SPINY SALTBUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106139,192276,Active,Atriplex nuttallii,SALTBUSH/MOUNDSCALE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,289949,565741,Active,Bassia scoparia,"burningbush, kochia, Mexican fireweed, mock cypress",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117716,20592,Active,Chenopodium album,"LAMB'S QUARTER, LAMB'S QUARTERS",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117738,20594,Active,Chenopodium berlandieri,pitseed goosefoot,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118285,20607,Active,Chenopodium fremontii,FREMONT GOOSEFOOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118586,20610,Active,Chenopodium glaucum,OAK-LEAVED GOOSEFOOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118652,20616,Active,Chenopodium leptophyllum,NARROW-LEAVED GOOSEFOOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,153807,501485,Active,Chenopodium pratericola,GOOSEFOOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,153811,501487,Active,Chenopodium simplex,"giant-seed goosefoot, mapleleaf goosefoot",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120850,20633,Active,Chenopodium standleyanum,Standley's goosefoot,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120872,20635,Active,Chenopodium subglabrum,SMOOTH GOOSEFOOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,171323,508095,Active,Endolepis dioica,"scurfless saltbush, Suckley's endolepis, Suckley's saltbush",Atriplex dioica,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115561,20696,Active,Kochia scoparia,BURNING BUSH/FIRE-WEED/KOCHIA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,158344,503290,Active,Krascheninnikovia lanata,winterfat,Ceratoides lanata,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115607,20700,Active,Monolepis nuttalliana,POVERTY WEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,121852,20651,Active,Salicornia rubra,"red saltwort, red swampfire, Rocky Mountain glasswort, western samphire",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111892,20655,Active,Salsola kali,RUSSIAN THISTLE/TUMBLEWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,"prickly Russian thistle, Russian thistle, tumbleweed, tumbling thistle",Salsola iberica,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165468,505402,Active,Suaeda calceoliformis,"Paiuteweed, Pursh seepweed, western seepweed",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165472,505404,Active,Suaeda moquinii,SEEPWEED,Suaeda fruticosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211052,528088,Active,Escobaria missouriensis var. missouriensis,Missouri foxtail cactus,Coryphantha missouriensis,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211079,528100,Active,Escobaria vivipara var. vivipara,"pink pincushion cactus, spinystar, spinystar cactus",Coryphantha vivipara,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Cactaceae,104853,19707,Active,Opuntia fragilis,LITTLE PRICKLY PEAR,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105986,19726,Active,Opuntia polyacantha,PRICKLY PEAR,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,109473,19947,Active,Cerastium arvense,PRAIRIE CHICKWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,109507,19950,Active,Cerastium brachypodum,"bractpod chickweed, mouse-ear chickweed, shortstalk chickweed, short-stalk mouse-ear chickweed",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,109595,19958,Active,Cerastium nutans,NODDING CHICKWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114799,20017,Active,Moehringia lateriflora,"blunt-leaf grove-sandwort, bluntleaf sandwort, grove sandwort",Arenaria lateriflora,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,115239,20346,Active,Paronychia sessiliflora,WHITLOW-WORT/NAILWORT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,117118,20045,Active,Silene antirrhina,SLEEPY CATCHFLY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,118111,20062,Active,Silene cserei,SMOOTH CATCHFLY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202972,524706,Active,Silene latifolia ssp. alba,white cockle,"Lychnis alba, Silene pratensis",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,110143,19626,Active,Mirabilis albida,WHITE FOUR-O'CLOCK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100394,19651,Active,Mirabilis linearis,NARROWLEAF FOUR-O'CLOCK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100438,19655,Active,Mirabilis nyctaginea,WILD FOUR-O'CLOCK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,109418,19621,Active,Tripterocalyx micranthus,SAND PUFFS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119842,21134,Active,Eriogonum flavum,alpine golden buckwheat,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102466,195469,Active,Eriogonum flavum var. flavum,alpine golden buckwheat,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120737,21218,Active,Eriogonum pauciflorum,BUCKWHEAT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103638,195567,Active,Eriogonum pauciflorum var. pauciflorum,"fewflower buckwheat, few-flower wild buckwheat",Eriogonum multiceps,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117989,20868,Active,Polygonum achoreum,KNOTWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,215073,529773,Active,Polygonum amphibium var. emersum,"colored smartweed, devil's shoestring, longroot smartweed, swamp smartweed, tanweed",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,215075,529774,Active,Polygonum amphibium var. stipulaceum,water smartweed,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118703,20872,Active,Polygonum arenastrum,COMMON KNOTWEED/KNOTWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118747,20876,Active,Polygonum aviculare,KNOTWEED/GOOSEFOOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117019,20853,Active,Polygonum convolvulus,black bindweed,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119584,20891,Active,Polygonum douglasii,KNOTWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119606,20893,Active,Polygonum erectum,ERECT KNOTWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117901,20860,Active,Polygonum lapathifolium,PALE SMARTWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117912,20861,Active,Polygonum pensylvanicum,PENNSYLVANIA SMARTWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,121992,20915,Active,Polygonum persicaria,LADY'S THUMB,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,CURLED DOCK/CURLY DOCK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,216462,530197,Active,Rumex salicifolius var. mexicanus,"Mexican dock, Mexican willow",Rumex mexicanus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119131,20977,Active,Rumex stenophyllus,DOCK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119135,20980,Active,Rumex venosus,WILD BEGONIA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,"akulikuli-kula, common purslane, duckweed, garden purslane, little hogweed, little-hogweed, purslane, pursley, wild portulaca",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Sarcobataceae,116621,20707,Active,Sarcobatus vermiculatus,GREASEWOOD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117482,22310,Active,Tamarix ramosissima,"salt cedar, saltcedar, tamarisk, tamarix",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Celastrales,Celastraceae,131943,27974,Active,Celastrus scandens,American bittersweet,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Commelinales,Commelinaceae,142403,39157,Active,Tradescantia bracteata,SPIDERWORT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Cornales,Cornaceae,204792,523904,Active,Cornus sericea ssp. sericea,"red-osier dogwood, redosier, redosier dogwood","Cornus stolonifera, Cornus sericea",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Cornales,Loasaceae,159672,503766,Active,Mentzelia decapetala,"evening starflower, gumbo-lily, tenpetal blazingstar, tenpetal mentzelia, tenpetal stickleaf",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Cornales,Loasaceae,159678,503769,Active,Mentzelia dispersa,"bushy blazingstar, Nevada blazingstar, scattered blazingstar",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131723,35332,Active,Symphoricarpos albus,SNOWBERRY/WHITE CORALBERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131727,35336,Active,Symphoricarpos occidentalis,BUCKBRUSH/WESTERN SNOWBERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Equisetales,Equisetaceae,79672,17152,Active,Equisetum arvense,FIELD HORSETAIL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Equisetales,Equisetaceae,79716,17156,Active,Equisetum laevigatum,HORSETAIL/SMOOTH SCOURING RUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Ericaceae,127657,23530,Active,Arctostaphylos uva-ursi,BEARBERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Polemoniaceae,138944,31041,Active,Collomia linearis,COLLOMIA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Polemoniaceae,126984,31202,Active,Ipomopsis congesta,BALL-HEAD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Polemoniaceae,202321,524326,Active,Navarretia intertexta ssp. propinqua,"needleleaf navarretia, needle-leaf pincushion-plant","Navarretia intertexta, Navarretia intertexta var. propinqua",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Polemoniaceae,137245,30948,Active,Phlox hoodii,MOSS PHLOX,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Primulaceae,121076,23942,Active,Androsace occidentalis,FAIRY CANDELABRA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Primulaceae,121656,23982,Active,Glaux maritima,SEA MILKWORT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ericales,Primulaceae,121658,23984,Active,Lysimachia ciliata,FRINGED LOOSESTRIFE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,120438,25371,Active,Amorpha canescens,"leadplant, leadplant amorpha",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,121414,25405,Active,Astragalus agrestis,FIELD MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,121450,25438,Active,Astragalus bisulcatus,TWO-GROOVED VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,121497,25480,Active,Astragalus crassicarpus,GROUND-PLUM,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,122073,25517,Active,Astragalus flexuosus,PLIANT MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,122083,25526,Active,Astragalus gilviflorus,PLAINS OROPHACA,Astragalus gilviflorus var. gilviflorus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,294015,566195,Active,Astragalus laxmannii var. robustior,prairie milkvetch,"Astragalus adsurgens, Astragalus adsurgens var. robustior",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,122129,25568,Active,Astragalus lotiflorus,LOTUS MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,122148,25585,Active,Astragalus missouriensis,MISSOURI MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,122998,25629,Active,Astragalus pectinatus,TINE-LEAVED MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,123019,25648,Active,Astragalus purshii,PURSH MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,123022,25650,Active,Astragalus racemosus,ALKALI MILKVETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,123062,25687,Active,Astragalus spatulatus,DRABA MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,123072,25696,Active,Astragalus tenellus,PULSE MILK-VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,129949,26603,Active,Dalea candida,"slender white prairieclover, white dalea, white prairie clover, white prairieclover, white prairie-clover",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,98882,192888,Active,Dalea candida var. candida,"white prairie clover, white prairieclover, white prairie-clover",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,129955,26609,Active,Dalea enneandra,nineanther prairie clover,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,129992,26642,Active,Dalea purpurea,PURPLE PRAIRIE CLOVER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,98910,192912,Active,Dalea purpurea var. purpurea,"purple prairie clover, purple prairieclover, violet dalea, violet prairie clover, violet prairieclover, violet prairie-clover",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,121876,26719,Active,Glycyrrhiza lepidota,WILD LICORICE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,121882,26724,Active,Hedysarum boreale,SWEET VETCH/SWEET-BROOM,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,211435,528945,Active,Lotus unifoliolatus var. unifoliolatus,"American bird's-foot trefoil, American bird's-foot-trefoil, prairie trefoil, Spanish clover",Lotus purshianus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,162956,503575,Active,Lupinus argenteus,SILVERY LUPINE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,125654,26099,Active,Lupinus pusillus,SMALL LUPINE/RUSTY LUPINE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,158887,503721,Active,Medicago lupulina,BLACK MEDICK,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,ALFALFA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,201731,524303,Active,Medicago sativa ssp. sativa,alfalfa,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,126512,26149,Active,Melilotus alba,WHITE SWEET CLOVER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,YELLOW SWEET CLOVER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,126531,26166,Active,Oxytropis campestris,"field locoweed, northern yellow locoweed, white smallflower pointloco",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,126541,26175,Active,Oxytropis lambertii,PURPLE LOCOWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,157224,504087,Active,Oxytropis monticola,"yellowflower locoweed, yellow-flower locoweed","Oxytropis campestris var. gracilis, Oxytropis gracilis",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,126549,26182,Active,Oxytropis sericea,WHITE LOCOWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,158637,504169,Active,Pediomelum argophyllum,"silverleaf Indian breadroot, silverleaf scurfpea",Psoralea argophylla,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,159483,504177,Active,Pediomelum esculentum,"breadroot scurfpea, Indian breadroot, large Indian breadroot",Psoralea esculenta,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,159874,504645,Active,Psoralidium lanceolatum,"dune scurfpea, lemon scurfpea, wild lemonweed",Psoralea lanceolata,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,159876,504646,Active,Psoralidium tenuiflorum,"scurfpea, slimflower scurfpea",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,125132,27003,Active,Thermopsis rhombifolia,GOLDEN PEA/PRAIRIE BUCK BEAN,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,126576,26206,Active,Trifolium repens,WHITE CLOVER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,127381,26331,Active,Vicia americana,AMERICAN VETCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,204539,524802,Active,Vicia americana ssp. minor,"mat vetch, purple vetch",Vicia sparsifolia,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Fabaceae,204553,524809,Active,Vicia sativa ssp. nigra,"common vetch, garden vetch, narrowleaf vetch, tare, garden vetch","Vicia sativa, Vicia angustifolia",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fabales,Polygalaceae,131512,29323,Active,Polygala alba,WHITE MILKWORT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Fagales,Betulaceae,103562,19488,Active,Betula occidentalis,RIVER BIRCH/WATER BIRCH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Apocynaceae,130899,30156,Active,Apocynum androsaemifolium,SPREADING DOGBANE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Apocynaceae,130900,30157,Active,Apocynum cannabinum,Indian hemp,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Apocynaceae,131853,30295,Active,Asclepias pumila,"low milkweed, plains milkweed",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Apocynaceae,131864,30304,Active,Asclepias speciosa,SHOWY MILKWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Apocynaceae,131882,30320,Active,Asclepias verticillata,WHORLED MILKWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Apocynaceae,131884,30322,Active,Asclepias viridiflora,GREEN MILKWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Gentianaceae,129055,30058,Active,Gentianella amarella,"autumn dwarf gentian, autumn dwarfgentian, autumn dwarf-gentian",Gentianella amarella ssp. acuta,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Rubiaceae,137982,34797,Active,Galium aparine,CLEAVERS/CATCHWEED BEDSTRAW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Gentianales,Rubiaceae,287453,565204,Active,Galium boreale,NORTHERN BEDSTRAW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Geraniales,Geraniaceae,130071,29105,Active,Geranium carolinianum,CAROLINA CRANESBILL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,135546,32440,Active,Agastache foeniculum,LAVENDER HYSSOP,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,135626,32512,Active,Hedeoma drummondii,DRUMMOND FALSE PENNYROYAL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,159110,502890,Active,Hedeoma hispida,"false pennyroyal, falsepennyroyal, rough false pennyroyal, rough falsepennyroyal, rough pennyroyal",Hedeoma hispidum,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,134013,32254,Active,Lycopus americanus,AMERICAN BUGLEWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,134015,32256,Active,Lycopus asper,ROUGH BUGLEWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,289323,565302,Active,Mentha arvensis,WILD MINT/FIELD MINT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,289342,565311,Active,Monarda fistulosa,WILD BERGAMOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,136550,32623,Active,Nepeta cataria,CATNIP,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,128614,32692,Active,Salvia reflexa,LANCE-LEAVED SAGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Lamiaceae,134912,32352,Active,Teucrium canadense,AMERICAN GERMANDER/WOOD SAGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Oleaceae,129679,32929,Active,Fraxinus pennsylvanica,GREEN ASH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Orobanchaceae,135038,33167,Active,Castilleja sessiliflora,DOWNY PAINTBRUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,BROOMRAPE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134489,34291,Active,Orobanche ludoviciana,BROOMRAPE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136711,33437,Active,Orthocarpus luteus,OWL CLOVER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132993,32057,Active,Callitriche hermaphroditica,WATER STARWORT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,135107,33197,Active,Gratiola neglecta,HEDGE HYSSOP,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,138430,33666,Active,Penstemon albidus,WHITE BEARDTONGUE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131567,33812,Active,Penstemon angustifolius,NARROW BEARDTONGUE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130632,33690,Active,Penstemon eriantherus,CRESTED BEARDTONGUE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132341,33909,Active,Penstemon gracilis,SLENDER BEARDTONGUE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130681,33734,Active,Penstemon nitidus,BLUE BEARDTONGUE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129354,32877,Active,Plantago elongata,SLENDER PLANTAIN,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,COMMON PLANTAIN,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129388,32907,Active,Plantago patagonica,BUCKHORN/PATAGONIAN PLANTAIN,Plantago patagonica var. patagonica,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136694,33421,Active,Veronica peregrina,SPEEDWELL/PURSLANE SPEEDWELL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,bigbract verbena,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Lamiales,Verbenaceae,133016,32078,Active,Verbena stricta,BLUE VERVAIN/HOARY VERVAIN,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Liliales,Liliaceae,140671,42863,Active,Calochortus nuttallii,SAGO LILY/MARIPOSA LILY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Liliales,Liliaceae,141671,42923,Active,Disporum trachycarpum,FAIRYBELLS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Liliales,Liliaceae,161007,502669,Active,Fritillaria atropurpurea,LEOPARD LILY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Liliales,Liliaceae,161603,503459,Active,Lilium philadelphicum,WILD LILY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Liliales,Smilacaceae,145285,43356,Active,Smilax herbacea,"herbaceous greenbriar, Jacob's lader, smooth carrionflower",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Liliales,Smilacaceae,163913,505256,Active,Smilax lasioneura,"Blue Ridge carrionflower, Blue Ridge carrion-flower",Smilax herbacea var. lasioneura,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153260,501422,Active,Chamaesyce glyptosperma,"ribseed sandmat, ridgeseed spurge",Euphorbia glyptosperma,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,285623,565061,Active,Chamaesyce maculata,"large spurge, spotted sandmat, spotted spurge",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153298,501440,Active,Chamaesyce missurica,"Missouri spurge, prairie sandmat, prairie spurge",Euphorbia missurica,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,122710,28248,Active,Chamaesyce serpens,"creeping spurge, matted sandmat, round-leafed spurge",Euphorbia serpens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132026,28049,Active,Euphorbia brachycera,"robust spurge, Rocky Mountain spurge",Euphorbia robusta,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132043,28064,Active,Euphorbia esula,LEAFY SPURGE,"Euphorbia X pseudovirgata, Euphorbia pseudovirgata",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132927,28138,Active,Euphorbia spathulata,SPURGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Linaceae,131391,29214,Active,Linum lewisii,"blue flax, Lewis' blue flax, Lewis' flax, prairie flax",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Linaceae,216736,528819,Active,Linum lewisii var. lewisii,blue flax,"Linum perenne var. lewisii, Linum perenne",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Linaceae,131398,29220,Active,Linum rigidum,YELLOW FLAX,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Linaceae,216743,528822,Active,Linum rigidum var. rigidum,"largeflower yellow flax, large-flower yellow flax, stiffstem flax",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119650,22453,Active,Populus balsamifera,BALSAM POPLAR,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119641,22445,Active,Populus deltoides,"common cottonwood, eastern cottonwood, plains cottonwood",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119643,22447,Active,Populus deltoides ssp. monilifera,PLAINS COTTONWOOD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,105864,195773,Active,Populus tremuloides,TREMBLING ASPEN/QUAKING ASPEN,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119647,22450,Active,Populus X acuminata,SMOOTHBARK COTTONWOOD,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119700,22499,Active,Salix amygdaloides,PEACH-LEAVED WILLOW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119710,22507,Active,Salix bebbiana,BEAKED WILLOW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119733,22528,Active,Salix eriocephala,DIAMOND WILLOW/MISSOURI WILLOW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119734,22529,Active,Salix exigua,SANDBAR WILLOW/COYOTE WILLOW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119753,22546,Active,Salix humilis,PRAIRIE WILLOW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,196238,520829,Active,Salix interior,sandbar willow,Salix exigua ssp. interior,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119762,22554,Active,Salix lucida,shining willow,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Salicaceae,119763,22555,Active,Salix lutea,YELLOW WILLOW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Violaceae,125915,22032,Active,Viola adunca,HOOK-SPURRED VIOLET,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Violaceae,214201,530827,Active,Viola canadensis var. rugulosa,WOOD VIOLET,Viola rugulosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Violaceae,126945,22117,Active,Viola nephrophylla,"northern bog violet, prairie blueviolet, wild pansy, wild violet",Viola pratincola,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Violaceae,126949,22120,Active,Viola nuttallii,NUTTALL'S VIOLET,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malpighiales,Violaceae,116078,22131,Active,Viola pedatifida,"crow-foot violet, prairie violet",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malvales,Malvaceae,124897,21839,Active,Malva rotundifolia,low mallow,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Malvales,Malvaceae,125791,21920,Active,Sphaeralcea coccinea,RED FALSE MALLOW,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,155636,501161,Active,Calylophus serrulatus,TOOTH-LEAVED PRIMROSE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,126652,27288,Active,Epilobium brachycarpum,"autumn willowherb, autumn willowweed, tall annual willowherb",Epilobium paniculatum,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,126658,27293,Active,Epilobium ciliatum,WILLOW HERB,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,129445,27646,Active,Gaura coccinea,SCARLET GAURA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,127810,27373,Active,Oenothera albicaulis,WHITE-STEMMED PRIMROSE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,289377,565328,Active,Oenothera caespitosa,tufted evening-primrose,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,127877,27433,Active,Oenothera nuttallii,NUTTALL'S PRIMROSE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,127864,27421,Active,Oenothera villosa,COMMON EVENING PRIMROSE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Myrtales,Onagraceae,202409,524368,Active,Oenothera villosa ssp. strigosa,"hairy evening primrose, hairy eveningprimrose, hairy evening-primrose",Oenothera strigosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Oxalidales,Oxalidaceae,130059,29095,Active,Oxalis stricta,WOOD SORREL/YELLOW WOOD SORREL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Pinales,Cupressaceae,103497,194820,Active,Juniperus communis,COMMON JUNIPER/DWARF JUNIPER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Pinales,Cupressaceae,214018,528646,Active,Juniperus communis var. depressa,common juniper,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Pinales,Cupressaceae,103525,194846,Active,Juniperus horizontalis,CREEPING JUNIPER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Pinales,Cupressaceae,103554,194872,Active,Juniperus scopulorum,ROCKY MOUNTAIN JUNIPER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Pinales,Pinaceae,93115,183365,Active,Pinus ponderosa,PONDEROSA PINE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,145325,39449,Active,Carex atherodes,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,145328,39451,Active,Carex brevior,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,146138,39561,Active,Carex cristatella,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,156451,501216,Active,Carex duriuscula,"needleleaf sedge, spike-rush sedge",Carex eleocharis,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,146160,39581,Active,Carex eburnea,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,146171,39591,Active,Carex emoryi,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,146182,39600,Active,Carex filifolia,NEEDLE-LEAVED SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,146205,39621,Active,Carex gravida,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,285587,565044,Active,Carex hallii,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,202034,523761,Active,Carex inops ssp. heliophila,sun sedge,Carex heliophila,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,145334,39457,Active,Carex laeviconica,"smoothcone sedge, smooth-cone sedge",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,166951,507767,Active,Carex pellita,woolly sedge,Carex lanuginosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,137596,39749,Active,Carex pensylvanica,"Penn sedge, Pennsylvania sedge",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,138178,39794,Active,Carex saximontana,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,138201,39814,Active,Carex sprengelii,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,145310,39435,Active,Carex stricta,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,138237,39847,Active,Carex torreyi,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,145318,39442,Active,Carex vulpinoidea,SEDGE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,139099,40025,Active,Eleocharis acicularis,SPIKERUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,139085,40012,Active,Eleocharis compressa,SPIKERUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,140182,40043,Active,Eleocharis erythropoda,SPIKERUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,218072,531332,Active,Schoenoplectus acutus var. acutus,hardstem bulrush,Scirpus acutus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,195267,521092,Active,Schoenoplectus fluviatilis,river bulrush,Scirpus fluviatilis,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,195269,521093,Active,Schoenoplectus maritimus,cosmopolitan bulrush,Scirpus maritimus var. paludosus,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,218080,531336,Active,Schoenoplectus pungens var. pungens,common threesquare,Scirpus pungens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,167014,507797,Active,Schoenoplectus tabernaemontani,"great bulrush, softstem bulrush, soft-stem bulrush",Scirpus validus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Cyperaceae,140918,40227,Active,Scirpus atrovirens,BULRUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Juncaceae,143439,39223,Active,Juncus balticus,BALTIC RUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,FROG RUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Juncaceae,143449,39232,Active,Juncus effusus,COMMON RUSH/BOG RUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Juncaceae,143502,39280,Active,Juncus interior,INLAND RUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Juncaceae,143520,39297,Active,Juncus nodosus,"jointed rush, knotted rush",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Juncaceae,144366,39320,Active,Juncus torreyi,TORREY'S RUSH,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,168693,507943,Active,Achnatherum hymenoides,Indian ricegrass,Oryzopsis hymenoides,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,86312,182478,Active,Agropyron cristatum,CRESTED WHEATGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,141881,40372,Active,Agropyron desertorum,"clustered wheat grass, desert wheatgrass",,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,142895,40424,Active,Agrostis scabra,TICKLEGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,142908,40436,Active,Alopecurus aequalis,SHORT-AWN FOXTAIL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,142937,40462,Active,Andropogon gerardii,BIG BLUESTEM,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,86371,182530,Active,Andropogon hallii,sand bluestem,,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,90811,185314,Active,Aristida purpurea var. longiseta,"Fendler threeawn, Fendler's threeawn, red threeawn, red threeawn (Fendler)",Aristida longiseta,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,139348,41325,Active,Beckmannia syzigachne,SLOUGHGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,141003,41500,Active,Bouteloua curtipendula,SIDEOATS GRAMA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,BLUE GRAMA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,141005,41502,Active,Bouteloua hirsuta,hairy grama,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,142974,40496,Active,Bromus ciliatus,FRINGED BROME,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,142982,40502,Active,Bromus inermis,"awnless brome, smooth brome",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,200691,523701,Active,Bromus inermis ssp. inermis,SMOOTH BROME,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,142955,40479,Active,Bromus japonicus,JAPANESE BROME,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,DOWNY BROME,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,141039,41533,Active,Buchloe dactyloides,BUFFALO GRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,143587,40557,Active,Calamagrostis montanensis,PLAINS REEDGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,154678,501106,Active,Calamagrostis stricta,REEDGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,141045,41539,Active,Calamovilfa longifolia,PRAIRIE SANDREED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,141959,41642,Active,Danthonia spicata,"poverty danthonia, poverty oatgrass, poverty wild oat grass",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,209952,527696,Active,Dichanthelium oligosanthes var. scribnerianum,DICHANTHELIUM,,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,152495,502041,Active,Dichanthelium wilcoxianum,WILCOX DICHANTHELIUM,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,"desert saltgrass, inland saltgrass, marsh spikegrass, saltgrass, seashore saltgrass",Distichlis spicata ssp. stricta,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,155230,502210,Active,Echinochloa crus-galli,BARNYARD GRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144547,40683,Active,Elymus canadensis,CANADA WILD RYE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,203128,525113,Active,Elymus elymoides ssp. elymoides,"bottlebrush squirreltail, squirreltail",Sitanion hystrix,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,200371,524037,Active,Elymus lanceolatus ssp. lanceolatus,"streambank wheatgrass, streamside wild rye, thickspike wheatgrass",Agropyron dasystachyum,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,178082,512839,Active,Elymus repens,"couchgrass, dog grass, quackgrass",Agropyron repens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,156082,502282,Active,Elymus trachycaulus,"slender wheatgrass, slender wild rye",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,200378,524040,Active,Elymus trachycaulus ssp. subsecundus,"bearded wheatgrass, slender wheatgrass, slender wild rye",Agropyron subsecundum,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,200380,524041,Active,Elymus trachycaulus ssp. trachycaulus,slender wheatgrass,Agropyron caninum ssp. majus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144582,40714,Active,Elymus villosus,HAIRY WILD RYE,,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144545,40681,Active,Elymus virginicus,VIRGINIA WILD RYE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144587,40719,Active,Eragrostis cilianensis,"candy grass, lovegrass, stink grass, stinkgrass, strongscented lovegrass",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,211639,528169,Active,Festuca saximontana var. saximontana,Rocky Mountain fescue,Festuca ovina var. rydbergii,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,158120,502812,Active,Glyceria grandis,MANNAGRASS/TALL MANNAGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,145674,40833,Active,Glyceria striata,FOWL MANNAGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,203134,525116,Active,Hesperostipa comata ssp. comata,"needle and thread, needleandthread",Stipa comata,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,169447,507977,Active,Hesperostipa spartea,porcupinegrass,Stipa spartea,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,146261,40871,Active,Hordeum jubatum,FOXTAIL BARLEY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,145710,40866,Active,Hordeum pusillum,LITTLE BARLEY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,158331,503284,Active,Koeleria macrantha,"junegrass, prairie Junegrass",Koeleria pyramidata,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,169460,507983,Active,Lolium pratense,"meadow fescue, meadow ryegrass",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144142,41882,Active,Monroa squarrosa,"false buffalo grass, false buffalograss",Munroa squarrosa,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144160,41899,Active,Muhlenbergia asperifolia,SCRATCHGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144167,41904,Active,Muhlenbergia cuspidata,PLAINS MUHLY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144201,41935,Active,Muhlenbergia racemosa,MAT MUHLY/MARSH MUHLY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,144204,41938,Active,Muhlenbergia richardsonis,MUHLY GRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,166776,507086,Active,Nassella viridula,green needlegrass,Stipa viridula,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,146309,40914,Active,Panicum capillare,COMMON WITCHGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,146308,40913,Active,Panicum virgatum,SWITCHGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,158543,504124,Active,Pascopyrum smithii,"pubescent wheatgrass, western wheatgrass",Agropyron smithii,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,166404,508150,Active,Pennisetum glaucum,"pearl millet, pigeongrass, wild millet, yellow bristlegrass, yellow foxtail",Setaria glauca,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,147319,41072,Active,Phragmites australis,COMMON REED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,169477,507991,Active,Piptatherum micranthum,"little-seed mountain-rice grass, littleseed ricegrass, Piptatherum micranthum",Oryzopsis micrantha,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,148057,41109,Active,Poa arida,PLAINS BLUEGRASS,Poa glaucifolia,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,147330,41082,Active,Poa compressa,CANADA BLUEGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,164255,504469,Active,Poa interior,INLAND BLUEGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,206552,526427,Active,Poa nemoralis ssp. interior,inland bluegrass,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,148104,41151,Active,Poa palustris,FOWL BLUEGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,KENTUCKY BLUEGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,147354,41103,Active,Poa secunda,"big bluegrass, Sandberg bluegrass, Sandberg's bluegrass","Poa juncifolia, Poa canbyi, Poa sandbergii",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,206029,524600,Active,Pseudoroegneria spicata ssp. spicata,"bluebunch wheatgrass, bluebunch-wheat grass","Pseudoroegneria spicata, Agropyron spicatum",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,148159,41200,Active,Puccinellia nuttalliana,ALKALI-GRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,145161,42063,Active,Schedonnardus paniculatus,TUMBLEGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,217157,530264,Active,Schizachyrium scoparium var. scoparium,little bluestem,"Schizachyrium scoparium, Andropogon scoparius",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,139244,41231,Active,Setaria viridis,"GREEN FOXTAIL, GREEN FOWTAIL",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,139287,41270,Active,Spartina gracilis,ALKALI CORDGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,139289,41272,Active,Spartina pectinata,PRAIRIE CORDGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,139296,41279,Active,Sphenopholis obtusata,WEDGEGRASS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,146055,42128,Active,Sporobolus airoides,ALKALI SACATON,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,SAND DROPSEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,146757,42264,Active,Vulpia octoflora,"eight-flower six-weeks grass, pullout grass, sixweeks fescue, sixweeks grass",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Poaceae,215524,530863,Active,Vulpia octoflora var. octoflora,"eight-flower six-weeks grass, sixweeks fescue",Festuca octoflora,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Typhaceae,147649,42316,Active,Sparganium eurycarpum,"broadfruit burreed, broadfruit bur-reed, broad-fruit burr-reed, giant burreed",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Typhaceae,147659,42325,Active,Typha angustifolia,"narrowleaf cattail, narrow-leaf cat-tail",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Poales,Typhaceae,147660,42326,Active,Typha latifolia,CATTAIL/BROAD-LEAVED CAT-TAIL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84468,17482,Active,Cystopteris fragilis,FRAGILE FERN/BLADDER FERN,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,85369,17745,Active,Woodsia oregana,WOODSIA,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89520,18436,Active,Anemone canadensis,CANADA ANEMONE/MEADOW ANEMONE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89542,18438,Active,Anemone cylindrica,COTTONWEED/CANDLE ANEMONE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,171042,508854,Active,Anemone patens,PASQUE FLOWER/WILD CROCUS,Pulsatilla patens ssp. patens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,90483,18451,Active,Anemone virginiana,TALL ANEMONE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,151879,501365,Active,Ceratocephala testiculata,"bur buttercup, curveseed butterwort, little bur, testiculate buttercup",Ranunculus testiculatus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93504,18702,Active,Clematis ligusticifolia,WESTERN VIRGIN'S BOWER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93925,18716,Active,Clematis virginiana,"devil's darning needles, devil's-darning-needles, Virginia bower, virgin's bower",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91566,18540,Active,Delphinium bicolor,LITTLE LARKSPUR,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92438,18559,Active,Ranunculus abortivus,EARLY BUTTERCUP,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96869,18600,Active,Ranunculus cymbalaria,SHORE BUTTERCUP,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96935,18606,Active,Ranunculus glaberrimus,BUTTERCUP,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97790,18623,Active,Ranunculus longirostris,"eastern white water-crowfoot, longbeak buttercup, long-beak water-crowfoot",Ranunculus subrigidus,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,94482,18576,Active,Ranunculus sceleratus,CURSED CROWFOOT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,90607,18667,Active,Thalictrum dasycarpum,purple meadow-rue,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92243,18684,Active,Thalictrum venulosum,EARLY MEADOW RUE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Cannabaceae,212183,528497,Active,Humulus lupulus var. lupuloides,"Arizona hops, common hop",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130518,27770,Active,Elaeagnus angustifolia,RUSSIAN OLIVE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130519,27771,Active,Elaeagnus commutata,SILVERBERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130526,27778,Active,Shepherdia argentea,BUFFALOBERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,129575,25101,Active,Agrimonia striata,STRIATE AGRIMONY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,129583,25109,Active,Amelanchier alnifolia,JUNEBERRY/SERVICEBERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,91112,184598,Active,Argentina anserina,silverweed cinquefoil,Potentilla anserina,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,129622,25144,Active,Chamaerhodos erecta,"little rose, little-rose",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,125357,24548,Active,Crataegus chrysocarpa,fireberry hawthorn,Crataegus rotundifolia,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,286449,565123,Active,Dasiphora floribunda,"bush cinquefoil, golden hardhack, shrubby cinquefoil, widdy, shrubby cinquefoil","Potentilla fruticosa, Pentaphylloides floribunda",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,126256,24634,Active,Fragaria vesca,woodland strawberry,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,126261,24639,Active,Fragaria virginiana,WILD STRAWBERRY,Fragaria virginiana ssp. glauca,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,126270,24647,Active,Geum aleppicum,YELLOW AVENS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,126268,24645,Active,Geum canadense,WHITE AVENS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,126287,24662,Active,Geum triflorum,old  man's whiskers,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,126320,24692,Active,Potentilla arguta,TALL CINQUEFOIL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127016,24718,Active,Potentilla hippiana,CINQUEFOIL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127030,24730,Active,Potentilla norvegica,NORWEGIAN CINQUEFOIL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127036,24736,Active,Potentilla pensylvanica,CINQUEFOIL,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127066,24763,Active,Prunus americana,WILD PLUM,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127105,24799,Active,Prunus pensylvanica,PIN CHERRY/BIRD CHERRY,,Probably Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,215993,529880,Active,Prunus pumila var. besseyi,SAND CHERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127114,24806,Active,Prunus virginiana,CHOKECHERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127923,24815,Active,Rosa arkansana,PRAIRIE WILD ROSE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,127958,24847,Active,Rosa woodsii,WOOD'S ROSE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Rosaceae,128870,24947,Active,Rubus idaeus,"American red raspberry, common red raspberry, western red raspberry",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Ulmaceae,103023,19049,Active,Ulmus americana,AMERICAN ELM,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Urticaceae,101640,19169,Active,Parietaria pensylvanica,PENNSYLVANIA PELLITORY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Rosales,Urticaceae,99873,19152,Active,Urtica dioica,TALL NETTLE/STINGING NETTLE,"Urtica dioica ssp. gracilis, Urtica procera",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Santalales,Santalaceae,155905,501614,Active,Comandra umbellata,BASTARD TOADFLAX,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Santalales,Santalaceae,203510,523879,Active,Comandra umbellata ssp. pallida,"bastard toadflax, common toadflax, pale bastard toadflax, pine bastard toadflax",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126786,28791,Active,Rhus trilobata,skunkbush sumac,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126821,28822,Active,Toxicodendron rydbergii,POISON IVY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Sapindales,Sapindaceae,126739,28749,Active,Acer negundo,BOX ELDER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,124447,24451,Active,Ribes americanum,WILD BLACK CURRANT,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,213786,530043,Active,Ribes aureum var. villosum,"clove currant, golden currant",Ribes odoratum,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,206089,524629,Active,Ribes oxyacanthoides ssp. setosum,Canadian gooseberry,"Ribes setosum, Ribes oxyacanthoides",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Saxifragales,Haloragaceae,161492,503906,Active,Myriophyllum sibiricum,"American watermilfoil, shortspike watermilfoil, Siberian water-milfoil",Myriophyllum exalbescens,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Saxifragales,Penthoraceae,160587,504241,Active,Penthorum sedoides,"ditch stonecrop, Virginia penthorum",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124359,24372,Active,Heuchera richardsonii,ALUMROOT,Heuchera richardsonii var. grayana,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,74271,17076,Active,Selaginella densa,SMALL CLUBMOSS,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Convolvulaceae,135204,30670,Active,Calystegia macounii,Macoun's false bindweed,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Convolvulaceae,135175,30650,Active,Calystegia sepium,"hedge false bindweed, hedge false bindweed","Calystegia sepium ssp. sepium, Calystegia sepium ssp. angulata",Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,FIELD BINDWEED,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Convolvulaceae,136050,30712,Active,Cuscuta gronovii,GRONOVIUS' DODDER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Convolvulaceae,136086,30745,Active,Cuscuta pentagona,FIELD DODDER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Solanaceae,134363,30523,Active,Hyoscyamus niger,HENBANE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Solanaceae,135115,30601,Active,Physalis heterophylla,CLAMMY GROUND CHERRY,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Solanaceae,213134,529641,Active,Physalis virginiana var. virginiana,"lanceleaf groundcherry, Virginia ground cherry, Virginia groundcherry, Virginia ground-cherry",Physalis virginiana,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Solanaceae,132697,30454,Active,Solanum rostratum,BUFFALO BUR/KANSAS THISTLE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Solanales,Solanaceae,132705,30461,Active,Solanum triflorum,CUT-LEAVED NIGHTSHADE,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Vitales,Vitaceae,124836,28602,Active,Parthenocissus quinquefolia,"American ivy, fiveleaved ivy, Virginia creeper, woodbine",,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Vitales,Vitaceae,124839,28605,Active,Parthenocissus vitacea,WOODBINE/THICKET CREEPER,,Present
+THRO,Theodore Roosevelt National Park,Vascular Plant,6,Vitales,Vitaceae,125664,28624,Active,Vitis riparia,RIVER GRAPE/RIVER-BANK GRAPE,,Present

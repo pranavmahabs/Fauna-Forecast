@@ -1,0 +1,984 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+CANY,Canyonlands National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,Bighorn Sheep,Ovis canadensis nelsoni,Present
+CANY,Canyonlands National Park,Mammal,1,Artiodactyla,Cervidae,155879,-501601,Inactive,Cervus canadensis,Elk,Cervus elaphus,Present
+CANY,Canyonlands National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Common Gray Fox,,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Probably Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,Felis rufus,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,Felis concolor,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,Northern River Otter,"Lutra canadensis sonorae, Lutra canadensis",Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Probably Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,,Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,,Probably Present
+CANY,Canyonlands National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American Black Bear,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian free-tailed bat,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,Antrozous pallidus pallidus,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,Plecotus townsendii pallescens,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,Eptesicus fuscus pallidus,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,Spotted Bat,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88735,180012,Active,Idionycteris phyllotis,Allen's Big-eared Bat,Plecotus phyllotis,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,Myotis californicus stephensi,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,,Probably Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,Long-eared Myotis,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+CANY,Canyonlands National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,Pipistrellus hesperus hesperus,Present
+CANY,Canyonlands National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,Black-tailed Jackrabbit,,Present
+CANY,Canyonlands National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American Beaver,Castor canadensis repentinus,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,Western White-throated Woodrat,Neotoma albigula laplataensis,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,"Neotoma cinerea acraia, Neotoma cinerea arizonae",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,91771,180374,Active,Neotoma lepida,Desert Woodrat,Neotoma lepida sanrafaeli,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,91772,180375,Active,Neotoma mexicana,Mexican Woodrat,Neotoma mexicana inopinata,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,Common Muskrat,,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,"Onychomys leucogaster pallescens, Onychomys leucogaster melanophrys",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,Brush Mouse,"Peromyscus boylii utahensis, Peromyscus boylii rowleyi",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,Canyon Mouse,"Peromyscus crinitus doutti, Peromyscus crinitus auripectus",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,"Peromyscus maniculatus sonoriensis, Peromyscus maniculatus rufinus, Peromyscus maniculatus nebrascensis",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,Pinon Mouse,Peromyscus truei truei,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,"Reithrodontomys megalotis megalotis, Reithrodontomys megalotis aztecus",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,"Erethizon dorsatum couesi, Erethizon dorsatum epixanthum",Probably Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,"Thomomys bottae osgoodi, Thomomys bottae aureus, Thomomys bottae howelli",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,"Dipodomys ordii sanrafaeli, Dipodomys ordii nexilis",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Heteromyidae,90727,180261,Active,Perognathus flavescens,Plains Pocket Mouse,"Perognathus apache, Perognathus apache caryi",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Heteromyidae,90735,180269,Active,Perognathus parvus,Great Basin Pocket Mouse,Perognathus parvus bullatus,Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,White-tailed Antelope Squirrel,"Ammospermophilus leucurus cinnamomeus, Ammospermophilus leucurus notom, Ammospermophilus leucurus pennipes",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Sciuridae,694891,-756511,Active,Neotamias rufus,Hopi Chipmunk,"Eutamias quadrivittatus, Tamias quadrivittatus hopiensis, Eutamias quadrivittatus hopiensis, Tamias rufus",Present
+CANY,Canyonlands National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,"Spermophilus variegatus grammurus, Spermophilus variegatus utah",Present
+CANY,Canyonlands National Park,Mammal,1,Soricomorpha,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's Desert Shrew,,Probably Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+CANY,Canyonlands National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked Duck,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,78530,175144,Active,Bucephala islandica,Barrow's Goldeneye,,Present
+CANY,Canyonlands National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common Merganser,,Present
+CANY,Canyonlands National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+CANY,Canyonlands National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+CANY,Canyonlands National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+CANY,Canyonlands National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+CANY,Canyonlands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83029,177988,Active,Chordeiles acutipennis,Lesser Nighthawk,,Present
+CANY,Canyonlands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+CANY,Canyonlands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California Gull,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Laridae,81079,176838,Active,Larus pipixcan,Franklin's Gull,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Laridae,81133,176887,Active,Sterna forsteri,Forster's Tern,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Recurvirostridae,80285,176726,Active,Himantopus mexicanus,Black-necked Stilt,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Scolopacidae,79250,176638,Active,Catoptrophorus semipalmatus,Willet,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed Dowitcher,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+CANY,Canyonlands National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+CANY,Canyonlands National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+CANY,Canyonlands National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+CANY,Canyonlands National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+CANY,Canyonlands National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+CANY,Canyonlands National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+CANY,Canyonlands National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+CANY,Canyonlands National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+CANY,Canyonlands National Park,Bird,2,Galliformes,Odontophoridae,84296,175877,Active,Callipepla gambelii,Gambel's Quail,,Present
+CANY,Canyonlands National Park,Bird,2,Galliformes,Phasianidae,84331,175908,Active,Alectoris chukar,Chukar,,Present
+CANY,Canyonlands National Park,Bird,2,Galliformes,Phasianidae,84272,175855,Active,Centrocercus urophasianus,Greater Sage- Grouse,,Present
+CANY,Canyonlands National Park,Bird,2,Galliformes,Phasianidae,84328,175905,Active,Phasianus colchicus,Ring-necked Pheasant,,Present
+CANY,Canyonlands National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,Common Loon,,Present
+CANY,Canyonlands National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Present
+CANY,Canyonlands National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+CANY,Canyonlands National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+CANY,Canyonlands National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,918880,916621,Active,Aphelocoma woodhouseii,Woodhouse's Scrub-Jay,"Aphelocoma coerulescens, Aphelocoma californica",Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,87105,179730,Active,Corvus cryptoleucus,Chihuahuan Raven,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,86237,179667,Active,Perisoreus canadensis,Gray Jay,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,Black-billed Magpie,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,Purple Finch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,94337,179222,Active,Leucosticte atrata,Black-Rosy Finch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern Shrike,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Paridae,472370,650445,Active,Baeolophus ridgwayi,Juniper Titmouse,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92669,178909,Active,Dendroica graciae,Grace's Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,MacGillivray's Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92621,178866,Active,Vermivora luciae,Lucy's Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84716,179377,Active,Aimophila ruficeps,Rufous-crowned Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,1005406,997723,Active,Artemisiospiza nevadensis,Sagebrush Sparrow,Amphispiza belli,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,637412,730152,Active,Junco hyemalis caniceps,Dark-eyed Junco (Gray-headed),Junco hyemalis,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84756,179412,Active,Junco hyemalis hyemalis,Dark-eyed Junco (Slate-colored),,Probably Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84760,179416,Active,Junco hyemalis mearnsi,Dark-eyed Junco (Pink-sided),,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84761,179417,Active,Junco hyemalis oreganus,Dark-eyed Junco (Oregon),,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84795,179448,Active,Spizella atrogularis,Black-chinned Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Polioptilidae,88042,179857,Active,Polioptila melanura,Black-tailed Gnatcatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Ptilogonatidae,88064,179877,Active,Phainopepla nitens,Phainopepla,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,Plumbeous Vireo,,Present
+CANY,Canyonlands National Park,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+CANY,Canyonlands National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+CANY,Canyonlands National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,Cattle Egret,,Present
+CANY,Canyonlands National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,,Present
+CANY,Canyonlands National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+CANY,Canyonlands National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+CANY,Canyonlands National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+CANY,Canyonlands National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,White-faced Ibis,,Present
+CANY,Canyonlands National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+CANY,Canyonlands National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis's Woodpecker,,Present
+CANY,Canyonlands National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+CANY,Canyonlands National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+CANY,Canyonlands National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+CANY,Canyonlands National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+CANY,Canyonlands National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+CANY,Canyonlands National Park,Bird,2,Podicipediformes,Podicipedidae,81686,174482,Active,Podiceps auritus,Horned Grebe,,Present
+CANY,Canyonlands National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,Eared Grebe,,Present
+CANY,Canyonlands National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,82935,177902,Active,Glaucidium gnoma,Northern Pygmy-Owl,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,Western Screech-Owl,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,80765,177878,Active,Otus flammeolus,Flammulated Owl,,Present
+CANY,Canyonlands National Park,Bird,2,Strigiformes,Strigidae,82963,177928,Active,Strix occidentalis lucida,Mexican Spotted Owl,,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,79731,174169,Active,Coluber constrictor,eastern racer,Coluber constrictor mormon,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,681737,-750136,Inactive,Elaphe emoryi,Great Plains ratsnake,Elaphe guttata emoryi,Probably Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,nightsnake,,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,striped whipsnake,,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,gophersnake,Pituophis melanoleucus deserticola,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,80794,174282,Active,Tantilla hobartsmithi,Smith's black-headed snake,,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,black-necked gartersnake,Thamnophis cyrtopsis cyrtopsis,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,terrestrial gartersnake,Thamnophis elegans vagrans,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Crotaphytidae,118782,208791,Active,Crotaphytus bicinctores,Great Basin collared lizard,Crotaphytus insularis,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,eastern collared lizard,Crotaphytus collaris baileyi,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,long-nosed leopard lizard,Gambelia wislizenii punctata,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,common sagebrush lizard,Sceloporus graciosus graciosus,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Iguanidae,77526,173873,Active,Sceloporus magister,desert spiny lizard,Sceloporus magister cephaloflavus,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Iguanidae,118723,208738,Active,Sceloporus tristichus,plateau lizard,Sceloporus undulatus elongatus,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,tree lizard,Urosaurus ornatus wrighti,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,side-blotched lizard,,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,greater short-horned lizard,Phrynosoma douglasii hernandesi,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Teiidae,285372,564585,Active,Cnemidophorus innotatus,plateau spotted whiptail,,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Teiidae,119618,208940,Active,Cnemidophorus tigris,western whiptail,Cnemidophorus tigris septentrionalis,Present
+CANY,Canyonlands National Park,Reptile,3,Squamata,Viperidae,538632,683064,Active,Crotalus oreganus concolor,midget faded rattlesnake,Crotalus viridis concolor,Present
+CANY,Canyonlands National Park,Amphibian,4,Anura,Bufonidae,84003,173491,Active,Bufo punctatus,red-spotted toad,,Present
+CANY,Canyonlands National Park,Amphibian,4,Anura,Bufonidae,83316,173476,Active,Bufo woodhousii,Woodhouse's toad,Bufo woodhousii woodhousii,Present
+CANY,Canyonlands National Park,Amphibian,4,Anura,Ranidae,83278,173441,Active,Rana catesbeiana,American bullfrog,,Present
+CANY,Canyonlands National Park,Amphibian,4,Anura,Ranidae,83280,173443,Active,Rana pipiens,northern leopard frog,Rana pipiens pipiens,Present
+CANY,Canyonlands National Park,Amphibian,4,Anura,Scaphiopodidae,115596,206991,Active,Spea intermontana,Great Basin spadefoot,Scaphiopus intermontanus,Present
+CANY,Canyonlands National Park,Amphibian,4,Caudata,Ambystomatidae,75874,173592,Active,Ambystoma tigrinum,tiger salamander,Ambystoma tigrinum nebulosum,Present
+CANY,Canyonlands National Park,Fish,5,Clupeiformes,Clupeidae,69764,161738,Active,Dorosoma petenense,Threadfin Shad,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Catostomidae,266182,553273,Active,Catostomus commersonii,White Sucker,Catostomus commersoni,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Catostomidae,65714,163902,Active,Catostomus discobolus,Bluehead Sucker,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Catostomidae,65718,163906,Active,Catostomus latipinnis,Flannelmouth Sucker,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Catostomidae,739015,-9778466,Active,Catostomus latipinnis X Xyrauchen texanus,Flannelmouth Sucker x Razorback Sucker hybrid,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Catostomidae,66188,163968,Active,Xyrauchen texanus,Razorback Sucker,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,64251,163792,Active,Cyprinella lutrensis,red shiner,Notropis lutrensis,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,70791,163344,Active,Cyprinus carpio,Common Carp,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,72888,163543,Active,Gila atraria,Utah Chub,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,72897,163551,Active,Gila cypha,Humpback Chub,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,72899,163553,Active,Gila elegans,Bonytail,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,72904,163558,Active,Gila robusta,Roundtail Chub,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,70812,163363,Active,Hybognathus hankinsoni,Brassy Minnow,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,71946,163419,Active,Notropis stramineus,Sand Shiner,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,72055,163517,Active,Pimephales promelas,Fathead Minnow,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,72064,163525,Active,Ptychocheilus lucius,Colorado Pikeminnow,,Present
+CANY,Canyonlands National Park,Fish,5,Cypriniformes,Cyprinidae,70838,163387,Active,Rhinichthys osculus,Speckled Dace,,Present
+CANY,Canyonlands National Park,Fish,5,Cyprinodontiformes,Fundulidae,68920,165654,Active,Fundulus kansae,Northern Plains Killifish,Fundulus zebrinus,Present
+CANY,Canyonlands National Park,Fish,5,Cyprinodontiformes,Poeciliidae,71043,165878,Active,Gambusia affinis,Mosquitofish,,Present
+CANY,Canyonlands National Park,Fish,5,Esociformes,Esocidae,73559,162139,Active,Esox lucius,Northern Pike,,Present
+CANY,Canyonlands National Park,Fish,5,Perciformes,Centrarchidae,72225,168132,Active,Lepomis cyanellus,Green Sunfish,,Present
+CANY,Canyonlands National Park,Fish,5,Perciformes,Centrarchidae,72235,168141,Active,Lepomis macrochirus,Bluegill,,Present
+CANY,Canyonlands National Park,Fish,5,Perciformes,Centrarchidae,257905,550562,Active,Micropterus dolomieu,Smallmouth Bass,Micropterus dolomieui,Present
+CANY,Canyonlands National Park,Fish,5,Perciformes,Centrarchidae,72256,168160,Active,Micropterus salmoides,Largemouth Bass,,Present
+CANY,Canyonlands National Park,Fish,5,Perciformes,Centrarchidae,72263,168167,Active,Pomoxis nigromaculatus,Black Crappie,,Present
+CANY,Canyonlands National Park,Fish,5,Perciformes,Moronidae,74704,167680,Active,Morone saxatilis,Striped Bass,,Present
+CANY,Canyonlands National Park,Fish,5,Perciformes,Percidae,467627,650173,Active,Sander vitreus,Walleye,Stizostedion vitreum,Present
+CANY,Canyonlands National Park,Fish,5,Salmoniformes,Salmonidae,71783,161989,Active,Oncorhynchus mykiss,Rainbow Trout,,Present
+CANY,Canyonlands National Park,Fish,5,Salmoniformes,Salmonidae,71772,161979,Active,Oncorhynchus nerka,Kokanee Salmon,Oncorhynchus nerka kennerlyi,Present
+CANY,Canyonlands National Park,Fish,5,Salmoniformes,Salmonidae,71792,161997,Active,Salmo trutta,Brown Trout,,Present
+CANY,Canyonlands National Park,Fish,5,Siluriformes,Ictaluridae,66268,164039,Active,Ameiurus melas,Black Bullhead,Ictalurus melas,Present
+CANY,Canyonlands National Park,Fish,5,Siluriformes,Ictaluridae,66271,164041,Active,Ameiurus natalis,Yellow Bullhead,Ictalurus natalis,Present
+CANY,Canyonlands National Park,Fish,5,Siluriformes,Ictaluridae,66221,163998,Active,Ictalurus punctatus,Channel Catfish,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758831,-9797169,Inactive,Arabis perennans var. perennans,Perennial rockcress,Arabis perennans,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758837,-9797175,Inactive,Baccharis viminea var. atwoodii,Atwood's mule-fat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758856,-9797194,Inactive,Chrysopsis villosa var. minor,Hispid golden-aster,"Chrysopsis villosa, Heterotheca villosa, Chrysopsis villosa var. hispida, Heterotheca villosa var. hispida",Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,154412,-502154,Active,Chrysopsis villosa var. villosa,Hairy golden-aster,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758820,-9797158,Inactive,Gilia leptomeria var. leptomeria,Common gilia,Gilia leptomeria,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,667131,-743630,Active,Haplopappus acaulis var. acaulis,Stemless goldenweed,Haplopappus acaulis,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758843,-9797181,Inactive,Haplopappus armerioides var. armerioides,Thrift goldenweed,Haplopappus armerioides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758833,-9797171,Active,Haplopappus scopulorum var. canonis,Canyon spindly goldenbush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758853,-9797191,Active,Mahonia fremontii x Mahonia repens,Hybrid mahonia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,171748,-509543,Inactive,Pachystima myrsinites,Mountain-lover,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,758816,-9797154,Inactive,Suaeda torreyana var. torreyana,Torrey's seepweed,"Suaeda fruticosa, Suaeda torreyana",Present
+CANY,Canyonlands National Park,Vascular Plant,6,,,161224,-503038,Active,Viguiera multiflora var. multiflora,Showy goldeneye,Viguiera multiflora,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Apiales,Apiaceae,208282,527614,Active,Cymopterus acaulis var. fendleri,Fendler's cymopterus,Cymopterus fendleri,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Apiales,Apiaceae,134774,29631,Active,Cymopterus bulbosus,Onion spring-parsley,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Apiales,Apiaceae,134793,29649,Active,Cymopterus newberryi,Sticky spring-parsley,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Apiales,Apiaceae,758846,-9797184,Inactive,Cymopterus purpureus var. purpureus,Colorado Plateau spring-parsley,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Apiales,Apiaceae,225773,534173,Active,Cymopterus terebinthinus var. petraeus,Rock spring-parsley,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Apiales,Apiaceae,125494,29735,Active,Lomatium parryi,Parry's lomatium,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150294,42682,Active,Allium macropetalum,San Juan onion,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150299,42687,Active,Allium nevadense,Nevada onion,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Asparagaceae,140575,42777,Active,Androstephium breviflorum,Pink funnel-lily,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Asparagaceae,140583,42784,Active,Asparagus officinalis,Asparagus,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Asparagaceae,142751,43038,Active,Smilacina stellata,Starry false Solomon's-seal,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Asparagaceae,142855,43131,Active,Yucca angustissima,Narrowleaved yucca,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Asparagaceae,144221,43134,Active,Yucca baccata,Datil yucca,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Asparagaceae,215603,530900,Active,Yucca harrimaniae var. harrimaniae,Harriman's yucca,Yucca harrimaniae,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Asparagaceae,199827,523612,Active,Yucca toftiae,Toft's yucca,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Orchidaceae,147073,43481,Active,Epipactis gigantea,Giant helleborine,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asparagales,Orchidaceae,185139,514389,Active,Habenaria zothecina,Alcove bog-orchid,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,141408,36497,Active,Ambrosia acanthicarpa,Bur ragweed,Franseria acanthicarpa,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,141435,36520,Active,Ambrosia tomentosa,Skeleton-leaf bursage,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,133782,36739,Active,Antennaria marginata,Sandstone pussytoes,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,141463,36546,Active,Arctium minus,Burdock,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,133588,35452,Active,Artemisia bigelovii,Bigelow's sagebrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,293787,566592,Active,Artemisia campestris var. scouleriana,Sand wormwood,"Artemisia campestris, Artemisia campestris ssp. borealis var. scouleriana, Artemisia scouleriana",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,86031,183731,Active,Artemisia dracunculus ssp. glauca,Tarragon,"Artemisia dracunculus, Artemisia dracunculus var. glauca",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,133600,35463,Active,Artemisia filifolia,Sand sagebrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,133602,35465,Active,Artemisia frigida,Fringed sagebrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,221327,532346,Active,Artemisia ludoviciana var. albula,Louisiana wormwood,Artemisia ludoviciana,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,156261,-501970,Active,Artemisia ludoviciana var. ludoviciana,Louisiana wormwood,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,221342,532353,Active,Artemisia ludoviciana var. mexicana,Louisiana wormwood,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,216383,531182,Active,Artemisia nova var. nova,Black sagebrush,Artemisia nova,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,133636,35496,Active,Artemisia spinescens,Budsage,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,667036,-743436,Active,Artemisia tridentata var. tridentata,Basin big sagebrush,Artemisia tridentata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222184,532369,Active,Artemisia tridentata var. wyomingensis,Wyoming big sagebrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,101602,193303,Active,Aster ascendens,Pacific aster,"Aster chilensis, Aster chilensis ssp. adscendens",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134246,35567,Active,Aster falcatus,Falcate aster,Aster commutatus var. crassulus,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134254,35574,Active,Aster frondosus,Leafy aster,Symphyotrichum frondosum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134258,35578,Active,Aster glaucodes,Blueleaf aster,Aster glaucodes var. glaucodes,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134308,35622,Active,Aster pansus,White heath aster,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,173004,509308,Active,Aster spathulatus,Western aster,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134614,35658,Active,Aster spinosus,Mexican devilweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134658,35698,Active,Baccharis salicina,Rio Grande seepwillow,Baccharis emoryi,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134673,35710,Active,Bidens cernua,Nodding bur-marigold,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134680,35717,Active,Bidens comosa,Straw-stem beggarticks,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,134669,35707,Active,Bidens frondosa,Devil's- beggarsticks,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,136716,36866,Active,Brickellia californica,California brickellbush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,136737,36885,Active,Brickellia longifolia,Longleaf brickellbush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,209795,526984,Active,Brickellia microphylla var. scabra,Rough brickellbush,Brickellia scabra,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,209799,526986,Active,Brickellia oblongifolia var. linifolia,Mohave brickellbush,Brickellia oblongifolia,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,135958,35787,Active,Carduus nutans,Musk thistle,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,136818,36958,Active,Centaurea diffusa,Diffuse knapweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,173262,510530,Active,Centaurea repens,Russian knapweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,137261,36998,Active,Chaenactis stevioides,Stevia dusty-maiden,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,151902,501376,Active,Chaetopappa ericoides,Rose-heath,Leucelene ericoides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,758812,-9797150,Inactive,Chrysopsis zionensis,Zion golden-aster,Chrysopsis villosa var. foliosa,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,137324,37054,Active,Chrysothamnus linifolius,Spear-leaf rabbitbrush,Chrysothamnus viscidiflorus var. linifolius,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222302,533550,Active,Chrysothamnus nauseosus var. consimilis,Greenish rabbitbrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222308,533553,Active,Chrysothamnus nauseosus var. gnaphalodes,Graystem rabbitbrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222310,533554,Active,Chrysothamnus nauseosus var. graveolens,Glabrate rabbitbrush,Chrysothamnus nauseosus var. glabratus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222316,533557,Active,Chrysothamnus nauseosus var. junceus,Rush rabbitbrush,Chrysothamnus nauseosus ssp. pinifolius,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222320,533559,Active,Chrysothamnus nauseosus var. leiospermus,Smoothseed rabbitbrush,Chrysothamnus nauseosus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222360,533578,Active,Chrysothamnus pulchellus var. baileyi,Pretty rabbitbrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222367,533581,Active,Chrysothamnus viscidiflorus var. lanceolatus,Lanceleaf rabbitbrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,294271,566624,Active,Chrysothamnus viscidiflorus var. stenophyllus,Slenderleaf rabbitbrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,294273,566625,Active,Chrysothamnus viscidiflorus var. viscidiflorus,Green rabbitbrush,Chrysothamnus viscidiflorus,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,139500,36335,Active,Cirsium arvense,Canada thistle,Cirsium arvense var. horridum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,222422,533607,Active,Cirsium calcareum var. bipinnatum,wingless thistle,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,223229,533608,Active,Cirsium calcareum var. pulchellum,Pretty thistle,Cirsium calcareum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,209520,527374,Active,Cirsium neomexicanum var. neomexicanum,New Mexico thistle,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,209522,527375,Active,Cirsium neomexicanum var. utahense,Utah thistle,Cirsium neomexicanum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,140115,36410,Active,Cirsium rothrockii,Rothrock's thistle,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,140116,36411,Active,Cirsium rydbergii,Rydberg's thistle,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,210369,527387,Active,Cirsium undulatum var. undulatum,Wavy-leaved thistle,Cirsium undulatum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,Bull thistle,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,212077,527477,Active,Conyza canadensis var. glabrata,Canadian horseweed,Conyza canadensis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,224726,534058,Active,Crepis runcinata var. glauca,Glaucous hawksbeard,Crepis runcinata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,758825,-9797163,Inactive,Dicoria brandegei,Brandegee's sandplant,Dicoria canescens ssp. wetherillii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,211996,527881,Active,Encelia frutescens var. resinosa,Bush encelia,"Encelia frutescens, Encelia frutescens var. frutescens",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,110158,196273,Active,Enceliopsis nudicaulis var. nudicaulis,Nakedstem,Enceliopsis nudicaulis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,136003,35827,Active,Erigeron bellidiastrum,Pretty daisy,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,156870,-502323,Active,Erigeron divergens var. divergens,Spreading daisy,Erigeron divergens,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,136045,35865,Active,Erigeron flagellaris,Trailing daisy,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,226699,535061,Active,Erigeron pumilus var. concinnus,Navajo fleabane,"Erigeron concinnus, Erigeron pumilus, Erigeron pumilus ssp. concinnoides",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,209022,527970,Active,Erigeron utahensis var. sparsifolius,Slenderleaf daisy,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,209024,527971,Active,Erigeron utahensis var. utahensis,Utah daisy,Erigeron utahensis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,140450,37356,Active,Euthamia occidentalis,Western goldenrod,Solidago occidentalis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,140509,37409,Active,Gaillardia pinnatifida,Hopi blanketflower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,161070,502699,Active,Gaillardia spathulata,Basin blanketflower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,179662,514144,Active,Gnaphalium stramineum,cottonbatting cudweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,140545,37441,Active,Grindelia aphanactis,Rydberg's gumweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,140550,37446,Active,Grindelia fastigiata,Erect gumweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,213412,528288,Active,Grindelia squarrosa var. serrulata,Curly-cup gumweed,Grindelia squarrosa,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,141121,37482,Active,Gutierrezia microcephala,Thread snakeweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,Broom snakeweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,185220,514427,Active,Haplopappus gracilis,Slender goldenweed,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,185258,514445,Active,Haplopappus rusbyi,Rusby's goldenbush,Haplopappus drummondii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,225624,536011,Active,Haplopappus scopulorum var. hirtellus,Spindly goldenbush,Haplopappus scopulorum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,214096,528350,Active,Helenium autumnale var. montanum,Fall sneezeweed,Helenium autumnale,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,142049,37595,Active,Helianthella microcephala,Purpledisk sunflower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,142052,37598,Active,Helianthella uniflora,Little sunflower,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,210135,525929,Active,Helianthus annuus ssp. lenticularis,Common sunflower,Helianthus annuus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,142205,36617,Active,Helianthus anomalus,Sand sunflower,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,133709,36673,Active,Helianthus petiolaris ssp. fallax,Prairie sunflower,Helianthus petiolaris,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,212226,528517,Active,Hymenopappus filifolius var. cinereus,Common hyalineherb,Hymenopappus filifolius,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,229672,536278,Active,Hymenoxys acaulis var. ivesiana,Canyonlands hymenoxys,"Hymenoxys acaulis, Hymenoxys ivesiana",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,212266,528536,Active,Hymenoxys richardsonii var. floribunda,Colorado rubber-plant,Hymenoxys richardsonii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,212268,528537,Active,Hymenoxys richardsonii var. richardsonii,Colorado rubber-plant,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,137432,36033,Active,Iva axillaris,Poverty-weed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,Prickly lettuce,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,214066,528669,Active,Lactuca tatarica var. pulchella,Blue lettuce,Lactuca tatarica,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,758814,-9797152,Inactive,Lygodesmia grandiflora var. grandiflora,Showy rush-pink,Lygodesmia grandiflora,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,295183,566727,Active,Machaeranthera canescens var. aristata,Aristate aster,"Machaeranthera canescens var. vacans, Machaeranthera canescens",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,295171,566721,Active,Machaeranthera canescens var. canescens,Hoary aster,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,213639,529072,Active,Machaeranthera grindelioides var. grindelioides,Gumweed aster,"Haplopappus nuttallii, Machaeranthera grindelioides",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,144700,38013,Active,Machaeranthera tanacetifolia,Tansyleaf aster,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,144741,38050,Active,Malacothrix glabrata,Filiform desert-dandelion,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,144746,38055,Active,Malacothrix sonchoides,Sowthistle desert-dandelion,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,191766,518080,Active,Oxytenia acerosa,Copperweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,670543,-743801,Active,Petradoria pumila var. pumila,Rock-goldenrod,"Petradoria pumila, Solidago petradoria",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,214547,529721,Active,Platyschkuhria integrifolia var. desertorum,Desert bahia,Bahia nudicaulis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,137471,36069,Active,Pluchea sericea,Arrowweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,136357,38267,Active,Prenanthella exigua,Prenanthella,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,136443,38344,Active,Ratibida tagetes,green prairie coneflower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,235063,540563,Active,Senecio douglasii var. longilobus,Douglas' groundsel,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138506,36161,Active,Senecio multilobatus,Basin groundsel,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,221052,531525,Active,Senecio spartioides var. multicapitatus,Many-headed groundsel,Senecio multicapitatus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,217324,531235,Active,Senecio spartioides var. spartioides,Broom groundsel,Senecio spartioides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,216589,530447,Active,Solidago canadensis var. salebrosa,Canadian goldenrod,Solidago canadensis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,163985,505290,Active,Solidago velutina,Three-nerve goldenrod,Solidago sparsiflora,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,137730,38424,Active,Sonchus asper,Spiny-leaf sow-thistle,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,137753,38445,Active,Stephanomeria exigua,White-plume wire-lettuce,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,137760,38451,Active,Stephanomeria pauciflora,Brown-plume wire-lettuce,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,110180,196293,Active,Stephanomeria tenuifolia var. tenuifolia,Slender wirelettuce,Stephanomeria tenuifolia,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138057,38480,Active,Syntrichopappus fremontii,Fremont's syntrichopappus,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,Common dandelion,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138072,38494,Active,Tetradymia canescens,Spineless horsebrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138107,38525,Active,Thelesperma megapotamicum,Hopi-tea,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,219861,530642,Active,Thelesperma subnudum var. subnudum,Scapose greenthread,Thelesperma subnudum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,219928,530674,Active,Thymophylla pentachaeta var. belenidium,Scale glandweed,"Dyssodia pentachaeta var. belenidium, Dyssodia pentachaeta, Thymophylla pentachaeta",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138121,38538,Active,Townsendia annua,Annual townsendia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138133,38549,Active,Townsendia incana,Hoary townsendia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138150,38564,Active,Tragopogon dubius,Yellow salsify,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,138175,38587,Active,Vanclevea stylosa,Resinbush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,238843,541607,Active,Verbesina encelioides var. exauriculata,Golden crownbeard,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,215543,530872,Active,Xanthium strumarium var. canadense,Rough cocklebur,"Xanthium strumarium, Xanthium pensylvanicum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,215551,530876,Active,Xylorhiza glabriuscula var. linearifolia,Moab woodyaster,Xylorhiza glabriuscula,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,215555,530878,Active,Xylorhiza tortifolia var. imberbis,Hurtleaf woodyaster,"Xylorhiza tortifolia, Machaeranthera tortifolia",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Asterales,Asteraceae,139234,38701,Active,Xylorhiza venusta,Cisco woodyaster,Machaeranthera venusta,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,131095,31786,Active,Cryptantha bakeri,Baker's cryptantha,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,213896,527552,Active,Cryptantha cinerea var. pustulosa,San Juan cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,131106,31796,Active,Cryptantha confertiflora,Basin yellow cryptanth,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,213913,527560,Active,Cryptantha crassisepala var. elachantha,Thick-sepaled cryptanth,Cryptantha crassisepala,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,131078,31770,Active,Cryptantha flava,Plateau yellow cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,131121,31809,Active,Cryptantha flavoculata,Yellow-eye cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,132057,31811,Active,Cryptantha fulvocanescens,Plateau cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,132059,31813,Active,Cryptantha gracilis,Slender cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,132075,31828,Active,Cryptantha kelseyana,Kelsey's cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,132100,31850,Active,Cryptantha osterhoutii,Osterhout's cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,208195,527573,Active,Cryptantha pterocarya var. pterocarya,Wing-nut cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,132111,31860,Active,Cryptantha recurvata,Recurved cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,131085,31777,Active,Cryptantha tenuis,Slender cryptanth,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,214083,528677,Active,Lappula occidentalis var. cupulata,Cupseed stickseed,"Lappula occidentalis, Lappula redowskii",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,132734,31940,Active,Lithospermum incisum,Showy stoneseed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Boraginaceae,211554,529255,Active,Nama densum var. parviflorum,Leafy fiddleleaf,Nama densum,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Ehretiaceae,161384,505519,Active,Tiquilia latior,Matted tiquilia,"Coldenia hispidissima, Tiquilia hispidissima",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130273,31644,Active,Heliotropium convolvulaceum,Bindweed heliotrope,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216050,529549,Active,Phacelia crenulata var. corrugata,Corrugate phacelia,Phacelia crenulata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216053,529550,Active,Phacelia crenulata var. crenulata,Crenulate phacelia,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129884,31535,Active,Phacelia howelliana,Howell's phacelia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,160654,504273,Active,Phacelia ivesiana,Ives' phacelia,Phacelia ivesiana var. ivesiana,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,123368,23030,Active,Alyssum alyssoides,Pale madwort,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,89521,184360,Active,Arabis holboellii var. pinetorum,Holboell's rockcress,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,90395,184430,Active,Arabis pulchra var. pallens,Desert rockcress,Arabis pulchra,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,121297,22731,Active,Arabis selbyi,Selby's rockcress,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,121308,22741,Active,Barbarea vulgaris,European wintercress,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,124508,23099,Active,Chorispora tenella,Blue mustard,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,124514,23103,Active,Conringia orientalis,Hare's-ear mustard,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,122335,22821,Active,Descurainia californica,California tansy-mustard,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,222797,534392,Active,Descurainia pinnata var. intermedia,Western tansy-mustard,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,222805,534396,Active,Descurainia pinnata var. osmiarum,Western tansy-mustard,Descurainia pinnata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,Flixweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,758806,-9797144,Inactive,Dithyrea wislizenii,Spectacle-pod,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,210907,527759,Active,Draba cuneifolia var. cuneifolia,Wedgeleaf draba,Draba cuneifolia,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,224414,535248,Active,Erysimum asperum var. purshii,Sand dune wallflower,"Erysimum asperum, Erysimum argillosum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,217985,531291,Active,Lepidium alyssoides var. eastwoodiae,Eastwood's tall pepperwort,"Lepidium alyssoides, Lepidium montanum var. spathulatum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,215007,528720,Active,Lepidium densiflorum var. ramosum,Prairie pepperwort,Lepidium densiflorum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,123293,22963,Active,Lepidium fremontii,Fremont's pepperwort,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,232407,536666,Active,Lepidium lasiocarpum var. georginum,St. George pepperwort,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,160462,503379,Active,Lepidium latifolium,Broad-leaf pepperwort,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,215030,528731,Active,Lepidium montanum var. jonesii,Jones' pepperwort,Lepidium montanum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125070,23243,Active,Malcolmia africana,African mustard,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,213136,529642,Active,Physaria acutifolia var. acutifolia,Sharp-leaf twinpod,"Physaria acutifolia, Physaria australis",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,670574,-743816,Inactive,Physaria ludoviciana,Silver bladderpod,Lesquerella ludoviciana,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125112,23281,Active,Physaria newberryi,Newberry's twinpod,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,670576,-743817,Inactive,Physaria rectipes,Colorado Plateau bladderpod,Lesquerella rectipes,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,Tumble mustard,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125968,23329,Active,Stanleya pinnata,Prince's-plume,Stanleya pinnata var. pinnata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125973,23333,Active,Streptanthella longirostris,Long-beak fiddle-mustard,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,125989,23348,Active,Streptanthus cordatus,Heart-leaf jewelflower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,161278,505469,Active,Thelypodiopsis divaricata,Candelabra thelypody,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Brassicaceae,239116,541249,Active,Thelypodium integrifolium var. gracilipes,Moab thelypody,Thelypodium integrifolium,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Cleomaceae,120504,22620,Active,Cleome lutea,Yellow beeplant,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Brassicales,Cleomaceae,120510,22626,Active,Cleome serrulata,Rocky Mountain beeplant,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Aizoaceae,112616,19909,Active,Sesuvium verrucosum,Sea purslane,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117557,20719,Active,Amaranthus albus,Tumble pigweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117602,20723,Active,Amaranthus blitoides,Prostrate pigweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120123,20745,Active,Amaranthus retroflexus,Redroot pigweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106084,192226,Active,Atriplex canescens var. canescens,Four-wing saltbush,"Atriplex canescens, Atriplex canescens var. occidentalis",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111549,20519,Active,Atriplex confertifolia,Shadscale,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,113357,20525,Active,Atriplex dioica,Thickleaf orache,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106096,192237,Active,Atriplex gardneri var. cuneata,Castle Valley saltbush,"Atriplex gardneri, Atriplex cuneata",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758849,-9797187,Inactive,Atriplex garrettii var. garrettii,Garrett's saltbush,Atriplex garrettii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,116189,20563,Active,Atriplex rosea,Tumbling orach,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758840,-9797178,Inactive,Bassia americana,Greenmolly,Kochia americana,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117671,20588,Active,Bassia hyssopifolia,Five-horn smotherweed,Echinopsilon hyssopifolium,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,289949,565741,Active,Bassia scoparia,Summer-cypress,Kochia scoparia,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,216343,531163,Active,Chenopodium album var. album,Lambsquarter,Chenopodium album,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117727,20593,Active,Chenopodium atrovirens,Mountain goosefoot,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118252,20604,Active,Chenopodium desiccatum,Desert goosefoot,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,209409,527321,Active,Chenopodium fremontii var. fremontii,Fremont's goosefoot,Chenopodium fremontii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118652,20616,Active,Chenopodium leptophyllum,Narrow-leaf goosefoot,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120014,20630,Active,Chenopodium rubrum,red goosefoot,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,175063,511428,Active,Corispermum americanum,American bugseed,"Corispermum hyssopifolium, Corispermum villosum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758850,-9797188,Inactive,Cycloloma atriplicifolia,Winged pigweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115495,20690,Active,Grayia spinosa,Spiny hopsage,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115517,20692,Active,Halogeton glomeratus,Halogeton,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758858,-9797196,Inactive,Krascheninnikovia lanata var. lanata,Winterfat,Ceratoides lanata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758819,-9797157,Inactive,Krascheninnikovia lanata var. ruinina,Ruin Park winterfat,Ceratoides lanata var. ruinina,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115607,20700,Active,Monolepis nuttalliana,Nuttall's poverty-weed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111914,20657,Active,Salsola paulsenii,Barbwire Russian-thistle,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,Russian-thistle,"Salsola kali, Salsola pestifer",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165468,505402,Active,Suaeda calceoliformis,broom seepweed,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,216208,530925,Active,Zuckia brandegeei var. brandegeei,Brandegee's siltbush,"Grayia brandegeei, Zuckia brandegei, Zuckia brandegei var. brandegei",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211043,527823,Active,Echinocereus engelmannii var. variegatus,Glen Canyon hedgehog cactus,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,227977,534750,Active,Echinocereus triglochidiatus var. melanacanthus,Claretcup,Echinocereus triglochidiatus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100515,195258,Active,Opuntia basilaris var. basilaris,Beavertail cactus,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100535,195276,Active,Opuntia erinacea var. utahensis,Utah pricklypear,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,104853,19707,Active,Opuntia fragilis,Brittle prickly-pear,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,231984,538023,Active,Opuntia littoralis var. martiniana,Littoral pricklypear,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100555,195294,Active,Opuntia phaeacantha var. major,Large pricklypear,Opuntia phaeacantha,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100557,195296,Active,Opuntia polyacantha var. polyacantha,Plains prickly-pear,Opuntia polyacantha,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,108452,19745,Active,Opuntia whipplei,Whipple's cholla,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Cactaceae,240724,540500,Active,Sclerocactus whipplei var. roseus,Small-flower fishhook cactus,"Echinocactus whipplei, Sclerocactus whipplei",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,219439,532222,Active,Arenaria fendleri var. eastwoodiae,Eastwood's sandwort,Arenaria fendleri,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,117118,20045,Active,Silene antirrhina,Sleepy catchfly,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Montiaceae,114871,20445,Active,Talinum brevifolium,Sausageleaf talinum,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,103641,19557,Active,Abronia fragrans,Fragrant sand-verbena,Abronia elliptica,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,106564,19581,Active,Allionia incarnata,Trailing four-o'clock,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,669596,-743747,Inactive,Mirabilis linearis var. linearis,Narrow-leaf four-o'clock,"Oxybaphus linearis, Mirabilis linearis",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100427,19654,Active,Mirabilis multiflora,Showy four-o'clock,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,758808,-9797146,Inactive,Tripterocalyx carneus var. wootonii,Wooton's sand-verbena,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,109418,19621,Active,Tripterocalyx micranthus,Small-flower sandpuffs,Abronia micrantha,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119220,21057,Active,Eriogonum alatum,Winged wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119779,21078,Active,Eriogonum bicolor,Pretty wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209049,527983,Active,Eriogonum cernuum var. cernuum,Nodding wild buckwheat,Eriogonum cernuum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102438,195443,Active,Eriogonum corymbosum var. corymbosum,Crisp-leaf wild buckwheat,"Eriogonum divergens, Eriogonum corymbosum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102442,195447,Active,Eriogonum corymbosum var. orbiculatum,Rimrock wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119817,21111,Active,Eriogonum deflexum,Skeletonweed wild buckwheat,Eriogonum deflexum var. deflexum,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119846,21138,Active,Eriogonum gordonii,Gordon's wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102496,195496,Active,Eriogonum inflatum var. inflatum,Desert trumpet,Eriogonum inflatum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209097,528005,Active,Eriogonum leptocladon var. leptocladon,Sand wild buckwheat,Eriogonum leptocladon,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102516,195513,Active,Eriogonum lonchophyllum var. lonchophyllum,Longleaf wild buckwheat,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102538,195533,Active,Eriogonum microthecum var. simpsonii,Slender wild buckwheat,"Eriogonum microthecum var. foliosum, Eriogonum microthecum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120731,21212,Active,Eriogonum ovalifolium,Cushion wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,157013,502413,Active,Eriogonum palmerianum,Palmer's wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120767,21245,Active,Eriogonum shockleyi,Shockley's wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209549,528025,Active,Eriogonum umbellatum var. subaridum,Arid wild buckwheat,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120803,21278,Active,Eriogonum wetherillii,Wetherill's wild buckwheat,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117956,20865,Active,Polygonum amphibium,water smartweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117901,20860,Active,Polygonum lapathifolium,willow-weed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,121992,20915,Active,Polygonum persicaria,lady's-thumb,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118421,20962,Active,Rumex hymenosepalus,Canaigre dock,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,236650,539844,Active,Rumex maritimus var. fueginus,golden dock,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119135,20980,Active,Rumex venosus,Veiny dock,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,common purslane,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Sarcobataceae,116621,20707,Active,Sarcobatus vermiculatus,Greasewood,Sarcobatus vermiculatus var. vermiculatus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117479,22308,Active,Tamarix chinensis,Five-stamen tamarisk,Tamarix pentandra,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Cornales,Cornaceae,155175,-502184,Active,Cornus sericea var. sericea,Red-osier dogwood,Cornus stolonifera,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Cornales,Hydrangeaceae,123515,24331,Active,Fendlera rupicola,Fendlerbush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Cornales,Hydrangeaceae,124431,24437,Active,Philadelphus microphyllus,Littleleaf mock-orange,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Cornales,Loasaceae,159653,503757,Active,Mentzelia albicaulis,White-stem blazingstar,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Cornales,Loasaceae,159706,503782,Active,Mentzelia marginata,Colorado stickleaf,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Cornales,Loasaceae,159718,503788,Active,Mentzelia multiflora,Desert stickleaf,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Crossosomatales,Crossosomataceae,212370,528253,Active,Glossopetalon spinescens var. meionandrum,Spiny greasebush,"Forsellesia meionandra, Glossopetalon meionandrum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118483,22368,Active,Cucurbita foetidissima,Buffalo gourd,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131725,35334,Active,Symphoricarpos longiflorus,Long-flower snowberry,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156858,502318,Active,Ephedra torreyana,Torrey's ephedra,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ephedrales,Ephedraceae,212012,527889,Active,Ephedra viridis var. viridis,Green ephedra,Ephedra viridis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ephedrales,Ephedraceae,224502,534910,Active,Ephedra viridis var. viscida,Cutler's ephedra,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Equisetales,Equisetaceae,79672,17152,Active,Equisetum arvense,Field horsetail,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Equisetales,Equisetaceae,212434,527892,Active,Equisetum hyemale var. affine,Tall scouring-rush,Equisetum hyemale,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Equisetales,Equisetaceae,79716,17156,Active,Equisetum laevigatum,Smooth scouring-rush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,139834,31125,Active,Gilia hutchinsifolia,Broadlobe gilia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,758847,-9797185,Inactive,Gilia imperialis,Cataract gilia,Gilia latifolia var. imperialis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,139836,31127,Active,Gilia inconspicua,Shy gilia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,126959,31180,Active,Gilia subnuda,Carmine gilia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,157119,-502463,Active,Ipomopsis aggregata var. aggregata,Scarlet gilia,"Ipomopsis aggregata, Gilia aggregata",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,127524,31210,Active,Ipomopsis gunnisonii,Gunnison's gilia,Gilia gunnisonii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,126978,31198,Active,Ipomopsis longiflora,Long-flowered gilia,Gilia longiflora,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,127530,31216,Active,Ipomopsis polycladon,Spreading gilia,Gilia polycladon,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,127531,31217,Active,Ipomopsis pumila,Dwarf gilia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,127532,31218,Active,Ipomopsis roseata,San Rafael gilia,Gilia roseata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,127549,31233,Active,Leptodactylon pungens,Prickly-phlox,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,160486,503390,Active,Leptodactylon watsonii,Watson's prickly-phlox,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,233639,538685,Active,Phlox hoodii var. canescens,Carpet phlox,Phlox hoodii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Polemoniaceae,138849,30956,Active,Phlox longifolia,Long-leaf phlox,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ericales,Primulaceae,121712,24032,Active,Primula specuicola,Cave primrose,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,128308,26449,Active,Albizia julibrissin,Silk-tree,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,106216,192345,Active,Astragalus amphioxys var. amphioxys,Crescent milkvetch,Astragalus amphioxys,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,106220,192349,Active,Astragalus amphioxys var. vespertinus,Sheldon's milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,107748,192405,Active,Astragalus ceramicus var. ceramicus,Painted milkvetch,Astragalus ceramicus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,121473,25459,Active,Astragalus chamaeleuce,Cicada milkvetch,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,107762,192418,Active,Astragalus coltonii var. moabensis,Moab milkvetch,Astragalus coltonii,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,95332,192450,Active,Astragalus desperatus var. desperatus,Rimrock milkvetch,Astragalus desperatus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122062,25507,Active,Astragalus episcopus,Bishop's milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,470846,-651442,Inactive,Astragalus flavus var. flavus,Yellow milkvetch,Astragalus flavus,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,95389,192501,Active,Astragalus flexuosus var. flexuosus,Pliant milkvetch,Astragalus flexuosus,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122074,25518,Active,Astragalus fucatus,Hopi milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,208936,526902,Active,Astragalus kentrophyta var. coloradoensis,Canyon kentrophyta,Astragalus kentrophyta,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,96140,192580,Active,Astragalus lentiginosus var. palans,Straggling milkvetch,Astragalus lentiginosus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122128,25567,Active,Astragalus lonchocarpus,Great rushy milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,208950,526909,Active,Astragalus missouriensis var. amphibolus,Missouri milkvetch,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122149,25586,Active,Astragalus moencoppensis,Moenkopi milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,96350,192649,Active,Astragalus mollissimus var. thompsoniae,Woolly milkvetch,Astragalus mollissimus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122157,25593,Active,Astragalus monumentalis,Monument milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122160,25596,Active,Astragalus musiniensis,Ferron milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122169,25603,Active,Astragalus nidularius,Birds-nest milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,96374,192670,Active,Astragalus nuttallianus var. micranthiformis,Small-flowered milkvetch,Astragalus nuttallianus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,97871,192819,Active,Astragalus piscator,Fisher milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,96402,192696,Active,Astragalus praelongus var. lonchopus,Longstipe milkvetch,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,96403,192697,Active,Astragalus praelongus var. praelongus,Stinking milkvetch,Astragalus praelongus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,96412,192704,Active,Astragalus preussii var. latus,Preuss' milkvetch,"Astragalus preussii, Astragalus preussii var. preussii",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,123036,25663,Active,Astragalus sabulonum,Gravel milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,123049,25675,Active,Astragalus sesquiflorus,Sandstone milkvetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,91834,184653,Active,Caesalpinia repens,Creeping rush-pea,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,758827,-9797165,Inactive,Dalea flavescens var. flavescens,Kanab prairie-clover,Dalea flavescens,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,176489,512059,Active,Dalea oligophylla,White prairie-clover,Petalostemon candidus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,121875,26718,Active,Glycyrrhiza glabra,Licorice,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,121876,26719,Active,Glycyrrhiza lepidota,Nuttall's licorice,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,294353,566663,Active,Hedysarum boreale var. boreale,Northern sweetvetch,Hedysarum boreale,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,231211,536607,Active,Lathyrus brachycalyx var. zionis,Zion sweetpea,Lathyrus brachycalyx,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,214945,528691,Active,Lathyrus lanszwertii var. leucanthus,Whiteflower sweetpea,Lathyrus leucanthus,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,232692,537013,Active,Lupinus argenteus var. moabensis,Moab lupine,Lupinus argenteus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,162958,503576,Active,Lupinus brevicaulis,shortstem lupine,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,758830,-9797168,Inactive,Lupinus pusillus var. pusillus,Dwarf lupine,Lupinus pusillus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,Alfalfa,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,126512,26149,Active,Melilotus alba,White sweet-clover,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,Yellow sweet-clover,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,159492,504181,Active,Pediomelum megalanthum,Large-flowered breadroot,Psoralea megalantha,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,122811,26838,Active,Peteria thompsoniae,Thompson's peteria,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,758826,-9797164,Inactive,Psoralidium lanceolatum var. lanceolatum,Lemon scurf-pea,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,235186,539324,Active,Psoralidium lanceolatum var. stenophyllum,Slenderleaf scurfpea,"Psoralea lanceolata, Psoralidium lanceolatum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,159876,504646,Active,Psoralidium tenuiflorum,Slender-flowered scurf-pea,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,217019,529909,Active,Psorothamnus thompsoniae var. thompsoniae,Thompson's indigo-bush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,123750,26962,Active,Sophora nuttalliana,Silky sophora,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,123752,26964,Active,Sophora stenophylla,Silvery sophora,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fabales,Fabaceae,128196,26348,Active,Vicia ludoviciana,Louisiana vetch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fagales,Betulaceae,103562,19488,Active,Betula occidentalis,Water birch,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fagales,Betulaceae,105677,19510,Active,Ostrya knowltonii,Western hop-hornbeam,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fagales,Fagaceae,105663,195088,Active,Quercus gambelii var. gambelii,Gambel's oak,Quercus gambelii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fagales,Fagaceae,100115,19440,Active,Quercus turbinella,Turbinella live-oak,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fagales,Fagaceae,758834,-9797172,Inactive,Quercus welshii,Shinnery oak,"Quercus havardii var. tuckeri, Quercus undulata",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Fagales,Fagaceae,753672,-9795623,Active,Quercus X eastwoodiae,Eastwood's oak,Quercus x eastwoodiae,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130882,30140,Active,Amsonia jonesii,Jones' amsonia,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,94634,182210,Active,Amsonia tomentosa var. stenophylla,Tomentose amsonia,"Amsonia tomentosa, Amsonia eastwoodiana",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130900,30157,Active,Apocynum cannabinum,Common dogbane,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,130905,30161,Active,Apocynum sibiricum,Clasping-leaved dogbane,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,758844,-9797182,Inactive,Asclepias asperula var. asperula,Spider milkweed,Asclepias asperula,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131794,30241,Active,Asclepias incarnata,Swamp milkweed,Asclepias fascicularis,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131832,30276,Active,Asclepias labriformis,Circle Cliffs milkweed,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131834,30278,Active,Asclepias latifolia,Broadleaf milkweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131840,30283,Active,Asclepias macrosperma,Bigseed milkweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131860,30300,Active,Asclepias rusbyi,Rusby's milkweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131861,30301,Active,Asclepias ruthiae,Ruth's milkweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131864,30304,Active,Asclepias speciosa,Showy milkweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,131868,30308,Active,Asclepias subverticillata,Whorled milkweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,222220,532386,Active,Asclepias tuberosa var. interior,Orange milkweed,"Asclepias tuberosa, Asclepias tuberosa ssp. terminalis",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Apocynaceae,237629,540310,Active,Sarcostemma cynanchoides var. hartwegii,Climbing milkweed,Sarcostemma cynanchoides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Gentianaceae,155424,-502388,Active,Gentiana affinis var. affinis,Rocky Mountain gentian,Gentiana affinis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Gentianaceae,130860,30120,Active,Swertia radiata,Elkweed,Frasera speciosa,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Gentianaceae,130863,30123,Active,Swertia utahensis,Utah swertia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Rubiaceae,224837,535620,Active,Galium multiflorum var. coloradoense,Colorado bedstraw,"Galium coloradoense, Galium multiflorum",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Gentianales,Rubiaceae,667086,-743609,Active,Galium multiflorum var. multiflorum,Shrubby bedstraw,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,Stork's-bill,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134514,34313,Active,Catalpa bignonioides,Common catalpa,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Lamiaceae,135601,32490,Active,Dracocephalum parviflorum,Smallflower dragonhead,Moldavica parviflora,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Lamiaceae,135626,32512,Active,Hedeoma drummondii,Mock pennyroyal,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Lamiaceae,134013,32254,Active,Lycopus americanus,American bugleweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,Common horehound,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Lamiaceae,233801,537473,Active,Mentha arvensis var. glabrata,Field mint,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Lamiaceae,164295,504488,Active,Poliomintha incana,Purple sage,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Oleaceae,129710,32957,Active,Forestiera pubescens,Desert olive,Forestiera neomexicana,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Oleaceae,129688,32937,Active,Fraxinus anomala,Singleleaf ash,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130408,33102,Active,Castilleja chromosa,Desert paintbrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,131186,33115,Active,Castilleja flava,Yellow paintbrush,Castilleja flava var. flava,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,133158,33138,Active,Castilleja linariifolia,Wyoming paintbrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130370,33069,Active,Castilleja miniata,Scarlet paintbrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,207562,527216,Active,Castilleja scabrida var. scabrida,Eastwood's paintbrush,Castilleja scabrida,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,138331,33577,Active,Cordylanthus wrightii,Wright's bird's-beak,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,Clustered broomrape,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,232892,538072,Active,Orobanche ludoviciana var. cooperi,Cooper's broomrape,"Orobanche ludoviciana, Orobanche multiflora",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136633,33367,Active,Pedicularis centranthera,Dwarf lousewort,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Phrymaceae,135767,33309,Active,Mimulus eastwoodiae,Eastwood's monkey-flower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Phrymaceae,135724,33270,Active,Mimulus rubellus,Reddish monkeyflower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,758848,-9797186,Inactive,Penstemon barbatus var. barbatus,Beardlip penstemon,Penstemon barbatus,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131613,33854,Active,Penstemon comarrhenus,Dusty penstemon,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131628,33868,Active,Penstemon cyanocaulis,Bluestem penstemon,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,231087,538492,Active,Penstemon eatonii var. undosus,Undulate penstemon,Penstemon eatonii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131655,33892,Active,Penstemon fremontii,Fremont's penstemon,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130686,33739,Active,Penstemon palmeri var. palmeri,Palmer's penstemon,Penstemon palmeri,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130723,33772,Active,Penstemon strictus,Rocky Mountain penstemon,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131536,33785,Active,Penstemon utahensis,Utah penstemon,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,Common plantain,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129388,32907,Active,Plantago patagonica,Woolly plantain,Plantago purshii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Plantaginaceae,288388,565594,Active,Veronica anagallis-aquatica,Water speedwell,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136663,33394,Active,Verbascum thapsus,Woolly mullein,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133946,32194,Active,Phyla cuneifolia,Wedge-leaf fog-fruit,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133949,32197,Active,Phyla nodiflora,Matted fog-fruit,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,Prostrate vervain,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Liliales,Liliaceae,140641,42836,Active,Calochortus aureus,Golden mariposa,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Liliales,Liliaceae,140654,42848,Active,Calochortus flexuosus,Sinuous mariposa,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Liliales,Liliaceae,140671,42863,Active,Calochortus nuttallii,Sego-lily,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Liliales,Liliaceae,141673,42925,Active,Eremocrinum albomarginatum,Sand lily,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Liliales,Melanthiaceae,144257,43167,Active,Zigadenus paniculatus,Foothills death camas,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Liliales,Melanthiaceae,168068,505802,Active,Zigadenus vaginatus,Alcove death camas,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153253,501419,Active,Chamaesyce fendleri,Fendler's spurge,Euphorbia fendleri,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153260,501422,Active,Chamaesyce glyptosperma,Ridge-seeded spurge,Euphorbia glyptosperma,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153314,501448,Active,Chamaesyce parryi,Parry's spurge,Euphorbia parryi,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153335,501458,Active,Chamaesyce serpyllifolia,Thyme-leaved spurge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132026,28049,Active,Euphorbia brachycera,Shorthorn spurge,Euphorbia robusta,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Linaceae,131410,29231,Active,Linum aristatum,Broom-flax,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Linaceae,205471,526067,Active,Linum perenne ssp. lewisii,Blue flax,Linum perenne,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Linaceae,131396,29219,Active,Linum puberulum,Downy flax,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Linaceae,131402,29224,Active,Linum subteres,Utah yellow-flax,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119648,22451,Active,Populus alba,White poplar,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,758851,-9797189,Inactive,Populus fremontii var. fremontii,Fremont cottonwood,Populus fremontii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119654,22457,Active,Populus X canadensis,Carolina poplar,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,758824,-9797162,Inactive,Populus x intercurrens,Lance-leaf cottonwood,"Populus acuminata, Populus X acuminata",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119710,22507,Active,Salix bebbiana,Bebb's willow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,238763,540018,Active,Salix eriocephala var. ligulifolia,Strapleaf willow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,238770,540021,Active,Salix eriocephala var. watsonii,Yellow willow,"Salix lutea, Salix rigida, Salix lutea var. watsonii",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,239458,540029,Active,Salix exigua var. stenophylla,Coyote willow,"Salix exigua ssp. exigua var. stenophylla, Salix exigua",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,119745,22539,Active,Salix gooddingii,Goodding's black willow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malpighiales,Salicaceae,201630,524652,Active,Salix lucida ssp. caudata,Whiplash willow,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,124894,21836,Active,Malva neglecta,Common mallow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,124905,21846,Active,Malvella leprosa,Alkali mallow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,125791,21920,Active,Sphaeralcea coccinea,Scarlet globe-mallow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,125811,21939,Active,Sphaeralcea grossulariifolia,Gooseberry-leaf globemallow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,164741,505320,Active,Sphaeralcea janeae,Jane's globemallow,Sphaeralcea leptophylla var. janeae,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,125820,21947,Active,Sphaeralcea leptophylla,Slenderleaf globemallow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,758817,-9797155,Inactive,Sphaeralcea moorei,Moore's globemallow,Sphaeralcea grossulariifolia var. moorei,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Malvales,Malvaceae,125827,21953,Active,Sphaeralcea parvifolia,Small-leaf globemallow,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,155634,501160,Active,Calylophus lavandulifolius,Lavender-leaf sundrops,Oenothera lavandulifolia,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,128780,27527,Active,Camissonia multijuga,Manylobe camissonia,Oenothera multijuga,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,128815,27559,Active,Camissonia walkeri,Walker's camissonia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,126658,27293,Active,Epilobium ciliatum,Northern willow-herb,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,129461,27660,Active,Gaura parviflora,Small-flowered gaura,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,127810,27373,Active,Oenothera albicaulis,White-stem evening-primrose,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,292892,566494,Active,Oenothera caespitosa var. marginata,Long-tube evening-primrose,Oenothera caespitosa,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,292894,566495,Active,Oenothera caespitosa var. navajoensis,Paria evening-primrose,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,162667,504002,Active,Oenothera howardii,bronze evening-primrose,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,127871,27428,Active,Oenothera longissima,Bridges evening-primrose,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,669638,-743767,Active,Oenothera pallida var. pallida,Pale evening-primrose,Oenothera pallida,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Myrtales,Onagraceae,230476,537944,Active,Oenothera pallida var. trichocalyx,Pale evening-primrose,Oenothera trichocalyx,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Pinales,Cupressaceae,103539,194859,Active,Juniperus osteosperma,Utah juniper,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Pinales,Pinaceae,91287,181826,Active,Abies concolor,White fir,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Pinales,Pinaceae,93083,183336,Active,Pinus edulis,Two-needle pinyon,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Pinales,Pinaceae,93102,183353,Active,Pinus monophylla,Singleleaf pinyon,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Pinales,Pinaceae,213205,529675,Active,Pinus ponderosa var. scopulorum,Ponderosa pine,Pinus ponderosa,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Pinales,Pinaceae,93987,183428,Active,Pseudotsuga menziesii var. glauca,Douglas-fir,Pseudotsuga menziesii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,145321,39445,Active,Carex aurea,Golden sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,145333,39456,Active,Carex hystericina,Bottlebrush sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,137555,39711,Active,Carex nebrascensis,Nebraska sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,137588,39741,Active,Carex parryana,Parry's sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,166951,507767,Active,Carex pellita,Woolly sedge,Carex lanuginosa,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,137616,39767,Active,Carex praegracilis,Blackcreeper sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,137637,39786,Active,Carex rossii,Ross' sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,138277,39883,Active,Cyperus acuminatus,Taper-tip flat-sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,138281,39887,Active,Cyperus erythrorhizos,Redroot flat-sedge,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,139092,40019,Active,Eleocharis palustris,Common spikerush,Eleocharis macrostachya,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,139096,40022,Active,Eleocharis rostellata,Beaked spikerush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,140933,40240,Active,Scirpus acutus,Hardstem bulrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,291365,565758,Active,Scirpus americanus,American bulrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,240676,540478,Active,Scirpus pungens var. longispicatus,Three-square bulrush,Scirpus pungens,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Cyperaceae,140931,40239,Active,Scirpus validus,Soft-stem bulrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,143438,39222,Active,Juncus arcticus,Baltic rush,"Juncus balticus, Juncus arcticus var. balticus",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,Toad rush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,228555,536428,Active,Juncus ensifolius var. brunnescens,Tracy's rush,Juncus ensifolius,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,228560,536430,Active,Juncus ensifolius var. montanus,Mountain rush,Juncus saximontanus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,158272,503256,Active,Juncus longistylis,Long-style rush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,143520,39297,Active,Juncus nodosus,knotted rush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,143461,39243,Active,Juncus tenuis,Poverty rush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Juncaceae,144366,39320,Active,Juncus torreyi,Torrey's rush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,86312,182478,Active,Agropyron cristatum,Crested wheatgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,142869,40400,Active,Agrostis stolonifera,Redtop,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,142908,40436,Active,Alopecurus aequalis,shortawn foxtail,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,89967,185271,Active,Andropogon gerardii var. chrysocomus,Hall's bluestem,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,216906,530995,Active,Andropogon gerardii var. gerardii,Big bluestem,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,216921,531001,Active,Andropogon glomeratus var. scabriglumis,Bushy bluestem,Andropogon glomeratus,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,140372,41410,Active,Aristida arizonica,Arizona three-awn,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,140392,41429,Active,Aristida purpurea,Purple three-awn,"Aristida longiseta, Aristida fendleriana",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,102270,193424,Active,Avena fatua var. sativa,Oats,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,140983,41483,Active,Bothriochloa barbinodis,Cane bluestem,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,140988,41488,Active,Bothriochloa ischaemum,yellow bluestem,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,758835,-9797173,Inactive,Bothriochloa laguroides var. torreyana,Silver bluestem,Bothriochloa laguroides,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,140999,41498,Active,Bouteloua barbata,Sixweeks grama,Bouteloua barbata var. barbata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,141003,41500,Active,Bouteloua curtipendula,Sideoats grama,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,Blue grama,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,142976,40498,Active,Bromus diandrus,Ripgut brome,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,293799,566598,Active,Bromus inermis var. inermis,Smooth brome,Bromus inermis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,142955,40479,Active,Bromus japonicus,Japanese chess,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143544,40518,Active,Bromus rubens,Red brome,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,Cheatgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143597,40566,Active,Calamagrostis scopulorum,Jones' reedgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,Desert saltgrass,"Distichlis spicata var. stricta, Distichlis stricta",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,155230,502210,Active,Echinochloa crus-galli,Barnyard-grass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144547,40683,Active,Elymus canadensis,Canada wildrye,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144553,40689,Active,Elymus cinereus,Great Basin wildrye,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,178040,512819,Active,Elymus elongatus,Tall wheatgrass,Agropyron elongatum,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,156044,502264,Active,Elymus elymoides,Squirreltail,Sitanion hystrix,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,178053,512825,Active,Elymus hispidus,Intermediate wheatgrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,156050,502267,Active,Elymus lanceolatus,Thickspike wheatgrass,Agropyron riparium,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,178082,512839,Active,Elymus repens,quackgrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,178087,512841,Active,Elymus salinus,Salina wildrye,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,178093,512844,Active,Elymus smithii,Western wheatgrass,Agropyron smithii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,156082,502282,Active,Elymus trachycaulus,Slender wheatgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144545,40681,Active,Elymus virginicus,Virginia wildrye,Elymus virginicus var. submuticus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,142033,41709,Active,Enneapogon desvauxii,Spike pappusgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144590,40721,Active,Eragrostis hypnoides,teal lovegrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143273,41717,Active,Eremopyrum triticeum,annual wheatgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143289,41731,Active,Erioneuron pilosum,Hairy tridens,Tridens pilosus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143290,41732,Active,Erioneuron pulchellum,Fluffgrass,Tridens pulchellus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,145649,40810,Active,Festuca arundinacea,Tall fescue,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,182851,513551,Active,Festuca octoflora,Six-weeks fescue,Vulpia octoflora,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143329,41768,Active,Hilaria jamesii,Galleta,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146261,40871,Active,Hordeum jubatum,Foxtail barley,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146272,40881,Active,Hordeum murinum,Rabbit barley,Hordeum stebbinsii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,145710,40866,Active,Hordeum pusillum,Little barley,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,143393,41825,Active,Leptochloa fascicularis,Bearded sprangletop,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144144,41884,Active,Muhlenbergia andina,Foxtail muhly,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144160,41899,Active,Muhlenbergia asperifolia,Scratchgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144196,41930,Active,Muhlenbergia pauciflora,New Mexican muhly,Muhlenbergia arsenei,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144199,41933,Active,Muhlenbergia porteri,Bush muhly,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144200,41934,Active,Muhlenbergia pungens,Sandhill muhly,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,144211,41944,Active,Muhlenbergia thurberi,Thurber's muhly,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,159909,-502607,Inactive,Munroa squarrosa,False buffalograss,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,145078,41989,Active,Oryzopsis micrantha,Littleseed ricegrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,187758,518203,Active,Panicum acuminatum,Bundle panicgrass,Panicum tennesseense,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146309,40914,Active,Panicum capillare,Witchgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146345,40947,Active,Panicum obtusum,Vine mesquite,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146308,40913,Active,Panicum virgatum,Switchgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,147308,41062,Active,Phleum pratense,Timothy,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,147319,41072,Active,Phragmites australis,Common reed,Phragmites communis,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,148061,41112,Active,Poa bigelovii,Bigelow's bluegrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,148065,41116,Active,Poa bulbosa,Bulbous bluegrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,164251,504467,Active,Poa fendleriana,Muttongrass,Poa longiligula,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,Kentucky bluegrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,147354,41103,Active,Poa secunda,Sandberg's bluegrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,148126,41171,Active,Polypogon monspeliensis,Rabbitfoot-grass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,194333,519463,Active,Polypogon semiverticillatus,Water polypogon,Agrostis semiverticillatus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,148159,41200,Active,Puccinellia nuttalliana,Nuttall's alkaligrass,Puccinellia airoides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,145161,42063,Active,Schedonnardus paniculatus,Tumble grass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,145997,42076,Active,Schizachyrium scoparium,Little bluestem,"Schizachyrium scoparium var. neomexicanum, Andropogon scoparius",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146037,42111,Active,Sorghum halepense,Johnson-grass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,139287,41270,Active,Spartina gracilis,Alkali cordgrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,139289,41272,Active,Spartina pectinata,Prairie cordgrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,758818,-9797156,Inactive,Sporobolus airoides var. airoides,Alkali sacaton,Sporobolus airoides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146059,42131,Active,Sporobolus contractus,Spike dropseed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,Sand dropseed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146065,42137,Active,Sporobolus flexuosus,Mesa dropseed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146066,42138,Active,Sporobolus giganteus,Giant dropseed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146089,42159,Active,Stipa arida,Mormon needlegrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,217811,530571,Active,Stipa comata var. comata,Needle-and-thread,Stipa comata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,235526,541009,Active,Stipa coronata var. depauperata,Depauperate needlegrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,235529,541010,Active,Stipa coronata var. parishii,Crested needlegrass,Stipa coronata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,200469,522063,Active,Stipa hymenoides,Indian ricegrass,Oryzopsis hymenoides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,200473,522065,Active,Stipa lettermanii,Letterman's needlegrass,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146096,42165,Active,Stipa neomexicana,New Mexico feathergrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146679,42194,Active,Stipa speciosa,Desert needlegrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,160251,-502971,Active,Stipa X bloomeri,Bloomer's ricegrass,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Poaceae,146717,42228,Active,Tridens muticus,Slim tridens,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Typhaceae,147661,42327,Active,Typha domingensis,Southern cattail,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Poales,Typhaceae,147660,42326,Active,Typha latifolia,Broad-leaved cattail,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,75860,17358,Active,Asplenium resiliens,Ebony spleenwort,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81002,17308,Active,Adiantum capillus-veneris,Southern maidenhair fern,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81606,17441,Active,Cheilanthes feei,Slender lip-fern,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,231026,538463,Active,Pellaea glabella var. occidentalis,Western cliffbrake,Pellaea glabella,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Polypodiales,Pteridaceae,196811,518618,Active,Pellaea limitanea,Border cloak-fern,"Notholaena limitanea, Notholaena limitanea var. limitanea",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Berberidaceae,95977,18820,Active,Berberis fendleri,Fendler's barberry,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104803,195033,Active,Mahonia fremontii,Fremont's mahonia,Berberis fremontii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104816,195045,Active,Mahonia repens,Oregon-grape,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Papaveraceae,220345,532266,Active,Argemone corymbosa var. arenicola,San Rafael prickly-poppy,Argemone corymbosa ssp. arenicola,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Papaveraceae,758836,-9797174,Inactive,Argemone corymbosa var. parva,San Rafael prickly-poppy,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Papaveraceae,226011,533847,Active,Corydalis aurea var. occidentalis,Golden corydalis,Corydalis aurea,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97141,18743,Active,Aquilegia micrantha,Alcove columbine,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92343,18693,Active,Clematis columbiana,Columbian virgin's-bower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93504,18702,Active,Clematis ligusticifolia,White virgin's-bower,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,229290,534315,Active,Delphinium andersonii var. scaposum,Pale larkspur,Delphinium scaposum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92831,18483,Active,Delphinium nuttallianum,Nuttall's larkspur,Delphinium nelsonii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96869,18600,Active,Ranunculus cymbalaria,Marsh buttercup,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89751,18649,Active,Ranunculus testiculatus,Bur buttercup,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Cannabaceae,102979,19045,Active,Celtis reticulata,Netleaf hackberry,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130518,27770,Active,Elaeagnus angustifolia,Russian-olive,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130529,27780,Active,Shepherdia rotundifolia,Roundleaf buffaloberry,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Moraceae,103873,19066,Active,Morus alba,White mulberry,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rhamnaceae,220079,531448,Active,Ceanothus greggii var. franklinii,Franklin's desert-lilac,Ceanothus greggii,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rhamnaceae,124792,28563,Active,Rhamnus betulifolia,Birchleaf buckthorn,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,129597,25121,Active,Amelanchier utahensis,Utah serviceberry,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,129610,25133,Active,Cercocarpus intricatus,Dwarf mountain mahogany,Cercocarpus ledifolius var. intricatus,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,106614,195855,Active,Cercocarpus ledifolius var. intermontanus,Curl-leaf mountain mahogany,Cercocarpus ledifolius,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,129613,25136,Active,Cercocarpus montanus,Alder-leaf mountain mahogany,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,129629,25150,Active,Coleogyne ramosissima,Blackbrush,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,129647,25167,Active,Fallugia paradoxa,Apache plume,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,130595,25178,Active,Holodiscus dumosus,Bush oceanspray,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,837938,836773,Active,Petrophytum caespitosum,"mat rockspirea, rockspirea, tufted rockmat",Petrophyton caespitosum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,120334,25278,Active,Physocarpus alternans,Dwarf ninebark,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,127033,24733,Active,Potentilla paradoxa,Bushy cinquefoil,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,127045,24744,Active,Potentilla rivalis,Brook cinquefoil,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,127068,24765,Active,Prunus persica,Peach,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,216022,529894,Active,Prunus virginiana var. melanocarpa,Western chokecherry,Prunus virginiana,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,758855,-9797193,Inactive,Purshia mexicana var. stansburyana,Cliff-rose,"Cowania mexicana, Purshia mexicana",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,120348,25290,Active,Purshia tridentata,Antelope bitterbrush,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Rosaceae,127958,24847,Active,Rosa woodsii,Woods' rose,Rosa woodsii var. ultramontana,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Rosales,Ulmaceae,103773,19057,Active,Ulmus pumila,Siberian elm,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Salviniales,Marsileaceae,88697,17998,Active,Marsilea vestita,Pepperwort,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Santalales,Santalaceae,91861,184678,Active,Arceuthobium cyanocarpum,Limber pine dwarf-mistletoe,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Santalales,Santalaceae,131317,27891,Active,Arceuthobium divaricatum,Pinyon dwarf-mistletoe,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Santalales,Santalaceae,224984,533741,Active,Comandra umbellata var. pallida,Bastard toadflax,"Comandra pallida, Comandra umbellata",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Santalales,Santalaceae,131289,27866,Active,Phoradendron juniperinum,Juniper mistletoe,Phoradendron juniperinum ssp. juniperinum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,238554,539585,Active,Rhus aromatica var. simplicifolia,Squawbush,"Rhus aromatica, Rhus aromatica ssp. trilobata",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,238556,539586,Active,Rhus aromatica var. trilobata,Squawbush,Rhus trilobata,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126821,28822,Active,Toxicodendron rydbergii,Western poison ivy,"Toxicodendron radicans, Rhus radicans",Present
+CANY,Canyonlands National Park,Vascular Plant,6,Sapindales,Sapindaceae,126733,28743,Active,Acer glabrum var. glabrum,Rocky Mountain maple,Acer glabrum,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Sapindales,Sapindaceae,126752,28760,Active,Acer grandidentatum,Bigtooth maple,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Sapindales,Sapindaceae,126739,28749,Active,Acer negundo,Box elder,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,124448,24452,Active,Ribes aureum,Golden currant,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,Field bindweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Convolvulaceae,137117,30832,Active,Cressa truxillensis,spreading alkaliweed,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,134345,30507,Active,Chamaesaracha coronopus,False nightshade,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,134360,30520,Active,Datura stramonium,Jimson weed,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,134361,30521,Active,Datura wrightii,Angel's trumpet,Datura meteloides,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,134373,30532,Active,Lycium andersonii,Anderson's wolfberry,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,134386,30544,Active,Lycium pallidum,Pale wolfberry,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,134391,30549,Active,Lycium torreyi,Torrey's wolfberry,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,134413,30569,Active,Nicotiana trigonophylla,Desert tobacco,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,212684,529625,Active,Physalis hederifolia var. fendleri,Fendler's ground-cherry,Physalis fendleri,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,135117,30603,Active,Physalis longifolia,Long-leaf ground-cherry,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,135127,30612,Active,Physalis virginiana,Virginia groundcherry,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,132678,30437,Active,Solanum jamesii,James' potato,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,132697,30454,Active,Solanum rostratum,Buffalobur,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Solanales,Solanaceae,132705,30461,Active,Solanum triflorum,Cut-leaf nightshade,,Probably Present
+CANY,Canyonlands National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128399,29043,Active,Kallstroemia californica,Yellow kallstroemia,,Present
+CANY,Canyonlands National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128414,29057,Active,Tribulus terrestris,Puncture vine,,Present

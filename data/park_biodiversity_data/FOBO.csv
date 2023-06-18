@@ -1,0 +1,901 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+FOBO,Fort Bowie National Historic Site,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,mule deer,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,"white-tailed deer, White-tailed Deer",,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Artiodactyla,Tayassuidae,264631,552761,Active,Pecari tajacu,collared peccary,Pecari angulatus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,coyote,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,common gray fox,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,"mountain lion, puma","Puma concolor azteca, Felis concolor",Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Mephitidae,93306,180568,Active,Conepatus mesoleucus,white-backed hog-nosed skunk,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Mephitidae,93301,180563,Active,Mephitis macroura,hooded skunk,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,striped skunk,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Mephitidae,93309,180570,Active,Spilogale putorius,Western Spotted Skunk,Spilogale gracilis,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,"American Badger, Badger",,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Procyonidae,264247,552462,Active,Nasua narica,white-nosed coati,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,"common raccoon, Northern Raccoon, Raccoon",,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American black bear,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Phyllostomidae,89582,180062,Active,Choeronycteris mexicana,Mexican long-tongued bat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Phyllostomidae,106785,202347,Active,Leptonycteris yerbabuenae,"Sanborn's Long-nosed Bat, Lesser Long-nosed Bat","Leptonycteris sanborni, Leptonycteris curasoae yerbabuenae",Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,pallid bat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88711,179992,Active,Myotis auriculus,Southwestern Myotis,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,"California Myotis, Californian Myotis",,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88718,179999,Active,Myotis leibii,"Small-footed Myotis, western small-footed bat, Western Small-footed Myotis",Myotis ciliolabrum,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,"Little Brown Bat, Little Brown Myotis",Myotis occultus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,fringed myotis,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88725,180003,Active,Myotis velifer,cave myotis,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,western pipistrelle,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Lagomorpha,Leporidae,89640,180114,Active,Lepus alleni,antelope jack rabbit,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,"black-tailed jack rabbit, black-tailed jackrabbit",,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,"Audubon's Cottontail, Desert Cottontail",,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,91764,180368,Active,Baiomys taylori,Northern Pygmy Mouse,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,white-throated woodrat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,northern grasshoper mouse,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,91781,180383,Active,Onychomys torridus,southern grasshopper mouse,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,brush mouse,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,90754,180286,Active,Peromyscus eremicus,cactus mouse,Peromyscus eremicus eremicus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,white-footed mouse,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,deer mouse,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,91735,180341,Active,Reithrodontomys fulvescens,fulvous harvest mouse,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western harvest mouse,Reithrodontomys megalotis megalotis,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Cricetidae,91743,180349,Active,Sigmodon hispidus,hispid cotton rat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,"common porcupine, porcupine",,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's pocket gopher,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,260659,552520,Active,Chaetodipus baileyi,Bailey's pocket mouse,Perognathus baileyi,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,260580,552483,Active,Chaetodipus hispidus,hispid pocket mouse,Perognathus hispidus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,260582,552484,Active,Chaetodipus intermedius,rock pocket mouse,"Perognathus intermedius, Chaetodipus intermedius intermedius",Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,260586,552486,Active,Chaetodipus penicillatus,Sonoran desert pocket mouse,Perognathus penicillatus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,90705,180241,Active,Dipodomys merriami,Merriam's kangaroo rat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's kangaroo rat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,90710,180246,Active,Dipodomys spectabilis,banner-tailed kangaroo rat,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,90721,180256,Active,Perognathus amplus,Arizona pocket mouse,Perognathus amplus taylori,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Heteromyidae,90728,180262,Active,Perognathus flavus,silky pocket mouse,Perognathus flavus flavus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Sciuridae,90635,180179,Active,Ammospermophilus harrisii,Harris' antelope squirrel,,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Sciuridae,89691,180160,Active,Spermophilus tereticaudus,round-tailed ground squirrel,Citellus tereticaudus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,rock squirrel,Citellus variegatus,Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Rodentia,Sciuridae,90651,180193,Active,Tamias dorsalis,cliff chipmunk,"Neotamias dorsalis, Eutamias dorsalis",Present
+FOBO,Fort Bowie National Historic Site,Mammal,1,Soricomorpha,Soricidae,88690,179973,Active,Notiosorex crawfordi,"Crawford's Gray Shrew, Desert Shrew, gray shrew",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,79582,175368,Active,Buteo albonotatus,zone-tailed hawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,Buteo jamaicensis calurus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,"Roughleg, Rough-legged Buzzard, Rough-legged Hawk",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's hawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,80424,175402,Active,Buteogallus anthracinus,Common Black-Hawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Cathartidae,79476,175272,Active,Coragyps atratus,Black Vulture,Cathartes atratus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,"Osprey, Western Osprey",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Apodidae,83047,178002,Active,Chaetura vauxi,Vaux's Swift,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83882,178030,Active,Calothorax lucifer,Lucifer Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83888,178036,Active,Calypte anna,Anna's Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83887,178035,Active,Calypte costae,Costa's Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83929,178073,Active,Cynanthus latirostris,Broad-billed Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83904,178050,Active,Eugenes fulgens,Magnificent Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Caprimulgiformes,Caprimulgidae,83000,177961,Active,Caprimulgus vociferus,Whip-Poor-Will,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Caprimulgiformes,Caprimulgidae,83029,177988,Active,Chordeiles acutipennis,Lesser Nighthawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,Actitis macularia,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Columbiformes,Columbidae,82767,177152,Active,Columbina passerina,comm ground-dove,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Columbiformes,Columbidae,525775,676899,Active,Patagioenas fasciata,Band-tailed Pigeon,Columba fasciata,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Cuculiformes,Cuculidae,89107,177836,Active,Geococcyx californianus,greater roadrunner,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,peregrine falcon,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Galliformes,Odontophoridae,84296,175877,Active,Callipepla gambelii,Gambel's Quail,Lophortyx gambelii,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Galliformes,Odontophoridae,84291,175872,Active,Callipepla squamata,Scaled Quail,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Galliformes,Odontophoridae,84323,175900,Active,Cyrtonyx montezumae,Montezuma Quail,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,sandhill crane,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,Psaltriparus minimus plumbeus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,Eremophila alpestris adusta,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,94228,179124,Active,Cardinalis cardinalis,Northern Cardinal,Richmondena cardinalis superbus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,94237,179132,Active,Cardinalis sinuatus,Pyrrhuloxia,Pyrrhuloxia sinuatus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,blue grosbeak,Guiraca caerulea,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,94263,179156,Active,Passerina ciris,Painted Bunting,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,Pheucticus melanocephalus melanocephalus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Cardinalidae,88076,179888,Active,Piranga rubra,Summer Tanager,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Corvidae,266936,554128,Active,Aphelocoma californica,western scrub-jay,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Corvidae,87079,179707,Active,Aphelocoma ultramarina,"Gray-breasted Jay, Mexican jay",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Corvidae,87105,179730,Active,Corvus cryptoleucus,Chihuahuan raven,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,Spinus pinus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,Spinus psaltria,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Hirundo pyrrhonota,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,"Baltimore oriole, Bullock's oriole, northern oriole",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,93641,179070,Active,Icterus cucullatus,Hooded Oriole,Icterus cucullatus nelsoni,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,94219,179116,Active,Molothrus aeneus,Bronzed Cowbird,Tangavius aeneus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,94211,179109,Active,Quiscalus mexicanus,Great-tailed Grackle,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,93601,179034,Active,Sturnella magna,Eastern Meadowlark,Sturnella magna lilianae,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,Lanius ludovicianus sonoriensis,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Mimidae,89989,178636,Active,Toxostoma bendirei,Bendire's thrasher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Mimidae,90007,178652,Active,Toxostoma crissale,crissal thrasher,Toxostoma dorsale,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Mimidae,89990,178637,Active,Toxostoma curvirostre,curve-billed thrasher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,"American Pipit, Buff-bellied Pipit",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Paridae,472370,650445,Active,Baeolophus ridgwayi,juniper titmouse,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Paridae,266964,554141,Active,Baeolophus wollweberi,bridled titmouse,Parus wollweberi,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,"Dendroica auduboni auduboni, Dendroica coronata auduboni",Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,"American Yellow Warbler, Yellow Warbler",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,MacGillivray's Warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92621,178866,Active,Vermivora luciae,Lucy's Warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's warbler,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84731,179390,Active,Aimophila botterii,Botteri's Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84714,179375,Active,Aimophila carpalis,Rufous-winged Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84734,179393,Active,Aimophila cassinii,Cassin's Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84716,179377,Active,Aimophila ruficeps,Rufous-crowned Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,83867,179333,Active,Ammodramus savannarum,grasshopper sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,Amphispiza bilineata deserticola,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,"Junco oreganus oreganus, Junco hyemalis dorsalis, Junco hyemalis oreganus, Junco hyemalis mearnsi",Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,green-tailed Towhee,Chlorura chlorura,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,83822,179293,Active,Pipilo fuscus,Canyon Towhee,Pipilo fuscus mesoleucus,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,spotted towhee,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84795,179448,Active,Spizella atrogularis,Black-chinned Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,Zonotrichia leucophrys oriantha,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Polioptilidae,88042,179857,Active,Polioptila melanura,Black-tailed Gnatcatcher,Polioptila melanura lucida,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Ptilogonatidae,88064,179877,Active,Phainopepla nitens,Phainopepla,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Remizidae,90917,178759,Active,Auriparus flaviceps,Verdin,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Troglodytidae,88356,178587,Active,Campylorhynchus brunneicapillus,Cactus Wren,Campylorhynchus brunneicapillus couesi,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,Hylocichla guttata,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,Nuttallornis borealis,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85834,178348,Active,Empidonax difficilis,"Pacific-slope Flycatcher, Western Flycatcher",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,ash-throated flycatcher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85802,178319,Active,Myiarchus tuberculifer,Dusky-capped Flycatcher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85795,178312,Active,Myiarchus tyrannulus,Brown-crested Flycatcher,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's phoebe,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Vireonidae,266864,554456,Active,Vireo cassinii,Cassin's Vireo,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Vireonidae,93558,178997,Active,Vireo huttoni,Hutton's vireo,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,plumbeous vireo,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,Colaptes cafer,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,84858,178189,Active,Melanerpes formicivorus,Acorn Woodpecker,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis' Woodpecker,Asyndesmus lewis,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,84868,178198,Active,Melanerpes uropygialis,Gila Woodpecker,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,85737,178260,Active,Picoides scalaris,Ladder-backed Woodpecker,Dendrocopos scalaris,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Strigiformes,Strigidae,82935,177902,Active,Glaucidium gnoma,"Mountain Pygmy Owl, Northern Pygmy-Owl",,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,Western Screech-Owl,Otus kennicottii,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Strigiformes,Strigidae,82946,177912,Active,Micrathene whitneyi,Elf Owl,,Present
+FOBO,Fort Bowie National Historic Site,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,"Barn Owl, Common Barn-Owl, Western Barn Owl",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Anguidae,120640,209017,Active,Elgaria kingii,"Arizona Alligator Lizard, Madrean Alligator Lizard",Gerrhonotus kingii,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79769,174202,Active,Arizona elegans,Glossy Snake,,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79719,174158,Active,Diadophis punctatus,"Ringneck Snake, Ring-necked Snake",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79800,174230,Active,Gyalopion canum,"Chihuahuan Hook-nosed Snake, Western Hooknose Snake, Western Hook-nosed Snake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79046,174155,Active,Heterodon nasicus,"Plains Hognose Snake, Plains Hog-nosed Snake, Western Hognose Snake, Western Hog-nosed Snake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,"Night Snake, Nightsnake, Sinaloan Nightsnake",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,122635,209247,Active,Lampropeltis getula,Eastern Kingsnake,Lampropeltis getula getula,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79757,174192,Active,Lampropeltis pyromelana,"Arizona Mountain Kingsnake, Sonoran Mountain Kingsnake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79751,174187,Active,Lampropeltis triangulum,"Eastern Milk Snake, Eastern Milksnake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79807,174237,Active,Masticophis bilineatus,Sonoran Whipsnake,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79808,174238,Active,Masticophis flagellum,Coachwhip,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,"Eastern Pine Snake, Eastern Pinesnake, Pine Snake, Pinesnake",Pituophis melanoleucus,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79840,174267,Active,Rhinocheilus lecontei,"Longnose Snake, Long-nosed Snake, Western Long-nosed Snake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79842,174269,Active,Salvadora deserticola,"Western Patchnose Snake, Western Patch-nosed Snake",Salvadora hexalepis,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79844,174270,Active,Salvadora grahamiae,"Eastern Patch-nosed Snake, Mountain Patchnose Snake, Mountain Patch-nosed Snake",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,117303,209458,Active,Senticolis triaspis,"Green Rat Snake, Green Ratsnake",Elaphe triaspis,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79849,174275,Active,Sonora semiannulata,"Ground Snake, Groundsnake, Western Groundsnake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,80794,174282,Active,Tantilla hobartsmithi,"Smith's Black-headed Snake, Southwestern Blackhead Snake, Southwestern Black-headed Snake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,80795,174283,Active,Tantilla nigriceps,"Plains Blackhead Snake, Plains Black-headed Snake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,80801,174289,Active,Tantilla yaquia,"Yaqui Black-headed Snake, Yaquia Blackhead Snake",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,"Blackneck Garter Snake, Black-necked Garter Snake, Black-necked Gartersnake",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,79034,174144,Active,Thamnophis marcianus,"Checkered Garter Snake, Checkered Gartersnake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Colubridae,80804,174291,Active,Trimorphodon biscutatus,lyre snake,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Crotaphytidae,285336,564568,Active,Crotaphytus nebrius,"Collared Lizard, Eastern Collared Lizard, Sonoran Collared Lizard","Crotaphytus collaris, Crotaphytus collaris nebrius",Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,"Longnose Leopard Lizard, Long-nosed Leopard Lizard",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Elapidae,80872,174352,Active,Micruroides euryxanthus,"Sonoran Coralsnake, Western Coral Snake",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Eublepharidae,78920,174041,Active,Coleonyx variegatus,Western Banded Gecko,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Helodermatidae,79000,174113,Active,Heloderma suspectum,Gila Monster,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,77520,173868,Active,Sceloporus clarkii,Clark's spiny lizard,Sceloporus clarkii clarkii,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,77525,173872,Active,Sceloporus jarrovii,"Mountain Spiny Lizard, Yarrow's Spiny Lizard",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,77526,173873,Active,Sceloporus magister,Desert Spiny Lizard,,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,286231,564597,Active,Sceloporus slevini,"Slevin's Bunchgrass Lizard, Slevins's Bunch Grass Lizard",Sceloporus scalaris slevini,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,77517,173865,Active,Sceloporus undulatus,"Eastern Fence Lizard, Fence Lizard, Plateau Lizard, Prairie Lizard",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,77535,173881,Active,Sceloporus virgatus,Striped Plateau Lizard,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,Tree Lizard,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,"Common Side-blotched Lizard, Side-blotched Lizard",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Leptotyphlopidae,80854,174336,Active,Leptotyphlops dulcis,"Texas Slender Blind Snake, Texas Threadsnake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Leptotyphlopidae,80855,174337,Active,Leptotyphlops humilis,"Western Slender Blind Snake, Western Threadsnake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Phrynosomatidae,77563,173906,Active,Callisaurus draconoides,Zebra-tailed Lizard,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Phrynosomatidae,77568,173910,Active,Cophosaurus texanus,"Greater Earless Lizard, Texas Greater Earless Lizard",Holbrookia texana,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Phrynosomatidae,78390,173927,Active,Holbrookia maculata,"Common Earless Lizard, Common Lesser Earless Lizard, Lesser Earless Lizard",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Phrynosomatidae,78402,173938,Active,Phrynosoma cornutum,Texas Horned Lizard,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,"Short-horned Lizard, Pigmy Short-horned Lizard, Pygmy Short-horned Lizard, Short-horned Lizard","Phrynosoma douglassii, Phrynosoma douglasii",Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Phrynosomatidae,78407,173942,Active,Phrynosoma modestum,"Roundtail Horned Lizard, Round-tailed Horned Lizard",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Phrynosomatidae,78409,173944,Active,Phrynosoma solare,Regal Horned Lizard,,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Scincidae,78435,173968,Active,Eumeces obsoletus,Great Plains Skink,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Teiidae,78489,174015,Active,Cnemidophorus burti,Canyon Spotted Whiptail,,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Teiidae,78491,174017,Active,Cnemidophorus exsanguis,"Chichuhuan spotted whiptail, Chihuauan spotted whiptail",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Teiidae,78496,174021,Active,Cnemidophorus inornatus,Little Striped Whiptail,,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Teiidae,78500,174025,Active,Cnemidophorus sonorae,Sonoran Spotted Whiptail,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Teiidae,119618,208940,Active,Cnemidophorus tigris,Western Whiptail,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Teiidae,119625,208947,Active,Cnemidophorus uniparens,Desert Grassland Whiptail,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Viperidae,80826,174310,Active,Crotalus atrox,western diamondback rattlesnake,,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Viperidae,80828,174312,Active,Crotalus lepidus,Rock Rattlesnake,,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Viperidae,80830,174314,Active,Crotalus molossus,"Black-tailed Rattlesnake, Western Black-tailed Rattlesnake",,Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Viperidae,80831,174315,Active,Crotalus pricei,Twin-spotted Rattlesnake,,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Viperidae,80833,174317,Active,Crotalus scutulatus,"Green Rattlesnake, Mohave Rattlesnake, Mojave Rattlesnake",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Squamata,Viperidae,80819,174304,Active,Sistrurus catenatus,"Eastern Massasauga, Massasauga",,Probably Present
+FOBO,Fort Bowie National Historic Site,Reptile,3,Testudines,Emydidae,76884,173778,Active,Terrapene ornata,"Ornate Box Turtle, Western Box Turtle",,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Bufonidae,83322,173481,Active,Bufo alvarius,"Colorado River Toad, Sonoran Desert Toad",,Probably Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Bufonidae,83325,173484,Active,Bufo cognatus,great plains toad,,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Bufonidae,83326,173485,Active,Bufo debilis,green toad,,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Bufonidae,84003,173491,Active,Bufo punctatus,red-spotted toad,,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Bufonidae,83316,173476,Active,Bufo woodhousii,Woodhouse's Toad,,Probably Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Hylidae,74980,173510,Active,Hyla arenicolor,canyon treefrog,,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Ranidae,83285,173448,Active,Rana blairi,Plains Leopard Frog,,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Ranidae,83278,173441,Active,Rana catesbeiana,bullfrog,,Probably Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Scaphiopodidae,83264,173429,Active,Scaphiopus couchii,Couch's spadefoot,,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Scaphiopodidae,115593,206989,Active,Spea bombifrons,plains spadefoot,,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Anura,Scaphiopodidae,115598,206993,Active,Spea multiplicata,New Mexico spadefoot,Spea hammondii,Present
+FOBO,Fort Bowie National Historic Site,Amphibian,4,Caudata,Ambystomatidae,505986,668193,Active,Ambystoma mavortium,"Barred Tiger Salamander, Western Tiger Salamander",Ambystoma mavortia,Probably Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Apiales,Apiaceae,134792,29648,Active,Cymopterus multinervatus,purplenerve springparsley,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Apiales,Apiaceae,133414,29478,Active,Daucus pusillus,American wild carrot,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Apiales,Apiaceae,125486,29728,Active,Lomatium nevadense,Nevada biscuitroot,Lomatium nevadense var. parishii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Apiales,Apiaceae,126410,29837,Active,Pseudocymopterus montanus,alpine false springparsley,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Apiales,Apiaceae,126444,29868,Active,Spermolepis echinata,wild carrot,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Amaryllidaceae,150322,42707,Active,Allium acuminatum,"tapertip onion, taper-tip onion",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Amaryllidaceae,150294,42682,Active,Allium macropetalum,largeflower onion,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Amaryllidaceae,168054,505796,Active,Zephyranthes longifolia,copper zephyrlily,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,87872,182682,Active,Agave palmeri,Palmer's century plant,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,87873,182683,Active,Agave parryi,Parry's agave,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,141661,42914,Active,Dasylirion wheeleri,common sotol,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,152505,502046,Active,Dichelostemma capitatum,"bluedick, bluedicks","Dichelostemma pulchellum, Dichelostemma capitatum ssp. capitatum",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,155203,502198,Active,Echeandia flavescens,"amberlily, Torrey's craglily",Anthericum torreyi,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,141750,42995,Active,Nolina microcarpa,sacahuista,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,144221,43134,Active,Yucca baccata,banana yucca,Yucca baccata var. brevifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,144226,43139,Active,Yucca elata,soaptree yucca,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asparagales,Asparagaceae,860218,810184,Active,Yucca madrensis,,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,140163,36454,Active,Acourtia nana,dwarf desertpeony,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,140166,36457,Active,Acourtia wrightii,brownfoot,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,141437,36522,Active,Ambrosia confertiflora,weakleaf burr ragweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,772042,780178,Active,Ambrosia monogyra,"cheeseweed burrobrush, singlewhorl burrobrush, singlewhorl burrobush",Hymenoclea monogyra,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,133599,35462,Active,Artemisia dracunculus,wormwood,"Artemisia dracunculus ssp. dracunculus, Artemisia dracunculoides",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,133612,35474,Active,Artemisia ludoviciana,white sagebrush,Artemisia ludoviciana ssp. mexicana,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,134643,35684,Active,Baccharis bigelovii,Bigelow's false willow,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,134657,35697,Active,Baccharis pteronioides,yerba de pasmo,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,86066,183763,Active,Baccharis salicifolia,mule's fat,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,134659,35699,Active,Baccharis sarothroides,desertbroom,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,134662,35700,Active,Baccharis sergiloides,"desert baccharis, squaw waterweed baccharis",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,134664,35702,Active,Baccharis thesioides,"Arizona baccharis, Mogollon baccharis",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,134666,35704,Active,Baccharis wrightii,Wright's baccharis,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135831,36791,Active,Bahia absinthifolia,hairyseed bahia,Bahia absinthifolia var. dealbata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,772089,780225,Active,Bahiopsis parishii,Parish's goldeneye,Viguiera parishii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135839,36799,Active,Baileya multiradiata,desert marigold,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135842,36800,Active,Baileya pauciradiata,desert marigold,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135844,36802,Active,Baileya pleniradiata,"desertmarigold baileya, woolly desert marigold, woolly desert-marigold",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135877,36832,Active,Berlandiera lyrata,lyreleaf greeneyes,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,134692,35728,Active,Bidens leptocephala,fewflower beggarticks,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135911,36863,Active,Brickellia baccharidea,"baccharisleaf brickellbush, baccharis-leaf brickellia, resinleaf brickellbush",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136716,36866,Active,Brickellia californica,California brickellbush,Brickellia californica var. californica,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136726,36875,Active,Brickellia eupatorioides,false boneset,"Brickellia eupatorioides var. chlorolepis, Brickellia chlorolepis",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136752,36899,Active,Brickellia venosa,veiny brickellbush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136796,36938,Active,Carminatia tenuiflora,plumeweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136804,36945,Active,Carphochaete bigelovii,Bigelow's bristlehead,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,137261,36998,Active,Chaenactis stevioides,Steve's dustymaiden,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,151902,501376,Active,Chaetopappa ericoides,"rose heath, smallflower aster",Leucelene ericoides,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,140089,36388,Active,Cirsium neomexicanum,New Mexico thistle,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,140094,36392,Active,Cirsium ochrocentrum,yellowspine thistle,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,138585,37113,Active,Conyza canadensis,Canadian horseweed,Conyza canadensis var. canadensis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,175766,512282,Active,Dieteria canescens,"hoary aster, hoary goldenweed, hoary machaeranthera, hoary tansyaster, hoary tansy-aster, purple aster, hoary tansyaster, cutleaf goldenweed, cutleaf machaeranthera, hoary tansyaster","Machaeranthera canescens, Machaeranthera tephrodes, Machaeranthera canescens var. incana, Machaeranthera canescens ssp. canescens var. incana",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,139620,37326,Active,Ericameria laricifolia,turpentine bush,Haplopappus laricifolius,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,170657,507594,Active,Ericameria nauseosa,"rubber rabbitbrush, rubber rabbitbrush, gray rabbitbrush","Ericameria nauseosa var. nauseosa, Ericameria nauseosa var. latisquamea, Chrysothamnus nauseosus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136031,35852,Active,Erigeron divergens,"spreading daisy, spreading fleabane",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136892,35904,Active,Erigeron modestus,plains fleabane,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136904,35915,Active,Erigeron oreophilus,chaparral fleabane,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,772190,780326,Active,Erigeron tracyi,"running daisy, running fleabane","Erigeron colomexicanus, Erigeron divergens var. cinereus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,140490,37392,Active,Flourensia cernua,American tarwort,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,140511,37410,Active,Gaillardia pulchella,firewheel,Gaillardia pulchella var. pulchella,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,141121,37482,Active,Gutierrezia microcephala,threadleaf snakeweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,broom snakeweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,141130,37490,Active,Gymnosperma glutinosum,"gumhead, sticky selloa",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,772226,780362,Active,Hedosyne ambrosiifolia,"rag sumpweed, ragged marshelder, ragged marsh-elder",Iva ambrosiifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,142204,36616,Active,Helianthus annuus,common sunflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,133707,36671,Active,Helianthus petiolaris,"prairie sunflower, showy sunflower",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,142059,37603,Active,Heliomeris multiflora,"showy goldeneye, showy goldeneyes","Viguiera multiflora, Heliomeris multiflora var. multiflora",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,142112,37651,Active,Heterosperma pinnatum,wingpetal,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,142150,37686,Active,Heterotheca subaxillaris,"camphorweed, golden aster",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,156602,503121,Active,Hymenothrix wislizeni,TransPecos thimblehead,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,143073,37777,Active,Hymenothrix wrightii,Wright's thimblehead,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,170702,507615,Active,Hymenoxys ambigens,"Pinaleno hymenoxys, Pinaleno Mountain false rubber, Pinaleno Mountain rubberweed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,170708,507618,Active,Hymenoxys microcephala,"Apache Pass false rubbervine, Apache Pass rubberweed",Plummera floribunda,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,143102,37802,Active,Isocoma coronopifolia,"common goldenbush, goldenweed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,157344,503209,Active,Isocoma tenuisecta,burroweed,Haplopappus tenuisectus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,prickly lettuce,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,159207,503308,Active,Laennecia coulteri,"annual horsetail, conyza, Coulter's horseweed",Conyza coulteri,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,159264,503335,Active,Lasthenia californica,"California goldfields, goldfields",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,772275,780411,Active,Leuciva dealbata,"woolly marshelder, woolly marsh-elder",Iva dealbata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,144699,38012,Active,Machaeranthera tagetina,mesa tansyaster,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,144737,38047,Active,Malacothrix fendleri,Fendler's desertdandelion,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,159040,-502589,Active,Microseris gracilis,"pink microsteris, slender phlox, slender phlox","Phlox gracilis ssp. gracilis, Phlox gracilis",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,192587,518151,Active,Packera neomexicana,"New Mexico groundsel, New Mexico groundsel","Packera neomexicana var. neomexicana, Senecio neomexicanus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,290020,565372,Active,Packera quercetorum,Oak Creek ragwort,Senecio quercetorum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135444,38165,Active,Parthenium incanum,mariola,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135461,38180,Active,Pectis filipes,fivebract cinchweed,Pectis filipes var. subnuda,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135467,38186,Active,Pectis longipes,longstalk cinchweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,135469,38188,Active,Pectis prostrata,spreading cinchweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,171351,508108,Active,Pseudognaphalium canescens,"cudweed, everlasting, Wright's cudweed","Gnaphalium wrightii, Pseudognaphalium canescens ssp. canescens",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136409,38313,Active,Psilostrophe cooperi,whitestem paperflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136411,38315,Active,Psilostrophe sparsiflora,greenstem paperflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136412,38316,Active,Psilostrophe tagetina,woolly paperflower,Psilostrophe tagetina var. tagetina,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136429,38331,Active,Rafinesquia neomexicana,New Mexico plumseed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,136440,38341,Active,Ratibida columnifera,upright prairie coneflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,137654,38356,Active,Sanvitalia abertii,Albert's creeping zinnia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,167628,507161,Active,Schkuhria pinnata,"pinnate false threadleaf, Wislizenus' false threadleaf, Wright's false threadleaf",Schkuhria wislizenii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,162117,505126,Active,Senecio flaccidus,"green groundsel, Mono groundsel, Mono ragwort, Douglas' groundsel, Douglas' ragwort, Douglas' senecio, threadleaf groundsel, threadleaf ragwort","Senecio douglasii, Senecio flaccidus var. monoensis, Senecio douglasii var. longilobus, Senecio flaccidus var. douglasii, Senecio monoensis, Senecio douglasii var. monoensis, Senecio flaccidus var. flaccidus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,138531,36184,Active,Senecio spartioides,"broom-like ragwort, many-head ragwort, ragwort groundsel","Senecio multicapitatus, Senecio spartioides var. multicapitatus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,163985,505290,Active,Solidago velutina,"sparse goldenrod, threenerve goldenrod, three-nerve goldenrod",Solidago sparsiflora,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,137733,38427,Active,Sonchus oleraceus,common sowthistle,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,137760,38451,Active,Stephanomeria pauciflora,wirelettuce,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,138062,38485,Active,Tagetes micrantha,licorice marigold,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,138106,38524,Active,Thelesperma longipes,longstalk greenthread,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,138107,38525,Active,Thelesperma megapotamicum,Hopi tea greenthread,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,161329,505493,Active,Thymophylla acerosa,"prickleaf dogweed, pricklyleaf dogweed, Texas dogweed",Dyssodia acerosa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,161337,505497,Active,Thymophylla pentachaeta,"common dogweed, fiveneedle pricklyleaf","Thymophylla pentachaeta var. pentachaeta, Dyssodia pentachaeta",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,138168,38580,Active,Trixis californica,American threefold,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,288377,565589,Active,Uropappus lindleyi,Lindley's silverpuffs,"Microseris lindleyi, Microseris linearifolia",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,139123,38601,Active,Verbesina encelioides,golden crownbeard,Verbesina encelioides ssp. exauriculata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,139135,38612,Active,Verbesina rothrockii,Rothrock's crownbeard,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,139180,38653,Active,Viguiera deltoidea,golden-eye,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,139181,38654,Active,Viguiera dentata,toothleaf goldeneye,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,772410,780546,Active,Xanthisma gracile,slender goldenweed,Machaeranthera gracilis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,772414,780550,Active,Xanthisma spinulosum,"Goodding's aster, Goodding's tansyaster, cutleaf goldenweed, lacy tansyaster, lacy tansy-aster, pinnate machaeranthera, spiny goldenweed, lacy tansyaster, cutleaf ironplant, ironplant, lacy tansyaster","Machaeranthera pinnatifida ssp. gooddingii, Machaeranthera pinnatifida, Machaeranthera pinnatifida var. pinnatifida, Haplopappus spinulosus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,139910,38712,Active,Zinnia acerosa,desert zinnia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Asteraceae,139913,38715,Active,Zinnia grandiflora,Rocky Mountain zinnia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Campanulaceae,136285,34589,Active,Nemacladus glanduliferus,"glandular threadplant, threadplant",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Asterales,Campanulaceae,136984,34615,Active,Triodanis perfoliata,clasping Venus' looking-glass,Triodanis perfoliata var. perfoliata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,131010,31709,Active,Amsinckia intermedia,"coast fiddleneck, common fiddleneck, fiddleneck",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,131013,31711,Active,Amsinckia menziesii,"coast buckthorn, coast fiddleneck, common fiddleneck, intermediate fiddleneck",Amsinckia menziesii var. intermedia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,131112,31800,Active,Cryptantha crassisepala,thicksepal cryptantha,Cryptantha crassisepala var. elachantha,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,132084,31836,Active,Cryptantha micrantha,redroot cryptantha,Cryptantha micrantha var. micrantha,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,132106,31856,Active,Cryptantha pterocarya,"winged pick-me-not, wingnut catseye, wingnut cryptantha",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,159251,503329,Active,Lappula occidentalis,"desert stickseed, flat-spine sheepburr, flatspine stickseed, western stickseed, flat-spine sheepburr, flatspine stickseed","Lappula occidentalis var. occidentalis, Lappula redowskii var. texana, Lappula occidentalis var. cupulata, Lappula redowskii var. redowskii, Lappula redowskii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,132741,31947,Active,Lithospermum cobrense,smooththroat stoneseed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,132734,31940,Active,Lithospermum incisum,"fringed gromwell, fringed puccoon, narrowleaf gromwell, narrowleaf pucoon, narrowleaf stoneseed, trumpet stoneseed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,838684,835388,Active,Nama hispida,"bristly nama, purple mat",Nama hispidum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,132770,31973,Active,Pectocarya platycarpa,"broadfruit combseed, broadnut combseed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,132772,31975,Active,Pectocarya recurvata,curvenut combseed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Boraginaceae,132778,31980,Active,Plagiobothrys arizonicus,Arizona popcornflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Ehretiaceae,161376,505515,Active,Tiquilia canescens,woody crinklemat,Tiquilia canescens var. canescens,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Hydrophyllaceae,128573,31436,Active,Phacelia arizonica,Arizona phacelia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Hydrophyllaceae,129815,31473,Active,Phacelia congesta,"blue curls, caterpillars, spike phacelia",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Hydrophyllaceae,129820,31478,Active,Phacelia crenulata,wild heliotrope,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Boraginales,Hydrophyllaceae,130211,31589,Active,Phacelia rupestris,"rock phacelia, rock scorpionweed, rock scorpion-weed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,171854,509594,Active,Boechera perennans,perennial rockcress,Arabis perennans,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,122340,22826,Active,Descurainia pinnata,western tansymustard,Descurainia pinnata ssp. glabra,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,herb sophia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,122393,22874,Active,Draba cuneifolia,wedgeleaf draba,Draba cuneifolia var. cuneifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,122440,22916,Active,Draba standleyi,"Standley's draba, Standley's whitlowgrass",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,181659,514669,Active,Hesperidanthus linearifolius,"slimleaf plains mustard, slimleaf plainsmustard",Schoenocrambe linearifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,123297,22967,Active,Lepidium lasiocarpum,shaggyfruit pepperweed,Lepidium lasiocarpum var. lasiocarpum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,123313,22981,Active,Lepidium thurberi,Thurber's pepperweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,123284,22955,Active,Lepidium virginicum,Virginia pepperweed,Lepidium virginicum var. medium,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,125092,23263,Active,Pennellia longifolia,longleaf mock thelypody,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,849039,823239,Active,Physaria fendleri,"Fendler bladderpod, Fendler's bladderpod",Lesquerella fendleri,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,849040,823240,Active,Physaria gordonii,"Gordon's bladderpod, Gordon's bladderpod","Lesquerella gordonii var. gordonii, Lesquerella gordonii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,848970,823170,Active,Physaria tenella,Moapa bladderpod,Lesquerella tenella,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,125952,23314,Active,Sisymbrium irio,London rocket,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,199038,521579,Active,Sisymbrium linearifolium,"flaxleaf plainsmustard, rush mustard",Schoenocrambe linifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,125973,23333,Active,Streptanthella longirostris,longbeak streptanthella,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,125988,23347,Active,Streptanthus carinatus,twistflower,Streptanthus carinatus ssp. arizonicus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Brassicaceae,127132,23416,Active,Thelypodium wrightii,Wright's thelypody,Thelypodium wrightii ssp. wrightii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Brassicales,Cleomaceae,120539,22652,Active,Polanisia dodecandra,redwhisker clammyweed,Polanisia dodecandra ssp. trachysperma,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Aizoaceae,108595,19940,Active,Trianthema portulacastrum,desert horsepurslane,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,118907,20732,Active,Amaranthus fimbriatus,"fringed amaranth, fringed pigweed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,120068,20740,Active,Amaranthus palmeri,carelessweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,111538,20518,Active,Atriplex canescens,fourwing saltbush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,113368,20526,Active,Atriplex elegans,wheelscale saltbush,Atriplex elegans var. elegans,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,118252,20604,Active,Chenopodium desiccatum,aridland goosefoot,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,118285,20607,Active,Chenopodium fremontii,Fremont's goosefoot,Chenopodium fremontii var. fremontii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,118652,20616,Active,Chenopodium leptophyllum,"narrowleaf goosefoot, narrowleaf lambsquarters, narrowleaved goosefoot, slimleaf goosefoot, slimleaf lambsquarters",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,119925,20622,Active,Chenopodium murale,"nettleleaf goosefoot, nettle-leaf goosefoot",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,153807,501485,Active,Chenopodium pratericola,desert goosefoot,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,120905,20638,Active,Chenopodium watsonii,Watson's goosefoot,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,113037,20796,Active,Froelichia arizonica,Arizona snakecotton,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,113652,20803,Active,Gomphrena caespitosa,tufted globe amaranth,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,113696,20807,Active,Gomphrena nitida,"ball clover, pearly globe amaranth",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,114299,20813,Active,Guilleminea densa,cottonflower,"Brayulinea densa, Guilleminea densa var. densa",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,158344,503290,Active,Krascheninnikovia lanata,winterfat,"Eurotia lanata, Ceratoides lanata",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,111892,20655,Active,Salsola kali,"prickly Russian thistle, Russian thistle, tumbleweed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,"prickly Russian thistle, Russian thistle, tumbleweed, tumbling thistle",Salsola iberica,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,901135,907719,Active,Cylindropuntia kleiniae,"candle cholla, Klein pencil cholla",Opuntia kleiniae,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,903051,907718,Active,Cylindropuntia leptocaulis,"Christmas cactus, tesajo cactus",Opuntia leptocaulis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,899527,907644,Active,Cylindropuntia spinosior,"cane cholla, walkingstick cactus",Opuntia spinosior,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,897072,907851,Active,Cylindropuntia X tetracantha,Tucson pricklypear,Opuntia X tetracantha,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,155213,502202,Active,Echinocereus coccineus,"Bisbee cactus, scarlet hedgehog cactus",Echinocereus coccineus var. coccineus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,105374,19808,Active,Echinocereus fasciculatus,,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,105385,19809,Active,Echinocereus fendleri,Fendler needle hedgehog,"Echinocereus fendleri var. ledingii, Echinocereus fendleri var. rectispinus, Echinocereus fendleri var. fasciculatus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,105397,19810,Active,Echinocereus ledingii,,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,105419,19812,Active,Echinocereus pectinatus,rainbow cactus,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,155225,502208,Active,Echinocereus rigidissimus,rainbow hedgehog cactus,Echinocereus pectinatus var. rigidissimus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,105452,19815,Active,Echinocereus triglochidiatus,"Mohave hedgehog cactus, Mojave kingcup cactus",Echinocereus triglochidiatus var. mojavensis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,157103,502456,Active,Escobaria vivipara,"Bisbee spinystar, pink pincushion cactus, spinystar, spinystar cactus","Coryphantha vivipara var. bisbeeana, Coryphantha vivipara, Escobaria vivipara var. bisbeeana, Escobaria vivipara var. vivipara",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,159052,502595,Active,Ferocactus wislizeni,candy barrelcactus,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,110574,19780,Active,Mammillaria grahamii,"fishhook pincushion, Graham's nipple cactus, Graham's nipple cactus, olive pincushion cactus","Mammillaria grahamii var. grahamii, Mammillaria grahamii var. oliviae, Mammillaria microcarpa",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,110585,19781,Active,Mammillaria heyderi,little nipple cactus,Mammillaria heyderi var. macdougalii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,103940,19697,Active,Opuntia chlorotica,dollarjoint pricklypear,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,101373,195316,Active,Opuntia engelmannii,"cactus apple, desert pricklypear, Engelmann's pricklypear","Opuntia phaeacantha var. discata, Opuntia engelmannii var. engelmannii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,101385,195327,Active,Opuntia macrocentra,"longspine pricklypear, purple pricklypear, redjoint pricklypear","Opuntia violacea, Opuntia violacea var. violacea, Opuntia macrocentra var. macrocentra",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,101389,195330,Active,Opuntia martiniana,"coastal pricklypear, seashore cactus",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,105964,19724,Active,Opuntia phaeacantha,tulip pricklypear,Opuntia phaeacantha var. major,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,101393,195334,Active,Opuntia santa-rita,Santa Rita pricklypear,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,905507,908231,Active,Opuntia X curvispina,,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Cactaceae,159523,504196,Active,Peniocereus greggii,Gregg's nightblooming cereus,"Peniocereus greggii var. greggii, Cereus greggii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Caryophyllaceae,117118,20045,Active,Silene antirrhina,"catchfly, sleepy campion, sleepy catchfly, sleepy silene",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Caryophyllaceae,105573,20076,Active,Silene laciniata,"cardinal catchfly, Mexican campion, Mexican catchfly, Mexican pink",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Montiaceae,816759,847592,Active,Phemeranthus aurantiacus,orange fameflower,Talinum aurantiacum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Montiaceae,816767,847600,Active,Phemeranthus parviflorus,"prairie flameflower, sunbright, sunbright talinum",Talinum parviflorum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,106564,19581,Active,Allionia incarnata,trailing windmills,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,152922,501005,Active,Boerhavia coccinea,scarlet spiderling,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102303,19669,Active,Boerhavia coulteri,Coulter's spiderling,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102315,19670,Active,Boerhavia diffusa,Boerhavia coccinea,Boerhavia diffusa var. diffusa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102326,19671,Active,Boerhavia erecta,erect spiderling,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102348,19673,Active,Boerhavia intermedia,fivewing spiderling,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102392,19677,Active,Boerhavia purpurascens,purple spiderling,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102403,19678,Active,Boerhavia spicata,creeping spiderling,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102414,19679,Active,Boerhavia triquetra,slender spiderling,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,110143,19626,Active,Mirabilis albida,"mountain four-o'clock, white four o'clock, white four-o'clock",Mirabilis oblongifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,110165,19628,Active,Mirabilis bigelovii,wishbone-bush,Mirabilis bigelovii var. bigelovii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,110221,19633,Active,Mirabilis coccinea,"red four-o'clock, scarlet four o'clock, scarlet four-o'clock",Oxybaphus coccineus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,171381,508122,Active,Mirabilis comata,hairy-tuft four o'clock,Oxybaphus comatus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,188165,517252,Active,Mirabilis laevis,desert wishbone-bush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100394,19651,Active,Mirabilis linearis,narrowleaf four o'clock,Oxybaphus linearis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100405,19652,Active,Mirabilis longiflora,sweet four o'clock,Mirabilis longiflora var. wrightiana,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100427,19654,Active,Mirabilis multiflora,Colorado four o'clock,Mirabilis multiflora var. multiflora,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Nyctaginaceae,101160,19661,Active,Mirabilis pumila,four o'clock,Oxybaphus pumilus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,119218,21055,Active,Eriogonum abertianum,Abert's buckwheat,Eriogonum abertianum var. abertianum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,119817,21111,Active,Eriogonum deflexum,flatcrown buckwheat,Eriogonum deflexum var. deflexum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,119878,21167,Active,Eriogonum jamesii,James' buckwheat,Eriogonum jamesii var. undulatum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,120743,21223,Active,Eriogonum polycladon,sorrel buckwheat,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,120804,21279,Active,Eriogonum wrightii,bastardsage,Eriogonum wrightii var. wrightii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,182231,513511,Active,Fallopia convolvulus,"black bindweed, wild buckwheat, black bindweed, black-bindweed, climbing buckwheat, climbing knotweed, cornbind, dullseed cornbind, pink smartweed, wild buckwheat","Polygonum convolvulus var. convolvulus, Polygonum convolvulus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,curly dock,Rumex crispus ssp. crispus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Polygonaceae,118421,20962,Active,Rumex hymenosepalus,canaigre dock,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Portulacaceae,113912,20431,Active,Portulaca halimoides,"silkcotton purslane, silk-cotton purslane, sinkerleaf purslane",Portulaca parvula,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,"akulikuli-kula, common purslane, duckweed, garden purslane, little hogweed, little-hogweed, purslane, pursley, wild portulaca",Portulaca retusa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Portulacaceae,113208,20428,Active,Portulaca suffrutescens,shrubby purslane,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Caryophyllales,Portulacaceae,113889,20429,Active,Portulaca umbraticola,"wingpod purslane, wing-pod purslane",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Commelinales,Commelinaceae,142374,39130,Active,Commelina dianthifolia,birdbill dayflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Commelinales,Commelinaceae,169753,506772,Active,Commelina tuberosa,commelina,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cornales,Hydrangeaceae,123515,24331,Active,Fendlera rupicola,cliff fendlerbush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cornales,Loasaceae,107731,19842,Active,Cevallia sinuata,stinging serpent,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cornales,Loasaceae,159653,503757,Active,Mentzelia albicaulis,small-flowered blazingstar,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cornales,Loasaceae,159718,503788,Active,Mentzelia multiflora,Adonis blazingstar,Mentzelia multiflora var. integra,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cornales,Loasaceae,160298,503800,Active,Mentzelia pumila,"dwarf blazingstar, dwarf mentzelia, golden blazingstar",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118457,22344,Active,Apodanthera undulata,melon loco,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118482,22367,Active,Cucurbita digitata,fingerleaf gourd,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118483,22368,Active,Cucurbita foetidissima,Missouri gourd,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Cucurbitales,Cucurbitaceae,118510,22392,Active,Marah gilensis,Gila manroot,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ephedrales,Ephedraceae,94064,183498,Active,Ephedra trifurca,mormon tea,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Ericaceae,127244,23517,Active,Arctostaphylos pringlei,"pinkbract manzanita, pinkbracted manzanita, Pringle's manzanita",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Ericaceae,127246,23519,Active,Arctostaphylos pungens,pointleaf manzanita,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Fouquieriaceae,159988,502645,Active,Fouquieria splendens,ocotillo,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,138935,31033,Active,Allophyllum gilioides,dense false gilyflower,"Gilia gilioides, Allophyllum gilioides ssp. gilioides",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,138963,31059,Active,Eriastrum diffusum,miniature woollystar,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,139866,31154,Active,Gilia mexicana,"annual gilia, El Paso gilia",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,139878,31165,Active,Gilia ophthalmoides,eyed gilia,Opomopsis ophthalmoides,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,139792,31088,Active,Gilia sinuata,rosy gilia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,126978,31198,Active,Ipomopsis longiflora,flaxflowered ipomopsis,Ipomopsis longiflora ssp. longiflora,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,157297,503187,Active,Ipomopsis multiflora,manyflowered ipomopsis,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,829285,845282,Active,Leptosiphon aureus,"desert gold, golden deserttrumpets, golden desert-trumpets, golden linanthus",Linanthus aureus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,137207,30913,Active,Phlox austromontana,mountain phlox,Phlox austromontana ssp. austromontana,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,138860,30966,Active,Phlox nana,phlox,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Polemoniaceae,138889,30992,Active,Phlox triovulata,"threeseed phlox, three-seed phlox",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Primulaceae,121076,23942,Active,Androsace occidentalis,"western rockjasmine, western rock-jasmine",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ericales,Sapotaceae,162866,505219,Active,Sideroxylon lanuginosum,"gum bully, gum bumelia","Bumelia lanuginosa ssp. rigida, Sideroxylon lanuginosum ssp. rigidum, Bumelia lanuginosa",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,128274,26418,Active,Acacia angustissima,prairie acacia,"Acacia angustissima var. suffrutescens, Acacia angustissima",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,850335,820054,Active,Acmispon greenei,"Greene birdfoot trefoil, Greene's birdsfoot trefoil, Greene's bird's-foot trefoil",Lotus greenei,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,852514,820049,Active,Acmispon humistratus,"foothill deervetch, maresfat","Lotus humistratus, Hoffmannseggia huministratus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,850338,820057,Active,Acmispon oroboides,"common birdsfoot trefoil, longbrack trefoil, long-bract bird's-foot-trefoil, New Mexico birdsfoot trefoil, New Mexico bird's-foot trefoil","Lotus oroboides, Lotus plebeius",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,852448,819983,Active,Acmispon rigidus,shrubby deervetch,Lotus rigidus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,850336,820055,Active,Acmispon wrightii,"Wright deervetch, Wright's deervetch",Lotus wrightii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,120434,25368,Active,Amorpha fruticosa,desert false indigo,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,121417,25408,Active,Astragalus allochrous,halfmoon milkvetch,"Astragalus wootonii, Astragalus allochrous var. playanus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,121434,25423,Active,Astragalus arizonicus,Arizona milkvetch,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,121462,25449,Active,Astragalus calycosus,Torrey's milkvetch,Astragalus calycosus var. calycosus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,122170,25604,Active,Astragalus nothoxys,sheep milkvetch,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,122173,25607,Active,Astragalus nuttallianus,smallflowered milkvetch,Astragalus nuttallianus var. austrinus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,123075,25699,Active,Astragalus tephrodes,ashen milkvetch,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,123080,25702,Active,Astragalus thurberi,Thurber's milkvetch,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,91827,184647,Active,Caesalpinia drepanocarpa,sicklepod holdback,Hoffmannseggia drepanocarpa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,154720,501126,Active,Calliandra eriophylla,fairyduster,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,154724,501128,Active,Calliandra humilis,dwarf stickpea,"Calliandra humilis var. humilis, Calliandra humilis var. reticulata",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,155673,501179,Active,Canavalia ensiformis,"wonderbean, wonder-bean",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,151927,501388,Active,Chamaecrista nictitans,"partridge pea, partridge-pea, sensitive partridge pea, sensitive plant",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129250,26575,Active,Crotalaria pumila,low rattlebox,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129942,26598,Active,Dalea albiflora,whiteflower prairie clover,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129949,26603,Active,Dalea candida,"white dalea, white prairie clover, white prairieclover, white prairie-clover",Dalea candida var. oligophylla,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129963,26616,Active,Dalea formosa,featherplume,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129971,26623,Active,Dalea lachnostachys,"glandleaf prairie clover, glandleaf prairieclover, gland-leaf prairie-clover",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129981,26632,Active,Dalea nana,indigo-bush,"Dalea nana var. carnescens, Dalea nana var. nana",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129987,26638,Active,Dalea pogonathera,bearded prairie clover,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,129990,26640,Active,Dalea pringlei,"Pringle's dalea, Pringle's prairie clover",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,130003,26652,Active,Dalea versicolor,oakwoods prairie clover,"Dalea versicolor var. sessilis, Dalea wislizeni var. sessilis, Dalea versicolor ssp. versicolor var. sessilis",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,130005,26654,Active,Dalea wrightii,Wright's prairie clover,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,130010,26659,Active,Desmanthus cooleyi,Cooley's bundleflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,130018,26666,Active,Desmanthus virgatus,wild tantan,Desmanthus virgatus var. depressus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,123865,25811,Active,Desmodium neomexicanum,"New Mexico tickclover, New Mexico ticktrefoil",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,123871,25817,Active,Desmodium procumbens,western trailing ticktrefoil,Desmodium procumbens var. exiguum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,130030,26677,Active,Erythrina flabelliformis,coralbean,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,121860,26704,Active,Galactia wrightii,Wright's milkpea,Galactia wrightii var. mollissima,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,161244,503048,Active,Hoffmannseggia glauca,Indian rushpea,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,162958,503576,Active,Lupinus brevicaulis,shortstem lupine,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,125532,25989,Active,Lupinus concinnus,scarlet lupine,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,126482,26121,Active,Lupinus sparsiflorus,Mojave lupine,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,157768,503646,Active,Macroptilium gibbosifolium,"variableleaf bushbean, wild bushbean",Phaseolus heterophyllus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,122741,26775,Active,Marina calycosa,San Pedro false prairie-clover,Dalea calycosa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,166745,507071,Active,Mimosa aculeaticarpa,"catclaw mimosa, mimosa, wait-a-bit","Mimosa biuncifera, Mimosa aculeaticarpa var. biuncifera",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,122814,26840,Active,Phaseolus acutifolius,tepary bean,Phaseolus acutifolius var. tenuifolius,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,123657,26879,Active,Prosopis glandulosa,honey mesquite,Prosopis glandulosa var. torreyana,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,123662,26883,Active,Prosopis velutina,velvet mesquite,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,161942,504771,Active,Rhynchosia senna,Texas snoutbean,"Rhynchosia senna var. angustifolia, Rhynchosia senna var. texana",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,126564,26196,Active,Robinia neomexicana,New Mexico locust,Robinia neomexicana var. neomexicana,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,95678,183631,Active,Senegalia greggii,"catclaw, catclaw acacia, devilsclaw, Gregg's catclaw, Texas catclaw",Acacia greggii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,162159,505146,Active,Senna bauhinioides,twinleaf senna,Cassia bauhinioides,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,162165,505149,Active,Senna covesii,"Coues' cassia, Coves' cassia, desert senna",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,852403,819938,Active,Vachellia constricta,"mescat acacia, white twinthorn acacia, whitethorn acacia",Acacia constricta,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,128196,26348,Active,Vicia ludoviciana,"Louisiana vetch, slim vetch","Vicia ludoviciana ssp. ludoviciana, Vicia exigua",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Fabaceae,128202,26353,Active,Vicia pulchella,sweetclover vetch,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Polygalaceae,131514,29325,Active,Polygala barbeyana,blue milkwort,"Polygala racemosa, Polygala longa, Polygala barbeyana ssp. barbeyana",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fabales,Polygalaceae,132474,29349,Active,Polygala macradenia,glandleaf milkwort,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,98918,19292,Active,Quercus arizonica,Arizona white oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,101575,19328,Active,Quercus emoryi,Emory oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,103386,19347,Active,Quercus grisea,gray oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,104294,19357,Active,Quercus hypoleucoides,silverleaf oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,105657,195082,Active,Quercus palmeri,"Dunn's oak, Palmer oak","Quercus chrysolepis var. palmeri, Quercus dunnii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,97532,19399,Active,Quercus pungens,pungent oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,97655,19410,Active,Quercus rugosa,netleaf oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,100083,19437,Active,Quercus toumeyi,Toumey oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Fagaceae,100115,19440,Active,Quercus turbinella,Sonoran scrub oak,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Fagales,Juglandaceae,96073,19252,Active,Juglans major,Arizona walnut,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Garryales,Garryaceae,130583,27829,Active,Garrya flavescens,"ashy silktassel, yellowleaf silktassel",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Garryales,Garryaceae,131259,27839,Active,Garrya wrightii,Wright's silktassel,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,131800,30247,Active,Asclepias asperula,spider milkweed,"Asclepias asperula ssp. capricornu, Asclepias asperula ssp. asperula",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,131818,30263,Active,Asclepias engelmanniana,Engelmann's milkweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,131841,30284,Active,Asclepias macrotis,longhood milkweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,131845,30288,Active,Asclepias nyctaginifolia,Mojave milkweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,178671,513717,Active,Funastrum crispum,wavyleaf twinevine,Sarcostemma crispum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,178673,513718,Active,Funastrum cynanchoides,"Hartweg's twinevine, Hartweg's twinevine, fringed twinevine","Sarcostemma cynanchoides ssp. hartwegii, Funastrum cynanchoides ssp. heterophyllum, Funastrum cynanchoides ssp. cynanchoides",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,783560,893819,Active,Mandevilla brachysiphon,Huachuca Mountain rocktrumpet,Macrosiphonia brachysiphon,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Apocynaceae,132612,30378,Active,Matelea producta,Texas milkvine,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Rubiaceae,138821,34953,Active,Bouvardia ternifolia,firecrackerbush,Bouvardia glaberrima,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Rubiaceae,175823,512309,Active,Diodella teres,"poor joe, poorjoe, poor joe, poorjoe, rough buttonweed","Diodia teres var. angustata, Diodia teres",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Rubiaceae,138772,34909,Active,Galium proliferum,limestone bedstraw,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Rubiaceae,138792,34927,Active,Galium stellatum,starry bedstraw,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Rubiaceae,138807,34940,Active,Galium wrightii,Wright's bedstraw,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Gentianales,Rubiaceae,139731,35054,Active,Houstonia rubra,red bluet,Hedyotis rubra,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,redstem stork's bill,Erodium cicutarium ssp. jacquinianum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Geraniales,Geraniaceae,130124,29153,Active,Erodium texanum,Texas stork's bill,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Acanthaceae,85129,182374,Active,Anisacanthus thurberi,Thurber's desert honeysuckle,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Acanthaceae,151299,501291,Active,Carlowrightia arizonica,Arizona wrightwort,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Bignoniaceae,134519,34318,Active,Chilopsis linearis,desert willow,"Chilopsis linearis ssp. linearis, Chilopsis linearis ssp. arcuata",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,135626,32512,Active,Hedeoma drummondii,Drummond's false pennyroyal,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,159112,502891,Active,Hedeoma hyssopifolia,"aromatic false pennyroyal, falsepennyroyal, mock pennyroyal",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,159116,502893,Active,Hedeoma nana,dwarf false pennyroyal,"Hedeoma nana ssp. nana, Hedeoma nanum",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,159118,502894,Active,Hedeoma oblongifolia,"false pennyroyal, falsepennyroyal, oblongleaf false pennyroyal",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,136456,32539,Active,Lamium amplexicaule,henbit deadnettle,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,horehound,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,128631,32707,Active,Salvia columbariae,chia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,128642,32717,Active,Salvia henryi,crimson sage,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,128644,32719,Active,Salvia lemmonii,Lemmon's sage,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,128674,32746,Active,Salvia subincisa,sawtooth sage,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,134891,32333,Active,Stachys coccinea,"betony, scarlet hedgenettle",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,133973,32218,Active,Tetraclea coulteri,Coulter's wrinklefruit,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Lamiaceae,134924,32363,Active,Trichostema arizonicum,Arizona bluecurls,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Martyniaceae,159811,504615,Active,Proboscidea parviflora,doubleclaw,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Oleaceae,129687,32936,Active,Fraxinus velutina,velvet ash,Fraxinus pennsylvanica ssp. velutina,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Oleaceae,129741,32985,Active,Menodora scabra,rough menodora,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,130402,33098,Active,Castilleja austromontana,Rincon Mountain Indian paintbrush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,132289,33131,Active,Castilleja integra,wholeleaf Indian paintbrush,Castilleja integra var. gloriosa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,130367,33066,Active,Castilleja lanata,Sierra woolly Indian paintbrush,Castilleja lanata ssp. lanata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,135038,33167,Active,Castilleja sessiliflora,downy paintedcup,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,135082,33174,Active,Castilleja tenuiflora,"Catalina Indian paintbrush, Santa Catalina Indian paintbrush",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,134483,34286,Active,Orobanche cooperi,desert broomrape,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,134489,34291,Active,Orobanche ludoviciana,"Louisiana broomrape, Louisiana broom-rape",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Orobanchaceae,158631,504166,Active,Pedicularis procera,giant lousewort,Pedicularis grayi,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Phrymaceae,135686,33236,Active,Mimulus guttatus,seep monkeyflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Phrymaceae,135724,33270,Active,Mimulus rubellus,little redstem monkeyflower,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,161635,503474,Active,Linaria dalmatica,"Dalmatian toadflax, Dalmation toadflax, Dalmatian toadflax","Linaria dalmatica ssp. dalmatica, Linaria genistifolia ssp. dalmatica",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,135665,33217,Active,Linaria genistifolia,toadflax,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,158861,503709,Active,Maurandella antirrhiniflora,"climbing snapdragon, roving sailor",Maurandya antirrhiniflora,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,131581,33825,Active,Penstemon barbatus,beardlip penstemon,Penstemon barbatus ssp. torreyi,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,132372,33937,Active,Penstemon linarioides,toadflax penstemon,Penstemon linarioides ssp. linarioides,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,159572,504219,Active,Penstemon ramosus,lanceleaf beardtongue,Penstemon lanceolatus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,129388,32907,Active,Plantago patagonica,woolly plantain,"Plantago patagonica var. gnaphalioides, Plantago purshii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Plantaginaceae,136694,33421,Active,Veronica peregrina,"hairy purslane speedwell, neckweed","Veronica peregrina ssp. xalapensis, Penstemon peregrina",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Scrophulariaceae,136664,33395,Active,Verbascum virgatum,wand mullein,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Verbenaceae,133079,32134,Active,Aloysia wrightii,wright lippia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Verbenaceae,157507,502783,Active,Glandularia bipinnatifida,Dakota mock vervain,"Verbena ambrosiifolia, Verbena ciliata, Glandularia bipinnatifida var. bipinnatifida, Verbena bipinnatifida",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Verbenaceae,157517,502788,Active,Glandularia gooddingii,"desert vervain, Goodding's verbena, southwestern mock vervain",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Verbenaceae,158089,502798,Active,Glandularia wrightii,"Davis Mountain mock vervain, Wright's verbena",Verbena wrightii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Lamiales,Verbenaceae,133012,32074,Active,Verbena gracilis,Fort Huachuca vervain,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Liliales,Liliaceae,140638,42833,Active,Calochortus ambiguus,doubting mariposa lily,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132982,28188,Active,Acalypha neomexicana,New Mexico copperleaf,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,123551,28285,Active,Croton pottsii,leatherweed,"Croton corymbulosus, Croton pottsii var. pottsii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132014,28038,Active,Euphorbia albomarginata,"rattlesnake weed, whitemargin euphorbia, whitemargin sandmat, whitemargin spurge",Chamaesyce albomarginata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132024,28047,Active,Euphorbia bilobata,"blackseed spurge, black-seed spurge",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132046,28067,Active,Euphorbia exstipulata,"Clark Mountain spurge, squareseed spurge, square-seed spurge",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132861,28079,Active,Euphorbia heterophylla,"Mexican fireplant, painted euphorbia",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132867,28084,Active,Euphorbia hyssopifolia,"hyssop spurge, hyssopleaf sandmat, leafy spurge",Chamaesyce hyssopifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132917,28129,Active,Euphorbia revoluta,"threadstem sandmat, thread-stem sandmat, threadstem spurge",Chamaesyce revoluta,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132923,28134,Active,Euphorbia serpyllifolia,"thymeleaf sandmat, thyme-leaf sandmat, thymeleaf spurge, thymeleaf sandmat, thyme-leaf sandmat","Chamaesyce serpyllifolia ssp. serpyllifolia, Chamaesyce serpyllifolia, Euphorbia neomexicana",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132924,28135,Active,Euphorbia serrula,"sawtooth sandmat, saw-tooth sandmat",Chamaesyce serrula,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,132928,28139,Active,Euphorbia stictospora,"slimseed sandmat, slim-seed sandmat, slimseed spurge",Chamaesyce stictospora,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,162574,505557,Active,Tragia nepetifolia,catnip noseburn,Tragia nepetifolia var. dissecta,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Euphorbiaceae,124247,28433,Active,Tragia ramosa,"branched noseburn, branched tragia, catnip noseburn, noseburn",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Linaceae,131391,29214,Active,Linum lewisii,prairie flax,Linum lewisii var. lewisii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Linaceae,131396,29219,Active,Linum puberulum,plains flax,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Linaceae,131404,29226,Active,Linum usitatissimum,common flax,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Malpighiaceae,816751,847572,Active,Cottsia gracilis,slender janusia,Janusia gracilis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Salicaceae,119656,22459,Active,Populus fremontii,Fremont cottonwood,Populus fremontii ssp. fremontii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Salicaceae,119711,22508,Active,Salix bonplandiana,"Bonpland's willow, red willow",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Salicaceae,119734,22529,Active,Salix exigua,narrowleaf willow,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Salicaceae,119745,22539,Active,Salix gooddingii,Goodding's willow,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malpighiales,Violaceae,125909,22027,Active,Hybanthus verticillatus,babyslippers,Hybanthus verticillatus var. verticillatus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,123243,21669,Active,Abutilon parvulum,dwarf Indian mallow,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,123132,21569,Active,Ayenia filiformis,Trans-Pecos ayenia,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,158134,502819,Active,Gossypium thurberi,"Thurber's cotton, wild cotton",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,124904,21845,Active,Malvella lepidota,scurfymallow,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,161948,504774,Active,Rhynchosida physocalyx,"beaked sida, buffpetal",Sida physocalyx,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,162843,505208,Active,Sida abutifolia,"procumbent sida, prostrate sida, spreading fanpetals","Sida procumbens, Sida filicaulis",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,125815,21942,Active,Sphaeralcea hastulata,"spear globemallow, spreading globemallow",Sphaeralcea subhastata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,125819,21946,Active,Sphaeralcea laxa,caliche globemallow,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Malvales,Malvaceae,125842,21967,Active,Sphaeralcea wrightii,Wright's globemallow,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,128726,27479,Active,Camissonia californica,California suncup,Oenothera leptocarpa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,128754,27503,Active,Camissonia contorta,sun-drops,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,126653,27289,Active,Epilobium canum,hummingbird trumpet,"Epilobium canum ssp. latifolium, Zauschneria californica var. latifolia",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,126658,27293,Active,Epilobium ciliatum,"coast willowweed, fringed willowherb",Epilobium ciliatum ssp. ciliatum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,127815,27378,Active,Oenothera brachycarpa,shortfruit evening-primrose,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,289377,565328,Active,Oenothera caespitosa,"tufted evening primrose, tufted evening-primrose",Oenothera caespitosa ssp. caespitosa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,127834,27395,Active,Oenothera elata,"Hooker's evening primrose, Hooker's eveningprimrose, Hooker's evening-primrose, Hooker's evening primrose, Hooker's evening-primrose","Oenothera elata ssp. hirsutissima, Oenothera elata ssp. hookeri",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,188831,517700,Active,Oenothera hartwegii,"Hartweg's sundrops, hairy calylophus, Hartweg's sundrops","Calylophus hartwegii, Calylophus hartwegii ssp. pubescens",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,839213,835992,Active,Oenothera hexandra,"Harlequin bush, harlequinbush, harlequinbush, Harlequin-bush, slender gaura","Gaura hexandra ssp. gracilis, Gaura hexandra",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,127880,27436,Active,Oenothera pallida,pale evening-primrose,Oenothera pallida ssp. runcinata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Myrtales,Onagraceae,127852,27410,Active,Oenothera primiveris,desert evening-primrose,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Cupressaceae,103517,194839,Active,Juniperus coahuilensis,redberry juniper,Juniperus erythrocarpa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Cupressaceae,103512,194834,Active,Juniperus deppeana,alligator juniper,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Cupressaceae,103533,194853,Active,Juniperus monosperma,oneseed juniper,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Cupressaceae,103539,194859,Active,Juniperus osteosperma,Utah juniper,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Pinaceae,93067,183321,Active,Pinus cembroides,"Mexican nut pine, Mexican pinyon, nut pine, stone pine",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Pinaceae,93081,183334,Active,Pinus discolor,mexican pinyon pine,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Pinaceae,93083,183336,Active,Pinus edulis,twoneedle pinyon,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Pinales,Pinaceae,93102,183353,Active,Pinus monophylla,singleleaf pinyon,Pinus monophylla var. fallax,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Piperales,Aristolochiaceae,94000,18344,Active,Aristolochia watsonii,Watson's dutchman's pipe,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Cyperaceae,138282,39888,Active,Cyperus esculentus,chufa flatsedge,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Cyperaceae,156194,501939,Active,Cyperus sphaerolepis,"Rusby's flat sedge, Rusby's flatsedge",Cyperus fendlerianus var. debilis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Cyperaceae,156197,501940,Active,Cyperus squarrosus,"awned flat sedge, bearded flatsedge, bearded nutgrass",Cyperus aristatus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,toad rush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Juncaceae,143486,39266,Active,Juncus drummondii,Drummond's rush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Juncaceae,144356,39311,Active,Juncus saximontanus,Rocky Mountain rush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Juncaceae,143461,39243,Active,Juncus tenuis,poverty rush,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,168689,507941,Active,Achnatherum eminens,southwestern needlegrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140362,41401,Active,Aristida adscensionis,sixweeks threeawn,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140389,41426,Active,Aristida pansa,"Wooton threeawn, Wooton's threeawn",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140392,41429,Active,Aristida purpurea,purple threeawn,"Aristida longiseta, Aristida purpurea var. purpurea, Aristida glauca, Aristida purpurea var. longiseta, Aristida purpurea var. nealleyi",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,170424,509109,Active,Aristida schiedeana,single threeawn,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140399,41435,Active,Aristida ternipes,spidergrass,"Aristida hamulosa, Aristida ternipes var. gentilis, Aristida ternipes var. ternipes",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140424,41458,Active,Avena fatua,"flaxgrass, oatgrass, wheat oats, wild oat, wild oats",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140983,41483,Active,Bothriochloa barbinodis,cane bluestem,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140989,41489,Active,Bothriochloa saccharoides,silver beardgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140998,41497,Active,Bouteloua aristidoides,needle grama,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140999,41498,Active,Bouteloua barbata,sixweeks grama,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,141000,41499,Active,Bouteloua chondrosioides,sprucetop grama,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,141003,41500,Active,Bouteloua curtipendula,sideoats grama,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,141004,41501,Active,Bouteloua eriopoda,black grama,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,blue grama,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,141005,41502,Active,Bouteloua hirsuta,hairy grama,Bouteloua hirsuta var. hirsuta,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,141009,41506,Active,Bouteloua repens,slender grama,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,142958,40481,Active,Bromus carinatus,"California brome, mountain brome",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143544,40518,Active,Bromus rubens,"foxtail brome, red brome",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,cheatgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,285608,565054,Active,Cenchrus spinifex,"coast sandspur, field sandbur, sandbur, southern sandbur, spiny burrgrass",Cenchrus incertus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,141066,41558,Active,Chloris virgata,feather fingergrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,Bermudagrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,177219,512087,Active,Dasyochloa pulchella,low woollygrass,Erioneuron pulchellum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143655,40618,Active,Digitaria californica,Arizona cottontop,Trichachne californica,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,153370,502059,Active,Digitaria cognata,Carolina crabgrass,"Leptoloma cognatum, Digitaria cognata var. cognata",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143640,40604,Active,Digitaria sanguinalis,hairy crabgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144533,40670,Active,Echinochloa colona,jungle rice,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,155230,502210,Active,Echinochloa crus-galli,barnyardgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,156044,502264,Active,Elymus elymoides,"bottlebrush squirreltail, squirreltail","Sitanion hystrix, Elymus elymoides ssp. elymoides",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,142033,41709,Active,Enneapogon desvauxii,"feather pappusgrass, nineawn pappusgrass, spike pappusgrass",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144587,40719,Active,Eragrostis cilianensis,stinkgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,156905,502340,Active,Eragrostis curvula,weeping lovegrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144616,40745,Active,Eragrostis intermedia,plains lovegrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,287383,565171,Active,Eragrostis lehmanniana,"Lehmann lovegrass, Lehmann's lovegrass",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144592,40723,Active,Eragrostis pectinacea,spreading lovegrass,"Eragrostis pectinacea var. pectinacea, Eragrostis tephrosanthos, Eragrostis pectinacea var. miserrima",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,156998,502406,Active,Eriochloa acuminata,"taper-tip cup grass, tapertip cupgrass",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143277,41720,Active,Eriochloa lemmonii,canyon cupgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,287395,565177,Active,Erioneuron avenaceum,shortleaf woollygrass,"Erioneuron grandiflorum, Tridens grandiflorus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,169445,507976,Active,Hesperostipa neomexicana,"New Mexico feathergrass, New Mexico needlegrass",Stipa neomexicana,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143324,41763,Active,Heteropogon contortus,tanglehead,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143327,41766,Active,Hilaria belangeri,curly-mesquite,Hilaria belangeri var. belangeri,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143330,41769,Active,Hilaria mutica,"tobosa, tobosagrass",Pleuraphis mutica,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,870745,783536,Active,Hopia obtusa,"vine mesquite, vine-mesquite",Panicum obtusum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146272,40881,Active,Hordeum murinum,"lepor barley, leporinum barley, hare barley, leporinum barley, wild barley","Hordeum murinum ssp. leporinum, Hordeum leporinum",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,158331,503284,Active,Koeleria macrantha,"junegrass, prairie Junegrass","Koeleria pyramidata, Koeleria cristata",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,143390,41822,Active,Leptochloa dubia,green sprangletop,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,871034,783825,Active,Muhlenbergia alopecuroides,bristly wolfstail,Lycurus setosus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144156,41895,Active,Muhlenbergia arenacea,ear muhly,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144157,41896,Active,Muhlenbergia arenicola,sand muhly,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144147,41887,Active,Muhlenbergia emersleyi,bullgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144178,41914,Active,Muhlenbergia fragilis,"annual muhly, delicate muhly",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,873859,796785,Active,Muhlenbergia phleoides,"common wolfstail, wolftail",Lycurus phleoides,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144199,41933,Active,Muhlenbergia porteri,bush muhly,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,144202,41936,Active,Muhlenbergia repens,creeping muhly,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,161443,503883,Active,Muhlenbergia rigens,"deer muhly, deergrass",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146309,40914,Active,Panicum capillare,witchgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146333,40936,Active,Panicum hallii,"Hall panicum, Hall's panic, Hall's panicgrass",Panicum hallii var. hallii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146336,40939,Active,Panicum hirticaule,"Mexican panicgrass, roughstalk witchgrass, woodland panic",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,148055,41107,Active,Poa annua,annual bluegrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,148061,41112,Active,Poa bigelovii,"Bigelow bluegrass, Bigelow's bluegrass",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,158646,504522,Active,Polypogon viridis,"beardless rabbitsfoot grass, beardless rabbit'sfootgrass, water bentgrass",Agrostis semiverticillata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,160157,505052,Active,Schizachyrium cirratum,Texas bluestem,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146006,42084,Active,Scleropogon brevifolius,burrograss,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,139261,41247,Active,Setaria grisebachii,Grisebach's bristlegrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,139263,41249,Active,Setaria leucopila,"bristlegrass, Plains bristlegrass, streambed bristlegrass, yellow bristlegrass, yellow foxtail",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,197345,521416,Active,Setaria macrostachya,,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,139277,41261,Active,Setaria vulpiseta,plains bristlegrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146037,42111,Active,Sorghum halepense,"aleppo milletgrass, herbe de Cuba, Johnson grass, Johnsongrass, sorgho d'Alep, sorgo de alepo, zacate Johnson",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,881204,784962,Active,Sphenopholis interrupta,,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146055,42128,Active,Sporobolus airoides,"alkali sacaton, alkali-sacaton",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146059,42131,Active,Sporobolus contractus,spike dropseed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,sand dropseed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,164799,505348,Active,Sporobolus wrightii,big sacaton,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,288342,565572,Active,Trachypogon spicatus,spiked crinkleawn,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146704,42216,Active,Tragus berteronianus,spiked burr grass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146717,42228,Active,Tridens muticus,slim tridens,Tridens muticus var. muticus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,288367,565584,Active,Urochloa arizonica,Arizona signalgrass,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,146757,42264,Active,Vulpia octoflora,sixweeks fescue,Vulpia octoflora var. octoflora,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Poales,Poaceae,869439,785200,Active,Zuloagaea bulbosa,"bulb panic, bulb panicgrass",Panicum bulbosum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Dryopteridaceae,160679,504285,Active,Phanerophlebia auriculata,eared veinfern,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,152874,500968,Active,Argyrochosma limitanea,"southwestern false cloak fern, southwestern false cloakfern, southwestern falsecloak fern","Notholaena limitanea, Argyrochosma limitanea ssp. limitanea",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,152889,500981,Active,Astrolepis sinuata,wavy scaly cloakfern,"Astrolepis sinuata ssp. sinuata, Notholaena sinuata",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,79810,17424,Active,Bommeria hispida,hairy bommeria,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,81595,17440,Active,Cheilanthes eatonii,Eaton's lipfern,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,81717,17451,Active,Cheilanthes lindheimeri,fairyswords,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,82463,17458,Active,Cheilanthes wootonii,beaded lipfern,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,82474,17459,Active,Cheilanthes wrightii,Wright's lipfern,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,87332,17633,Active,Notholaena standleyi,star cloak fern,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,159517,504193,Active,Pellaea truncata,spiny cliffbrake,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Pteridaceae,77645,17652,Active,Pellaea wrightiana,Wright's cliffbrake,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Woodsiaceae,166862,505753,Active,Woodsia cochisensis,Cochise cliff fern,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Polypodiales,Woodsiaceae,85347,17743,Active,Woodsia mexicana,rock fern,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Proteales,Platanaceae,101015,19023,Active,Platanus wrightii,Arizona sycamore,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Papaveraceae,102661,18922,Active,Argemone pleiacantha,southwestern pricklypoppy,"Argemone pleiacantha ssp. pleiacantha, Argemone pleiacantha ssp. pinnatisecta",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Papaveraceae,99305,18999,Active,Corydalis aurea,scrambled eggs,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Papaveraceae,99351,19003,Active,Corydalis curvisiliqua,curvepod fumewort,Corydalis curvisiliqua ssp. occidentalis,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Papaveraceae,95643,18956,Active,Eschscholzia californica,California poppy,"Eschscholzia mexicana, Eschscholzia californica ssp. mexicana",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Ranunculaceae,90472,18450,Active,Anemone tuberosa,tuber anemone,Anemone tuberosa var. tuberosa,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Ranunculaceae,93425,18695,Active,Clematis drummondii,Drummond's clematis,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Ranunculaceae,91643,18547,Active,Delphinium carolinianum,"Carolina larkspur, plains larkspur, prairie larkspur, Carolina larkspur, plains larkspur, white larkspur","Delphinium virescens, Delphinium carolinianum ssp. virescens",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Ranunculales,Ranunculaceae,157129,501985,Active,Delphinium wootonii,Organ Mountain larkspur,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Cannabaceae,102968,19044,Active,Celtis pallida,"desert hackberry, granjeno, spiny hackberry",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Cannabaceae,102979,19045,Active,Celtis reticulata,"netleaf hackberry, sugar hackberry, sugarberry","Celtis laevigata var. reticulata, Celtis laevigata",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Moraceae,104431,19068,Active,Morus microphylla,Texas mulberry,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rhamnaceae,124284,28467,Active,Ceanothus fendleri,Fendler's ceanothus,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rhamnaceae,124291,28473,Active,Ceanothus greggii,desert ceanothus,Ceanothus greggii var. vestitus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rhamnaceae,124760,28534,Active,Condalia spathulata,"knifeleaf condalia, knifeleaf snakewood, squawbush",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rhamnaceae,124762,28536,Active,Condalia warnockii,Warnock's snakewood,Condalia warnockii var. kearneyana,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rhamnaceae,124794,28565,Active,Rhamnus californica,California buckthorn,"Frangula californica ssp. californica, Frangula californica ssp. ursina, Frangula californica",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rhamnaceae,124828,28596,Active,Ziziphus obtusifolia,lotebush,"Ziziphus obtusifolia var. obtusifolia, Ziziphus obtusifolia var. canescens, Condalia lycioides",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rosaceae,129613,25136,Active,Cercocarpus montanus,alderleaf mountain mahogany,"Cercocarpus montanus var. glaber, Cercocarpus montanus var. paucidentatus, Cercocarpus montanus var. argenteus",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rosaceae,129647,25167,Active,Fallugia paradoxa,Apache plume,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Rosales,Rosaceae,106662,195899,Active,Purshia mexicana,Mexican cliffrose,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Santalales,Santalaceae,155905,501614,Active,Comandra umbellata,bastard toadflax,"Comandra pallida, Comandra umbellata ssp. pallida",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Santalales,Santalaceae,131279,27857,Active,Phoradendron bolleanum,fir mistletoe,Phoradendron pauciflorum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Santalales,Santalaceae,131285,27862,Active,Phoradendron californicum,mesquite mistletoe,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Santalales,Santalaceae,131286,27863,Active,Phoradendron capitellatum,downy mistletoe,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Santalales,Santalaceae,886333,895615,Active,Phoradendron serotinum ssp. tomentosum,"Cory's mistletoe, Pacific mistletoe","Phoradendron coryae, Phoradendron villosum ssp. coryae",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Anacardiaceae,126772,28779,Active,Rhus aromatica,fragrant sumac,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Anacardiaceae,126782,28788,Active,Rhus microphylla,littleleaf sumac,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Anacardiaceae,126786,28791,Active,Rhus trilobata,skunkbush sumac,Rhus trilobata var. pilosissima,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Anacardiaceae,161912,504757,Active,Rhus virens,evergreen sumac,"Rhus virens ssp. choriophylla, Rhus virens var. choriophylla",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Anacardiaceae,126820,28821,Active,Toxicodendron radicans,eastern poison ivy,"Toxicodendron radicans ssp. divaricatum, Rhus radicans, Toxicodendron radicans ssp. radicans",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Anacardiaceae,126821,28822,Active,Toxicodendron rydbergii,"poison ivy, western poison ivy",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Rutaceae,128342,28992,Active,Ptelea trifoliata,common hoptree,Ptelea trifoliata ssp. angustifolia,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Rutaceae,128357,29005,Active,Thamnosma texana,rue of the mountains,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Sapindales,Sapindaceae,125743,28696,Active,Sapindus saponaria,western soapberry,"Sapindus drummondii, Sapindus saponaria var. drummondii",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Saxifragales,Crassulaceae,122469,24110,Active,Sedum cockerellii,Cockerell's stonecrop,Sedum griffithsii,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Saxifragales,Saxifragaceae,124361,24374,Active,Heuchera sanguinea,coralbells,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,field bindweed,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,135244,30706,Active,Convolvulus equitans,"gray bindweed, Texas bindweed",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,159006,502573,Active,Evolvulus nuttallianus,"prostrate evolvulus, shaggy dwarf morningglory, shaggy dwarf morning-glory, silver wild morningglory",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,137135,30849,Active,Evolvulus sericeus,silver dwarf morning-glory,Evolvulus sericeus var. sericeus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,136106,30763,Active,Ipomoea barbatisepala,canyon morning-glory,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,136114,30770,Active,Ipomoea coccinea,scarlet morning-glory,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,136116,30772,Active,Ipomoea cristulata,"Trans-Pecos morningglory, Trans-Pecos morning-glory",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,157276,503177,Active,Ipomoea hederacea,"entireleaf morningglory, ivyleaf morningglory, ivyleaf morning-glory, Mexican morningglory",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,136118,30774,Active,Ipomoea hederifolia,"scarlet creeper, scarletcreeper",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,136134,30789,Active,Ipomoea purpurea,tall morning-glory,Ipomoea hirsutula,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Convolvulaceae,136144,30798,Active,Ipomoea tenuiloba,spiderleaf,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,134345,30507,Active,Chamaesaracha coronopus,greenleaf five eyes,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,134350,30511,Active,Chamaesaracha sordida,hairy five eyes,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,156268,501974,Active,Datura inoxia,sacred datura,Datura meteloides,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,134361,30521,Active,Datura wrightii,"sacred datura, sacred thornapple, sacred thorn-apple",Datura meteloides,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,134383,30541,Active,Lycium fremontii,Fremont's desert-thorn,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,134386,30544,Active,Lycium pallidum,pale desert-thorn,Lycium pallidum var. pallidum,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,170566,508057,Active,Nicotiana obtusifolia,"desert tobacco, Indian tobacco","Nicotiana trigonophylla, Nicotiana obtusifolia var. obtusifolia",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,134434,30588,Active,Physalis acutifolia,sharpleaf groundcherry,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,135114,30600,Active,Physalis hederifolia,ivyleaf groundcherry,"Physalis hederifolia var. fendleri, Physalis hederifolia var. cordifolia",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,135117,30603,Active,Physalis longifolia,"longleaf groundcherry, long-leaf ground-cherry, groundcherry, smooth groundcherry, Sonora groundcherry","Physalis longifolia var. longifolia, Physalis virginiana var. sonorae",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,850321,822285,Active,Physalis solanaceus,"netted globecherry, netted globe-cherry",Margaranthus solanaceus,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,287266,565523,Active,Solanum americanum,American black nightshade,"Solanum americanum, Solanum nodiflorum",Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Solanales,Solanaceae,132669,30429,Active,Solanum elaeagnifolium,silverleaf nightshade,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Vitales,Vitaceae,124847,28612,Active,Vitis arizonica,canyon grape,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Zygophyllales,Krameriaceae,158339,503288,Active,Krameria erecta,"littleleaf ratany, range ratany",,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Zygophyllales,Krameriaceae,121915,26754,Active,Krameria lanceolata,trailing krameria,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128400,29044,Active,Kallstroemia grandiflora,Arizona poppy,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128403,29047,Active,Kallstroemia parviflora,warty caltrop,,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128408,29051,Active,Larrea tridentata,creosote bush,Larrea tridentata var. tridentata,Present
+FOBO,Fort Bowie National Historic Site,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128414,29057,Active,Tribulus terrestris,puncturevine,,Present

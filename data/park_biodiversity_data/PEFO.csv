@@ -1,0 +1,772 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+PEFO,Petrified Forest National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,"pronghorn, Pronghorn",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,"elk, Red Deer (see comments), wapiti, wapiti or elk",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,"mule deer, Mule Deer",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,"Common Gray Fox, Gray Fox",,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,Kit Fox,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,Felis concolor,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,"Alleghanian Spotted Skunk, Eastern Spotted Skunk, spotted skunk",Spilogale putorius,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,"American Badger, Badger",,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,"American Black Bear, black bear",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's big-eared bat,Plecotus townsendii,Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,"Black Bat, Silver-black Bat, Silver-haired Bat",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,"California Myotis, Californian Myotis",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,"Eastern Small-footed Bat, Eastern Small-footed Myotis, Small-footed Myotis",Myotis leibii,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,"Black-tailed Jack Rabbit, Black-tailed Jackrabbit, California Jackrabbit, Gray-sided Jackrabbit, Great Plains Jackrabbit, Jackass-hare, Narrow-gauge Mule, Texan Hare, Texas Jack",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,"Audubon's Cottontail, Desert Cottontail",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,White-throated Woodrat,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,"Brush Deermouse, Brush Mouse",,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,"Canyon Deermouse, Canyon Mouse",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,"White-footed Deermouse, White-footed Mouse",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,"Deer Mouse, North American Deermouse",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,"Piñon Deermouse, piñon mouse, Pinyon Mouse",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,"common porcupine, porcupine",,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Heteromyidae,90727,180261,Active,Perognathus flavescens,Plains Pocket Mouse,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Heteromyidae,90728,180262,Active,Perognathus flavus,Silky Pocket Mouse,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,White-tailed Antelope Squirrel,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Sciuridae,90641,180184,Active,Cynomys gunnisoni,Gunnison's Prairie Dog,,Present
+PEFO,Petrified Forest National Park,Mammal,1,Rodentia,Sciuridae,89689,180159,Active,Spermophilus spilosoma,Spotted Ground Squirrel,,Probably Present
+PEFO,Petrified Forest National Park,Mammal,1,Soricomorpha,Soricidae,88690,179973,Active,Notiosorex crawfordi,"Crawford's Gray Shrew, Desert Shrew, gray shrew",,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,"Roughleg, Rough-legged Buzzard, Rough-legged Hawk",,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+PEFO,Petrified Forest National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,"Osprey, Western Osprey",,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,"Common Teal, Eurasian Teal, Green-winged Teal",,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked Duck,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+PEFO,Petrified Forest National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,Ruddy Duck,,Present
+PEFO,Petrified Forest National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+PEFO,Petrified Forest National Park,Bird,2,Apodiformes,Apodidae,83047,178002,Active,Chaetura vauxi,Vaux's Swift,,Present
+PEFO,Petrified Forest National Park,Bird,2,Apodiformes,Trochilidae,83888,178036,Active,Calypte anna,Anna's Hummingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Apodiformes,Trochilidae,83894,178041,Active,Selasphorus sasin,Allen's Hummingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+PEFO,Petrified Forest National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Charadriidae,77648,176522,Active,Charadrius montanus,Mountain Plover,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,"European Herring Gull, Herring Gull",,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Laridae,81079,176838,Active,Larus pipixcan,Franklin's Gull,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Laridae,81177,176926,Active,Sterna nilotica,Gull-billed Tern,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland Sandpiper,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79269,176655,Active,Calidris bairdii,Baird's Sandpiper,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79250,176638,Active,Catoptrophorus semipalmatus,Willet,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79206,176599,Active,Numenius phaeopus,"Eurasian Whimbrel, Whimbrel",,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser Yellowlegs,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+PEFO,Petrified Forest National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+PEFO,Petrified Forest National Park,Bird,2,Columbiformes,Columbidae,82670,177065,Active,Columba fasciata,Band-tailed Pigeon,,Present
+PEFO,Petrified Forest National Park,Bird,2,Columbiformes,Columbidae,82778,177162,Active,Columbina inca,Inca Dove,,Present
+PEFO,Petrified Forest National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+PEFO,Petrified Forest National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Cuculiformes,Cuculidae,89107,177836,Active,Geococcyx californianus,Greater Roadrunner,,Present
+PEFO,Petrified Forest National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+PEFO,Petrified Forest National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+PEFO,Petrified Forest National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+PEFO,Petrified Forest National Park,Bird,2,Galliformes,Odontophoridae,84291,175872,Active,Callipepla squamata,Scaled Quail,,Present
+PEFO,Petrified Forest National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+PEFO,Petrified Forest National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+PEFO,Petrified Forest National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,"American Bushtit, Bushtit",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Bombycillidae,88292,178529,Active,Bombycilla garrulus,Bohemian Waxwing,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Calcariidae,85686,179530,Active,Calcarius ornatus,Chestnut-collared Longspur,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,94237,179132,Active,Cardinalis sinuatus,Pyrrhuloxia,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,94263,179156,Active,Passerina ciris,Painted Bunting,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,88072,179884,Active,Piranga flava,"Hepatic Tanager, Red Tanager",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,88071,179883,Active,Piranga olivacea,Scarlet Tanager,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Cardinalidae,88076,179888,Active,Piranga rubra,Summer Tanager,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,brown creeper,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Corvidae,266936,554128,Active,Aphelocoma californica,western scrub-jay,Aphelocoma coerulescens,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,"Common Raven, Northern Raven",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Hirundo pyrrhonota,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Hirundinidae,87427,178464,Active,Progne subis,Purple Martin,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,"Bank Swallow, Sand Martin",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,94211,179109,Active,Quiscalus mexicanus,Great-tailed Grackle,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,93601,179034,Active,Sturnella magna,Eastern Meadowlark,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,"Gray Catbird, Grey Catbird",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Mimidae,89989,178636,Active,Toxostoma bendirei,Bendire's Thrasher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Mimidae,89990,178637,Active,Toxostoma curvirostre,Curve-billed Thrasher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,"American Pipit, Buff-bellied Pipit",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Paridae,472370,650445,Active,Baeolophus ridgwayi,Plain Titmouse,Parus inornatus,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,Parus gambeli,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92737,178970,Active,Cardellina rubrifrons,Red-faced Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92669,178909,Active,Dendroica graciae,Grace's Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,"Black-throated Gray Warbler, Black-throated Grey Warbler",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92662,178902,Active,Dendroica occidentalis,Hermit Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92683,178921,Active,Dendroica palmarum,Palm Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92672,178911,Active,Dendroica pensylvanica,Chestnut-sided Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,"American Yellow Warbler, Yellow Warbler",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92700,178937,Active,Oporornis formosus,Kentucky Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,MacGillivray's Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92621,178866,Active,Vermivora luciae,Lucy's Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84734,179393,Active,Aimophila cassinii,Cassin's Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84716,179377,Active,Aimophila ruficeps,Rufous-crowned Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84674,179339,Active,Ammodramus bairdii,Baird's Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84745,179402,Active,Amphispiza belli,Sage Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,85612,179464,Active,Passerella iliaca,"Fox Sparrow, Red Fox Sparrow, Red Fox-sparrow",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,83822,179293,Active,Pipilo fuscus,canyon towhee,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,spotted towhee,Pipilo erythrophthalmus,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,"Blue-gray Gnatcatcher, Blue-grey Gnatcatcher",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Polioptilidae,88042,179857,Active,Polioptila melanura,Black-tailed Gnatcatcher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Ptilogonatidae,88064,179877,Active,Phainopepla nitens,Phainopepla,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Sittidae,90949,178788,Active,Sitta pygmaea,Pygmy Nuthatch,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,"Common Starling, European Starling",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85865,178376,Active,Camptostoma imberbe,"Northern Beardless Tyrannulet, Northern Beardless-Tyrannulet",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,Contopus borealis,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,"Western Wood Pewee, Western Wood-Pewee",,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85860,178371,Active,Pyrocephalus rubinus,Vermilion Flycatcher,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Vireonidae,93558,178997,Active,Vireo huttoni,Hutton's Vireo,,Present
+PEFO,Petrified Forest National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,plumbeus vireo,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,great egret,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Ardeidae,84508,174856,Active,Botaurus lentiginosus,American Bittern,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,"Cattle Egret, Western Cattle Egret",,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,"Black-crowned Night Heron, Black-crowned Night-Heron",,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Pelecanidae,83383,174685,Active,Pelecanus occidentalis,Brown Pelican,,Present
+PEFO,Petrified Forest National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,white-faced ibis,,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,84858,178189,Active,Melanerpes formicivorus,Acorn Woodpecker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,"Lewis' Woodpecker, Lewis's Woodpecker",,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,85737,178260,Active,Picoides scalaris,Ladder-backed Woodpecker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+PEFO,Petrified Forest National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+PEFO,Petrified Forest National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,"Black-necked Grebe, Eared Grebe",,Present
+PEFO,Petrified Forest National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+PEFO,Petrified Forest National Park,Bird,2,Podicipediformes,Podicipedidae,81715,174508,Active,Tachybaptus dominicus,least grebe,,Present
+PEFO,Petrified Forest National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+PEFO,Petrified Forest National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+PEFO,Petrified Forest National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+PEFO,Petrified Forest National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+PEFO,Petrified Forest National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,western screech-owl,Otus kennicottii,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Colubridae,79769,174202,Active,Arizona elegans,Glossy Snake,,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,"Night Snake, Nightsnake, Sinaloan Nightsnake",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Colubridae,122635,209247,Active,Lampropeltis getula,"Common Kingsnake, Eastern Kingsnake",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Colubridae,79751,174187,Active,Lampropeltis triangulum,"Eastern Milk Snake, Eastern Milksnake",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,Striped Whipsnake,,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,"Bullsnake, Gopher Snake, Gophersnake",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,"Collared Lizard, Eastern Collared Lizard",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,"Longnose Leopard Lizard, Long-nosed Leopard Lizard",,Probably Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,Sagebrush Lizard,,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Iguanidae,77517,173865,Active,Sceloporus undulatus,"Eastern Fence Lizard, Fence Lizard, Plateau Lizard, Prairie Lizard",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,"Common Side-blotched Lizard, Side-blotched Lizard",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Phrynosomatidae,78390,173927,Active,Holbrookia maculata,"Common Earless Lizard, Common Lesser Earless Lizard, Lesser Earless Lizard",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,"Pigmy Short-horned Lizard, Pygmy Short-horned Lizard, Short-horned Lizard",Phrynosoma douglasii,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Teiidae,78496,174021,Active,Cnemidophorus inornatus,Little Striped Whiptail,,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Teiidae,78499,174024,Active,Cnemidophorus neomexicanus,"New Mexican Whiptail, New Mexico Whiptail",,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Teiidae,119626,208948,Active,Cnemidophorus velox,Plateau Striped Whiptail,,Present
+PEFO,Petrified Forest National Park,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,"Prairie Rattlesnake, Western Rattlesnake",,Present
+PEFO,Petrified Forest National Park,Amphibian,4,Anura,Bufonidae,83325,173484,Active,Bufo cognatus,Great Plains Toad,,Present
+PEFO,Petrified Forest National Park,Amphibian,4,Anura,Bufonidae,84003,173491,Active,Bufo punctatus,Red-spotted Toad,,Present
+PEFO,Petrified Forest National Park,Amphibian,4,Anura,Bufonidae,83316,173476,Active,Bufo woodhousii,Woodhouse's Toad,,Present
+PEFO,Petrified Forest National Park,Amphibian,4,Anura,Scaphiopodidae,83264,173429,Active,Scaphiopus couchii,Couch's Spadefoot,,Present
+PEFO,Petrified Forest National Park,Amphibian,4,Anura,Scaphiopodidae,115593,206989,Active,Spea bombifrons,Plains Spadefoot,,Present
+PEFO,Petrified Forest National Park,Amphibian,4,Anura,Scaphiopodidae,115598,206993,Active,Spea multiplicata,Mexican Spadefoot,,Present
+PEFO,Petrified Forest National Park,Amphibian,4,Caudata,Ambystomatidae,75874,173592,Active,Ambystoma tigrinum,"Eastern Tiger Salamander, Tiger Salamander",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Apiales,Apiaceae,208282,527614,Active,Cymopterus acaulis var. fendleri,"Fendler spring parsley, Fendler's springparsley",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Apiales,Apiaceae,134774,29631,Active,Cymopterus bulbosus,"bulbous spring parsley, bulbous springparsley",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Apiales,Apiaceae,134798,29653,Active,Cymopterus purpurascens,"Utah springparsley, widewing spring parsley, widewing springparsley",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150294,42682,Active,Allium macropetalum,"largeflower onion, largeflower wild onion",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asparagales,Asparagaceae,140575,42777,Active,Androstephium breviflorum,"pink funnel lily, pink funnellily, smallflower androstephium",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asparagales,Asparagaceae,142855,43131,Active,Yucca angustissima,narrowleaf yucca,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asparagales,Asparagaceae,215570,530885,Active,Yucca angustissima var. angustissima,"fineleaf yucca, narrowleaf yucca",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asparagales,Asparagaceae,144221,43134,Active,Yucca baccata,"banana yucca, datil yucca",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,207757,526856,Active,Achillea millefolium var. occidentalis,"common yarrow, western yarrow",Achillea millefolium var. lanulosa,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,140168,36459,Active,Acroptilon repens,"hardheads, Russian knapweed, Turestan thistle",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,141408,36497,Active,Ambrosia acanthicarpa,"annual bursage, bursage, bursage ragweed, flatspine bur ragweed, flatspine burr ragweed, flat-spine burr-ragweed, sand bursage",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,141407,36496,Active,Ambrosia artemisiifolia,"annual ragweed, common ragweed, low ragweed, ragweed, Roman wormwood, short ragweed, small ragweed",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,133588,35452,Active,Artemisia bigelovii,"Bigelow sage, Bigelow sagebrush, Bigelow's sagebrush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,133600,35463,Active,Artemisia filifolia,"sand sagebrush, sandhill sage, silvery wormwood",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,133602,35465,Active,Artemisia frigida,"fringed sagebrush, fringed sagewort, prairie sagewort",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,133612,35474,Active,Artemisia ludoviciana,"cudweed sagewort, gray sagewort, Louisiana sagewort, Louisiana wormwood, mugwort wormwood, prairie sage, white sagebrush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,133614,35476,Active,Artemisia ludoviciana ssp. albula,"gray sagewort, white sagebrush, white sagewort",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,86038,183738,Active,Artemisia ludoviciana ssp. mexicana,"cudweed sagewort, Louisiana sagewort, Mexican sagewort, Mexican white sagebrush, white sagebrush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,134679,35716,Active,Bidens bigelovii,"Bigelow beggarticks, Bigelow's beggarticks, stickseed",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136716,36866,Active,Brickellia californica,"California brickellbush, Jepson's brickellbush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136726,36875,Active,Brickellia eupatorioides,false boneset,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,209774,526974,Active,Brickellia eupatorioides var. chlorolepis,false boneset,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,209799,526986,Active,Brickellia oblongifolia var. linifolia,"narrow leaf brickellbush, narrowleaf brickellbush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137255,36992,Active,Chaenactis macrantha,"bighead dustymaiden, bighead pincushion, large-flower pincushion",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137261,36998,Active,Chaenactis stevioides,"Esteve's pincushion, Steve's dusty maiden, Steve's dustymaiden, Steve's pincushion",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,151902,501376,Active,Chaetopappa ericoides,"rose heath, smallflower aster",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,173949,510990,Active,Chrysothamnus baileyi,Bailey's rabbitbrush,Chrysothamnus pulchellus var. baileyi,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137322,37052,Active,Chrysothamnus greenei,Greene's rabbitbrush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,140094,36392,Active,Cirsium ochrocentrum,yellowspine thistle,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,"bull thistle, common thistle, spear thistle",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138585,37113,Active,Conyza canadensis,"Canada horseweed, Canadian horseweed, horseweed, horseweed fleabane, mares tail, marestail",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,212075,527476,Active,Conyza canadensis var. canadensis,Canadian horseweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,221142,531864,Active,Ericameria nauseosa ssp. nauseosa var. bigelovii,Bigelow rubber rabbitbrush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136020,35842,Active,Erigeron compactus,"cushion daisy, fernleaf fleabane, fern-leaf fleabane",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,155417,502385,Active,Erigeron concinnus,"hairy daisy, Navajo fleabane",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,155419,502386,Active,Erigeron consimilis,foothill fleabane,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136031,35852,Active,Erigeron divergens,"spreading daisy, spreading fleabane",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136032,35853,Active,Erigeron eatonii,"Eaton's daisy, Eaton's fleabane",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136045,35865,Active,Erigeron flagellaris,"trailing daisy, trailing fleabane",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,140509,37409,Active,Gaillardia pinnatifida,"blanketflower, red dome blanketflower, red-dome blanketflower, slender gaillardia, yellow blanketflower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,213404,528284,Active,Grindelia nuda var. aphanactis,"curlytop gumweed, rayless gumweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,141110,37472,Active,Grindelia squarrosa,"curlycup gumweed, curlytop gumweed, gumweed, rosinweed, tarweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,141121,37482,Active,Gutierrezia microcephala,threadleaf snakeweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,"broom snakeweed, broomweed, perennial snakeweed, stinkweed, turpentine weed, yellow top",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,142204,36616,Active,Helianthus annuus,"annual sunflower, common sunflower, sunflower, wild sunflower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,142214,36625,Active,Helianthus ciliaris,"blueweed, blueweed sunflower, Texas blueweed, Texas-blueweed, yerba parda",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,133707,36671,Active,Helianthus petiolaris,"prairie sunflower, showy sunflower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,142059,37603,Active,Heliomeris multiflora,"showy goldeneye, showy goldeneyes",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,214127,528365,Active,Heliomeris multiflora var. nevadensis,"Nevada goldeneye, Nevada goldeneyes",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,142150,37686,Active,Heterotheca subaxillaris,"camphorweed, golden aster",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,220996,531499,Active,Heterotheca villosa var. foliosa,hairy false goldenaster,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,210320,528399,Active,Heterotheca villosa var. villosa,"hairy false goldenaster, hairy false golden-aster",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,212247,528527,Active,Hymenopappus filifolius var. pauciflorus,fineleaf hymenopappus,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,212254,528530,Active,Hymenopappus flavescens var. canotomentosus,"college flower, collegeflower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,143071,37775,Active,Hymenothrix loomisii,Loomis' thimblehead,,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,143073,37777,Active,Hymenothrix wrightii,Wright's thimblehead,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,212266,528536,Active,Hymenoxys richardsonii var. floribunda,Colorado rubberweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,143103,37803,Active,Isocoma drummondii,"Drummond's goldenbush, Drummond's goldenweed, Drummond's jimmyweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,157342,503208,Active,Isocoma rusbyi,Rusby's goldenbush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137424,36026,Active,Iva acerosa,copperweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,"China lettuce, prickly lettuce, wild lettuce",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,157709,503618,Active,Lygodesmia arizonica,Arizona skeletonplant,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,144667,37984,Active,Machaeranthera canescens,"hoary aster, hoary goldenweed, hoary machaeranthera, hoary tansyaster, hoary tansy-aster, purple aster",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,217677,531705,Active,Machaeranthera canescens ssp. glabra var. aristata,hoary tansyaster,Machaeranthera canescens var. aristata,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,218502,531706,Active,Machaeranthera canescens ssp. glabra var. glabra,hoary tansyaster,Machaeranthera linearis,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,144675,37991,Active,Machaeranthera gracilis,slender goldenweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,144676,37992,Active,Machaeranthera grindelioides,"rayless aster, rayless tansyaster, rayless tansy-aster",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,144691,38005,Active,Machaeranthera pinnatifida,"cutleaf goldenweed, lacy tansyaster, lacy tansy-aster, pinnate machaeranthera, spiny goldenweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,201709,524293,Active,Machaeranthera pinnatifida ssp. pinnatifida,lacy tansyaster,Machaeranthera pinnatifida var. pinnatifida,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,144700,38013,Active,Machaeranthera tanacetifolia,"Takhoka-daisy, tanseyleaf aster, tanseyleaf goldenweed, tanseyleaf tansyaster",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,144737,38047,Active,Malacothrix fendleri,"Fendler's desert dandelion, Fendler's desertdandelion",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,144746,38055,Active,Malacothrix sonchoides,"sowthistle desert dandelion, sowthistle desertdandelion, yellow-saucers",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,135456,38176,Active,Pectis angustifolia,"lemonscent, narrowleaf pectis",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136320,38233,Active,Petradoria pumila,"grassy rockgoldenrod, rock goldenrod",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136322,38235,Active,Petradoria pumila ssp. graminea,giant rockgoldenrod,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136321,38234,Active,Petradoria pumila ssp. pumila,"grassy rock goldenrod, grassy rockgoldenrod",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136333,38245,Active,Picradeniopsis woodhousei,"Woodhouse's bahia, Woodhouse's false bahia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136412,38316,Active,Psilostrophe tagetina,"woolly paperflower, wooly paperflower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136440,38341,Active,Ratibida columnifera,"prairie coneflower, redspike Mexican hat, upright prairie coneflower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,136443,38344,Active,Ratibida tagetes,"green Mexican-hat, green prairie coneflower, shortray prairie coneflower, shortray prairieconeflower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137654,38356,Active,Sanvitalia abertii,Albert's creeping zinnia,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,162117,505126,Active,Senecio flaccidus,"threadleaf groundsel, threadleaf ragwort",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,217259,530312,Active,Senecio flaccidus var. douglasii,"Douglas' groundsel, Douglas' ragwort, Douglas' senecio",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,217261,530313,Active,Senecio flaccidus var. flaccidus,"threadleaf groundsel, threadleaf ragwort",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,221052,531525,Active,Senecio spartioides var. multicapitatus,"broom-like ragwort, many-head ragwort, ragwort groundsel",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137730,38424,Active,Sonchus asper,"perennial sowthistle, prickly sow thistle, prickly sowthistle, spiny sowthistle, spiny-leaf sow-thistle",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137753,38445,Active,Stephanomeria exigua,"small wirelettuce, wire lettuce",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,137760,38451,Active,Stephanomeria pauciflora,"brownplume wirelettuce, fewflower wirelettuce, skeletonweed, wire lettuce, wire-lettuce",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,"blowball, common dandelion, dandelion, faceclock",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138072,38494,Active,Tetradymia canescens,"gray horsebrush, spineless horsebrush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138088,38508,Active,Tetraneuris acaulis,"stemless actinea, stemless four-nerve daisy, stemless four-nerve-daisy, stemless hymenoxys",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138093,38512,Active,Tetraneuris ivesiana,"Ives' fournerved daisy, Ives' four-nerve-daisy",Hymenoxys ivesiana,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138107,38525,Active,Thelesperma megapotamicum,"green threads, Hopi tea greenthread",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138121,38538,Active,Townsendia annua,"annual Townsend daisy, annual Townsend-daisy",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138133,38549,Active,Townsendia incana,"hoary Townsend daisy, hoary townsend-daisy, hoary townsendia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,138155,38569,Active,Tragopogon pratensis,"Jack-go-to-bed-at-noon, meadow salsify",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,139123,38601,Active,Verbesina encelioides,golden crownbeard,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,139217,38687,Active,Wyethia scabra,"badlands mule-ears, badlands mulesears, badlands wyethia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,215539,530870,Active,Wyethia scabra var. canescens,"badlands mule-ears, badlands mulesears",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,215543,530872,Active,Xanthium strumarium var. canadense,"Canada cocklebur, Canada cockleburr, cocklebur, common cocklebur, rough cocklebur, rough cockleburr",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Asterales,Asteraceae,139913,38715,Active,Zinnia grandiflora,"plains zinnia, Rocky Mountain zinnia, Texas zinnia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,131095,31786,Active,Cryptantha bakeri,"Baker's catseye, Baker's cryptantha",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,131112,31800,Active,Cryptantha crassisepala,"deertongue, thick-sepal catseye, thicksepal cryptantha",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,132057,31811,Active,Cryptantha fulvocanescens,"tawny catseye, tawny cryptantha",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,208193,527572,Active,Cryptantha pterocarya var. cycloptera,"wingnut catseye, wingnut cryptantha",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,159249,503328,Active,Lappula marginata,margined stickseed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,214083,528677,Active,Lappula occidentalis var. cupulata,"flat-spine sheepburr, flatspine stickseed",Lappula redowskii var. cupulata,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,132734,31940,Active,Lithospermum incisum,"fringed gromwell, fringed puccoon, narrowleaf gromwell, narrowleaf pucoon, narrowleaf stoneseed, trumpet stoneseed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,132746,31951,Active,Lithospermum multiflorum,"manyflowered gromwell, manyflowered stoneseed, purple pucoon",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,128535,31401,Active,Nama densum,"leafy nama, mat nama",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Boraginaceae,128549,31414,Active,Nama hispidum,"bristly nama, purple mat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130273,31644,Active,Heliotropium convolvulaceum,"bindweed heliotrope, phlox heliotrope, wide-flower heliotrope",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129809,31468,Active,Phacelia cephalotes,"scorpion-weed, virgin phacelia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129820,31478,Active,Phacelia crenulata,"caterpillarweed, cleftleaf wildheliotrope, notch-leaf scorpion-weed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216050,529549,Active,Phacelia crenulata var. corrugata,"cleftleaf scorpion-weed, cleftleaf wildheliotrope, wildheliotrope",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,160652,504272,Active,Phacelia integrifolia,"gypsum phacelia, gypsum scorpion-weed, scorpion-weed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216080,529563,Active,Phacelia integrifolia var. integrifolia,"gypsum phacelia, gypsum scorpionweed, gypsum scorpion-weed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,160654,504273,Active,Phacelia ivesiana,"Ives' phacelia, Ives' scorpion-weed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,123368,23030,Active,Alyssum alyssoides,"pale alyssum, pale madwort, yellow alyssum",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,170615,508080,Active,Alyssum minus,"alyssum, European alyssum",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,121285,22720,Active,Arabis perennans,perennial rockcress,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,124479,23072,Active,Cardaria draba,"globed-podded hoarycress, heart-pod hoarycress, heart-podded hoarycress, hoary cress, peppergrass, pepperweed whitetop, whitetop, whiteweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,124508,23099,Active,Chorispora tenella,"beanpodded mustard, blue mustard, bluemustard, common blue mustard, crossflower, purple mustard, tenella mustard",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,198746,523967,Active,Descurainia incana ssp. incisa,"mountain tansy mustard, mountain tansymustard",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,122336,22822,Active,Descurainia obtusa,"blunt tansy mustard, blunt tansymustard",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,122340,22826,Active,Descurainia pinnata,"green tansymustard, pinnate tansy mustard, pinnate tansymustard, tansymustard, western tansymustard",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,"flaxweed tansymustard, flixweed, flixweed tansymustard, herb sophia, herb-sophia, pinnate tansymustard, tansymustard",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,153387,502067,Active,Dimorphocarpa wislizeni,"spectacle pod, spectaclepod, touristplant, Wislizeni's spectaclepod",Dithyrea wislizeni,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,122393,22874,Active,Draba cuneifolia,"wedgeleaf draba, wedgeleaf whitlowgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,217974,531286,Active,Erysimum capitatum var. purshii,Pursh's wallflower,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,123297,22967,Active,Lepidium lasiocarpum,"hairypod pepperweed, shaggyfruit pepperweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,160467,503381,Active,Lepidium montanum,"Montana pepperweed, mountain pepperweed, mountain pepperwort",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,123303,22972,Active,Lepidium oblongum,veiny pepperweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,125000,23180,Active,Lesquerella fendleri,"Fendler bladderpod, Fendler's bladderpod",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,125014,23193,Active,Lesquerella intermedia,"mid bladderpod, Santa Fe bladderpod",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,125049,23224,Active,Lesquerella rectipes,straight bladderpod,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,125112,23281,Active,Physaria newberryi,Newberry's twinpod,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,213163,529655,Active,Physaria newberryi var. newberryi,Newberry's twinpod,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,123350,23014,Active,Rorippa sinuata,spreading yellowcress,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,123351,23015,Active,Rorippa sphaerocarpa,"roundfruit yellowcress, round-fruit yellowcress",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,"Jim Hill mustard, tall hedge-mustard, tall mustard, tall tumblemustard, tumble mustard, tumblemustard, tumbleweed mustard",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,125968,23329,Active,Stanleya pinnata,"desert prince's-plume, golden prince's-plume",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Brassicaceae,125973,23333,Active,Streptanthella longirostris,"longbeak fiddle mustard, longbeak streptanthella",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Cleomaceae,120510,22626,Active,Cleome serrulata,"bee spiderflower, Rocky Mountain beeplant",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Cleomaceae,120551,22663,Active,Wislizenia refracta,"jackass clover, spectacle fruit",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Brassicales,Cleomaceae,120552,22664,Active,Wislizenia refracta ssp. refracta,spectacle fruit,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,112940,20677,Active,Allenrolfea occidentalis,iodinebush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117546,20718,Active,Amaranthus acanthochiton,greenstripe,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117557,20719,Active,Amaranthus albus,"pigweed, pigweed amaranth, prostrate pigweed, tumble pigweed, tumbleweed, white pigweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117602,20723,Active,Amaranthus blitoides,"mat amaranth, prostrate amaranth, prostrate pigweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118940,20735,Active,Amaranthus hybridus,"green pigweed, slim amaranth, smooth amaranth, smooth pigweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120123,20745,Active,Amaranthus retroflexus,"careless weed, redroot amaranth, red-root amaranth, redroot pigweed, rough pigweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111472,20512,Active,Atriplex argentea,"silverscale, silverscale saltbush, silverscale saltweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111538,20518,Active,Atriplex canescens,fourwing saltbush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111549,20519,Active,Atriplex confertifolia,"shadscale, shadscale saltbush, spiny saltbush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115398,20552,Active,Atriplex obovata,"mound saltbush, silver saltbush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,116167,20561,Active,Atriplex powellii,"Powell's orache, Powell's saltbush, Powell's saltweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,116189,20563,Active,Atriplex rosea,"redscale saltbush, redscale saltweed, tumbling orache, tumbling saltweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,116200,20564,Active,Atriplex saccaria,"sack saltbush, sack saltweed, stalked orache",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117716,20592,Active,Chenopodium album,"common lambsquarters, lambsquarters, lambsquarters goosefoot, white goosefoot",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117738,20594,Active,Chenopodium berlandieri,"netseed lambsquarters, pigseed goosefoot, pitseed goosefoot, pit-seed goosefoot",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,209398,527316,Active,Chenopodium berlandieri var. zschackii,,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118252,20604,Active,Chenopodium desiccatum,"arid goosefoot, aridland goosefoot, desert goosefoot, narrowleaf goosefoot",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118285,20607,Active,Chenopodium fremontii,Fremont's goosefoot,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,209409,527321,Active,Chenopodium fremontii var. fremontii,Fremont's goosefoot,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118608,20612,Active,Chenopodium hians,"hians goosefoot, pinyon goosefoot",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118630,20614,Active,Chenopodium incanum,"mealy goosefoot, nealy goosefoot",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118652,20616,Active,Chenopodium leptophyllum,"narrowleaf goosefoot, narrowleaf lambsquarters, narrowleaved goosefoot, slimleaf goosefoot, slimleaf lambsquarters",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120025,20631,Active,Chenopodium salinum,Rocky Mountain goosefoot,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,294079,566225,Active,Corispermum americanum var. rydbergii,American bugseed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,114101,20685,Active,Cycloloma atriplicifolium,"tumble ringwing, winged pigweed, winged-pigweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,114299,20813,Active,Guilleminea densa,small matweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115539,20694,Active,Kochia americana,"greenmolly, greenmolly kochia, greenmolly summercypress",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115561,20696,Active,Kochia scoparia,"burningbush, common kochia, fireweed, Mexican burningbush, Mexican fireweed, Mexican-fireweed, mock cypress, summercypress",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,158344,503290,Active,Krascheninnikovia lanata,winterfat,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115607,20700,Active,Monolepis nuttalliana,"Nuttall's monolepis, Nuttall's povertyweed, Nuttall's poverty-weed, patata, patota",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,"prickly Russian thistle, tumbleweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165472,505404,Active,Suaeda moquinii,"alkali seepweed, Mojave seablite, shrubby seepweed, Torrey's seepweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,168085,505810,Active,Zuckia brandegeei,siltbush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,216206,530924,Active,Zuckia brandegeei var. arizonica,"Arizona siltbush, siltbush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211022,527813,Active,Echinocereus coccineus var. coccineus,"Bisbee cactus, scarlet hedgehog cactus",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101425,195363,Active,Echinocereus fendleri var. fendleri,"Fendler's hedgehog cactus, pinkflower hedgehog cactus",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211884,527828,Active,Echinocereus fendleri var. rectispinus,"pinkflower hedgehog cactus, right-angled spine hedgehog",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105452,19815,Active,Echinocereus triglochidiatus,"claretcup hedgehog, kingcup cactus, Mojave mound cactus",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211061,528092,Active,Escobaria vivipara var. arizonica,"Arizona pincushion cactus, Arizona spinystar",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211079,528100,Active,Escobaria vivipara var. vivipara,"pink pincushion cactus, spinystar, spinystar cactus",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100531,195272,Active,Opuntia erinacea var. erinacea,grizzlybear pricklypear,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100533,195274,Active,Opuntia erinacea var. hystricina,"grizzlybear pricklypear, porcupine pricklypear",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100535,195276,Active,Opuntia erinacea var. utahensis,"Utah grizzlybear pricklypear, Utah pricklypear",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,212757,529301,Active,Opuntia fragilis var. brachyarthra,"Brach pricklypear cactus, brittle pricklypear",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100536,195277,Active,Opuntia fragilis var. fragilis,"brittle pricklypear, pygmy pricklypear",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100547,195287,Active,Opuntia macrorhiza var. macrorhiza,"bigflower pricklypear, twistspine pricklypear",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100559,195298,Active,Opuntia polyacantha var. rufispina,"hairspine pricklypear, plains pricklypear, red-spine pricklypear",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100560,195299,Active,Opuntia polyacantha var. trichophora,"hairspine pricklypear, threadspine pricklypear",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,108452,19745,Active,Opuntia whipplei,Whipple cholla,Opuntia whipplei var. whipplei,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,101414,195353,Active,Pediocactus peeblesianus var. peeblesianus,"Navajo pincushion cactus, Peebles Navajo cactus",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,160908,505080,Active,Sclerocactus papyracanthus,paperspine fishhook cactus,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Cactaceae,110408,19765,Active,Sclerocactus whipplei,Whipple's fishhook cactus,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,88973,184228,Active,Arenaria eastwoodiae var. adenophora,Eastwood's sandwort,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,103641,19557,Active,Abronia fragrans,"heart's-delight, prairie snowball, snowball sand verbena, sweet sand verbena",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,106564,19581,Active,Allionia incarnata,"trailing allionia, trailing four o'clock, trailing windmills",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,102403,19678,Active,Boerhavia spicata,creeping spiderling,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,111135,19643,Active,Mirabilis glabra,"smooth four o'clock, smooth four-o'clock",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100394,19651,Active,Mirabilis linearis,"four o'clock, linearleaf four-o'clock, narrowleaf four o'clock, narrowleaf four-o'clock",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100427,19654,Active,Mirabilis multiflora,"Colorado four o'clock, Colorado four-o'clock, manyflowered four-o'clock",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,109395,19619,Active,Tripterocalyx carnea,winged sandpuffs,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,220761,530749,Active,Tripterocalyx carnea var. wootonii,Wooton's sandpuffs,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119220,21057,Active,Eriogonum alatum,"wing eriogonum, winged buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,101487,195419,Active,Eriogonum alatum var. alatum,winged buckwheat,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119230,21066,Active,Eriogonum annuum,"annual buckwheat, annual eriogonum, annual wild buckwheat, annual wildbuckwheat, umbrella plant, wild buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119793,21090,Active,Eriogonum cernuum,"nodding buckwheat, nodding eriogonum, nodding wild buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102439,195444,Active,Eriogonum corymbosum var. aureum,crispleaf buckwheat,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119817,21111,Active,Eriogonum deflexum,"flatcrown buckwheat, skeletonweed, skeletonweed buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119823,21117,Active,Eriogonum divaricatum,"divergent buckwheat, divergent wild buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102458,195461,Active,Eriogonum ericifolium var. pulchrum,"Yavapai buckwheat, Yavapai County buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119866,21156,Active,Eriogonum hookeri,"Hooker's buckwheat, Hooker's eriogonum, Hooker's wild buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119874,21163,Active,Eriogonum inflatum,"desert trumpet, Native American pipeweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119878,21167,Active,Eriogonum jamesii,"James' buckwheat, James' wildbuckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119885,21173,Active,Eriogonum lachnogynum,"woollycup buckwheat, woolly-cup wild buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209101,528007,Active,Eriogonum leptocladon var. ramosissimum,sand buckwheat,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119893,21180,Active,Eriogonum leptophyllum,"slenderleaf buckwheat, slender-leaf buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119906,21192,Active,Eriogonum microthecum,"slender buckwheat, slenderbush buckwheat, slenderbush eriogonum",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120804,21279,Active,Eriogonum wrightii,"bastardsage, shrubby buckwheat, Wright's buckwheat",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103703,195625,Active,Eriogonum wrightii var. wrightii,"bastardsage, shrubby buckwheat, Wright's bastardsage",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118747,20876,Active,Polygonum aviculare,"prostrate knotweed, yard knotweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117901,20860,Active,Polygonum lapathifolium,"curltop ladysthumb, curlytop knotweed, curlytop smartweed, dock-leaf smartweed, nodding smartweed, pale smartweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117912,20861,Active,Polygonum pensylvanicum,"Pennsylvania knotweed, Pennsylvania smartweed, pinkweed, pinweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,122594,20921,Active,Polygonum ramosissimum,"bushy knotweed, tall knotweed, yellow knotweed, yellow-flower knotweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,"curly dock, narrowleaf dock, sour dock, yellow dock",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118332,20954,Active,Rumex dentatus,toothed dock,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118421,20962,Active,Rumex hymenosepalus,"canaigre, canaigre dock",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115889,20939,Active,Rumex obtusifolius,"bitter dock, bluntleaf dock",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119128,20974,Active,Rumex salicifolius,willow dock,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,121522,21322,Active,Stenogonum salsuginosum,"salty buckwheat, salty eriogonum, smooth two-whorl buckwheat",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,"akulikuli-kula, common purslane, duckweed, garden purslane, little hogweed, little-hogweed, purslane, pursley, wild portulaca",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Sarcobataceae,116621,20707,Active,Sarcobatus vermiculatus,"black greasewood, greasewood",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117479,22308,Active,Tamarix chinensis,"China tamarisk, Chinese saltcedar, Chinese tamarisk, fivestamen tamarisk, five-stamen tamarisk, saltcedar, tamarisk, tamarix",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Cornales,Loasaceae,159653,503757,Active,Mentzelia albicaulis,"white blazingstar, whitestem blazingstar, whitestem stickleaf, white-stemmed evening-star",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Cornales,Loasaceae,159718,503788,Active,Mentzelia multiflora,"Adonis blazingstar, Adonis stickleaf, desert blazingstar, manyflowered mentzelia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Cornales,Loasaceae,215198,529155,Active,Mentzelia pumila var. pumila,"dwarf mentzelia, dwarf stickleaf, golden blazingstar",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ephedrales,Ephedraceae,171347,508106,Active,Ephedra cutleri,"Cutler's ephedra, Cutler's jointfir, Cutler's Mormon tea",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156858,502318,Active,Ephedra torreyana,"Torrey's ephedra, Torrey's jointfir, Torrey's Mormon tea",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156860,502319,Active,Ephedra viridis,"green ephedra, green Mormon tea, Mormon tea",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,139826,31118,Active,Gilia clokeyi,"Clokey's gilia, Clokey's gily-flower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,139862,31150,Active,Gilia leptomeria,"sand gilia, sand gily-flower, slender gilia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,139878,31165,Active,Gilia ophthalmoides,"eyed gilia, eyed gily-flower, eyelike gilia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,139885,31171,Active,Gilia rigidula ssp. acerosa,bluebowls,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,139887,31173,Active,Gilia scopulorum,"rock gilia, rock gily-flower, Rocky Mountain gilia",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,139792,31088,Active,Gilia sinuata,rosy gilia,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,126959,31180,Active,Gilia subnuda,"Canyon Lands gilia, coral gilia, coral gily-flower",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,126966,31187,Active,Gilia triodon,coyote gilia,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,126978,31198,Active,Ipomopsis longiflora,"flaxflowered gilia, flaxflowered ipomopsis, white-flower skyrocket, whiteflowered gilia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,157297,503187,Active,Ipomopsis multiflora,"many-flower gilia, manyflowered gilia, manyflowered ipomopsis",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,127530,31216,Active,Ipomopsis polycladon,"manybranched gilia, manybranched ipomopsis, sprawling skyrocket",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Polemoniaceae,127531,31217,Active,Ipomopsis pumila,"dwarf gilia, dwarf ipomopsis, low skyrocket, spotted gilia",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ericales,Primulaceae,121724,24043,Active,Anagallis arvensis,"pimpernel, scarlet pimpernel",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,152861,500956,Active,Alhagi maurorum,camelthorn,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,121416,25407,Active,Astragalus albulus,cibola milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,106216,192345,Active,Astragalus amphioxys var. amphioxys,Crescent milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,121455,25442,Active,Astragalus brandegeei,Brandegee's milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,107733,192392,Active,Astragalus calycosus var. scaposus,"scapose milkvetch, Torrey milkvetch, Torrey's milkvetch",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,107748,192405,Active,Astragalus ceramicus var. ceramicus,painted milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,107749,192406,Active,Astragalus ceramicus var. filifolius,"painted milkvetch, painted milk-vetch",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,122072,25516,Active,Astragalus flavus,yellow milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,122113,25553,Active,Astragalus kentrophyta,"spiny milkvetch, spiny milk-vetch",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,208942,526905,Active,Astragalus kentrophyta var. elatus,tall spiny milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,96114,192557,Active,Astragalus lentiginosus var. diphysus,"double bladder freckled milkvetch, freckled milkvetch, speckledpod milkvetch",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,122128,25567,Active,Astragalus lonchocarpus,"great rushy milkvetch, rushy milkvetch",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,96350,192649,Active,Astragalus mollissimus var. thompsoniae,"Thompson woolly milkvetch, Thompson's woolly locoweed, Thompson's woolly milkvetch, woolly locoweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,96403,192697,Active,Astragalus praelongus var. praelongus,stinking milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,123058,25683,Active,Astragalus sophoroides,painted desert milkvetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,123107,25727,Active,Astragalus wingatanus,Fort Wingate milkvetch,,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,123113,25732,Active,Astragalus xiphoides,gladiator milk-vetch,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,129173,26505,Active,Caesalpinia jamesii,"James' holdback, James' rushpea",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,98883,192889,Active,Dalea candida var. oligophylla,"white dalea, white prairie clover, white prairieclover, white prairie-clover",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,129961,26614,Active,Dalea flavescens,"Canyonlands prairie clover, Canyonlands prairieclover",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,98897,192900,Active,Dalea lanata var. terminalis,"woolly dalea, woolly prairie clover, woolly prairieclover",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,121876,26719,Active,Glycyrrhiza lepidota,"American licorice, licorice, wild licorice",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,126460,26101,Active,Lupinus pusillus ssp. intermontanus,Intermountain lupine,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,158887,503721,Active,Medicago lupulina,"black medic, black medic clover, black medick, hop clover, hop medic, nonesuch, yellow trefoil",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,alfalfa,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,white sweetclover,Melilotus alba,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,122804,26831,Active,Parryella filifolia,"common dunebroom, dune broom",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,122810,26837,Active,Peteria scoparia,rush peteria,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,123657,26879,Active,Prosopis glandulosa,honey mesquite,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,159874,504645,Active,Psoralidium lanceolatum,"dune scurfpea, lemon scurfpea, wild lemonweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Fabales,Fabaceae,123752,26964,Active,Sophora stenophylla,"fringeleaf necklacepod, fringe-leaf necklacepod",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Gentianales,Apocynaceae,131831,30275,Active,Asclepias involucrata,dwarf milkweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Gentianales,Apocynaceae,131868,30308,Active,Asclepias subverticillata,"horsetail milkweed, poison milkweed, western whorled milkweed, whorled milkweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Gentianales,Gentianaceae,159999,502650,Active,Frasera albomarginata,"desert elkweed, desert frasera",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Gentianales,Gentianaceae,160013,502657,Active,Frasera paniculata,"tufted elkweed, tufted frasera, Utah elkweed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Gentianales,Gentianaceae,160020,502660,Active,Frasera speciosa,"deer ears, elkweed, green gentian, monument plant, monument-plant, showy frasera",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Gentianales,Rubiaceae,139731,35054,Active,Houstonia rubra,red bluet,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,"alfilaree, alfilaria, California filaree, cutleaf filaree, filaree, redstem filaree, redstem stork's bill, stork's bill",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,"horehound, white horehound",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Lamiaceae,164295,504488,Active,Poliomintha incana,"frosted mint, hoary rosemarymint, rosemary mint",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Lamiaceae,128657,32730,Active,Salvia pachyphylla,"blue sage, rose sage",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Lamiaceae,128614,32692,Active,Salvia reflexa,"blue sage, lambsleaf sage, lanceleaf sage, lance-leaf sage, Rocky Mountain sage, sage mint",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Lamiaceae,134907,32348,Active,Stachys rothrockii,"Rothrock's hedgenettle, Rothrock's hedge-nettle",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Oleaceae,211652,528175,Active,Forestiera pubescens var. pubescens,"New Mexico forestiera, New Mexico olive, stretchberry",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Oleaceae,129741,32985,Active,Menodora scabra,rough menodora,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130397,33093,Active,Castilleja applegatei,"pine Indian paintbrush, wavyleaf Indian paintbrush, wavyleaf paintbrush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,204034,525154,Active,Castilleja applegatei ssp. martinii,"desert Indian paintbrush, Martin's paintbrush, wavyleaf Indian paintbrush",Castilleja angustifolia var. dubia,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,132289,33131,Active,Castilleja integra,"squawfeather, wholeleaf Indian paintbrush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,133158,33138,Active,Castilleja linariifolia,"Wyoming Indian paintbrush, Wyoming paintbrush",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,204788,523902,Active,Cordylanthus wrightii ssp. wrightii,"Wright's bird's beak, Wright's bird's-beak",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134483,34286,Active,Orobanche cooperi,"Cooper's broomrape, desert broomrape",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,"clustered broomrape, clustered broom-rape, purple broomrape, tufted broomrape",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Orobanchaceae,202441,524383,Active,Orobanche ludoviciana ssp. multiflora,"Louisiana broomrape, manyflower broomrape, manyflowered broomrape",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130667,33721,Active,Penstemon lentus,"handsome beardtongue, handsome penstemon",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129351,32874,Active,Plantago lanceolata,"buckhorn plantain, English plantain, lanceleaf Indianwheat, lanceleaf plantain, narrowleaf plantain, ribgrass, ribwort",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,"broadleaf plantain, buckhorn plantain, common plantain, great plantain, rippleseed plantain",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129388,32907,Active,Plantago patagonica,"woolly Indianwheat, woolly plantain",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136657,33389,Active,Verbascum blattaria,"moth mullein, white moth mullein",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136663,33394,Active,Verbascum thapsus,"big taper, common mullein, flannel mullein, flannel plant, great mullein, mullein, velvet dock, velvet plant, woolly mullein",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136664,33395,Active,Verbascum virgatum,wand mullein,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Verbenaceae,212355,528246,Active,Glandularia bipinnatifida var. bipinnatifida,"Dakota mock vervain, Dakota verbena",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Verbenaceae,133946,32194,Active,Phyla cuneifolia,"fogfruit, wedgeleaf, wedgeleaf fogfruit",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,"bigbract verbena, bracted vervain, carpet vervain, prostrate verbena, prostrate vervain",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Liliales,Liliaceae,140641,42836,Active,Calochortus aureus,golden mariposa lily,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153214,501400,Active,Chamaesyce albomarginata,"rattlesnake weed, whitemargin euphorbia, whitemargin sandmat, whitemargin spurge",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153253,501419,Active,Chamaesyce fendleri,Fendler's sandmat,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153314,501448,Active,Chamaesyce parryi,"Parry's sandmat, Parry's spurge",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153331,501456,Active,Chamaesyce revoluta,"threadstem sandmat, thread-stem sandmat, threadstem spurge",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,123558,28291,Active,Croton texensis,"doveweed, goatweed, skunkweed, Texas croton",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124247,28433,Active,Tragia ramosa,"branched noseburn, branched tragia, catnip noseburn, noseburn",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Linaceae,131410,29231,Active,Linum aristatum,bristle flax,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Linaceae,131391,29214,Active,Linum lewisii,"blue flax, Lewis' blue flax, Lewis' flax, prairie flax",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Linaceae,131393,29216,Active,Linum neomexicanum,New Mexico yellow flax,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Linaceae,131396,29219,Active,Linum puberulum,"desert flax, plains flax",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Salicaceae,119649,22452,Active,Populus angustifolia,narrowleaf cottonwood,,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Salicaceae,205273,524563,Active,Populus deltoides ssp. wislizeni,Rio Grande cottonwood,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Salicaceae,119656,22459,Active,Populus fremontii,"cottonwood, Fremont's cottonwood",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Salicaceae,119647,22450,Active,Populus X acuminata,lanceleaf cottonwood,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Salicaceae,119734,22529,Active,Salix exigua,"coyote willow, desert willow, narrowleaf willow, sandbar willow",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malpighiales,Salicaceae,119745,22539,Active,Salix gooddingii,"Goodding's black willow, Goodding's willow",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,124905,21846,Active,Malvella leprosa,"alkali mallow, dollar-weed, scurfy sida",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,124977,21910,Active,Sphaeralcea ambigua,"apricot mallow, desert globemallow",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,124982,21915,Active,Sphaeralcea angustifolia,"copper globemallow, narrowleaf desertmallow, narrowleaf globemallow, narrow-leaved globemallow",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,125815,21942,Active,Sphaeralcea hastulata,"spear globemallow, spreading globemallow",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,125816,21943,Active,Sphaeralcea incana,"gray globemallow, soft globe-mallow",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,125818,21945,Active,Sphaeralcea incana ssp. cuneata,soft globemallow,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,125817,21944,Active,Sphaeralcea incana ssp. incana,gray globemallow,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Malvales,Malvaceae,125827,21953,Active,Sphaeralcea parvifolia,"palmleaf globemallow, smallflower globemallow, small-leaf globemallow",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,155634,501160,Active,Calylophus lavandulifolius,"lavender calylophus, lavender sundrop, lavenderleaf eveningprimrose, lavenderleaf sundrops",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,128798,27543,Active,Camissonia scapoidea,"barestem eveningprimrose, Paiute suncup, scapoid suncup",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,129445,27646,Active,Gaura coccinea,"scarlet beeblossom, scarlet gaura, Scarlet guara",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,287457,565206,Active,Gaura mollis,velvetweed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,127810,27373,Active,Oenothera albicaulis,"halfshrub sundrop, whitest evening primrose, whitest eveningprimrose, whitest evening-primrose, white-stem evening-primrose",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,289377,565328,Active,Oenothera caespitosa,"tufted evening primrose, tufted evening-primrose",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,292211,566058,Active,Oenothera caespitosa ssp. caespitosa,"tufted evening primrose, tufted evening-primrose",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,292213,566059,Active,Oenothera caespitosa ssp. crinita,"tufted evening primrose, tufted evening-primrose",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,127827,27389,Active,Oenothera deltoides,"birdcage evening primrose, birdcage eveningprimrose, birdcage evening-primrose, dune primrose",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,127836,27397,Active,Oenothera flava,"long-tube evening primrose, long-tube evening-primrose, yellow evening primrose, yellow eveningprimrose, yellow evening-primrose",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,127880,27436,Active,Oenothera pallida,"pale evening primrose, pale eveningprimrose, pale evening-primrose",Oenothera pallida ssp. pallida,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Myrtales,Onagraceae,127883,27439,Active,Oenothera pallida ssp. runcinata,"pale evening primrose, pale eveningprimrose, pale evening-primrose",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Pinales,Cupressaceae,103533,194853,Active,Juniperus monosperma,oneseed juniper,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Pinales,Pinaceae,93083,183336,Active,Pinus edulis,"Colorado pinyon, nut pine, piñon pine, pinyon, pinyon pine, two-leaf pinyon, twoneedle pinyon, two-needle pinyon",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,138282,39888,Active,Cyperus esculentus,"chufa flatsedge, yellow nutgrass, yellow nutsedge",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,139011,39946,Active,Cyperus niger,black flatsedge,,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,156197,501940,Active,Cyperus squarrosus,"awned flat sedge, bearded flatsedge, bearded nutgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,139092,40019,Active,Eleocharis palustris,"common spikerush, creeping spikerush, creeping spike-rush, marsh spike-rush, spikesedge",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,140204,40063,Active,Eleocharis parishii,"Parish spikerush, Parish's spikerush",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,218072,531332,Active,Schoenoplectus acutus var. acutus,hardstem bulrush,Scirpus acutus,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,171421,508141,Active,Schoenoplectus americanus,"American bulrush, chairmaker's bulrush, Olney bulrush, Schoenoplectus",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Cyperaceae,195269,521093,Active,Schoenoplectus maritimus,cosmopolitan bulrush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,toad rush,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,168670,507932,Active,Achnatherum aridum,"arid needlegrass, Mormon needlegrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,168693,507943,Active,Achnatherum hymenoides,Indian ricegrass,Oryzopsis hymenoides,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,168724,507958,Active,Achnatherum speciosum,desert needlegrass,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141880,40371,Active,Agropyron cristatum,"clustered wheat grass, desert wheatgrass",Agropyron desertorum,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,142869,40400,Active,Agrostis stolonifera,"carpet bentgrass, creeping bent, creeping bentgrass, redtop, redtop bent, seaside bentgrass, spreading bent",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,142937,40462,Active,Andropogon gerardii,"big bluestem, bluejoint, turkeyfoot",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,86371,182530,Active,Andropogon hallii,sand bluestem,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,140362,41401,Active,Aristida adscensionis,sixweeks threeawn,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,216324,531154,Active,Aristida purpurea var. fendleriana,"Fendler threeawn, Fendler's threeawn",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,90811,185314,Active,Aristida purpurea var. longiseta,"Fendler threeawn, Fendler's threeawn, red threeawn, red threeawn (Fendler)",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,140988,41488,Active,Bothriochloa ischaemum,"Turkestan beard grass, yellow bluestem",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,140989,41489,Active,Bothriochloa saccharoides,silver bluestem,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,140999,41498,Active,Bouteloua barbata,sixweeks grama,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141003,41500,Active,Bouteloua curtipendula,sideoats grama,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141004,41501,Active,Bouteloua eriopoda,black grama,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,blue grama,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141005,41502,Active,Bouteloua hirsuta,hairy grama,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,153681,501033,Active,Bouteloua rothrockii,"Rothrock grama, Rothrock's grama",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141010,41507,Active,Bouteloua simplex,"mat grama, matted grama",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,142976,40498,Active,Bromus diandrus,ripgut brome,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,200681,523697,Active,Bromus hordeaceus ssp. hordeaceus,"downy brome, soft brome",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,142982,40502,Active,Bromus inermis,"awnless brome, smooth brome",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,142955,40479,Active,Bromus japonicus,"Japanese brome, Japanese bromegrass, Japanese chess",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,143542,40516,Active,Bromus racemosus,bald brome,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,143544,40518,Active,Bromus rubens,"foxtail brome, red brome",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,"cheat grass, cheatgrass, downy brome, early chess, military grass, wild oats",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141044,41538,Active,Calamovilfa gigantea,"big sandreed, giant sandreed",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,285608,565054,Active,Cenchrus spinifex,coastal sandbur,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141066,41558,Active,Chloris virgata,"feather fingergrass, feather windmill grass, showy chloris",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,141933,41619,Active,Cynodon dactylon,"Bermudagrass, chiendent pied-de-poule, common bermudagrass, devilgrass, grama-seda, manienie, motie molulu",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,177219,512087,Active,Dasyochloa pulchella,"fluffgrass, low woollygrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,"desert saltgrass, inland saltgrass, marsh spikegrass, saltgrass, seashore saltgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,155230,502210,Active,Echinochloa crus-galli,"barnyard grass, barnyardgrass, cockspur, Japanese millet, large barnyard grass, watergrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,203128,525113,Active,Elymus elymoides ssp. elymoides,squirreltail,Elymus elymoides ssp. brevifolius,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,156065,502274,Active,Elymus X pseudorepens,"creeping wildrye, false quackgrass",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,142033,41709,Active,Enneapogon desvauxii,"feather pappusgrass, nineawn pappusgrass, spike pappusgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,145606,40772,Active,Eragrostis barrelieri,Mediterranean lovegrass,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144616,40745,Active,Eragrostis intermedia,plains lovegrass,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,145580,40749,Active,Eragrostis mexicana,Mexican lovegrass,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,212452,527900,Active,Eragrostis pectinacea var. pectinacea,"purple love grass, Purple lovegrass, spreading lovegrass, tufted lovegrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144585,40717,Active,Eragrostis spectabilis,"petticoat-climber, purple lovegrass",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,203134,525116,Active,Hesperostipa comata ssp. comata,needleandthread,Stipa comata var. comata,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,169445,507976,Active,Hesperostipa neomexicana,"New Mexico feathergrass, New Mexico needlegrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146261,40871,Active,Hordeum jubatum,foxtail barley,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,202800,524161,Active,Hordeum murinum ssp. leporinum,"lepor barley, leporinum barley",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,145710,40866,Active,Hordeum pusillum,"little barley, little wildbarley",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,292186,566046,Active,Leptochloa fusca ssp. fascicularis,bearded sprangletop,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146285,40893,Active,Lolium perenne,"Italian ryegrass, perennial rye grass, perennial ryegrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,169460,507983,Active,Lolium pratense,"meadow fescue, meadow ryegrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144142,41882,Active,Monroa squarrosa,"false buffalo grass, false buffalograss",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144168,41905,Active,Muhlenbergia depauperata,sixweeks muhly,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144188,41923,Active,Muhlenbergia longiligula,longtongue muhly,,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144199,41933,Active,Muhlenbergia porteri,bush muhly,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,144200,41934,Active,Muhlenbergia pungens,sandhill muhly,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,161449,503886,Active,Muhlenbergia torreyi,ring muhly,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146309,40914,Active,Panicum capillare,"annual witchgrass, common panic grass, common witchgrass, panicgrass, ticklegrass, tumble panic, tumbleweed grass, witches hair, witchgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146336,40939,Active,Panicum hirticaule,"Mexican panicgrass, roughstalk witchgrass, woodland panic",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146345,40947,Active,Panicum obtusum,"vine mesquite, vine-mesquite",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,158543,504124,Active,Pascopyrum smithii,"pubescent wheatgrass, western wheatgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,290047,565385,Active,Pennisetum glaucum,"pearl millet, pearl-millet, yellow bristlegrass",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,147319,41072,Active,Phragmites australis,common reed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,169477,507991,Active,Piptatherum micranthum,"little-seed mountain-rice grass, littleseed ricegrass, Piptatherum micranthum",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,169481,507993,Active,Pleuraphis jamesii,"galleta, James' galleta",Hilaria jamesii,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,148057,41109,Active,Poa arida,plains bluegrass,,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,164251,504467,Active,Poa fendleriana,"mutton grass, muttongrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,Kentucky bluegrass,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,148126,41171,Active,Polypogon monspeliensis,"annual rabbitsfoot grass, annual rabbit's-foot grass, rabbitfoot beardgrass, rabbitfoot grass, rabbitfoot polypogon, rabbitfootgrass, rabbit'sfootgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,158646,504522,Active,Polypogon viridis,"beardless rabbitsfoot grass, beardless rabbit'sfootgrass, water bentgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,148154,41197,Active,Puccinellia distans,"European alkaligrass, spreading alkali grass, weeping alkaligrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,148168,41209,Active,Puccinellia fasciculata,"saltmarsh alkaligrass, Torrey alkaligrass",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,148159,41200,Active,Puccinellia nuttalliana,"Nuttall alkaligrass, Nuttall's alkaligrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,145161,42063,Active,Schedonnardus paniculatus,"tumble grass, tumbleggrass, tumblegrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,145997,42076,Active,Schizachyrium scoparium,little bluestem,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,217157,530264,Active,Schizachyrium scoparium var. scoparium,little bluestem,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146006,42084,Active,Scleropogon brevifolius,burrograss,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,139244,41231,Active,Setaria viridis,"bottle grass, green bristle grass, green bristlegrass, green foxtail, pigeongrass, wild millet",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146037,42111,Active,Sorghum halepense,"aleppo milletgrass, herbe de Cuba, Johnson grass, Johnsongrass, sorgho d'Alep, sorgo de alepo, zacate Johnson",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146055,42128,Active,Sporobolus airoides,"alkali sacaton, alkali-sacaton",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146059,42131,Active,Sporobolus contractus,spike dropseed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,168358,507183,Active,Sporobolus coromandelianus,Madagascar dropseed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,sand dropseed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146065,42137,Active,Sporobolus flexuosus,mesa dropseed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146066,42138,Active,Sporobolus giganteus,giant dropseed,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146048,42121,Active,Sporobolus interruptus,black dropseed,,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,202193,522542,Active,Thinopyrum ponticum,"rush wheatgrass, tall wheatgrass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,146757,42264,Active,Vulpia octoflora,"eight-flower six-weeks grass, pullout grass, sixweeks fescue, sixweeks grass",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Poaceae,215524,530863,Active,Vulpia octoflora var. octoflora,"eight-flower six-weeks grass, sixweeks fescue",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Poales,Typhaceae,147661,42327,Active,Typha domingensis,southern cattail,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104804,195034,Active,Mahonia haematocarpa,"red barberry, red mahonia",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102661,18922,Active,Argemone pleiacantha,"southwestern prickly poppy, southwestern pricklypoppy",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102836,18926,Active,Argemone polyanthemos,"annual pricklypoppy, bluestem prickly poppy, crested pricklypoppy, pricklypoppy, thistle poppy, white prickly poppy",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,151879,501365,Active,Ceratocephala testiculata,"bur buttercup, curveseed butterwort, curve-seed-butterwort",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93504,18702,Active,Clematis ligusticifolia,"hierba de chivo, old-man's-beard, virgins bower, virginsbower, virgin's-bower, western white clematis",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,88549,18507,Active,Delphinium scaposum,"barestem larkspur, tall mountain larkspur",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96869,18600,Active,Ranunculus cymbalaria,"alkali buttercup, shore buttercup",Ranunculus cymbalaria ssp. saximontanus,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130518,27770,Active,Elaeagnus angustifolia,"oleaster, Russian olive, Russian-olive, Trebizond-date",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Rosales,Rosaceae,107335,195901,Active,Purshia stansburiana,Stansbury's cliffrose,Cowania mexicana var. stansburiana,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Rosales,Ulmaceae,103773,19057,Active,Ulmus pumila,"Chinese elm, Siberian elm",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Santalales,Santalaceae,203510,523879,Active,Comandra umbellata ssp. pallida,"bastard toadflax, common toadflax, pale bastard toadflax, pine bastard toadflax",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Santalales,Santalaceae,131289,27866,Active,Phoradendron juniperinum,"incense cedar mistletoe, juniper mistletoe",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126786,28791,Active,Rhus trilobata,skunkbush sumac,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Sapindales,Simaroubaceae,126826,28827,Active,Ailanthus altissima,"copal tree, tree of heaven, tree-of-heaven",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,"creeping jenny, European bindweed, field bindweed, perennial morningglory, smallflowered morningglory",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Convolvulaceae,159006,502573,Active,Evolvulus nuttallianus,"prostrate evolvulus, shaggy dwarf morningglory, shaggy dwarf morning-glory, silver wild morningglory",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,134345,30507,Active,Chamaesaracha coronopus,"green false nightshade, greenleaf five eyes, green-leaf five-eyes",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,134361,30521,Active,Datura wrightii,"sacred datura, sacred thornapple, sacred thorn-apple",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,134386,30544,Active,Lycium pallidum,"pale desert-thorn, pale wolfberry",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,134416,30571,Active,Nicotiana attenuata,"coyote tabacco, coyote tobacco",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,212684,529625,Active,Physalis hederifolia var. fendleri,"Fendler groundcherry, Fendler's groundcherry",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,161837,504721,Active,Quincula lobata,"Chinese lantern, Chinese-lantern, purple groundcherry, purpleflower groundcherry",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,287266,565523,Active,Solanum americanum,"American black nightshade, common purple nightshade, smallflower nightshade",,Probably Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,132669,30429,Active,Solanum elaeagnifolium,"silverleaf nightshade, tomato weed, trompillo, white horsenettle, white nightshade",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,132678,30437,Active,Solanum jamesii,wild potato,,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Solanales,Solanaceae,132697,30454,Active,Solanum rostratum,"buffalobur, buffalobur nightshade, Colorado bur, horned nightshade, Kansas thistle, Mexican thistle, Texas thistle",,Present
+PEFO,Petrified Forest National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128414,29057,Active,Tribulus terrestris,"bullhead, caltrop, goathead, Mexican sandbur, puncture vine, Texas sandbur",,Present

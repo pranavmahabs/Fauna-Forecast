@@ -1,0 +1,1038 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+GRBA,Great Basin National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,bighorn sheep,Ovis canadensis canadensis,Present
+GRBA,Great Basin National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,elk,"Cervus elaphus elaphus, Cervus canadensis, Cervus elaphus nelsoni",Present
+GRBA,Great Basin National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,"black-tailed deer, mule deer",Odocoileus hemionus hemionus,Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Gray Fox,Urocyon cinereoargenteus scottii,Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,"Lynx rufus rufus, Felis rufus pallescens, Lynx rufus pallescens",Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,"cougar, lion, mountain lion, puma",Felis concolor kaibabensis,Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,striped skunk,Mephitis mephitis major,Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Spotted Skunk,"Spilogale putorius gracilis, Spilogale putorius",Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,"short-tailed weasel, Ermine",Mustela erminea muricus,Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,"long-tailed weasal, long-tailed weasel",Mustela frenata nevadensis,Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,badger,"Taxidea taxus jeffersonii, Taxidea taxus taxus",Present
+GRBA,Great Basin National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,"ringtail, ringtailed cat",,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,"Mexican free-tailed bat, Brazilian free-tailed bat",Tadarida brasiliensis mexicana,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,pallid bat,Antrosous pallidus pallidus,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's big-eared bat,"Corynorhinus townsendii townsendii, Corynorhinus townsendii pallescens, Plecotus townsendii, Plecotus townsendii pallescens",Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,Eptesicus fuscus pallidus,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,silver-haired bat,,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,hoary bat,,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,Californis myotis,Myotis californicus californicus,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,"small-footed myotis, western small-footed bat",Myotis ciliolabrum melanorhinus,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,long-eared myotis,Myotis evotis evotis,Present
+GRBA,Great Basin National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,"hairy-winged myotis, long-legged myotis",Myotis volans interior,Present
+GRBA,Great Basin National Park,Mammal,1,Lagomorpha,Leporidae,260661,552521,Active,Brachylagus idahoensis,pygmy rabbit,Sylvilagus idahoensis,Probably Present
+GRBA,Great Basin National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,"black-tailed jackrabbit, black-tailed rabbit",Lepus californicus deserticola,Present
+GRBA,Great Basin National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,"Nuttall's cottontail, Mountain Cottontail",Sylvilagus nuttallii grangeri,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,beaver,,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,260595,552490,Active,Lemmiscus curtatus,sagebrush vole,"Lagurus curtatus intermedius, Lagurus curtatus levidensis, Lagurus curtatus, Lemmiscus curtatus intermedius",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,long-tailed vole,Microtus longicaudus latus,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,91701,180310,Active,Microtus montanus,Montane vole,Microtus montanus micropus,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,bushy-tailed woodrat,Neotoma cinerea acraia,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,91771,180374,Active,Neotoma lepida,desert wood rat,Neotoma lepida lepida,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,northern grasshopper mouse,"Onychomys leucogaster brevicaudus, Onychomys leucogaster utahensis",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,canyon mouse,Peromyscus crinitus pergracilis,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,deer mouse,Peromyscus maniculatus sonoriensis,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,pinyon mouse,Peromyscus truei nevadensis,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,western harvest mouse,Reithrodontomys megalotis megalotis,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,porcupine,Erethizon dorsatum epixanthum,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta Pocket Gopher,,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Heteromyidae,90706,180242,Active,Dipodomys microps,"chisel-toothed kangaroo rat, Great Basin kangaroo rat","Dipodomys microps centralis, Dipodomys microps bonnevillei",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,ord kangaroo rat,"Dipodomys ordii celeripes, Dipodomys ordii columbianus",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Heteromyidae,90735,180269,Active,Perognathus parvus,Great Basin pocket mouse,Perognathus parvus olivaceus,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,house mouse,,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,White-tailed Antelope Squirrel,Ammospermophilus leucurus leucurus,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,920484,930305,Active,Callospermophilus lateralis,golden-mantled ground squirrel,"Spermophilus lateralis, Spermophilus lateralis trepidus",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,Marmota flaviventris avara,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,920685,930302,Active,Otospermophilus variegatus,rock squirrel,"Spermophilus variegatus, Spermophilus variegatus robustus",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,90651,180193,Active,Tamias dorsalis,Cliff Chipmunk,"Eutamias dorsalis utahensis, Eutamias dorsalis, Tamias dorsalis utahensis",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,90653,180195,Active,Tamias minimus,least chipmunk,Eutamias minimus,Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,90669,180209,Active,Tamias umbrinus,Unita chipmunk,"Eutamias umbrinus inyoensis, Tamias umbrinus inyoensis, Neotamias umbrinus",Present
+GRBA,Great Basin National Park,Mammal,1,Rodentia,Sciuridae,919173,930320,Active,Urocitellus mollis,Piute ground squirrel,,Present
+GRBA,Great Basin National Park,Mammal,1,Soricomorpha,Soricidae,88663,179949,Active,Sorex merriami,Merriam's shrew,,Present
+GRBA,Great Basin National Park,Mammal,1,Soricomorpha,Soricidae,88127,179933,Active,Sorex palustris,water shrew,Sorex palustris navigator,Present
+GRBA,Great Basin National Park,Mammal,1,Soricomorpha,Soricidae,88670,179955,Active,Sorex tenellus,Inyo dwarf shrew,,Present
+GRBA,Great Basin National Park,Mammal,1,Soricomorpha,Soricidae,88126,179932,Active,Sorex vagrans,"Vagrant shrew, wandering shrew",Sorex vagrans vagrans,Present
+GRBA,Great Basin National Park,Bird,2,,,154798,-501555,Active,Picoides villosus leucothorectis,Hairy Woodpecker,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79513,175305,Active,Accipiter striatus velox,Sharp-shinned Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79582,175368,Active,Buteo albonotatus,Zone-tailed Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79568,175355,Active,Buteo jamaicensis calurus,Harlan's Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79572,175359,Active,Buteo lineatus,Red-shouldered Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+GRBA,Great Basin National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+GRBA,Great Basin National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+GRBA,Great Basin National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+GRBA,Great Basin National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+GRBA,Great Basin National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked duck,,Present
+GRBA,Great Basin National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+GRBA,Great Basin National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+GRBA,Great Basin National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+GRBA,Great Basin National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+GRBA,Great Basin National Park,Bird,2,Apodiformes,Trochilidae,83891,178039,Active,Selasphorus platycercus platycercus,Broad-tailed Hummingbird,,Present
+GRBA,Great Basin National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+GRBA,Great Basin National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+GRBA,Great Basin National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+GRBA,Great Basin National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83022,177981,Active,Chordeiles minor hesperis,Common Nighthawk,,Present
+GRBA,Great Basin National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+GRBA,Great Basin National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83008,177969,Active,Phalaenoptilus nuttallii nuttallii,Common Poorwill,,Present
+GRBA,Great Basin National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+GRBA,Great Basin National Park,Bird,2,Charadriiformes,Scolopacidae,79222,176612,Active,Actitis macularia,Spotted Sandpiper,,Present
+GRBA,Great Basin National Park,Bird,2,Charadriiformes,Scolopacidae,153841,-501500,Active,Gallinago gallinago delicata,"common snipe, English snipe, jacksnipe, Wilson's snipe",,Present
+GRBA,Great Basin National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+GRBA,Great Basin National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+GRBA,Great Basin National Park,Bird,2,Charadriiformes,Scolopacidae,79243,176631,Active,Tringa macularia,Spotted Sandpiper,,Present
+GRBA,Great Basin National Park,Bird,2,Columbiformes,Columbidae,82752,177139,Active,Streptopelia decaocto,Eurasian Collared-Dove,,Present
+GRBA,Great Basin National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,"Mourning Dove, Western-mourning Dove",,Present
+GRBA,Great Basin National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+GRBA,Great Basin National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+GRBA,Great Basin National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+GRBA,Great Basin National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+GRBA,Great Basin National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+GRBA,Great Basin National Park,Bird,2,Galliformes,Odontophoridae,84295,175876,Active,Callipepla californica,California Quail,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Galliformes,Phasianidae,84331,175908,Active,Alectoris chukar,Chukar,,Present
+GRBA,Great Basin National Park,Bird,2,Galliformes,Phasianidae,84272,175855,Active,Centrocercus urophasianus,Greater Sage-grouse,,Present
+GRBA,Great Basin National Park,Bird,2,Galliformes,Phasianidae,84278,175860,Active,Dendragapus obscurus,Blue Grouse,,Present
+GRBA,Great Basin National Park,Bird,2,Galliformes,Phasianidae,83114,175775,Active,Dendragapus obscurus oreinus,Blue Grouse,,Present
+GRBA,Great Basin National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+GRBA,Great Basin National Park,Bird,2,Galliformes,Phasianidae,84339,175915,Active,Perdix perdix,Gray Partridge,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Aegithalidae,90930,178770,Active,Psaltriparus minimus plumbeus,Bushtit,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cardinalidae,94247,179141,Active,Pheucticus melanocephalus melanocephalus,Black-headed Grosbeak,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Cinclidae,88301,178537,Active,Cinclus mexicanus unicolor,American Dipper,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,266936,554128,Active,Aphelocoma californica,Western Scrub-Jay,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,670676,-746264,Active,Aphelocoma woodhousei,Woodhouse's Scrub-Jay,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,87101,179727,Active,Corvus corax sinuatus,Common Raven,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,86264,179691,Active,Cyanocitta stelleri macrolopha,Steller's Jay,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,Black-billed Magpie,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Corvidae,87094,179720,Active,Pica pica,Black-billed Magpie,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,106731,202299,Active,Carduelis pinus pinus,Pine Siskin,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,94337,179222,Active,Leucosticte atrata,Black Rosy Finch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-finch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Fringillidae,95320,179267,Active,Loxia curvirostra stricklandi,Red Crossbill,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Hirundinidae,87415,178453,Active,Hirundo pyrrhonota,Cliff Swallow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Hirundinidae,87410,178449,Active,Hirundo rustica erythrogaster,Barn Swallow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Icteridae,93622,179053,Active,Agelaius phoeniceus nevadensis,Red-winged Blackbird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Icteridae,94211,179109,Active,Quiscalus mexicanus,Great-tailed Grackle,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Paridae,472370,650445,Active,Baeolophus ridgwayi,Juniper Titmouse,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92653,178895,Active,Dendroica coronata memorabilis,Yellow-rumped Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92672,178911,Active,Dendroica pensylvanica,Chestnut-sided Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,MacGillivray's Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92705,178941,Active,Oporornis tolmiei monticola,MacGillivray's Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,91027,178858,Active,Vermivora celata orestera,Orange-crowned Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,91021,178852,Active,Vermivora chrysoptera,Golden-winged Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Parulidae,92742,178975,Active,Wilsonia pusilla pileolata,Wilson's Warbler,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84745,179402,Active,Amphispiza belli,Sage Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,1005406,997723,Active,Artemisiospiza nevadensis,Sagebrush Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,637412,730152,Active,Junco hyemalis caniceps,Dark-eyed Junco (Gray-headed),,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84761,179417,Active,Junco hyemalis oreganus,Oregon Junco,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85676,179521,Active,Melospiza melodia fallax,Song Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85648,179497,Active,Melospiza melodia montana,Song Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85612,179464,Active,Passerella iliaca,Fox Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85623,179474,Active,Passerella iliaca schistacea,Fox Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84706,179368,Active,Pooecetes gramineus confinis,Vesper Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84789,179442,Active,Spizella breweri breweri,Brewer's Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,84783,179437,Active,Spizella passerina arizonae,Chipping Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passerellidae,85604,179457,Active,Zonotrichia leucophrys gambelii,White-crowned Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Regulidae,88059,179872,Active,Regulus calendula cineraceus,Ruby-crowned Kinglet,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Regulidae,88053,179867,Active,Regulus satrapa olivaceus,Golden-crowned Kinglet,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Sittidae,90938,178778,Active,Sitta carolinensis nelsoni,White-breasted Nuthatch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Sittidae,90949,178788,Active,Sitta pygmaea,Pygmy Nuthatch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Sittidae,90952,178790,Active,Sitta pygmaea melanotis,Pygmy Nuthatch,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,"Common Starling, European Starling",,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,canyon wren,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Troglodytidae,303667,571695,Active,Troglodytes aedon parkmanii,House Wren,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Troglodytidae,921891,916804,Active,Troglodytes pacificus,Pacific Wren,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87165,179785,Active,Catharus guttatus auduboni,Hermit Thrush,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87160,179780,Active,Catharus guttatus guttatus,Hermit Thrush,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87164,179784,Active,Catharus guttatus polionutus,Hermit Thrush,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,88007,179825,Active,Myadestes townsendi townsendi,Townsend's Solitaire,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Turdidae,87142,179764,Active,Turdus migratorius propinquus,American Robin,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's flycatcher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Vireonidae,93593,179027,Active,Vireo gilvus leucopolius,Warbling Vireo,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,Plumbeus Vireo,,Present
+GRBA,Great Basin National Park,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+GRBA,Great Basin National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+GRBA,Great Basin National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-heron,,Present
+GRBA,Great Basin National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+GRBA,Great Basin National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,White-faced Ibis,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84825,178159,Active,Colaptes auratus collaris,Red-shafted Flicker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis' Woodpecker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84928,178251,Active,Picoides tridactylus,American Three-toed Woodpecker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84930,178253,Active,Picoides tridactylus dorsalis,Three-toed Woodpecker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+GRBA,Great Basin National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,burrowing owl,,Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,82935,177902,Active,Glaucidium gnoma,Northern Pygmy-owl,,Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,80765,177878,Active,Otus flammeolus,Flammulated Owl,,Probably Present
+GRBA,Great Basin National Park,Bird,2,Strigiformes,Strigidae,269010,555388,Active,Otus kennicottii,Western Screech-owl,,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Colubridae,770225,-9800417,Inactive,Hypsiglena chlorophaea,Desert Night Snake,Hypsiglena torquata,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Colubridae,122645,209256,Active,Lampropeltis pyromelana infralabialis,Utah Mountain Kingsnake,Lampropeltis pyromelana,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Colubridae,115833,209339,Active,Masticophis taeniatus taeniatus,Desert Striped Whipsnake,Masticophis taeniatus,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Colubridae,117247,209407,Active,Pituophis catenifer deserticola,Great Basin Gopher Snake,Pituophis catenifer,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Colubridae,79840,174267,Active,Rhinocheilus lecontei,Long-nosed snake,Rhinocheilus lecontei lecontei,Probably Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Colubridae,121958,209119,Active,Thamnophis elegans vagrans,Wandering Garter Snake,Thamnophis elegans,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Crotaphytidae,118782,208791,Active,Crotaphytus bicinctores,Great Basin Collared Lizard,,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,long-nosed leopard lizard,,Probably Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Iguanidae,118728,208742,Active,Sceloporus graciosus graciosus,Northern Sagebush Lizard,Sceloporus graciosus,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Iguanidae,77528,173875,Active,Sceloporus occidentalis,Western Fence Lizard,,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Iguanidae,119532,208863,Active,Uta stansburiana stansburiana,Northern Side-blotched Lizard,Uta stansburiana,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Phrynosomatidae,78408,173943,Active,Phrynosoma platyrhinos,Desert Horned Lizard,,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Scincidae,770234,-9800432,Active,Plestidon skiltonianus,Western Skink,Eumeces skiltonianus,Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Teiidae,695996,-756574,Inactive,Aspidoscelis tigris,Western Whiptail,"Cnemidophorus tigris, Cnemidophorus tigris tigris",Present
+GRBA,Great Basin National Park,Reptile,3,Squamata,Viperidae,758560,-9796606,Inactive,Crotalus lutosus,Great Basin rattlesnake,"Crotalus viridis lutosus, Crotalus viridis",Present
+GRBA,Great Basin National Park,Amphibian,4,Anura,Scaphiopodidae,115596,206991,Active,Spea intermontana,Great Basin spadefoot,,Present
+GRBA,Great Basin National Park,Fish,5,Salmoniformes,Salmonidae,114435,201902,Active,Oncorhynchus clarkii henshawi,Lahontan Cutthroat Trout,,Present
+GRBA,Great Basin National Park,Fish,5,Salmoniformes,Salmonidae,262750,553427,Active,Oncorhynchus clarkii utah,Bonneville cutthroat trout,,Present
+GRBA,Great Basin National Park,Fish,5,Salmoniformes,Salmonidae,71783,161989,Active,Oncorhynchus mykiss,rainbow trout,,Present
+GRBA,Great Basin National Park,Fish,5,Salmoniformes,Salmonidae,71792,161997,Active,Salmo trutta,brown trout,,Present
+GRBA,Great Basin National Park,Fish,5,Salmoniformes,Salmonidae,71801,162003,Active,Salvelinus fontinalis,brook trout,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,,,157126,-501983,Active,Aster spathulatus var. spathulatus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,,,158031,-502502,Inactive,Lappula redowskii var. redowskii,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Alismatales,Araceae,149501,42596,Active,Lemna valdiviana,"pale duckweed, Valdivia duckweed, Valdivia's duckweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,132581,29445,Active,Angelica kingii,King's angelica,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,134734,29596,Active,Berula erecta,"cutleaf waterparsnip, cut-leaf-water-parsnip, stalky berula",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,93772,182152,Active,Cicuta maculata var. angustifolia,"common water hemlock, poison parsnip, spotted cowbane, spotted parsley, spotted water hemlock, spotted water-hemlock, water hemlock",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,134771,29629,Active,Cymopterus basalticus,basalt springparsley,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,174874,511929,Active,Cymopterus hendersonii,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,134786,29642,Active,Cymopterus ibapensis,Ibapah springparsley,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,134795,29650,Active,Cymopterus nivalis,snowline springparsley,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,134798,29653,Active,Cymopterus purpurascens,"Utah springparsley, widewing spring parsley, widewing springparsley",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,133475,29532,Active,Ligusticum porteri,"Porter's licoriceroot, Porter's licorice-root, Porter's ligusticum, Porter's wild lovage",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,210732,528873,Active,Lomatium graveolens var. alpinum,alpine biscuitroot,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,125486,29728,Active,Lomatium nevadense,"Nevada biscuitroot, Nevada desert-parsley",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,125490,29731,Active,Lomatium nudicaule,barestem biscuitroot,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,125507,29747,Active,Lomatium scabrum,"rough biscuitroot, rough desertparsley, rough desert-parsley",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,126358,29790,Active,Osmorhiza depauperata,"blunt-fruit sweet-cicely, bluntseed sweetroot",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Apiales,Apiaceae,126360,29792,Active,Osmorhiza occidentalis,"sweetanise, western sweetroot",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150322,42707,Active,Allium acuminatum,"tapertip onion, taper-tip onion",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,87021,182634,Active,Allium bisceptrum var. bisceptrum,twincrest onion,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,87022,182635,Active,Allium bisceptrum var. palmeri,aspen onion,Allium palmeri,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150299,42687,Active,Allium nevadense,Nevada onion,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150303,42690,Active,Allium parvum,small onion,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Asparagaceae,142751,43038,Active,Smilacina stellata,Star False Solomon's Seal,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Iridaceae,145173,43255,Active,Sisyrinchium demissum,"dwarf blueeyed grass, dwarf blue-eyed grass, stiff blue-eyed grass, stiff blue-eyed-grass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Orchidaceae,147955,43523,Active,Corallorrhiza maculata,"spotted coralroot, summer coralroot",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Orchidaceae,149609,43633,Active,Listera convallarioides,"broadleaf twayblade, broad-lip twayblade, broadlipped listera, broadlipped twayblade",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Orchidaceae,147011,43425,Active,Platanthera dilatata,"boreal bog orchid, scentbottle, white bog orchid",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Orchidaceae,147013,43427,Active,Platanthera hyperborea,"northern bog orchid, northern green orchid",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Orchidaceae,167539,507119,Active,Platanthera leucostachys,"bog orchid, Sierra bog orchid",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asparagales,Orchidaceae,147064,43473,Active,Spiranthes romanzoffiana,"hooded ladiestresses, hooded ladies'-tresses, hooded lady's tresses",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,85140,182384,Active,Achillea millefolium var. alpicola,common yarrow,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,222681,531956,Active,Achillea millefolium var. lanulosa,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,208853,526863,Active,Agoseris aurantiaca var. purpurea,"orange agoseris, pale agoseris",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141401,36490,Active,Agoseris glauca,Alpine mountain dandelion,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,85170,182410,Active,Agoseris glauca var. laciniata,"Arizona mountain dandelion, false agoseris",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141408,36497,Active,Ambrosia acanthicarpa,"annual bursage, bursage, bursage ragweed, flatspine bur ragweed, flatspine burr ragweed, flat-spine burr-ragweed, sand bursage",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141407,36496,Active,Ambrosia artemisiifolia,"annual ragweed, common ragweed, low ragweed, ragweed, Roman wormwood, short ragweed, small ragweed",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133768,36726,Active,Antennaria corymbosa,"flattop pussytoes, flat-top pussytoes, meadow everlasting",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133769,36727,Active,Antennaria dimorpha,"low everlasting, low pussytoes",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,88640,185151,Active,Antennaria media,Rocky Mountain pussytoes,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,89846,185162,Active,Antennaria microphylla,"littleleaf pussytoes, Rocky Mountain pussytoes, small leaf everlasting, smallleaf pussytoes",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135784,36749,Active,Antennaria parvifolia,"little-leaf pussytoes, Rocky Mountain pussytoes, small leaf pussytoes, smalleaf pussytoes, small-leaf pussytoes",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135790,36754,Active,Antennaria rosea,"rosy pussytoes, rosy pussy-toes",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135798,36761,Active,Antennaria umbrinella,"brown everlasting, umber pussytoes",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141463,36546,Active,Arctium minus,"beggar's button, burdock, common burdock, lesser burdock, lesser burrdock, small burdock, smaller burdock, wild burdock, wild rhubarb",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,221231,532300,Active,Arnica chamissonis var. foliosa,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,293778,566588,Active,Arnica chamissonis var. incana,Chamisso arnica,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141480,36561,Active,Arnica cordifolia,"heartleaf arnica, heart-leaf leopardbane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141488,36569,Active,Arnica longifolia,"longleaf arnica, spearleaf arnica",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141491,36571,Active,Arnica mollis,"hairy arnica, wooly arnica",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133584,35449,Active,Artemisia arbuscula,"little sagebrush, low sagebrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133599,35462,Active,Artemisia dracunculus,"false tarragon, green sagewort, silky wormwood, tarragon, wormwood",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133602,35465,Active,Artemisia frigida,"fringed sagebrush, fringed sagewort, prairie sagewort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133612,35474,Active,Artemisia ludoviciana,"cudweed sagewort, gray sagewort, Louisiana sagewort, Louisiana wormwood, mugwort wormwood, prairie sage, white sagebrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,221336,532350,Active,Artemisia ludoviciana var. incompta,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,221340,532352,Active,Artemisia ludoviciana var. latiloba,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,156261,-501970,Active,Artemisia ludoviciana var. ludoviciana,,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133617,35479,Active,Artemisia michauxiana,"Michaux's sagebrush, Michaux's sagewort, Michaux's wormwood",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,216383,531182,Active,Artemisia nova var. nova,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133636,35496,Active,Artemisia spinescens,bud sagebrush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133639,35499,Active,Artemisia tridentata ssp. tridentata,"basin big sagebrush, big sagebrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,222182,532368,Active,Artemisia tridentata var. vaseyana,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,222184,532369,Active,Artemisia tridentata var. wyomingensis,,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,101602,193303,Active,Aster ascendens,Chile aster,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,134239,35560,Active,Aster eatonii,Eaton's aster,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,100609,193127,Active,Aster foliaceus var. apricus,leafybract aster,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,134301,35616,Active,Aster occidentalis,western aster,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135834,36794,Active,Bahia dissecta,ragleaf bahia,Amauriopsis dissecta,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135854,36811,Active,Balsamorhiza hookeri,"hairy balsamroot, Hooker's balsamroot, neglected balsamroot, rabbithead balsamroot",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,102229,193388,Active,Balsamorhiza hookeri var. hispidula,hairy balsamroot,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135861,36818,Active,Balsamorhiza sagittata,arrowleaf balsamroot,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136716,36866,Active,Brickellia californica,"California brickellbush, Jepson's brickellbush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136744,36891,Active,Brickellia oblongifolia,"Mohave brickellbush, Mojave brickellbush, narrowleaf brickellbush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135958,35787,Active,Carduus nutans,"chardon penche, musk thistle, nodding plumeless thistle, nodding plumeless-thistle, nodding thistle, plumeless thistle",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,151841,501347,Active,Centaurea biebersteinii,spotted knapweed,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137249,36987,Active,Chaenactis douglasii,"Douglas dustymaiden, Douglas' dustymaiden, Douglas' pincushion, dusty maiden, dusty-maiden",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,220516,533335,Active,Chaenactis douglasii var. achilleifolia,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,220520,533337,Active,Chaenactis douglasii var. montana,,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137261,36998,Active,Chaenactis stevioides,"Esteve's pincushion, Steve's dusty maiden, Steve's dustymaiden, Steve's pincushion",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,151902,501376,Active,Chaetopappa ericoides,"rose heath, smallflower aster",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,221733,533537,Active,Chrysopsis villosa var. hispida,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,222312,533555,Active,Chrysothamnus nauseosus var. hololeucus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,222329,533563,Active,Chrysothamnus nauseosus var. oreophilus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137344,37072,Active,Chrysothamnus parryi ssp. parryi,Parry's rabbitbrush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137364,37090,Active,Chrysothamnus viscidiflorus,"Douglas rabbitbrush, Douglas' rabbitbrush, green rabbitbrush, yellow rabbitbrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,222367,533581,Active,Chrysothamnus viscidiflorus var. lanceolatus,,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,222377,533586,Active,Chrysothamnus viscidiflorus var. puberulus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,294273,566625,Active,Chrysothamnus viscidiflorus var. viscidiflorus,yellow rabbitbrush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,139507,36341,Active,Cirsium arizonicum,Arizona thistle,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,140064,36365,Active,Cirsium eatonii,Snake Range thistle,Cirsium eatonii var. viperinum,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,140089,36388,Active,Cirsium neomexicanum,"lavender thistle, New Mexico thistle, powderpuff thistle, Utah thistle",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,140118,36413,Active,Cirsium scariosum,meadow thistle,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,140121,36416,Active,Cirsium subniveum,"gray thistle, Jackson Hole thistle",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,"bull thistle, common thistle, spear thistle",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,140135,36429,Active,Cirsium wheeleri,Wheeler's thistle,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,212077,527477,Active,Conyza canadensis var. glabrata,Canadian horseweed,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138646,37169,Active,Crepis acuminata,"longleaf hawksbeard, long-leaf hawksbeard, tapertip hawksbeard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138650,37172,Active,Crepis atribarba,"hawksbeard, slender hawksbeard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138664,37185,Active,Crepis intermedia,"gray hawksbeard, limestone hawksbeard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138671,37191,Active,Crepis nana,"dwarf alpine hawksbeard, small hawksbeard, tiny hawksbeard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138676,37196,Active,Crepis occidentalis,"largeflower hawksbeard, large-flower hawk's-beard, western hawksbeard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,224720,534055,Active,Crepis occidentalis var. pumila,Slim Western Hawksbeard,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,156949,502361,Active,Ericameria discoidea,whitestem goldenbush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,156959,502366,Active,Ericameria nana,"dwarf goldenbush, low goldenbush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,156972,502372,Active,Ericameria suffruticosa,"bighead goldenbush, singlehead goldenbush, single-head heath-goldenrod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,156974,502373,Active,Ericameria watsonii,"Watson's goldenbush, Watson's heath-goldenrod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,212483,527915,Active,Erigeron aphanactis var. aphanactis,"rayless shaggy daisy, rayless shaggy fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135994,35819,Active,Erigeron argentatus,"silver fleabane, silvery daisy",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136005,35829,Active,Erigeron bloomeri,"Bloomer's daisy, scabland fleabane",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136021,35843,Active,Erigeron compositus,"cutleaf daisy, dwarf mountain fleabane, fernleaf fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,226619,535023,Active,Erigeron compositus var. discoideus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,226621,535024,Active,Erigeron compositus var. glabratus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136031,35852,Active,Erigeron divergens,"spreading daisy, spreading fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136868,35883,Active,Erigeron jonesii,"Jones' daisy, Jones' fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136878,35892,Active,Erigeron leiomerus,"glaber daisy, rockslide yellow fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136897,35909,Active,Erigeron nauseosus,"Marysvale daisy, Marysvale fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136925,35934,Active,Erigeron pumilus,"low daisy, low fleabane, shaggy fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136940,35948,Active,Erigeron simplex,"oneflower fleabane, onestem daisy, onestem fleabane, one-stem fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136949,35956,Active,Erigeron tener,"slender daisy, slender fleabane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,133749,36709,Active,Gnaphalium palustre,"cudweed, lowland cudweed, marsh everlasting, western marsh cudweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141110,37472,Active,Grindelia squarrosa,"curlycup gumweed, curlytop gumweed, gumweed, rosinweed, tarweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,213412,528288,Active,Grindelia squarrosa var. serrulata,"curlycup gumweed, curly-cup gumweed, curlytop gumweed, gumweed, rosinweed, tarweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,"broom snakeweed, broomweed, perennial snakeweed, stinkweed, turpentine weed, yellow top",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,142052,37598,Active,Helianthella uniflora,oneflower helianthella,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,142204,36616,Active,Helianthus annuus,"annual sunflower, common sunflower, sunflower, wild sunflower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,142153,37689,Active,Heterotheca villosa,"hairy false goldaster, hairy false goldenaster, hairy goldaster, hairy goldenaster",Chrysopsis villosa var. scabra,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,143040,37747,Active,Hulsea algida,"alpine hulsea, Pacific hulsea",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,143061,37766,Active,Hymenopappus filifolius,"cutleaf, fineleaf hymenopappus, fine-leaf woollywhite",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,229668,536276,Active,Hymenoxys acaulis var. caespitosa,caespitose hymenoxys,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,212262,528534,Active,Hymenoxys cooperi var. canescens,"Cooper's frostmat, Cooper's hymenoxys, Cooper's rubberweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137432,36033,Active,Iva axillaris,"deer-root, lesser marshelder, mouseear povertyweed, poverty sumpweed, poverty weed, povertyweed, smallflowered marshelder",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,"China lettuce, prickly lettuce, wild lettuce",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,231851,537311,Active,Lygodesmia grandiflora var. dianthopsis,Large-flowered Rush-pink,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,190455,516525,Active,Lygodesmia spinosa,Thorny Skeleton Plant,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,295171,566721,Active,Machaeranthera canescens var. canescens,hoary tansyaster,Dieteria canescens var. canescens,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,145873,38076,Active,Matricaria maritima,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,145916,38114,Active,Microseris nutans,"nodding microseris, nodding silverpuffs",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,135510,38224,Active,Perityle stansburii,Stansbury's rockdaisy,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,136320,38233,Active,Petradoria pumila,"grassy rockgoldenrod, rock goldenrod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138448,36109,Active,Senecio canus,woolly groundsel,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138491,36148,Active,Senecio integerrimus,"lambstongue groundsel, lambstongue ragwort, lamb-tongue ragwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,218092,530318,Active,Senecio integerrimus var. exaltatus,"Columbia groundsel, Columbia ragwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138506,36161,Active,Senecio multilobatus,lobeleaf groundsel,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138534,36187,Active,Senecio streptanthifolius,cleftleaf groundsel,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138543,36195,Active,Senecio werneriifolius,hoary groundsel,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,139377,36224,Active,Solidago canadensis,"Canada goldenrod, Canadian goldenrod, common goldenrod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,216589,530447,Active,Solidago canadensis var. salebrosa,"Canadian goldenrod, salebrosa goldenrod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,139437,36279,Active,Solidago multiradiata,"arctic goldenrod, manyray goldenrod, mountain goldenrod, Rocky Mountain goldenrod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,163985,505290,Active,Solidago velutina,"sparse goldenrod, threenerve goldenrod, three-nerve goldenrod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137730,38424,Active,Sonchus asper,"perennial sowthistle, prickly sow thistle, prickly sowthistle, spiny sowthistle, spiny-leaf sow-thistle",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137740,38433,Active,Sphaeromeria diversifolia,separateleaf chickensage,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137753,38445,Active,Stephanomeria exigua,"small wirelettuce, wire lettuce",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,137763,38454,Active,Stephanomeria spinosa,"Thorny Skeleton-plant, Thorny wire-lettuce",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138550,36200,Active,Taraxacum ceratophorum,"common dandelion, woolbearing dandelion",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,"blowball, common dandelion, dandelion, faceclock",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138072,38494,Active,Tetradymia canescens,"gray horsebrush, spineless horsebrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138076,38498,Active,Tetradymia nuttallii,Nuttall's horsebrush,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138077,38499,Active,Tetradymia spinosa,"shortspine horsebrush, spiny horsebrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,138150,38564,Active,Tragopogon dubius,"common salsify, goat's beard, goatsbeard, meadow goat's-beard, salsifis majeur, salsify, western goat's beard, western salsify, wild oysterplant, yellow goat's beard, yellow salsify",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,202163,522897,Active,Trimorpha lonchophylla,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Asterales,Asteraceae,139203,38674,Active,Wyethia amplexicaulis,"mule-ears, mule's ear wyethia, mulesear wyethia",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,131103,31793,Active,Cryptantha circumscissa,"cushion catseye, cushion cryptantha, matted cryptantha",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,131106,31796,Active,Cryptantha confertiflora,"basin yellow catseye, basin yellow cryptantha, roundleaf cryptantha",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,154132,501824,Active,Cryptantha echinella,"hedgehog cryptantha, prickly cryptantha",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,131121,31809,Active,Cryptantha flavoculata,"roughseed catseye, rough-seed catseye, roughseed cryptantha",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,132067,31820,Active,Cryptantha humilis,"round-spike catseye, roundspike cryptantha",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,132106,31856,Active,Cryptantha pterocarya,"winged pick-me-not, wingnut catseye, wingnut cryptantha",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,132133,31880,Active,Cryptantha torreyana,"Torrey's cat's-eye, Torrey's cryptantha",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,131089,31780,Active,Cryptantha watsonii,Watson's cryptantha,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,132185,31927,Active,Hackelia floribunda,"manyflower stickseed, manyflowered stickseed, showy stickseed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,132173,31916,Active,Hackelia patens,"common stickseed, spotted stickseed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,159251,503329,Active,Lappula occidentalis,"flat-spine sheepburr, flatspine stickseed, western sticktight",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,231183,536594,Active,Lappula redowskii var. cupulata,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,132734,31940,Active,Lithospermum incisum,"fringed gromwell, fringed puccoon, narrowleaf gromwell, narrowleaf pucoon, narrowleaf stoneseed, trumpet stoneseed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,132748,31953,Active,Lithospermum ruderale,"western gromwell, western stoneseed, white stoneseed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,130299,31668,Active,Mertensia ciliata,"mountain bluebells, shortstyle bluebells, tall fringe bluebells, tall fringed bluebells",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,130311,31679,Active,Mertensia franciscana,Franciscan bluebells,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Boraginaceae,130316,31683,Active,Mertensia oblongifolia,"languid-lady, oblongleaf bluebells",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216053,529550,Active,Phacelia crenulata var. crenulata,cleftleaf wildheliotrope,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129877,31529,Active,Phacelia hastata,"silverleaf phacelia, silver-leaf scorpion-weed, spearhead phacelia",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129879,31530,Active,Phacelia hastata var. hastata,"silverleaf phacelia, silver-leaf scorpion-weed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,160654,504273,Active,Phacelia ivesiana,"Ives' phacelia, Ives' scorpion-weed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,123370,23032,Active,Alyssum desertorum,"desert alyssum, desert madwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,120576,22686,Active,Arabis demissa,nodding rockcress,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121249,22689,Active,Arabis drummondii,"Canadian rockcress, Drummond rockcress, Drummond's rockcress",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121256,22695,Active,Arabis glabra,"tower rockcress, tower-mustard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121263,22700,Active,Arabis hirsuta,hairy rockcress,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,89521,184360,Active,Arabis holboellii var. pinetorum,Holboell's rockcress,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,89523,184362,Active,Arabis holboellii var. retrofracta,"a holboell rock-cress, second rockcress",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121285,22720,Active,Arabis perennans,perennial rockcress,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121290,22725,Active,Arabis pulchra,"beautiful rockcress, beauty rockcress",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121299,22733,Active,Arabis shockleyi,Shockley's rockcress,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121307,22740,Active,Barbarea orthoceras,"American yellowrocket, erectpod wintercress, wintercress",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,120479,22599,Active,Camelina microcarpa,"littlepod false flax, little-pod false flax, littlepod falseflax, littleseed falseflax, small fruited falseflax, smallseed falseflax",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121335,22766,Active,Capsella bursa-pastoris,"shepherdspurse, shepherd's-purse",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,210615,527048,Active,Cardamine breweri var. breweri,Brewer's bittercress,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,121360,22789,Active,Cardamine cordifolia,"heartleaf bittercress, large mountain bittercress",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,124488,23080,Active,Caulanthus crassicaulis,"thickstem wild cabbage, thick-stem wild cabbage, thickstem wildcabbage",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,124500,23091,Active,Caulanthus pilosus,"hairy wild cabbage, hairy wildcabbage",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,124508,23099,Active,Chorispora tenella,"beanpodded mustard, blue mustard, bluemustard, common blue mustard, crossflower, purple mustard, tenella mustard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122335,22821,Active,Descurainia californica,"Sierra tansymustard, Sierran tansy mustard, Sierran tansymustard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,178378,512191,Active,Descurainia incisa,mountain tansymustard,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122340,22826,Active,Descurainia pinnata,"green tansymustard, pinnate tansy mustard, pinnate tansymustard, tansymustard, western tansymustard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122346,22831,Active,Descurainia pinnata ssp. halictorum,"western tansy mustard, western tansymustard",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,"flaxweed tansymustard, flixweed, flixweed tansymustard, herb sophia, herb-sophia, pinnate tansymustard, tansymustard",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122370,22853,Active,Draba albertina,"Arc Dome draba, slender draba",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122381,22863,Active,Draba aurea,"golden draba, golden whitlowgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,217955,531277,Active,Draba breweri var. breweri,cushion draba,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122391,22872,Active,Draba crassifolia,"Rocky Mountain draba, snowbed draba, snowbed whitlowgrass, snowbed whitlow-grass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122393,22874,Active,Draba cuneifolia,"wedgeleaf draba, wedgeleaf whitlowgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,216975,531027,Active,Draba cusickii var. pedicellata,Cusick's draba,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122415,22894,Active,Draba nemorosa,"woodland draba, woodland whitlowgrass, woods draba",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,122417,22896,Active,Draba oligosperma,"fewseed draba, glacier draba",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,216979,531029,Active,Draba oreibata var. serpentina,"serpentine draba, Snake Range draba",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,154379,502139,Active,Draba pennellii,Schell Creek draba,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,106535,195784,Active,Erysimum capitatum var. capitatum,"plains wallflower, prairie rocket, sand dune wallflower, western wallflower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,157053,502432,Active,Erysimum inconspicuum,"shy wallflower, smallflower wallflower",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,123305,22974,Active,Lepidium perfoliatum,"clasping pepperweed, clasping pepperwort, claspingleaf pepperweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,215049,528740,Active,Lepidium virginicum var. pubescens,hairy pepperweed,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,125019,23198,Active,Lesquerella kingii ssp. latifolia,"King bladderpod, Wallowa bladderpod",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,203755,524225,Active,Lesquerella occidentalis ssp. cinerascens,western bladderpod,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,125070,23243,Active,Malcolmia africana,"African addersmouth, African malcolmia, African mustard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,125105,23275,Active,Physaria chambersii,Chambers' twinpod,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,123335,23000,Active,Rorippa curvipes,"bluntleaf yellowcress, blunt-leaf yellowcress",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,123326,22993,Active,Rorippa nasturtium-aquaticum,watercress,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,"Jim Hill mustard, tall hedge-mustard, tall mustard, tall tumblemustard, tumble mustard, tumblemustard, tumbleweed mustard",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,214837,530403,Active,Smelowskia calycina var. americana,American false candytuft,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,125968,23329,Active,Stanleya pinnata,"desert prince's-plume, golden prince's-plume",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,125973,23333,Active,Streptanthella longirostris,"longbeak fiddle mustard, longbeak streptanthella",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,125989,23348,Active,Streptanthus cordatus,heartleaf twistflower,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Brassicaceae,126044,23398,Active,Thelypodium integrifolium,"entireleaf thelypody, entire-leaf thelypody, entireleaved thelypody, smoothleaved thelypody",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Brassicales,Cleomaceae,120510,22626,Active,Cleome serrulata,"bee spiderflower, Rocky Mountain beeplant",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117602,20723,Active,Amaranthus blitoides,"mat amaranth, prostrate amaranth, prostrate pigweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,217951,532455,Active,Atriplex canescens var. occidentalis,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111549,20519,Active,Atriplex confertifolia,"shadscale, shadscale saltbush, spiny saltbush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117671,20588,Active,Bassia hyssopifolia,"fivehook bassia, fivehorn smotherweed, smotherweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117727,20593,Active,Chenopodium atrovirens,"dark goosefoot, pinyon goosefoot",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,209398,527316,Active,Chenopodium berlandieri var. zschackii,,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118195,20599,Active,Chenopodium capitatum,"blite goosefoot, strawberry-blite",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118285,20607,Active,Chenopodium fremontii,Fremont's goosefoot,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118652,20616,Active,Chenopodium leptophyllum,"narrowleaf goosefoot, narrowleaf lambsquarters, narrowleaved goosefoot, slimleaf goosefoot, slimleaf lambsquarters",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,119969,20626,Active,Chenopodium overi,Over's goosefoot,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,153807,501485,Active,Chenopodium pratericola,desert goosefoot,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,153811,501487,Active,Chenopodium simplex,"giant-seed goosefoot, mapleleaf goosefoot",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115517,20692,Active,Halogeton glomeratus,"barilla, saltlover",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115539,20694,Active,Kochia americana,"greenmolly, greenmolly kochia, greenmolly summercypress",Neokochia americana,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,158344,503290,Active,Krascheninnikovia lanata,winterfat,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111914,20657,Active,Salsola paulsenii,barbwire Russian thistle,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,"prickly Russian thistle, tumbleweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Cactaceae,211061,528092,Active,Escobaria vivipara var. arizonica,"Arizona pincushion cactus, Arizona spinystar",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Cactaceae,104831,19705,Active,Opuntia erinacea,"grizzlybear pricklypear, Mohave pricklypear",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Cactaceae,105986,19726,Active,Opuntia polyacantha,plains pricklypear,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Cactaceae,110529,19776,Active,Pediocactus simpsonii,"Simpson's hedgehog cactus, snowball pediocactus",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Cactaceae,109322,19763,Active,Sclerocactus pubispinus,Great Basin fishhook cactus,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,88971,184226,Active,Arenaria congesta var. wheelerensis,Wheeler's sandwort,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,220455,533306,Active,Cerastium beeringianum var. capillare,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,202723,523831,Active,Cerastium fontanum ssp. vulgare,"big chickweed, common mouse-ear chickweed",Cerastium fontanum var. vulgare,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,180250,513830,Active,Gastrolychnis drummondii,Drummond's false campion,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,113862,20005,Active,Minuartia nuttallii ssp. fragilis,brittle sandwort,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114699,20008,Active,Minuartia obtusiloba,"alpine sandwort, twinflower sandwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,112278,19983,Active,Minuartia rubella,"beautiful sandwort, boreal stitchwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,116042,20358,Active,Pseudostellaria jamesiana,"sticky starwort, sticky-starwort, tuber starwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,116472,20035,Active,Sagina saginoides,"alpine pearlwort, arctic pearlwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,218181,530360,Active,Silene acaulis var. subacaulescens,"moss campion, moss catchfly",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,218183,530361,Active,Silene douglasii var. douglasii,"Douglas' campion, Douglas' catchfly, seabluff catchfly",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,118155,20066,Active,Silene drummondii,Drummond's False Campion,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,106299,20083,Active,Silene menziesii,"Menzies' campion, white catchfly",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,162894,505232,Active,Silene nachlingerae,"Jan's catchfly, Nachlinger catchfly",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,113215,20177,Active,Stellaria crispa,"crisp starwort, crispleaved chickweed, curled starwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,240187,540953,Active,Stellaria longipes var. altocaulis,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,114509,20197,Active,Stellaria umbellata,"umbellate chickweed, umbrella starwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Montiaceae,160566,503428,Active,Lewisia nevadensis,"Nevada bitterroot, Nevada bitter-root, Nevada lewisia",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Montiaceae,117871,20486,Active,Lewisia pygmaea,"alpine bitterroot, alpine lewisia, pigmy bitterroot",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Montiaceae,118987,20490,Active,Lewisia rediviva,"bitter root, bitterroot, Oregon bitter-root",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Montiaceae,112161,20406,Active,Montia chamissoi,"toadlily, water Indianlettuce, water miner's lettuce, water minerslettuce",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,103730,19565,Active,Abronia nana,dwarf sand verbena,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,110154,19627,Active,Mirabilis alipes,"winged four o'clock, winged four-o'clock",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100394,19651,Active,Mirabilis linearis,"four o'clock, linearleaf four-o'clock, narrowleaf four o'clock, narrowleaf four-o'clock",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,171766,509552,Active,Bistorta bistortoides,American bistort,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119788,21086,Active,Eriogonum caespitosum,"mat buckwheat, mat eriogonum, matted buckwheat, matted wild buckwheat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119813,21108,Active,Eriogonum darrovii,"carrot buckwheat, Darrow's buckwheat, Darrow's wild buckwheat",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102448,195452,Active,Eriogonum deflexum var. nevadense,Nevada buckwheat,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119865,21155,Active,Eriogonum holmgrenii,Holmgren's buckwheat,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119866,21156,Active,Eriogonum hookeri,"Hooker's buckwheat, Hooker's eriogonum, Hooker's wild buckwheat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119868,21158,Active,Eriogonum howellianum,Howell's buckwheat,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119906,21192,Active,Eriogonum microthecum,"slender buckwheat, slenderbush buckwheat, slenderbush eriogonum",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102535,195530,Active,Eriogonum microthecum var. lapidicola,slender buckwheat,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209105,528009,Active,Eriogonum microthecum var. laxiflorum,slender buckwheat,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120731,21212,Active,Eriogonum ovalifolium,"cushion buckwheat, cushion wild buckwheat, ovalleaf eriogonum",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,157013,502413,Active,Eriogonum palmerianum,"Palmer's buckwheat, Palmer's wild buckwheat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120747,21227,Active,Eriogonum puberulum,"puberulent buckwheat, Red Creek buckwheat",Johnneshowellia puberulum,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120751,21230,Active,Eriogonum racemosum,redroot buckwheat,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120767,21245,Active,Eriogonum shockleyi,"Shockley's buckwheat, Shockley's wild buckwheat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120790,21266,Active,Eriogonum umbellatum,"sulfur buckwheat, sulfur eriogonum, sulphur flower buckwheat, sulphur wildbuckwheat, sulphur-flower buckwheat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,103689,195612,Active,Eriogonum umbellatum var. juniporinum,"juniper buckwheat, sulphurflower buckwheat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209549,528025,Active,Eriogonum umbellatum var. subaridum,"sulphur flower buckwheat, sulphurflower buckwheat, sulphur-flower buckwheat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120795,21270,Active,Eriogonum villiflorum,"dairyflower buckwheat, gray buckwheat",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,116005,20846,Active,Oxyria digyna,"alpine mountainsorrel, mountain sorrel",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118703,20872,Active,Polygonum arenastrum,"common knotweed, doorweed, matweed, ovalleaf knotweed, oval-leaf knotweed, prostrate knotweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118780,20879,Active,Polygonum bistortoides,American bistort,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,157428,-502745,Active,Polygonum douglasii var. douglasii,Douglas' knotweed,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,235294,539062,Active,Polygonum douglasii var. johnstonii,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120597,20898,Active,Polygonum kelloggii,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115834,20934,Active,Rumex acetosella,"common sheep sorrel, field sorrel, red sorrel, sheep sorrel",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,"curly dock, narrowleaf dock, sour dock, yellow dock",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,216458,530195,Active,Rumex salicifolius var. denticulatus,"California dock, toothed willow dock",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,236677,539857,Active,Rumex salicifolius var. triangulivalvis,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Caryophyllales,Sarcobataceae,116621,20707,Active,Sarcobatus vermiculatus,"black greasewood, greasewood",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Celastrales,Celastraceae,240049,538348,Active,Parnassia palustris var. parviflora,smallflower grass of Parnassus,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Cornales,Hydrangeaceae,158228,503235,Active,Jamesia tetrapetala,fourpetal cliffbush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Cornales,Loasaceae,159653,503757,Active,Mentzelia albicaulis,"white blazingstar, whitestem blazingstar, whitestem stickleaf, white-stemmed evening-star",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Cornales,Loasaceae,159699,503779,Active,Mentzelia laevicaulis,"blazingstar mentzelia, smoothstem blazingstar",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Crossosomatales,Crossosomataceae,212372,528254,Active,Glossopetalon spinescens var. microphyllum,spiny greasebush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Dipsacales,Adoxaceae,203058,525080,Active,Sambucus nigra ssp. cerulea,"blue elder, blue elderberry, elderberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Dipsacales,Adoxaceae,237592,540293,Active,Sambucus racemosa var. microbotrys,European red elderberry,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131729,35338,Active,Symphoricarpos oreophilus,"mountain snowberry, whortleleaf snowberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,215298,531127,Active,Symphoricarpos rotundifolius var. parishii,Parish's snowberry,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156854,502316,Active,Ephedra nevadensis,"Nevada ephedra, Nevada jointfir, Nevada Mormon tea",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156860,502319,Active,Ephedra viridis,"green ephedra, green Mormon tea, Mormon tea",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Equisetales,Equisetaceae,79672,17152,Active,Equisetum arvense,"common horsetail, field horsetail, scouringrush, western horsetail",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Equisetales,Equisetaceae,79694,17154,Active,Equisetum hyemale,"horsetail, scouring horsetail, scouringrush, scouringrush horsetail, tall scouring-rush, western scouringrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Equisetales,Equisetaceae,212434,527892,Active,Equisetum hyemale var. affine,"scouringrush horsetail, stout scouringrush, tall scouring-rush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Equisetales,Equisetaceae,79716,17156,Active,Equisetum laevigatum,"horsetail, smooth horsetail, smooth scouringrush, smooth scouring-rush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Ericaceae,127239,23512,Active,Arctostaphylos patula,greenleaf manzanita,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Ericaceae,157180,504066,Active,Orthilia secunda,"one-sided wintergreen, sidebells wintergreen",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Ericaceae,120232,23787,Active,Pterospora andromedea,"giant bird's nest, giant pinedrops, woodland pinedrops",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Ericaceae,120195,23753,Active,Pyrola asarifolia,"bog wintergreen, liverleaf wintergreen, pink wintergreen",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Ericaceae,120199,23757,Active,Pyrola chlorantha,"green-flowered shineleaf, green-flowered wintergreen, pale-green wintergreen",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Ericaceae,120203,23760,Active,Pyrola minor,"lesser wintergreen, snowline wintergreen",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Ericaceae,120204,23761,Active,Pyrola picta,white-veined wintergreen,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,138944,31041,Active,Collomia linearis,"narrowleaf mountaintrumpet, narrow-leaf mountain-trumpet, slenderleaf collomia, tiny trumpet",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,139836,31127,Active,Gilia inconspicua,"shy gilia, shy gily-flower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,139862,31150,Active,Gilia leptomeria,"sand gilia, sand gily-flower, slender gilia",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,139792,31088,Active,Gilia sinuata,rosy gilia,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,126960,31181,Active,Gilia tenerrima,delicate gilia,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,126972,31192,Active,Ipomopsis aggregata,"scarlet gilia, skyrocket gilia",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,126973,31193,Active,Ipomopsis aggregata ssp. aggregata,"scarlet gilia, skyrocket gilia",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,126988,31206,Active,Ipomopsis congesta ssp. montana,"ballhead ipomopsis, mountain ballhead gilia",Ipomopsis congesta var. montana,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,126989,31207,Active,Ipomopsis congesta ssp. palmifrons,"ballhead gilia, ballhead ipomopsis",Ipomopsis congesta palmifrons,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,127530,31216,Active,Ipomopsis polycladon,"manybranched gilia, manybranched ipomopsis, sprawling skyrocket",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,127549,31233,Active,Leptodactylon pungens,"common prickly gilia, granite gilia, granite prickly gilia, granite prickly phlox",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,234742,537538,Active,Microsteris gracilis var. humilior,slender phlox,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,137207,30913,Active,Phlox austromontana,"desert mountain phlox, desert phlox, mountain phlox",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,138849,30956,Active,Phlox longifolia,longleaf phlox,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,138876,30980,Active,Phlox pulvinata,"cushion phlox, powder phlox",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,161744,504329,Active,Phlox stansburyi,"cold-desert phlox, Stansbury's phlox",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,205243,524549,Active,Polemonium pulcherrimum ssp. delicatum,"beautiful Jacob's-ladder, skunkweed Jacob's-ladder",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Polemoniaceae,138926,31025,Active,Polemonium viscosum,"sticky Jacob's-ladder, sticky polemonium",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Primulaceae,121068,23935,Active,Androsace septentrionalis,"northern rockjasmine, pygmyflower rockjasmine, pygmy-flower rock-jasmine",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Primulaceae,121083,23949,Active,Dodecatheon alpinum,alpine shootingstar,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Primulaceae,121109,23972,Active,Dodecatheon redolens,scented shootingstar,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Primulaceae,159788,504604,Active,Primula nevadensis,Nevada primrose,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ericales,Primulaceae,121708,24029,Active,Primula parryi,"bog primrose, brook primrose, Parry's primrose",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,121414,25405,Active,Astragalus agrestis,"cock's-head, field milkvetch, purple milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,121432,25421,Active,Astragalus argophyllus,"silverleaf milkvetch, silver-leaf milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,106224,192352,Active,Astragalus argophyllus var. argophyllus,silverleaf milkvetch,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,106249,192375,Active,Astragalus beckwithii var. purpureus,"Beckwith's milkvetch, sagebrush milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,106264,192389,Active,Astragalus calycosus var. calycosus,"Torrey milkvetch, Torrey's milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,107734,192393,Active,Astragalus canadensis var. brevidens,shorttooth Canadian milkvetch,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,208942,526905,Active,Astragalus kentrophyta var. elatus,tall spiny milkvetch,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,96097,192541,Active,Astragalus kentrophyta var. tegetarius,mat milkvetch,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,96114,192557,Active,Astragalus lentiginosus var. diphysus,"double bladder freckled milkvetch, freckled milkvetch, speckledpod milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,122168,25602,Active,Astragalus newberryi,Newberry's milkvetch,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,96364,192661,Active,Astragalus newberryi var. castoreus,"Beaver Dam Mountains milkvetch, Newberry's milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,97873,192820,Active,Astragalus piutensis,"Sevier milkvetch, Sevier's milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,123005,25635,Active,Astragalus platytropis,"broadkeel milkvetch, broadkeeled milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,123072,25696,Active,Astragalus tenellus,"looseflower milkvetch, loose-flower milk-vetch, pulse milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,123095,25716,Active,Astragalus utahensis,"Utah locoweed, Utah milkvetch",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,97855,192804,Active,Astragalus whitneyi var. whitneyi,"balloonpod milkvetch, Whitney's milkvetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,203719,524208,Active,Lathyrus brachycalyx ssp. brachycalyx,"Bonneville pea, Bonneville peavine",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,232700,537017,Active,Lupinus argenteus var. rubricaulis,,Lupinus alpestris,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,291977,566453,Active,Lupinus argenteus var. utahensis,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,158887,503721,Active,Medicago lupulina,"black medic, black medic clover, black medick, hop clover, hop medic, nonesuch, yellow trefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,alfalfa,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,184908,516979,Active,Melilotus albus,"Bokhara-clover, honey-clover, white melilot, white sweet-clover",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,"cornilla real, field melilot, ribbed melilot, yellow sweetclover, yellow sweet-clover",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,122781,26810,Active,Onobrychis viciifolia,"common sainfoin, sainfoin",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,126545,26179,Active,Oxytropis parryi,"Parry pointvetch, Parry's crazyweed, Parry's oxytrope",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,218691,531367,Active,Thermopsis montana var. montana,"goldenpea, mountain goldenbanner",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,126589,26218,Active,Trifolium andinum,"Great Divide clover, Intermountain clover",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,127296,26255,Active,Trifolium gymnocarpon,hollyleaf clover,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,127313,26270,Active,Trifolium longipes,"longstalk clover, long-stalk clover",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,126576,26206,Active,Trifolium repens,"Dutch clover, ladino clover, white clover, white Dutch clover",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Fabaceae,127381,26331,Active,Vicia americana,"American deervetch, American purple vetch, American vetch",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fabales,Polygalaceae,131507,29319,Active,Polygala subspinosa,"spiny milkwort, spiny polygala",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Fagales,Betulaceae,103562,19488,Active,Betula occidentalis,water birch,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Apocynaceae,130899,30156,Active,Apocynum androsaemifolium,"bitterroot, flytrap dogbane, spreading dogbane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Apocynaceae,130900,30157,Active,Apocynum cannabinum,"common dogbane, dogbane, hemp dogbane, Indian hemp, Indian-hemp, prairie dogbane",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Apocynaceae,92790,184794,Active,Apocynum X floribundum,"hybrid dogbane, intermediate dogbane",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Apocynaceae,131864,30304,Active,Asclepias speciosa,showy milkweed,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Gentianaceae,159999,502650,Active,Frasera albomarginata,"desert elkweed, desert frasera",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Gentianaceae,160020,502660,Active,Frasera speciosa,"deer ears, elkweed, green gentian, monument plant, monument-plant, showy frasera",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Gentianaceae,128149,29964,Active,Gentiana affinis,"pleated gentian, Rocky Mountain gentian",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Rubiaceae,137982,34797,Active,Galium aparine,"bedstraw, catchweed bedstraw, cleavers, cleaverwort, goose grass, scarthgrass, stickywilly, sticky-willy, white hedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Rubiaceae,138015,34826,Active,Galium bifolium,"twinleaf bedstraw, twin-leaf bedstraw",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Rubiaceae,138753,34892,Active,Galium multiflorum,"manyflower bedstraw, shrubby bedstraw",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Rubiaceae,224921,535660,Active,Galium trifidum var. pacificum,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Gentianales,Rubiaceae,138799,34933,Active,Galium triflorum,"fragrant bedstraw, sweet bedstraw, sweetscented bedstraw",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,"alfilaree, alfilaria, California filaree, cutleaf filaree, filaree, redstem filaree, redstem stork's bill, stork's bill",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Lamiaceae,135601,32490,Active,Dracocephalum parviflorum,American dragonhead,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Lamiaceae,135626,32512,Active,Hedeoma drummondii,"Drummond's false pennyroyal, Drummond's pennyroyal",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,"horehound, white horehound",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Lamiaceae,134025,32265,Active,Mentha arvensis,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Lamiaceae,136502,32580,Active,Monardella odoratissima,"mountain monardella, Pacific monardella",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130408,33102,Active,Castilleja chromosa,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,133158,33138,Active,Castilleja linariifolia,"Wyoming Indian paintbrush, Wyoming paintbrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130370,33069,Active,Castilleja miniata,"giant red Indian paintbrush, great red Indian paintbrush, great red Indian-paintbrush, scarlet Indian paintbrush, scarlet paintbrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,207533,527202,Active,Castilleja miniata var. miniata,green Indian paintbrush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,130373,33071,Active,Castilleja nana,"dwarf alpine Indian paintbrush, dwarf alpine paintbrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,135017,33165,Active,Castilleja scabrida,"rough Indian paintbrush, rough paintbrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,207560,527215,Active,Castilleja scabrida var. barnebyana,Barneby's Indian paintbrush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,137892,33542,Active,Cordylanthus kingii,"King's bird'sbeak, King's bird's-beak",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,138326,33572,Active,Cordylanthus parviflorus,"purple bird'sbeak, purple bird's-beak",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,138328,33574,Active,Cordylanthus ramosus,"bushy birdbeak, bushy bird's beak, muchbranched bird'sbeak",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134484,34287,Active,Orobanche corymbosa,"flat-top broomrape, Rydberg's broomrape",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,"clustered broomrape, clustered broom-rape, purple broomrape, tufted broomrape",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Orobanchaceae,136633,33367,Active,Pedicularis centranthera,dwarf lousewort,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Phrymaceae,135686,33236,Active,Mimulus guttatus,"common monkeyflower, seep monkeyflower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Phrymaceae,135713,33260,Active,Mimulus lewisii,"Lewis' monkeyflower, purple monkeyflower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Phrymaceae,136599,33336,Active,Mimulus primuloides,"primrose monkeyflower, yellow creeping monkey-flower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Phrymaceae,135724,33270,Active,Mimulus rubellus,"little redstem monkeyflower, red monkeyflower, redstem monkey-flower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Phrymaceae,135726,33272,Active,Mimulus suksdorfii,"miniature monkey-flower, Suksdorf's monkeyflower",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Phrymaceae,160403,503850,Active,Mimulus tilingii,"subalpine monkeyflower, subalpine monkey-flower, Tiling's monkeyflower",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,137883,33534,Active,Collinsia parviflora,"blue-eyed Mary, littleflower collinsia, maiden blue eyed Mary, smallflower blue eyed Mary, small-flower blue-eyed Mary",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131585,33829,Active,Penstemon barnebyi,"Barneby's penstemon, White River Valley beardtongue",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131614,33855,Active,Penstemon concinnus,"Tunnel Springs beardtongue, Tunnel Springs penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130624,33683,Active,Penstemon confusus,"Owens Valley beardtongue, Owens Valley penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131647,33885,Active,Penstemon dolius,"Jones' beardtongue, Jone's penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,215337,529474,Active,Penstemon dolius var. dolius,"Jones' beardtongue, Jones' penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130627,33686,Active,Penstemon eatonii,"Eaton's penstemon, firecracker penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130628,33687,Active,Penstemon eatonii ssp. eatonii,"Eaton's penstemon, firecracker penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130648,33704,Active,Penstemon humilis,"low beardtongue, low penstemon",Penstemon humilis ssp. humilis,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,215373,529491,Active,Penstemon leiophyllus var. francisci-pennellii,"smoothleaf beardtongue, smoothleaf penstemon",Penstemon francisci-pennellii,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130672,33726,Active,Penstemon miser,Malheur penstemon,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,132401,33963,Active,Penstemon pachyphyllus,"thickleaf beardtongue, thickleaf penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,215393,529500,Active,Penstemon pachyphyllus var. congestus,"thickleaf beardtongue, thickleaf penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130685,33738,Active,Penstemon palmeri,Palmer's penstemon,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,159587,504226,Active,Penstemon rostriflorus,"beaked beardtongue, beakflower penstemon, Bridges' penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,130718,33768,Active,Penstemon speciosus,"prairie-clover, royal penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131543,33791,Active,Penstemon watsonii,"Watson's beardtongue, Watson's penstemon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136668,33399,Active,Veronica americana,"American speedwell, brooklime",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,288388,565594,Active,Veronica anagallis-aquatica,"blue water speedwell, water speedwell",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136671,33400,Active,Veronica biloba,"bilobed speedwell, twolobe speedwell, twolobed speedwell",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,204527,524797,Active,Veronica peregrina ssp. xalapensis,"hairy purslane speedwell, neckweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Plantaginaceae,136698,33425,Active,Veronica serpyllifolia ssp. humifusa,"brightblue speedwell, thyme-leaf speedwell",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136663,33394,Active,Verbascum thapsus,"big taper, common mullein, flannel mullein, flannel plant, great mullein, mullein, velvet dock, velvet plant, woolly mullein",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,"bigbract verbena, bracted vervain, carpet vervain, prostrate verbena, prostrate vervain",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Liliales,Liliaceae,140671,42863,Active,Calochortus nuttallii,"sego lily, sego-lily",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Liliales,Liliaceae,161007,502669,Active,Fritillaria atropurpurea,"leopard lily, spotted fritillary, spotted missionbells",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Liliales,Melanthiaceae,144247,43158,Active,Zigadenus elegans,mountain deathcamas,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Liliales,Melanthiaceae,144257,43167,Active,Zigadenus paniculatus,"foothill deathcamas, sand-corn",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Liliales,Melanthiaceae,144258,43168,Active,Zigadenus venenosus,"death camas, meadow deathcamas",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153260,501422,Active,Chamaesyce glyptosperma,"ribseed sandmat, rib-seed sandmat, ridgeseed spurge",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153335,501458,Active,Chamaesyce serpyllifolia,"thymeleaf sandmat, thyme-leaf sandmat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Hypericaceae,156648,503143,Active,Hypericum scouleri,Scouler's St. Johnswort,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Hypericaceae,202821,524171,Active,Hypericum scouleri ssp. nortoniae,Norton's St. Johnswort,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Linaceae,131391,29214,Active,Linum lewisii,"blue flax, Lewis' blue flax, Lewis' flax, prairie flax",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Salicaceae,119649,22452,Active,Populus angustifolia,narrowleaf cottonwood,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Salicaceae,105864,195773,Active,Populus tremuloides,quaking aspen,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Salicaceae,119710,22507,Active,Salix bebbiana,"Bebb's willow, gray willow",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Salicaceae,119712,22509,Active,Salix boothii,"blueberry willow, Booth's willow",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Salicaceae,119734,22529,Active,Salix exigua,"coyote willow, desert willow, narrowleaf willow, sandbar willow",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Violaceae,126945,22117,Active,Viola nephrophylla,"northern bog violet, wanderer violet",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Violaceae,126949,22120,Active,Viola nuttallii,"Nuttall's violet, yellow prairie violet",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Violaceae,204581,524822,Active,Viola praemorsa ssp. linguifolia,upland yellow violet,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malpighiales,Violaceae,116093,22145,Active,Viola purpurea,"goosefoot violet, goose-foot yellow violet, pine violet",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malvales,Malvaceae,124868,21812,Active,Iliamna rivularis,"streambank globe-mallow, streambank wild hollyhock",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malvales,Malvaceae,124894,21836,Active,Malva neglecta,"buttonweed, cheeseplant, cheeseweed, common mallow, dwarf mallow, roundleaf mallow",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malvales,Malvaceae,124919,21859,Active,Sidalcea candida,"white checkerbloom, white checkermallow",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Malvales,Malvaceae,125811,21939,Active,Sphaeralcea grossulariifolia,"currant-leaf globemallow, gooseberryleaf globemallow, gooseberry-leaf globemallow",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,155634,501160,Active,Calylophus lavandulifolius,"lavender calylophus, lavender sundrop, lavenderleaf eveningprimrose, lavenderleaf sundrops",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,128791,27537,Active,Camissonia pterosperma,"wingfruit suncup, wing-fruit suncup, wingseed suncup",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,128793,27539,Active,Camissonia pusilla,little wiry suncup,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,224527,534922,Active,Epilobium alpinum var. clavatum,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,126648,27284,Active,Epilobium angustifolium,"blooming sally, fireweed, French-willow, great willowherb, rosebay willowherb, willowherb",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,126652,27288,Active,Epilobium brachycarpum,"autumn willowherb, autumn willowweed, tall annual willowherb",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,224560,534938,Active,Epilobium ciliatum var. glandulosum,Winter bud willow-herb,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,126668,27301,Active,Epilobium glaberrimum,"glaucus willowherb, smooth willowweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,126671,27304,Active,Epilobium halleanum,"glandular willowherb, Hall's willowweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,156134,-502306,Active,Epilobium hornemannii var. hornemannii,Hornemann's willow-herb,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,129472,27670,Active,Gayophytum decipiens,Least Diffuse Groundsmoke,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,225788,535690,Active,Gayophytum diffusum var. strictipes,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,129480,27678,Active,Gayophytum racemosum,"blackfoot groundsmoke, black-foot groundsmoke",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,129481,27679,Active,Gayophytum ramosissimum,"muchbranched groundsmoke, pinyon groundsmoke",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,292218,566061,Active,Oenothera caespitosa ssp. marginata,"tufted evening primrose, tufted evening-primrose",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,202376,524352,Active,Oenothera elata ssp. hirsutissima,"Hooker's evening primrose, Hooker's eveningprimrose, Hooker's evening-primrose",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,127836,27397,Active,Oenothera flava,"long-tube evening primrose, long-tube evening-primrose, yellow evening primrose, yellow eveningprimrose, yellow evening-primrose",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,127880,27436,Active,Oenothera pallida,"pale evening primrose, pale eveningprimrose, pale evening-primrose",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Myrtales,Onagraceae,230474,537943,Active,Oenothera pallida var. runcinata,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Cupressaceae,103497,194820,Active,Juniperus communis,"common juniper, dwarf juniper",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Cupressaceae,214018,528646,Active,Juniperus communis var. depressa,common juniper,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Cupressaceae,103539,194859,Active,Juniperus osteosperma,Utah juniper,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Cupressaceae,103554,194872,Active,Juniperus scopulorum,Rocky Mountain juniper,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,91287,181826,Active,Abies concolor,"balsam fir, Colorado fir, concolor fir, silver fir, white balsam, white fir",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,93033,183291,Active,Picea engelmannii,"Columbian spruce, Engelmann spruce, Engelmann's spruce, mountain spruce, silver spruce, white spruce",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,93091,183343,Active,Pinus flexilis,"limber pine, Rocky Mountain white pine",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,93101,183352,Active,Pinus longaeva,Great Basin bristlecone pine,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,93102,183353,Active,Pinus monophylla,"nut pine, one-leaf pine, singleleaf pinyon",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,93115,183365,Active,Pinus ponderosa,"blackjack pine, bull pine, ponderosa pine, rock pine, western yellow pine",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,213205,529675,Active,Pinus ponderosa var. scopulorum,"Black Hills ponderosa pine, interior pondersosa pine, ponderosa pine, Rocky Mountain ponderosa pine",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,93983,183424,Active,Pseudotsuga menziesii,"Douglas spruce, Douglas-fir, Oregon pine, red fir",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Pinales,Pinaceae,93987,183428,Active,Pseudotsuga menziesii var. glauca,"blue Douglas-fir, Colorado Douglas-fir, Douglas-fir, inland Douglas-fir, Rocky Mountain Douglas-fir",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,145366,39486,Active,Carex albonigra,"blackandwhite sedge, black-and-white sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,144425,39374,Active,Carex aquatilis,water sedge,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,145321,39445,Active,Carex aurea,"golden sedge, golden-fruit sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,146153,39575,Active,Carex deweyana,"Dewey sedge, Dewey's sedge, round-fruit short-scale sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,146155,39577,Active,Carex disperma,"softleaf sedge, soft-leaf sedge, softleaved sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,146156,39578,Active,Carex douglasii,"Douglas sedge, Douglas' sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,156451,501216,Active,Carex duriuscula,"needleleaf sedge, spike-rush sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,146168,39589,Active,Carex elynoides,"blackroot sedge, black-root sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,146213,39629,Active,Carex hassei,"Hasse's sedge, salt sedge, saltsedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,156478,501229,Active,Carex haydeniana,"cloud sedge, Hayden sedge, Hayden's sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,146218,39633,Active,Carex helleri,"Heller's sedge, Sierra sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,146220,39635,Active,Carex heteroneura,"different nerve sedge, different-nerve sedge, nerve sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137540,39699,Active,Carex microptera,"ovalhead sedge, smallwing sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137554,39710,Active,Carex nardina,spike sedge,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137555,39711,Active,Carex nebrascensis,Nebraska sedge,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137567,39722,Active,Carex nova,"black sedge, new sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137571,39726,Active,Carex occidentalis,western sedge,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,166951,507767,Active,Carex pellita,woolly sedge,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137599,39751,Active,Carex petasata,"Liddon sedge, Liddon's sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137601,39753,Active,Carex phaeocephala,"dunehead sedge, dunhead sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137616,39767,Active,Carex praegracilis,"clustered field sedge, slim sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,137637,39786,Active,Carex rossii,"Ross sedge, Ross' sedge, Ross's sedge, shortstemmed sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,138183,39799,Active,Carex scirpoidea,"Canadian single-spike sedge, downy sedge, northern singlespike sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,138186,39800,Active,Carex scopulorum,"Holm's Rocky Mountain sedge, mountain sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,206759,527155,Active,Carex scopulorum var. bracteosa,"craterlike sedge, mountain sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,138192,39806,Active,Carex simulata,"analogue sedge, shortbeak sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,138215,39827,Active,Carex subfusca,brown sedge,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,138217,39829,Active,Carex subnigricans,"black sedge, nearlyblack sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,138252,39860,Active,Carex vallicola,valley sedge,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,138268,39875,Active,Carex xerantica,"whitescale sedge, white-scale sedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,139099,40025,Active,Eleocharis acicularis,"needle spikerush, needle spikesedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,139107,40032,Active,Eleocharis bolanderi,Bolander's spikerush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,140191,40051,Active,Eleocharis macrostachya,pale spikerush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,139092,40019,Active,Eleocharis palustris,"common spikerush, creeping spikerush, creeping spike-rush, marsh spike-rush, spikesedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,140204,40063,Active,Eleocharis parishii,"Parish spikerush, Parish's spikerush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,155293,502240,Active,Eleocharis quinqueflora,"fewflower spikerush, few-flower spikerush, few-flower spike-rush, fewflowered spikesedge",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Cyperaceae,140927,40235,Active,Scirpus microcarpus,"panicled bulrush, red-tinge bulrush, smallfruit bulrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,203813,525993,Active,Juncus arcticus ssp. ater,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,143439,39223,Active,Juncus balticus,Baltic rush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,toad rush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,143481,39261,Active,Juncus confusus,Colorado rush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,228555,536428,Active,Juncus ensifolius var. brunnescens,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,228560,536430,Active,Juncus ensifolius var. montanus,Rocky Mountain rush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,158272,503256,Active,Juncus longistylis,"long-style rush, long-styled rush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,143516,39293,Active,Juncus mertensianus,Mertens' rush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,143518,39295,Active,Juncus nevadensis,"Nevada rush, Sierra rush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,143525,39300,Active,Juncus parryi,"Parry rush, Parry's rush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,144366,39320,Active,Juncus torreyi,"Torrey rush, Torrey's rush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,144395,39347,Active,Luzula parviflora,"millet woodrush, smallflower woodrush, smallflowered woodrush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Juncaceae,144399,39350,Active,Luzula spicata,"spiked woodrush, spiked wood-rush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,168693,507943,Active,Achnatherum hymenoides,Indian Ricegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,168699,507946,Active,Achnatherum lettermanii,Letterman needlegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,168703,507948,Active,Achnatherum nelsonii,Columbia needlegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,203111,525105,Active,Achnatherum nelsonii ssp. dorei,Columbia needlegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,203115,525107,Active,Achnatherum nelsonii ssp. nelsonii,Columbia needlegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,168716,507954,Active,Achnatherum pinetorum,pine needlegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,168724,507958,Active,Achnatherum speciosum,desert needlegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,141881,40372,Active,Agropyron desertorum,Desert Crested Wheatgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,142882,40412,Active,Agrostis exarata,spike bentgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,86343,182505,Active,Agrostis humilis,"alpine bentgrass, mountain bent grass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,142895,40424,Active,Agrostis scabra,"rough bent, rough bentgrass, ticklegrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,142869,40400,Active,Agrostis stolonifera,"carpet bentgrass, creeping bent, creeping bentgrass, redtop, redtop bent, seaside bentgrass, spreading bent",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,86349,182510,Active,Agrostis thurberiana,Thurber's bentgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,142908,40436,Active,Alopecurus aequalis,"short foxtail, shortawn foxtail, short-awn meadow-foxtail",,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,140392,41429,Active,Aristida purpurea,"purple 3-awn, purple threeawn, purple three-awn, red threeawn",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,blue grama,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,292410,565860,Active,Bromus anomalus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,142958,40481,Active,Bromus carinatus,"California brome, mountain brome",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,142974,40496,Active,Bromus ciliatus,fringed brome,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,142982,40502,Active,Bromus inermis,"awnless brome, smooth brome",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,"cheat grass, cheatgrass, downy brome, early chess, military grass, wild oats",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,143573,40544,Active,Calamagrostis canadensis,"bluejoint, bluejoint reedgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,143594,40563,Active,Calamagrostis purpurascens,purple reedgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,154678,501106,Active,Calamagrostis stricta,"narrowspike reedgrass, slim-stem reed grass, slimstem reedgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,141048,41541,Active,Catabrosa aquatica,"brookgrass, water whorl grass, water whorlgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,103360,193446,Active,Dactylis glomerata,"cocksfoot, orchard grass, orchardgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,141954,41638,Active,Danthonia intermedia,timber oatgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,141952,41636,Active,Danthonia unispicata,"onespike danthonia, onespike oatgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,143619,40586,Active,Deschampsia caespitosa,tufted hairgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,143628,40594,Active,Deschampsia elongata,slender hairgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,"desert saltgrass, inland saltgrass, marsh spikegrass, saltgrass, seashore saltgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,177071,512804,Active,Elymus albicans,Montana wheatgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144553,40689,Active,Elymus cinereus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,203126,525112,Active,Elymus elymoides ssp. californicus,squirreltail,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,223864,534862,Active,Elymus elymoides var. brevifolius,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,156097,-502289,Active,Elymus elymoides var. elymoides,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144548,40684,Active,Elymus glaucus,"blue wild rye, blue wildrye",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,178053,512825,Active,Elymus hispidus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,200371,524037,Active,Elymus lanceolatus ssp. lanceolatus,"streambank wheatgrass, streamside wild rye, thickspike wheatgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,156071,502277,Active,Elymus scribneri,"Scribner's wild rye, Scribner's wildrye, spreading wheatgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,178093,512844,Active,Elymus smithii,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,178095,512845,Active,Elymus spicatus,bluebunch wheatgrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,156082,502282,Active,Elymus trachycaulus,"slender wheatgrass, slender wild rye",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,200378,524040,Active,Elymus trachycaulus ssp. subsecundus,"bearded wheatgrass, slender wheatgrass, slender wild rye",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,156110,-502295,Inactive,Elymus trachycaulus var. trachycaulus,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144578,40710,Active,Elymus triticoides,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,143273,41717,Active,Eremopyrum triticeum,"annual false wheatgrass, annual wheatgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,145630,40794,Active,Festuca brachyphylla,alpine fescue,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,159915,502610,Active,Festuca minutiflora,"smallflower fescue, small-flower fescue",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,145642,40804,Active,Festuca ovina,sheep fescue,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,227816,535462,Active,Festuca ovina var. brevifolia,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,227839,535473,Active,Festuca ovina var. rydbergii,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,145632,40796,Active,Festuca rubra,"ravine fescue, red fescue",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,145674,40833,Active,Glyceria striata,"fowl manna grass, fowl mannagrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,169441,507974,Active,Hesperostipa comata,needle and thread,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,146261,40871,Active,Hordeum jubatum,foxtail barley,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,146264,40874,Active,Hordeum vulgare,"barley, cereal barley, common barley",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144087,41832,Active,Leucopoa kingii,"spike fescue, spike-fescue",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,169460,507983,Active,Lolium pratense,"meadow fescue, meadow ryegrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144108,41851,Active,Melica bulbosa,"bulbous oniongrass, oniongrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144160,41899,Active,Muhlenbergia asperifolia,"alkali muhly, scratchgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,144204,41938,Active,Muhlenbergia richardsonis,"mat muhly, soft-leaf muhly",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,159909,-502607,Inactive,Munroa squarrosa,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,145075,41986,Active,Oryzopsis exigua,little ricegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,147309,41063,Active,Phleum alpinum,alpine timothy,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,147308,41062,Active,Phleum pratense,"common timothy, timothy",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,169477,507991,Active,Piptatherum micranthum,"little-seed mountain-rice grass, littleseed ricegrass, Piptatherum micranthum",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,148055,41107,Active,Poa annua,"annual blue grass, annual bluegrass, walkgrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,148065,41116,Active,Poa bulbosa,"bulbous blue grass, bulbous bluegrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,147330,41082,Active,Poa compressa,"Canada bluegrass, flat-stem blue grass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,148071,41121,Active,Poa cusickii,Cusick's bluegrass,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,164251,504467,Active,Poa fendleriana,"mutton grass, muttongrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,156551,-502724,Active,Poa glauca var. glauca,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,233541,538994,Active,Poa glauca var. rupicola,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,148093,41141,Active,Poa leptocoma,"bog bluegrass, bog bluegrass, marsh, marsh bluegrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,147346,41097,Active,Poa nervosa,Wheeler bluegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,Kentucky bluegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,164264,504473,Active,Poa reflexa,nodding bluegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,147354,41103,Active,Poa secunda,"big bluegrass, Sandberg bluegrass, Sandberg's bluegrass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,171404,508133,Active,Poa wheeleri,Wheeler's bluegrass,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,159857,504637,Active,Pseudoroegneria spicata,"bluebunch wheatgrass, bluebunch-wheat grass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,206029,524600,Active,Pseudoroegneria spicata ssp. spicata,"bluebunch wheatgrass, bluebunch-wheat grass",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,139244,41231,Active,Setaria viridis,"bottle grass, green bristle grass, green bristlegrass, green foxtail, pigeongrass, wild millet",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,139296,41279,Active,Sphenopholis obtusata,"prairie wedgegrass, prairie wedgescale",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,146055,42128,Active,Sporobolus airoides,"alkali sacaton, alkali-sacaton",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,sand dropseed,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,217811,530571,Active,Stipa comata var. comata,needleandthread,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,139313,41294,Active,Trisetum spicatum,spike trisetum,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,139334,41312,Active,Trisetum wolfii,"wolf trisetum, Wolf's trisetum",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Poaceae,215522,530862,Active,Vulpia octoflora var. hirtella,sixweeks fescue,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Poales,Typhaceae,147660,42326,Active,Typha latifolia,"broadleaf cattail, cattail, common cattail",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Polypodiales,Aspleniaceae,75949,17366,Active,Asplenium trichomanes-ramosum,"brightgreen spleenwort, green spleenwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81606,17441,Active,Cheilanthes feei,"Fee's lipfern, slender lip fern, slender lipfern",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Polypodiales,Pteridaceae,76741,17643,Active,Pellaea breweri,Brewer's cliffbrake,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,79721,17416,Active,Athyrium filix-femina ssp. cyclosorum,subarctic ladyfern,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84468,17482,Active,Cystopteris fragilis,"brittle bladder fern, brittle bladderfern, fragile fern",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104816,195045,Active,Mahonia repens,"creeping barberry, creeping mahonia, Oregon grape, Trunkee barberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Papaveraceae,102594,18916,Active,Argemone munita,"flat-bud prickly poppy, flatbud pricklypoppy",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Papaveraceae,99305,18999,Active,Corydalis aurea,"golden corydalis, scrambled eggs",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,88503,18416,Active,Aconitum columbianum,Columbian monkshood,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,95198,18723,Active,Actaea rubra,"red baneberry, western baneberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,88463,184123,Active,Anemone multifida var. hudsoniana,Hudson's anemone,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,291792,565004,Active,Aquilegia caerulea,Colorado blue columbine,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96289,18738,Active,Aquilegia formosa,"crimson columbine, western columbine",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97174,18746,Active,Aquilegia scopulorum,"blue columbine, Utah columbine",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,151879,501365,Active,Ceratocephala testiculata,"bur buttercup, curveseed butterwort, curve-seed-butterwort",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93504,18702,Active,Clematis ligusticifolia,"hierba de chivo, old-man's-beard, virgins bower, virginsbower, virgin's-bower, western white clematis",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,156272,501976,Active,Delphinium andersonii,Anderson's larkspur,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,103619,194930,Active,Ranunculus adoneus var. alpinus,alpine buttercup,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,94582,18585,Active,Ranunculus alismifolius,"dwarf buttercup, plantainleaf buttercup",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,104694,194936,Active,Ranunculus alismifolius var. montanus,waterplantain buttercup,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,95435,18590,Active,Ranunculus andersonii,"Anderson's buttercup, pink buttercup",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96869,18600,Active,Ranunculus cymbalaria,"alkali buttercup, shore buttercup",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,217819,529964,Active,Ranunculus cymbalaria var. saximontanus,Rocky Mountain buttercup,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96880,18601,Active,Ranunculus eschscholtzii,"Eschscholtz's buttercup, largeflower buttercup, spruce-fir buttercup",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97712,18616,Active,Ranunculus inamoenus,graceful buttercup,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,90541,18661,Active,Thalictrum alpinum,"alpine meadowrue, alpine meadow-rue",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91431,18670,Active,Thalictrum fendleri,"Fendler's meadowrue, Fendler's meadow-rue",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,91530,18679,Active,Thalictrum sparsiflorum,"fewflower meadowrue, fewflower meadow-rue",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130518,27770,Active,Elaeagnus angustifolia,"oleaster, Russian olive, Russian-olive, Trebizond-date",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130527,27779,Active,Shepherdia canadensis,"russet buffaloberry, russet buffalo-berry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rhamnaceae,124305,28486,Active,Ceanothus martinii,Martin's ceanothus,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,129597,25121,Active,Amelanchier utahensis,"Utah serviceberry, Utah shadberry, western serviceberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,129610,25133,Active,Cercocarpus intricatus,littleleaf mountain-mahogany,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,129611,25134,Active,Cercocarpus ledifolius,"curlleaf cercocarpus, curl-leaf mountain-mahogany",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,106614,195855,Active,Cercocarpus ledifolius var. intermontanus,curl-leaf mountain-mahogany,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,129620,25142,Active,Chamaebatiaria millefolium,"desert sweet, fernbush",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,126278,24654,Active,Geum macrophyllum,"largeleaf avens, large-leaf avens",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,212353,528245,Active,Geum macrophyllum var. perincisum,"largeleaf avens, large-leaf avens",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,126285,24660,Active,Geum rossii,"alpine avens, Ross' avens",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,106590,195833,Active,Geum rossii var. turbinatum,Ross' avens,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,130595,25178,Active,Holodiscus dumosus,"bush oceanspray, rockspirea",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,190992,518677,Active,Pentaphylloides fruticosa,shrubby cinquefoil,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,120326,25270,Active,Peraphyllum ramosissimum,"squaw apple, squawapple, wild crab apple",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,120328,25272,Active,Petrophyton caespitosum,"mat rockspirea, rockspirea, tufted rockmat",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,120334,25278,Active,Physocarpus alternans,dwarf ninebark,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,126314,24687,Active,Potentilla anserina,Silverweed,,Probably Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,126323,24695,Active,Potentilla biennis,biennial cinquefoil,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,126997,24700,Active,Potentilla concinna,"elegant cinquefoil, red cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,126999,24702,Active,Potentilla diversifolia,"mountain-meadow cinquefoil, varileaf cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127008,24710,Active,Potentilla fruticosa,shrubby cinquefoil,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127011,24713,Active,Potentilla glandulosa,"gland cinquefoil, sticky cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127012,24714,Active,Potentilla gracilis,"graceful cinquefoil, northwest cinquefoil, slender cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,215183,529825,Active,Potentilla gracilis var. brunnescens,"sagebrush cinquefoil, slender cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,233074,539212,Active,Potentilla gracilis var. elmeri,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,233082,539216,Active,Potentilla gracilis var. pulcherrima,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,158774,504583,Active,Potentilla multisecta,"alpine cinquefoil, featherleaf cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127028,24729,Active,Potentilla nivea,"snow cinquefoil, snowy cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,233107,539228,Active,Potentilla norvegica var. hirsuta,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127032,24732,Active,Potentilla ovina,sheep cinquefoil,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,215892,529832,Active,Potentilla ovina var. decurrens,sheep cinquefoil,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,215894,529833,Active,Potentilla ovina var. ovina,sheep cinquefoil,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127036,24736,Active,Potentilla pensylvanica,"Pennsylvania cinquefoil, prairie cinquefoil",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,159755,504589,Active,Potentilla rubricaulis,Rocky Mountain cinquefoil,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127114,24806,Active,Prunus virginiana,"chokecherry, common chokecherry, Virginia chokecherry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,216020,529893,Active,Prunus virginiana var. demissa,western chokecherry,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,216022,529894,Active,Prunus virginiana var. melanocarpa,"black chokecherry, choke cherry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,106662,195899,Active,Purshia mexicana,Mexican cliffrose,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,107335,195901,Active,Purshia stansburiana,Stansbury's cliffrose,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,120348,25290,Active,Purshia tridentata,antelope bitterbrush,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,127958,24847,Active,Rosa woodsii,Woods' rose,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,215629,530129,Active,Rosa woodsii var. ultramontana,Woods' rose,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,128870,24947,Active,Rubus idaeus,"American red raspberry, common red raspberry, western red raspberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,206104,524636,Active,Rubus idaeus ssp. strigosus,"common red raspberry, grayleaf raspberry, grayleaf red raspberry, red raspberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Rosaceae,120368,25308,Active,Sibbaldia procumbens,"creeping sibbaldia, creeping-glow-wort, prostrate sibbaldia",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Rosales,Urticaceae,99873,19152,Active,Urtica dioica,"California nettle, slender nettle, stinging nettle, tall nettle",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Santalales,Santalaceae,91859,184676,Active,Arceuthobium abietinum,fir dwarf mistletoe,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Santalales,Santalaceae,91861,184678,Active,Arceuthobium cyanocarpum,limber pine dwarf mistletoe,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Santalales,Santalaceae,131317,27891,Active,Arceuthobium divaricatum,pinyon dwarf mistletoe,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Santalales,Santalaceae,131318,27892,Active,Arceuthobium douglasii,Douglas fir dwarf mistletoe,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Santalales,Santalaceae,155905,501614,Active,Comandra umbellata,bastard toadflax,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Santalales,Santalaceae,224984,533741,Active,Comandra umbellata var. pallida,Pallid bastard toadflax,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Santalales,Santalaceae,131289,27866,Active,Phoradendron juniperinum,"incense cedar mistletoe, juniper mistletoe",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Sapindales,Anacardiaceae,238556,539586,Active,Rhus aromatica var. trilobata,"ill-scented sumac, skunkbush sumac",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Sapindales,Sapindaceae,126732,28742,Active,Acer glabrum,"California mountain maple, Douglas' maple, dwarf maple, mountain maple, New Mexico maple, Rocky Mountain maple, Sierra maple",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Sapindales,Sapindaceae,126734,28744,Active,Acer glabrum ssp. diffusum,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Crassulaceae,122455,24099,Active,Crassula aquatica,"common pigmyweed, water pygmyweed",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Crassulaceae,122470,24111,Active,Sedum debile,"orpine stonecrop, weakstem stonecrop",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Crassulaceae,122486,24126,Active,Sedum lanceolatum,"lanceleaf stonecrop, lance-leaf stonecrop, spearleaf stonecrop",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Crassulaceae,234464,540533,Active,Sedum rosea var. integrifolium,,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,213782,530041,Active,Ribes aureum var. aureum,golden currant,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125256,24457,Active,Ribes cereum,wax currant,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125274,24473,Active,Ribes inerme,"whitestem gooseberries, whitestem gooseberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Grossulariaceae,125288,24486,Active,Ribes montigenum,"alpine prickly currant, gooseberry currant, mountain gooseberry",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124352,24366,Active,Heuchera parvifolia,"common alumroot, littleleaf alumroot, little-leaf alumroot",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124360,24373,Active,Heuchera rubescens,pink alumroot,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124384,24395,Active,Lithophragma glabrum,"bulbous woodland-star, smooth woodland-star",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,124391,24400,Active,Lithophragma tenellum,slender woodland-star,,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,123422,24248,Active,Saxifraga adscendens,"rock saxifrage, wedgeleaf saxifrage",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,160104,505027,Active,Saxifraga odontoloma,"brook saxifrage, streambank saxifrage",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Saxifragales,Saxifragaceae,123419,24245,Active,Saxifraga rivularis,"alpine brook saxifrage, pygmy saxifrage, weak saxifrage",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Selaginellales,Selaginellaceae,76158,17101,Active,Selaginella watsonii,"alpine spikemoss, Watson's spikemoss",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,"creeping jenny, European bindweed, field bindweed, perennial morningglory, smallflowered morningglory",,Present
+GRBA,Great Basin National Park,Vascular Plant,6,Solanales,Solanaceae,134416,30571,Active,Nicotiana attenuata,"coyote tabacco, coyote tobacco",,Present

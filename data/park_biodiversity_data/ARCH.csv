@@ -1,0 +1,843 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,Pronghorn,,Present
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,Bighorn Sheep,Ovis canadensis nelsoni,Present
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Cervidae,155879,-501601,Inactive,Cervus canadensis,Elk,Cervus elaphus,Present
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Common Gray Fox,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,Kit Fox,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,Felis rufus,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,Felis concolor,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,Northern River Otter,"Lutra canadensis sonorae, Lutra canadensis",Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Probably Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American Black Bear,,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,Tadarida macrotis,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian Free-tailed Bat,"Tadarida brasiliensis mexicana, Tadarida mexicana",Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,Plecotus townsendii,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,Spotted Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88735,180012,Active,Idionycteris phyllotis,Allen's Big-eared Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,Myotis californicus stephensi,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,Long-eared Myotis,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,Myotis thysanodes thysanodes,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,Myotis yumanensis yumanensis,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,,Present
+ARCH,Arches National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,Black-tailed Jackrabbit,,Present
+ARCH,Arches National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American Beaver,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91771,180374,Active,Neotoma lepida,Desert Woodrat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,Common Muskrat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,Brush Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,Canyon Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,Pinon Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Heteromyidae,90727,180261,Active,Perognathus flavescens,Plains Pocket Mouse,Perognathus apache,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,White-tailed Antelope Squirrel,Citellus leucurus,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,90642,180185,Active,Cynomys leucurus,White-tailed Prairie Dog,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,694891,-756511,Active,Neotamias rufus,Hopi Chipmunk,"Tamias rufus, Eutamias quadrivittatus",Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,,Present
+ARCH,Arches National Park,Mammal,1,Soricomorpha,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's Desert Shrew,,Probably Present
+ARCH,Arches National Park,Mammal,1,Soricomorpha,Soricidae,88663,179949,Active,Sorex merriami,Merriam's Shrew,,Probably Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Probably Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Cathartidae,79478,175274,Active,Gymnogyps californianus,California Condor,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Probably Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Probably Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common Merganser,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+ARCH,Arches National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+ARCH,Arches National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,164584,-505721,Inactive,Actitis macularius,Spotted Sandpiper,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Wilson's Snipe,Gallinago gallinago,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed Dowitcher,,Probably Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82752,177139,Active,Streptopelia decaocto,Eurasian Collared-Dove,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+ARCH,Arches National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+ARCH,Arches National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+ARCH,Arches National Park,Bird,2,Galliformes,Phasianidae,84331,175908,Active,Alectoris chukar,Chukar,,Present
+ARCH,Arches National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+ARCH,Arches National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+ARCH,Arches National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,738047,-9778299,Active,Passerina amoena X cyanea,Lazuli x Indigo Bunting hybrid,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,154775,-501544,Inactive,Passerina caerulea,Blue Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Probably Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,918880,916621,Active,Aphelocoma woodhouseii,Woodhouse's Scrub-Jay,Aphelocoma californica,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,154788,-501550,Inactive,Pica hudsonia,Black-billed Magpie,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95280,179230,Active,Carduelis flammea,Common Redpoll,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,Purple Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94337,179222,Active,Leucosticte atrata,Black Rosy-Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern Shrike,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,89989,178636,Active,Toxostoma bendirei,Bendire's Thrasher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Paridae,153338,-501459,Inactive,Baeolophus ridgwayi,Juniper Titmouse,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,MacGillivray's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92621,178866,Active,Vermivora luciae,Lucy's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,1005406,997723,Active,Artemisiospiza nevadensis,Sagebrush Sparrow,Amphispiza belli,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,163233,-504378,Inactive,Junco hyemalis caniceps,Dark-eyed Junco (Gray-headed),Junco hyemalis,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84756,179412,Active,Junco hyemalis hyemalis,Dark-eyed Junco (Slate-colored),,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84760,179416,Active,Junco hyemalis mearnsi,Dark-eyed Junco (Pink-sided),,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84761,179417,Active,Junco hyemalis oreganus,Dark-eyed Junco (Oregon),,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85638,179488,Active,Melospiza georgiana,Swamp Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,Chlorura chlorura,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84795,179448,Active,Spizella atrogularis,Black-chinned Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84802,179454,Active,Zonotrichia querula,Harris' Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,Plumbeous Vireo,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,White-faced Ibis,,Probably Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis' Woodpecker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,,Present
+ARCH,Arches National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+ARCH,Arches National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,Eared Grebe,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,Western Screech-Owl,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,681737,-750136,Inactive,Elaphe emoryi,Great Plains ratsnake,Elaphe guttata emoryi,Probably Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,nightsnake,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,striped whipsnake,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,gophersnake,Pituophis melanoleucus deserticola,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,black-necked gartersnake,Thamnophis cyrtopsis cyrtopsis,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,terrestrial gartersnake,Thamnophis elegans vagrans,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,eastern collared lizard,Crotaphytus collaris baileyi,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,long-nosed leopard lizard,Gambelia wislizenii punctata,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,common sagebrush lizard,Sceloporus graciosus graciosus,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,118723,208738,Active,Sceloporus tristichus,plateau lizard,"Sceloporus undulatus, Sceloporus undulatus elongatus",Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,tree lizard,Urosaurus ornatus wrighti,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,side-blotched lizard,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,greater short-horned lizard,Phrynosoma douglasii hernandesi,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Teiidae,119618,208940,Active,Cnemidophorus tigris,western whiptail,Cnemidophorus tigris septentrionalis,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Viperidae,538632,683064,Active,Crotalus oreganus concolor,midget faded rattlesnake,Crotalus viridis concolor,Present
+ARCH,Arches National Park,Amphibian,4,Anura,Bufonidae,84003,173491,Active,Bufo punctatus,red-spotted toad,,Present
+ARCH,Arches National Park,Amphibian,4,Anura,Bufonidae,83316,173476,Active,Bufo woodhousii,Woodhouse's toad,Bufo woodhousii woodhousii,Present
+ARCH,Arches National Park,Amphibian,4,Anura,Hylidae,74980,173510,Active,Hyla arenicolor,canyon treefrog,,Probably Present
+ARCH,Arches National Park,Amphibian,4,Anura,Ranidae,83278,173441,Active,Rana catesbeiana,American bullfrog,,Present
+ARCH,Arches National Park,Amphibian,4,Anura,Ranidae,83280,173443,Active,Rana pipiens,northern leopard frog,Rana pipiens pipiens,Present
+ARCH,Arches National Park,Amphibian,4,Anura,Scaphiopodidae,115596,206991,Active,Spea intermontana,Great Basin spadefoot,Scaphiopus intermontanus,Present
+ARCH,Arches National Park,Amphibian,4,Caudata,Ambystomatidae,75874,173592,Active,Ambystoma tigrinum,tiger salamander,Ambystoma tigrinum nebulosum,Probably Present
+ARCH,Arches National Park,Fish,5,Cypriniformes,Catostomidae,65714,163902,Active,Catostomus discobolus,Bluehead Sucker,Pantosteus discobolus,Present
+ARCH,Arches National Park,Fish,5,Cypriniformes,Catostomidae,65718,163906,Active,Catostomus latipinnis,Flannelmouth Sucker,,Present
+ARCH,Arches National Park,Fish,5,Cypriniformes,Cyprinidae,64251,163792,Active,Cyprinella lutrensis,Red Shiner,Notropis lutrensis,Present
+ARCH,Arches National Park,Fish,5,Cypriniformes,Cyprinidae,70791,163344,Active,Cyprinus carpio,Common Carp,,Present
+ARCH,Arches National Park,Fish,5,Cypriniformes,Cyprinidae,72055,163517,Active,Pimephales promelas,Fathead Minnow,,Present
+ARCH,Arches National Park,Fish,5,Cypriniformes,Cyprinidae,70838,163387,Active,Rhinichthys osculus,Speckled Dace,,Present
+ARCH,Arches National Park,Fish,5,Cyprinodontiformes,Fundulidae,68920,165654,Active,Fundulus kansae,Northern Plains Killifish,Fundulus zebrinus,Present
+ARCH,Arches National Park,Fish,5,Perciformes,Centrarchidae,72225,168132,Active,Lepomis cyanellus,Green Sunfish,,Present
+ARCH,Arches National Park,Fish,5,Perciformes,Centrarchidae,72256,168160,Active,Micropterus salmoides,Largemouth Bass,,Present
+ARCH,Arches National Park,Fish,5,Siluriformes,Ictaluridae,66271,164041,Active,Ameiurus natalis,Yellow Bullhead,Ictalurus natalis,Present
+ARCH,Arches National Park,Vascular Plant,6,,,768309,-9798090,Active,Arabis holboellii var. brachycarpa,Spreadingpod rockcress,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,,,758598,-9796762,Inactive,Arabis perennans var. perennans,Perennial rockcress,Arabis perennans,Present
+ARCH,Arches National Park,Vascular Plant,6,,,758644,-9796808,Inactive,Camissonia scapoidea var. scapoidea,Paiute suncup,,Present
+ARCH,Arches National Park,Vascular Plant,6,,,758603,-9796767,Inactive,Chrysopsis villosa var. minor,Hispid golden-aster,"Chrysopsis villosa var. minor, Heterotheca villosa var. foliosa, Chrysopsis foliosa, Chrysopsis villosa, Heterotheca villosa var. hispida, Chrysopsis villosa var. hispida",Present
+ARCH,Arches National Park,Vascular Plant,6,,,758631,-9796795,Inactive,Gilia leptomeria var. leptomeria,Common gilia,Gilia leptomeria,Present
+ARCH,Arches National Park,Vascular Plant,6,,,758648,-9796812,Inactive,Haplopappus armerioides var. armerioides,Thrift goldenweed,Haplopappus armerioides,Present
+ARCH,Arches National Park,Vascular Plant,6,,,758635,-9796799,Inactive,Suaeda torreyana var. torreyana,Torrey's seepweed,Suaeda torreyana,Present
+ARCH,Arches National Park,Vascular Plant,6,,,161224,-503038,Active,Viguiera multiflora var. multiflora,Showy goldeneye,,Present
+ARCH,Arches National Park,Vascular Plant,6,,,758647,-9796811,Inactive,Zuckia brandegei var. brandegei,Brandegee's siltbush,"Zuckia brandegei, Zuckia brandegeei var. brandegeei, Grayia brandegei",Present
+ARCH,Arches National Park,Vascular Plant,6,Alismatales,Juncaginaceae,141547,38988,Active,Triglochin maritima,Seaside arrowgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Apiales,Apiaceae,208282,527614,Active,Cymopterus acaulis var. fendleri,Fendler's cymopterus,Cymopterus acaulis,Present
+ARCH,Arches National Park,Vascular Plant,6,Apiales,Apiaceae,134774,29631,Active,Cymopterus bulbosus,Onion spring-parsley,,Present
+ARCH,Arches National Park,Vascular Plant,6,Apiales,Apiaceae,134793,29649,Active,Cymopterus newberryi,Sticky spring-parsley,,Present
+ARCH,Arches National Park,Vascular Plant,6,Apiales,Apiaceae,134798,29653,Active,Cymopterus purpurascens,Basin white-cup spring-parsley,,Present
+ARCH,Arches National Park,Vascular Plant,6,Apiales,Apiaceae,758642,-9796806,Inactive,Cymopterus purpureus var. purpureus,Colorado Plateau spring-parsley,Cymopterus purpureus,Present
+ARCH,Arches National Park,Vascular Plant,6,Apiales,Apiaceae,135403,29717,Active,Lomatium latilobum,Canyonlands lomatium,,Present
+ARCH,Arches National Park,Vascular Plant,6,Apiales,Apiaceae,125494,29735,Active,Lomatium parryi,Parry's lomatium,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150294,42682,Active,Allium macropetalum,San Juan onion,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,150299,42687,Active,Allium nevadense,Nevada onion,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Amaryllidaceae,149584,42670,Active,Allium textile,Textile onion,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Asparagaceae,140575,42777,Active,Androstephium breviflorum,Pink funnel-lily,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Asparagaceae,140583,42784,Active,Asparagus officinalis,Asparagus,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Asparagaceae,142751,43038,Active,Smilacina stellata,Starry false Solomon's-seal,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Asparagaceae,142855,43131,Active,Yucca angustissima,Narrowleaved yucca,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Asparagaceae,215603,530900,Active,Yucca harrimaniae var. harrimaniae,Harriman's yucca,Yucca harrimaniae,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Orchidaceae,147073,43481,Active,Epipactis gigantea,Giant helleborine,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Orchidaceae,229542,535944,Active,Habenaria dilatata var. leucostachys,Lindley's white bog-orchid,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asparagales,Orchidaceae,185139,514389,Active,Habenaria zothecina,Alcove bog-orchid,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,141408,36497,Active,Ambrosia acanthicarpa,Bur ragweed,Franseria acanthicarpa,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,141463,36546,Active,Arctium minus,Burdock,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,133588,35452,Active,Artemisia bigelovii,Bigelow's sagebrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,293787,566592,Active,Artemisia campestris var. scouleriana,Sand wormwood,Artemisia caudata,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,86031,183731,Active,Artemisia dracunculus ssp. glauca,Tarragon,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,133600,35463,Active,Artemisia filifolia,Sand sagebrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,221327,532346,Active,Artemisia ludoviciana var. albula,Louisiana wormwood,Artemisia ludoviciana,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,156261,-501970,Active,Artemisia ludoviciana var. ludoviciana,Louisiana wormwood,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,221342,532353,Active,Artemisia ludoviciana var. mexicana,Louisiana wormwood,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,216383,531182,Active,Artemisia nova var. nova,Black sagebrush,Artemisia nova,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,133636,35496,Active,Artemisia spinescens,Budsage,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,667036,-743436,Active,Artemisia tridentata var. tridentata,Basin big sagebrush,Artemisia tridentata,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222184,532369,Active,Artemisia tridentata var. wyomingensis,Wyoming big sagebrush,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,101602,193303,Active,Aster ascendens,Pacific aster,Aster chilensis ssp. adscendens,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,134212,35536,Active,Aster brachyactis,Rayless alkali aster,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,134267,35586,Active,Aster hesperius,Siskiyou aster,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,134658,35698,Active,Baccharis salicina,Rio Grande seepwillow,Baccharis emoryi,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,134669,35707,Active,Bidens frondosa,Devil's- beggarsticks,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,136737,36885,Active,Brickellia longifolia,Longleaf brickellbush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,209795,526984,Active,Brickellia microphylla var. scabra,Rough brickellbush,Brickellia scabra,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,209799,526986,Active,Brickellia oblongifolia var. linifolia,Mohave brickellbush,Brickellia oblongifolia,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,136825,36964,Active,Centaurea maculosa,spotted knapweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,173262,510530,Active,Centaurea repens,Russian knapweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137249,36987,Active,Chaenactis douglasii,Hoary dusty-maiden,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137261,36998,Active,Chaenactis stevioides,Stevia dusty-maiden,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,151902,501376,Active,Chaetopappa ericoides,Rose-heath,Aster arenosus,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137324,37054,Active,Chrysothamnus linifolius,Spear-leaf rabbitbrush,Chrysothamnus viscidiflorus ssp. linifolius,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222302,533550,Active,Chrysothamnus nauseosus var. consimilis,Greenish rabbitbrush,Chrysothamnus nauseosus,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222308,533553,Active,Chrysothamnus nauseosus var. gnaphalodes,Graystem rabbitbrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222310,533554,Active,Chrysothamnus nauseosus var. graveolens,Glabrate rabbitbrush,"Chrysothamnus nauseosus var. glabratus, Chrysothamnus nauseosus ssp. pinifolius",Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222316,533557,Active,Chrysothamnus nauseosus var. junceus,Rush rabbitbrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222320,533559,Active,Chrysothamnus nauseosus var. leiospermus,Smoothseed rabbitbrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222352,533574,Active,Chrysothamnus parryi var. howardii,Longbract rabbitbrush,Chrysothamnus parryi,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,222367,533581,Active,Chrysothamnus viscidiflorus var. lanceolatus,Lanceleaf rabbitbrush,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,294271,566624,Active,Chrysothamnus viscidiflorus var. stenophyllus,Slenderleaf rabbitbrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,294273,566625,Active,Chrysothamnus viscidiflorus var. viscidiflorus,Green rabbitbrush,Chrysothamnus viscidiflorus,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,223229,533608,Active,Cirsium calcareum var. pulchellum,Pretty thistle,Cirsium calcareum,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,209520,527374,Active,Cirsium neomexicanum var. neomexicanum,New Mexico thistle,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,140116,36411,Active,Cirsium rydbergii,Rydberg's thistle,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,210369,527387,Active,Cirsium undulatum var. undulatum,Wavy-leaved thistle,Cirsium undulatum,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,140134,36428,Active,Cirsium vulgare,Bull thistle,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,212077,527477,Active,Conyza canadensis var. glabrata,Canadian horseweed,Conyza canadensis,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,224726,534058,Active,Crepis runcinata var. glauca,Glaucous hawksbeard,Crepis runcinata,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,758597,-9796761,Inactive,Dicoria brandegei,Brandegee's sandplant,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,211996,527881,Active,Encelia frutescens var. resinosa,Bush encelia,Encelia frutescens,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,110158,196273,Active,Enceliopsis nudicaulis var. nudicaulis,Nakedstem,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,139608,37315,Active,Enceliopsis nutans,Noddinghead,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,212483,527915,Active,Erigeron aphanactis var. aphanactis,Hairy daisy,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,136003,35827,Active,Erigeron bellidiastrum,Pretty daisy,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,226636,535031,Active,Erigeron divergens var. cinereus,Spreading daisy,Erigeron divergens,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,156870,-502323,Active,Erigeron divergens var. divergens,Spreading daisy,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,136924,35933,Active,Erigeron pulcherrimus,Basin daisy,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,226699,535061,Active,Erigeron pumilus var. concinnus,Navajo fleabane,Erigeron pumilus,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,209022,527970,Active,Erigeron utahensis var. sparsifolius,Slenderleaf daisy,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,209024,527971,Active,Erigeron utahensis var. utahensis,Utah daisy,Erigeron utahensis,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,140450,37356,Active,Euthamia occidentalis,Western goldenrod,Solidago occidentalis,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,140474,37378,Active,Flaveria campestris,Marshweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,140509,37409,Active,Gaillardia pinnatifida,Hopi blanketflower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,140511,37410,Active,Gaillardia pulchella,Pretty blanketflower,Gaillardia aristata,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,161070,502699,Active,Gaillardia spathulata,Basin blanketflower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,133754,36713,Active,Gnaphalium wrightii,Wright's cudweed,Gnaphalium canescens,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,140550,37446,Active,Grindelia fastigiata,Erect gumweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,213412,528288,Active,Grindelia squarrosa var. serrulata,Curly-cup gumweed,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,141121,37482,Active,Gutierrezia microcephala,Thread snakeweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,141122,37483,Active,Gutierrezia sarothrae,Broom snakeweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,185258,514445,Active,Haplopappus rusbyi,Rusby's goldenbush,Haplopappus drummondii,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,210135,525929,Active,Helianthus annuus ssp. lenticularis,Common sunflower,Helianthus annuus,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,142205,36617,Active,Helianthus anomalus,Sand sunflower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,133709,36673,Active,Helianthus petiolaris ssp. fallax,Prairie sunflower,Helianthus petiolaris,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,142150,37686,Active,Heterotheca subaxillaris,Sand goldenaster,Heterotheca psammophila,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,212226,528517,Active,Hymenopappus filifolius var. cinereus,Common hyalineherb,Hymenopappus filifolius,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,229666,536275,Active,Hymenoxys acaulis var. arizonica,Arizona hymenoxys,Hymenoxys acaulis,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,229672,536278,Active,Hymenoxys acaulis var. ivesiana,Canyonlands hymenoxys,Hymenoxys argentea,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137432,36033,Active,Iva axillaris,Poverty-weed,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,142195,36608,Active,Lactuca serriola,prickly lettuce,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,214066,528669,Active,Lactuca tatarica var. pulchella,Blue lettuce,Lactuca tatarica,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,231849,537310,Active,Lygodesmia grandiflora var. arizonica,Arizona rush-pink,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,231855,537313,Active,Lygodesmia grandiflora var. entrada,Entrada rush-pink,Lygodesmia entrada,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,758600,-9796764,Inactive,Lygodesmia grandiflora var. grandiflora,Showy rush-pink,Lygodesmia grandiflora,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,295183,566727,Active,Machaeranthera canescens var. aristata,Aristate aster,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,295171,566721,Active,Machaeranthera canescens var. canescens,Hoary aster,Aster bigelovii,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,213639,529072,Active,Machaeranthera grindelioides var. grindelioides,Gumweed aster,Haplopappus nuttallii,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,144700,38013,Active,Machaeranthera tanacetifolia,Tansyleaf aster,Aster tanacetifolius,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,144746,38055,Active,Malacothrix sonchoides,Sowthistle desert-dandelion,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,135417,38140,Active,Onopordum acanthium,Scotch thistle,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,191766,518080,Active,Oxytenia acerosa,Copperweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,670543,-743801,Active,Petradoria pumila var. pumila,Rock-goldenrod,"Petradoria pumila, Solidago petradoria",Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,214547,529721,Active,Platyschkuhria integrifolia var. desertorum,Desert bahia,Bahia nudicaulis,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,235063,540563,Active,Senecio douglasii var. longilobus,Douglas' groundsel,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138506,36161,Active,Senecio multilobatus,Basin groundsel,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,221052,531525,Active,Senecio spartioides var. multicapitatus,Many-headed groundsel,Senecio multicapitatus,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,217324,531235,Active,Senecio spartioides var. spartioides,Broom groundsel,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,218134,530338,Active,Senecio streptanthifolius var. streptanthifolius,Rocky Mountain groundsel,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,216589,530447,Active,Solidago canadensis var. salebrosa,Canadian goldenrod,"Solidago canadensis, Solidago altissima",Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,163985,505290,Active,Solidago velutina,Three-nerve goldenrod,Solidago sparsiflora,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137730,38424,Active,Sonchus asper,Spiny-leaf sow-thistle,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137733,38427,Active,Sonchus oleraceus,common sow-thistle,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137753,38445,Active,Stephanomeria exigua,White-plume whire-lettuce,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,137760,38451,Active,Stephanomeria pauciflora,Brown-plume wire-lettuce,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,110180,196293,Active,Stephanomeria tenuifolia var. tenuifolia,Slender wirelettuce,Stephanomeria tenuifolia,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138564,36213,Active,Taraxacum officinale,Common dandelion,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138072,38494,Active,Tetradymia canescens,"Gray horsebrush, Spineless horsebrush",,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138077,38499,Active,Tetradymia spinosa,Shortspine horsebrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,219861,530642,Active,Thelesperma subnudum var. subnudum,Scapose greenthread,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138121,38538,Active,Townsendia annua,Annual townsendia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138133,38549,Active,Townsendia incana,Hoary townsendia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138150,38564,Active,Tragopogon dubius,Yellow salsify,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,138175,38587,Active,Vanclevea stylosa,Resinbush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,139217,38687,Active,Wyethia scabra,Rough mule's-ears,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,215543,530872,Active,Xanthium strumarium var. canadense,Rough cocklebur,Xanthium pensylvanicum,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,215551,530876,Active,Xylorhiza glabriuscula var. linearifolia,Moab woodyaster,,Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,215555,530878,Active,Xylorhiza tortifolia var. imberbis,Hurtleaf woodyaster,"Aster abatus, Xylorhiza tortifolia",Present
+ARCH,Arches National Park,Vascular Plant,6,Asterales,Asteraceae,139234,38701,Active,Xylorhiza venusta,Cisco woodyaster,Aster venustus,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,213913,527560,Active,Cryptantha crassisepala var. elachantha,Thick-sepaled cryptanth,Cryptantha crassisepala,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,131078,31770,Active,Cryptantha flava,Plateau yellow cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,131121,31809,Active,Cryptantha flavoculata,Yellow-eye cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132057,31811,Active,Cryptantha fulvocanescens,Plateau cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132075,31828,Active,Cryptantha kelseyana,Kelsey's cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132079,31831,Active,Cryptantha longiflora,Long-flower cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132100,31850,Active,Cryptantha osterhoutii,Osterhout's cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,208195,527573,Active,Cryptantha pterocarya var. pterocarya,Wing-nut cryptanth,Cryptantha pterocarya,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132111,31860,Active,Cryptantha recurvata,Recurved cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,131085,31777,Active,Cryptantha tenuis,Slender cryptanth,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132115,31864,Active,Cryptantha wetherillii,Wetherill's cryptanth,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132144,31890,Active,Cynoglossum officinale,Common hound's-tongue,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,214083,528677,Active,Lappula occidentalis var. cupulata,Cupseed stickseed,"Lappula occidentalis, Lappula redowskii",Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,132734,31940,Active,Lithospermum incisum,Showy stoneseed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,211554,529255,Active,Nama densum var. parviflorum,Leafy fiddleleaf,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Boraginaceae,128539,31405,Active,Nama retrorsum,Howell's nama,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Ehretiaceae,161384,505519,Active,Tiquilia latior,Matted tiquilia,Coldenia hispidissima,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,130273,31644,Active,Heliotropium convolvulaceum,Bindweed heliotrope,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Heliotropiaceae,210266,528373,Active,Heliotropium curassavicum var. obovatum,Salt heliotrope,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216050,529549,Active,Phacelia crenulata var. corrugata,Corrugate phacelia,Phacelia crenulata,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,216055,529551,Active,Phacelia demissa var. demissa,Brittle phacelia,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,129884,31535,Active,Phacelia howelliana,Howell's phacelia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Boraginales,Hydrophyllaceae,160654,504273,Active,Phacelia ivesiana,Ives' phacelia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,123368,23030,Active,Alyssum alyssoides,Pale madwort,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,90395,184430,Active,Arabis pulchra var. pallens,Desert rockcress,Arabis pulchra,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,124508,23099,Active,Chorispora tenella,Blue mustard,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,124514,23103,Active,Conringia orientalis,Hare's-ear mustard,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,122335,22821,Active,Descurainia californica,California tansy-mustard,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,758630,-9796794,Inactive,Descurainia incana var. sonnei,Mountain tansy-mustard,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,222805,534396,Active,Descurainia pinnata var. osmiarum,Western tansy-mustard,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,122359,22843,Active,Descurainia sophia,Flixweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,177619,512398,Active,Dithyrea wislizeni,Spectacle-pod,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,210907,527759,Active,Draba cuneifolia var. cuneifolia,Wedgeleaf draba,Draba cuneifolia,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,122431,22908,Active,Draba reptans,Dwarf draba,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,224414,535248,Active,Erysimum asperum var. purshii,Sand dune wallflower,Erysimum asperum,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,217985,531291,Active,Lepidium alyssoides var. eastwoodiae,Eastwood's tall pepperwort,Lepidium montanum var. spathulatum,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,215007,528720,Active,Lepidium densiflorum var. ramosum,Prairie pepperwort,Lepidium densiflorum,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,123293,22963,Active,Lepidium fremontii,Fremont's pepperwort,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,123297,22967,Active,Lepidium lasiocarpum,Hairy-pod pepperwort,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,160462,503379,Active,Lepidium latifolium,Broad-leaf pepperwort,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,758615,-9796779,Inactive,Lepidium moabense,Moab pepperplant,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,215030,528731,Active,Lepidium montanum var. jonesii,Jones' pepperwort,Lepidium montanum,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,123305,22974,Active,Lepidium perfoliatum,Clasping pepperwort,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,125070,23243,Active,Malcolmia africana,African mustard,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,125083,23255,Active,Nasturtium officinale,Watercress,Rorippa nasturtium-aquaticum,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,213136,529642,Active,Physaria acutifolia var. acutifolia,Sharp-leaf twinpod,"Physaria australis, Physaria acutifolia",Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,125112,23281,Active,Physaria newberryi,Newberry's twinpod,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,125950,23312,Active,Sisymbrium altissimum,Tumble mustard,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,125968,23329,Active,Stanleya pinnata,Prince's-plume,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,125973,23333,Active,Streptanthella longirostris,Long-beak fiddle-mustard,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,125989,23348,Active,Streptanthus cordatus,Heart-leaf jewelflower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,126032,23387,Active,Thelypodiopsis elegans,Elegant thelypody,,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Brassicaceae,239116,541249,Active,Thelypodium integrifolium var. gracilipes,Moab thelypody,Thelypodium integrifolium,Present
+ARCH,Arches National Park,Vascular Plant,6,Brassicales,Cleomaceae,120504,22620,Active,Cleome lutea,Yellow beeplant,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,112940,20677,Active,Allenrolfea occidentalis,Iodine bush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117557,20719,Active,Amaranthus albus,Tumble pigweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117602,20723,Active,Amaranthus blitoides,Prostrate pigweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,120123,20745,Active,Amaranthus retroflexus,Amaranthus retroflexus,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106084,192226,Active,Atriplex canescens var. canescens,Four-wing saltbush,"Atriplex canescens var. occidentalis, Atriplex canescens",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111549,20519,Active,Atriplex confertifolia,Shadscale,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,111583,20522,Active,Atriplex corrugata,Mat saltbush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,106096,192237,Active,Atriplex gardneri var. cuneata,Castle Valley saltbush,Atriplex cuneata,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758643,-9796807,Inactive,Atriplex garrettii var. garrettii,Garrett's saltbush,Atriplex garrettii,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758617,-9796781,Inactive,Bassia americana,Greenmolly,Kochia americana,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,117671,20588,Active,Bassia hyssopifolia,Five-horn smotherweed,Echinopsilon hyssopifolium,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,289949,565741,Active,Bassia scoparia,Summer-cypress,Kochia scoparia,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,216343,531163,Active,Chenopodium album var. album,Lambsquarter,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,222504,533445,Active,Chenopodium album var. berlandieri,Pitseed goosefoot,Chenopodium berlandieri,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758619,-9796783,Active,Chenopodium dessicatum,Desert goosefoot,"Chenopodium pratericola, Chenopodium dessicatum",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,209409,527321,Active,Chenopodium fremontii var. fremontii,Fremont's goosefoot,Chenopodium fremontii,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,222546,533465,Active,Chenopodium glaucum var. salinum,Oakleaf goosefoot,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,118652,20616,Active,Chenopodium leptophyllum,Narrow-leaf goosefoot,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,175063,511428,Active,Corispermum americanum,American bugseed,"Corispermum hyssopifolium, Corispermum villosum",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758610,-9796774,Inactive,Cycloloma atriplicifolia,Winged pigweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115495,20690,Active,Grayia spinosa,Spiny hopsage,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115517,20692,Active,Halogeton glomeratus,Halogeton,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758641,-9796805,Inactive,Krascheninnikovia lanata var. lanata,Winterfat,"Eurotia lanata, Krascheninnikovia lanata",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,758645,-9796809,Inactive,Krascheninnikovia lanata var. ruinina,Ruin Park winterfat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,115607,20700,Active,Monolepis nuttalliana,Nuttall's poverty-weed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,194163,520950,Active,Salsola tragus,Russian-thistle,"Salsola pestifer, Salsola kali",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,165468,505402,Active,Suaeda calceoliformis,Broom seepweed,Suaeda depressa,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Amaranthaceae,112874,20671,Active,Suaeda occidentalis,Western seepweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,227977,534750,Active,Echinocereus triglochidiatus var. melanacanthus,Claretcup,Echinocereus triglochidiatus,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100531,195272,Active,Opuntia erinacea var. erinacea,Common pricklypear,Opuntia erinacea,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100535,195276,Active,Opuntia erinacea var. utahensis,Utah pricklypear,Opuntia rhodantha,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100555,195294,Active,Opuntia phaeacantha var. major,Large pricklypear,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100557,195296,Active,Opuntia polyacantha var. polyacantha,Plains prickly-pear,Opuntia polyacantha,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100559,195298,Active,Opuntia polyacantha var. rufispina,Rufous-spine prickly-pear,Opuntia hystricina,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,100560,195299,Active,Opuntia polyacantha var. trichophora,Slenderspine pricklypear,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,108452,19745,Active,Opuntia whipplei,Whipple's cholla,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Cactaceae,240724,540500,Active,Sclerocactus whipplei var. roseus,Small-flower fishhook cactus,"Sclerocactus parviflorus, Echinocactus whipplei",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,219439,532222,Active,Arenaria fendleri var. eastwoodiae,Eastwood's sandwort,Arenaria fendleri,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,88974,184229,Active,Arenaria fendleri var. fendleri,Fendler's sandwort,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,117118,20045,Active,Silene antirrhina,Sleepy catchfly,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Caryophyllaceae,113304,20185,Active,Stellaria longifolia,Long-leaved starwort,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Montiaceae,114871,20445,Active,Talinum brevifolium,Sausageleaf talinum,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,103641,19557,Active,Abronia fragrans,Fragrant sand-verbena,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,669596,-743747,Inactive,Mirabilis linearis var. linearis,Narrow-leaf four-o'clock,"Mirabilis linearis, Oxybaphus linearis",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,100427,19654,Active,Mirabilis multiflora,Showy four-o'clock,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Nyctaginaceae,109418,19621,Active,Tripterocalyx micranthus,Small-flower sandpuffs,Tripterocalyx pedunculatus,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119220,21057,Active,Eriogonum alatum,Winged wild buckwheat,Eriogonum alatum ssp. brevifolium,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119779,21078,Active,Eriogonum bicolor,Pretty wild buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209049,527983,Active,Eriogonum cernuum var. cernuum,Nodding wild buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102438,195443,Active,Eriogonum corymbosum var. corymbosum,Crisp-leaf wild buckwheat,"Eriogonum divergens, Eriogonum corymbosum, Eriogonum corymbosum var. durum",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102442,195447,Active,Eriogonum corymbosum var. orbiculatum,Rimrock wild buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,227487,535117,Active,Eriogonum corymbosum var. smithii,Flat top wild buckwheat,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119846,21138,Active,Eriogonum gordonii,Gordon's wild buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102498,195498,Active,Eriogonum inflatum var. fusiforme,Grand Valley desert trumpet,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102496,195496,Active,Eriogonum inflatum var. inflatum,Desert trumpet,Eriogonum inflatum,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209097,528005,Active,Eriogonum leptocladon var. leptocladon,Sand wild buckwheat,Eriogonum leptocladon,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,209105,528009,Active,Eriogonum microthecum var. laxiflorum,Slender wild buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,102538,195533,Active,Eriogonum microthecum var. simpsonii,Slender wild buckwheat,"Eriogonum microthecum, Eriogonum microthecum var. foliosum",Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120731,21212,Active,Eriogonum ovalifolium,Cushion wild buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,183281,513141,Active,Eriogonum salsuginosum,smooth buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,120803,21278,Active,Eriogonum wetherillii,Wetherill's wild buckwheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118747,20876,Active,Polygonum aviculare,Yard knotweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,117901,20860,Active,Polygonum lapathifolium,Willow-weed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,115867,20937,Active,Rumex crispus,Curly dock,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,118421,20962,Active,Rumex hymenosepalus,Canaigre dock,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Polygonaceae,119135,20980,Active,Rumex venosus,Veiny dock,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Portulacaceae,113142,20422,Active,Portulaca oleracea,Common purslane,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Sarcobataceae,116621,20707,Active,Sarcobatus vermiculatus,Greasewood,,Present
+ARCH,Arches National Park,Vascular Plant,6,Caryophyllales,Tamaricaceae,117479,22308,Active,Tamarix chinensis,Five-stamen tamarisk,"Tamarix pentandra, Tamarix ramosissima",Present
+ARCH,Arches National Park,Vascular Plant,6,Cornales,Cornaceae,155175,-502184,Active,Cornus sericea var. sericea,Red-osier dogwood,,Present
+ARCH,Arches National Park,Vascular Plant,6,Cornales,Hydrangeaceae,123515,24331,Active,Fendlera rupicola,Fendlerbush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Cornales,Hydrangeaceae,124431,24437,Active,Philadelphus microphyllus,Littleleaf mock-orange,,Present
+ARCH,Arches National Park,Vascular Plant,6,Cornales,Loasaceae,159653,503757,Active,Mentzelia albicaulis,White-stem blazingstar,,Present
+ARCH,Arches National Park,Vascular Plant,6,Cornales,Loasaceae,159718,503788,Active,Mentzelia multiflora,Desert stickleaf,,Present
+ARCH,Arches National Park,Vascular Plant,6,Cornales,Loasaceae,159741,503799,Active,Mentzelia pterosperma,Wing-seed stickleaf,,Present
+ARCH,Arches National Park,Vascular Plant,6,Cornales,Loasaceae,160319,503810,Active,Mentzelia thompsonii,Thompson's stickleaf,,Present
+ARCH,Arches National Park,Vascular Plant,6,Dipsacales,Adoxaceae,237592,540293,Active,Sambucus racemosa var. microbotrys,Red elderberry,Sambucus racemosa,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Dipsacales,Caprifoliaceae,131725,35334,Active,Symphoricarpos longiflorus,Long-flower snowberry,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ephedrales,Ephedraceae,156858,502318,Active,Ephedra torreyana,Torrey's ephedra,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ephedrales,Ephedraceae,212012,527889,Active,Ephedra viridis var. viridis,Green ephedra,Ephedra viridis,Present
+ARCH,Arches National Park,Vascular Plant,6,Ephedrales,Ephedraceae,224502,534910,Active,Ephedra viridis var. viscida,Cutler's ephedra,,Present
+ARCH,Arches National Park,Vascular Plant,6,Equisetales,Equisetaceae,79672,17152,Active,Equisetum arvense,Field horsetail,,Present
+ARCH,Arches National Park,Vascular Plant,6,Equisetales,Equisetaceae,212434,527892,Active,Equisetum hyemale var. affine,Tall scouring-rush,"Equisetum prealtum, Equisetum hyemale",Present
+ARCH,Arches National Park,Vascular Plant,6,Equisetales,Equisetaceae,79716,17156,Active,Equisetum laevigatum,Smooth scouring-rush,Equisetum kansanum,Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,138963,31059,Active,Eriastrum diffusum,Spreading eriastrum,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,139836,31127,Active,Gilia inconspicua,Shy gilia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,126959,31180,Active,Gilia subnuda,Carmine gilia,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,157119,-502463,Active,Ipomopsis aggregata var. aggregata,Scarlet gilia,"Ipomopsis aggregata, Gilia aggregata",Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,127524,31210,Active,Ipomopsis gunnisonii,Gunnison's gilia,Gilia gunnisonii,Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,126978,31198,Active,Ipomopsis longiflora,Longflower gilia,Gilia longiflora,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,127530,31216,Active,Ipomopsis polycladon,Spreading gilia,Gilia polycladon,Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,127531,31217,Active,Ipomopsis pumila,Dwarf gilia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,127532,31218,Active,Ipomopsis roseata,San Rafael gilia,Gilia roseata,Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,127549,31233,Active,Leptodactylon pungens,Prickly-phlox,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,160486,503390,Active,Leptodactylon watsonii,Watson's prickly-phlox,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Polemoniaceae,758628,-9796792,Inactive,Phlox austromontana var. austromontana,Desert phlox,Phlox austromontana,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Ericales,Primulaceae,121712,24032,Active,Primula specuicola,Cave primrose,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,106216,192345,Active,Astragalus amphioxys var. amphioxys,Crescent milkvetch,Astragalus amphioxys,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,107748,192405,Active,Astragalus ceramicus var. ceramicus,Painted milkvetch,Astragalus ceramicus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,107762,192418,Active,Astragalus coltonii var. moabensis,Moab milkvetch,Astragalus coltonii,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,121505,25488,Active,Astragalus cymboides,Canoe milkvetch,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,95332,192450,Active,Astragalus desperatus var. desperatus,Rimrock milkvetch,Astragalus desperatus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,470846,-651442,Inactive,Astragalus flavus var. flavus,Yellow milkvetch,Astragalus flavus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,122078,25521,Active,Astragalus geyeri,Geyer's milkvetch,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,96140,192580,Active,Astragalus lentiginosus var. palans,Straggling milkvetch,Astragalus lentiginosus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,122149,25586,Active,Astragalus moencoppensis,Moenkopi milkvetch,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,96350,192649,Active,Astragalus mollissimus var. thompsoniae,Woolly milkvetch,Astragalus mollissimus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,96401,192695,Active,Astragalus praelongus var. ellisiae,Ellis' milkvetch,Astragalus praelongus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,96412,192704,Active,Astragalus preussii var. latus,Preuss' milkvetch,"Astragalus preussii, Astragalus preussii var. preussii",Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,123036,25663,Active,Astragalus sabulonum,Gravel milkvetch,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,91834,184653,Active,Caesalpinia repens,Creeping rush-pea,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,758612,-9796776,Inactive,Dalea flavescens var. flavescens,Kanab prairie-clover,Petalostemon flavescens,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,176489,512059,Active,Dalea oligophylla,White prairie-clover,Petalostemon occidentale,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,121876,26719,Active,Glycyrrhiza lepidota,Nuttall's licorice,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,294353,566663,Active,Hedysarum boreale var. boreale,Northern sweetvetch,Hedysarum boreale,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,231211,536607,Active,Lathyrus brachycalyx var. zionis,Zion sweetpea,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,295088,566682,Active,Lupinus argenteus var. argenteus,Silvery lupine,Lupinus argenteus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,162958,503576,Active,Lupinus brevicaulis,Shortstem lupine,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,758636,-9796800,Inactive,Lupinus pusillus var. pusillus,Dwarf lupine,Lupinus pusillus,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,94869,183623,Active,Medicago sativa,Alfalfa,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,126512,26149,Active,Melilotus alba,White sweet-clover,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,126514,26150,Active,Melilotus officinalis,Yellow sweet-clover,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,159492,504181,Active,Pediomelum megalanthum,Large-flowered breadroot,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,758640,-9796804,Inactive,Psoralidium lanceolatum var. lanceolatum,Lemon scurf-pea,"Psoralea lanceolata, Psoralidium lanceolatum",Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,235186,539324,Active,Psoralidium lanceolatum var. stenophyllum,Slenderleaf scurfpea,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,163396,504804,Active,Robinia pseudoacacia,Black locust,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Fabaceae,123752,26964,Active,Sophora stenophylla,Silvery sophora,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fabales,Polygalaceae,131507,29319,Active,Polygala subspinosa,Cushion milkwort,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fagales,Betulaceae,103562,19488,Active,Betula occidentalis,Water birch,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fagales,Fagaceae,105663,195088,Active,Quercus gambelii var. gambelii,Gambel's oak,Quercus gambelii,Present
+ARCH,Arches National Park,Vascular Plant,6,Fagales,Fagaceae,100115,19440,Active,Quercus turbinella,Turbinella live-oak,,Present
+ARCH,Arches National Park,Vascular Plant,6,Fagales,Fagaceae,758620,-9796784,Inactive,Quercus welshii,Shinnery oak,"Quercus havardii var. tuckeri, Quercus undulata",Present
+ARCH,Arches National Park,Vascular Plant,6,Fagales,Fagaceae,753672,-9795623,Active,Quercus X eastwoodiae,Eastwood's oak,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,94634,182210,Active,Amsonia tomentosa var. stenophylla,Tomentose amsonia,Amsonia tomentosa,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,130900,30157,Active,Apocynum cannabinum,Common dogbane,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,758649,-9796813,Inactive,Asclepias asperula var. asperula,Spider milkweed,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,667045,-743440,Active,Asclepias cryptoceras var. cryptoceras,Pallid milkweed,Asclepias cryptoceras,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,131831,30275,Active,Asclepias involucrata,Dwarf milkweed,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,131834,30278,Active,Asclepias latifolia,Broadleaf milkweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,131840,30283,Active,Asclepias macrosperma,Bigseed milkweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,131861,30301,Active,Asclepias ruthiae,Ruth's milkweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,131864,30304,Active,Asclepias speciosa,Showy milkweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Apocynaceae,131868,30308,Active,Asclepias subverticillata,Whorled milkweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Gentianaceae,129025,30030,Active,Centaurium exaltatum,Great Basin centaury,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Gentianaceae,130863,30123,Active,Swertia utahensis,Utah swertia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Rubiaceae,224230,535587,Active,Galium aparine var. echinospermum,Cleavers,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Rubiaceae,224837,535620,Active,Galium multiflorum var. coloradoense,Colorado bedstraw,Galium coloradoense,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Rubiaceae,667086,-743609,Active,Galium multiflorum var. multiflorum,Shrubby bedstraw,,Present
+ARCH,Arches National Park,Vascular Plant,6,Gentianales,Rubiaceae,138799,34933,Active,Galium triflorum,Sweet-scented bedstraw,,Present
+ARCH,Arches National Park,Vascular Plant,6,Geraniales,Geraniaceae,130117,29147,Active,Erodium cicutarium,Stork's-bill,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Bignoniaceae,134514,34313,Active,Catalpa bignonioides,Common catalpa,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Lamiaceae,135626,32512,Active,Hedeoma drummondii,Mock pennyroyal,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Lamiaceae,136481,32561,Active,Marrubium vulgare,Common horehound,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Lamiaceae,164295,504488,Active,Poliomintha incana,Purple sage,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Oleaceae,129710,32957,Active,Forestiera pubescens,Desert olive,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Oleaceae,129688,32937,Active,Fraxinus anomala,Singleleaf ash,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Orobanchaceae,131164,33113,Active,Castilleja exilis,Annual paintbrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Orobanchaceae,133158,33138,Active,Castilleja linariifolia,Wyoming paintbrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Orobanchaceae,207562,527216,Active,Castilleja scabrida var. scabrida,Eastwood's paintbrush,Castilleja scabrida,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Orobanchaceae,138331,33577,Active,Cordylanthus wrightii,Wright's bird's-beak,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Orobanchaceae,134488,34290,Active,Orobanche fasciculata,Clustered broomrape,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Orobanchaceae,232892,538072,Active,Orobanche ludoviciana var. cooperi,Cooper's broomrape,Orobanche ludoviciana,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Phrymaceae,135767,33309,Active,Mimulus eastwoodiae,Eastwood's monkey-flower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Phrymaceae,135770,33311,Active,Mimulus floribundus,Seep monkeyflower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Phrymaceae,758602,-9796766,Inactive,Mimulus glabratus var. utahensis,Glabrous monkeyflower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,161635,503474,Active,Linaria dalmatica,Dalmatian toadflax,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,758632,-9796796,Inactive,Penstemon barbatus var. barbatus,Beardlip penstemon,Penstemon barbatus,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131628,33868,Active,Penstemon cyanocaulis,Bluestem penstemon,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,231087,538492,Active,Penstemon eatonii var. undosus,Undulate penstemon,Penstemon eatonii,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131655,33892,Active,Penstemon fremontii,Fremont's penstemon,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,159579,504222,Active,Penstemon ophianthus,Loa penstemon,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,131536,33785,Active,Penstemon utahensis,Utah penstemon,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129351,32874,Active,Plantago lanceolata,English plantain,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129365,32887,Active,Plantago major,Common plantain,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,129388,32907,Active,Plantago patagonica,Woolly plantain,Plantago purshii,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Plantaginaceae,288388,565594,Active,Veronica anagallis-aquatica,Water speedwell,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Scrophulariaceae,136663,33394,Active,Verbascum thapsus,Woolly mullein,,Present
+ARCH,Arches National Park,Vascular Plant,6,Lamiales,Verbenaceae,133024,32085,Active,Verbena bracteata,Prostrate vervain,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Liliales,Liliaceae,772647,-9799064,Active,Calochortus ciscoensis,Cisco sego-lily,,Present
+ARCH,Arches National Park,Vascular Plant,6,Liliales,Liliaceae,140671,42863,Active,Calochortus nuttallii,Sego-lily,,Present
+ARCH,Arches National Park,Vascular Plant,6,Liliales,Liliaceae,141673,42925,Active,Eremocrinum albomarginatum,Sand lily,,Present
+ARCH,Arches National Park,Vascular Plant,6,Liliales,Melanthiaceae,168068,505802,Active,Zigadenus vaginatus,Alcove death camas,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153253,501419,Active,Chamaesyce fendleri,Fendler's spurge,Euphorbia fendleri,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153260,501422,Active,Chamaesyce glyptosperma,Ridge-seeded spurge,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,153314,501448,Active,Chamaesyce parryi,Parry's spurge,Euphorbia parryi,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,132026,28049,Active,Euphorbia brachycera,Shorthorn spurge,Euphorbia robusta,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Euphorbiaceae,124247,28433,Active,Tragia ramosa,Noseburn,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Linaceae,131410,29231,Active,Linum aristatum,Broom-flax,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Linaceae,205471,526067,Active,Linum perenne ssp. lewisii,Blue flax,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,119648,22451,Active,Populus alba,White poplar,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,758601,-9796765,Inactive,Populus fremontii var. fremontii,Fremont cottonwood,Populus fremontii,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,119654,22457,Active,Populus X canadensis,Carolina poplar,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,758633,-9796797,Inactive,Populus X intercurrens,Lance-leaf cottonwood,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,119700,22499,Active,Salix amygdaloides,Peach-leaf willow,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,238770,540021,Active,Salix eriocephala var. watsonii,Yellow willow,Salix lutea,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,239458,540029,Active,Salix exigua var. stenophylla,Coyote willow,Salix exigua,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,119745,22539,Active,Salix gooddingii,Goodding's black willow,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Salicaceae,201630,524652,Active,Salix lucida ssp. caudata,Whiplash willow,Salix lasiandra,Present
+ARCH,Arches National Park,Vascular Plant,6,Malpighiales,Violaceae,126945,22117,Active,Viola nephrophylla,Northern bog violet,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malvales,Malvaceae,123210,21639,Active,Hibiscus trionum,Flower-of-an-Hour,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malvales,Malvaceae,125791,21920,Active,Sphaeralcea coccinea,Scarlet globe-mallow,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malvales,Malvaceae,125820,21947,Active,Sphaeralcea leptophylla,Slenderleaf globemallow,,Present
+ARCH,Arches National Park,Vascular Plant,6,Malvales,Malvaceae,125827,21953,Active,Sphaeralcea parvifolia,Small-leaf globemallow,,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Lythraceae,125215,27079,Active,Lythrum salicaria,Purple loosestrife,,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,128755,27504,Active,Camissonia eastwoodiae,Eastwood's camissonia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,224541,534929,Active,Epilobium angustifolium var. canescens,Fireweed,Epilobium angustifolium,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,126658,27293,Active,Epilobium ciliatum,Northern willow-herb,Epilobium adenocaulon,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,129461,27660,Active,Gaura parviflora,Small-flowered gaura,,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,292892,566494,Active,Oenothera caespitosa var. marginata,Long-tube evening-primrose,Oenothera caespitosa,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,292894,566495,Active,Oenothera caespitosa var. navajoensis,Paria evening-primrose,,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,127871,27428,Active,Oenothera longissima,Bridges evening-primrose,,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,669638,-743767,Active,Oenothera pallida var. pallida,Pale evening-primrose,Oenothera pallida,Present
+ARCH,Arches National Park,Vascular Plant,6,Myrtales,Onagraceae,230476,537944,Active,Oenothera pallida var. trichocalyx,Pale evening-primrose,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Pinales,Cupressaceae,103539,194859,Active,Juniperus osteosperma,Utah juniper,,Present
+ARCH,Arches National Park,Vascular Plant,6,Pinales,Cupressaceae,103554,194872,Active,Juniperus scopulorum,Rocky Mountain juniper,,Present
+ARCH,Arches National Park,Vascular Plant,6,Pinales,Pinaceae,93083,183336,Active,Pinus edulis,Two-needle pinyon,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,145321,39445,Active,Carex aurea,Golden sedge,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,145333,39456,Active,Carex hystericina,Bottlebrush sedge,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,137555,39711,Active,Carex nebrascensis,Nebraska sedge,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,166951,507767,Active,Carex pellita,Woolly sedge,Carex lanuginosa,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,137616,39767,Active,Carex praegracilis,Blackcreeper sedge,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,138215,39827,Active,Carex subfusca,Rusty sedge,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,138281,39887,Active,Cyperus erythrorhizos,Redroot flat-sedge,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,291359,565755,Active,Cyperus esculentus,Chufa flat-sedge,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,139092,40019,Active,Eleocharis palustris,Common spikerush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,140933,40240,Active,Scirpus acutus,Hardstem bulrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,140926,40234,Active,Scirpus maritimus,Alkali bulrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,240676,540478,Active,Scirpus pungens var. longispicatus,Three-square bulrush,Scirpus pungens,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Cyperaceae,140931,40239,Active,Scirpus validus,Soft-stem bulrush,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,143438,39222,Active,Juncus arcticus,Baltic rush,"Juncus arcticus var. balticus, Juncus balticus",Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,143467,39249,Active,Juncus articulatus,Jointed rush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,143443,39227,Active,Juncus bufonius,Toad rush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,228555,536428,Active,Juncus ensifolius var. brunnescens,Tracy's rush,"Juncus ensifolius, Juncus saximontanus var. brunnescens",Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,228560,536430,Active,Juncus ensifolius var. montanus,Mountain rush,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,158272,503256,Active,Juncus longistylis,Longstyle rush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,143518,39295,Active,Juncus nevadensis,Nevada rush,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,143461,39243,Active,Juncus tenuis,Poverty rush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Juncaceae,144366,39320,Active,Juncus torreyi,Torrey's rush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,86378,182537,Active,Aegilops cylindrica,Jointed goatgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,86312,182478,Active,Agropyron cristatum,Crested wheatgrass,Agropyron desertorum,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,142869,40400,Active,Agrostis stolonifera,Redtop,Agrostis alba,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,140392,41429,Active,Aristida purpurea,Purple three-awn,"Aristida fendleriana, Aristida longiseta, Aristida glauca",Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,140988,41488,Active,Bothriochloa ischaemum,yellow bluestem,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,140999,41498,Active,Bouteloua barbata,Sixweeks grama,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,141003,41500,Active,Bouteloua curtipendula,Sideoats grama,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,140994,41493,Active,Bouteloua gracilis,Blue grama,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,142958,40481,Active,Bromus carinatus,Mountain brome,Bromus marginatus,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,142976,40498,Active,Bromus diandrus,ripgut brome,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,142955,40479,Active,Bromus japonicus,Japanese chess,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143551,40524,Active,Bromus tectorum,Cheatgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143597,40566,Active,Calamagrostis scopulorum,Jones' reedgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143602,40570,Active,Cenchrus longispinus,Field sandbur,Cenchrus pauciflorus,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,141066,41558,Active,Chloris virgata,Feather finger grass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,103360,193446,Active,Dactylis glomerata,Orchard grass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143640,40604,Active,Digitaria sanguinalis,Hairy crabgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144524,40662,Active,Distichlis spicata,Desert saltgrass,Distichlis stricta,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,155230,502210,Active,Echinochloa crus-galli,Barnyard-grass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144547,40683,Active,Elymus canadensis,Canada wildrye,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144553,40689,Active,Elymus cinereus,Great Basin wildrye,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,156044,502264,Active,Elymus elymoides,Squirreltail,Sitanion hystrix,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,156050,502267,Active,Elymus lanceolatus,Thickspike wheatgrass,Agropyron dasystachyum,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,178087,512841,Active,Elymus salinus,Salina wildrye,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,178093,512844,Active,Elymus smithii,Western wheatgrass,Agropyron smithii,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,156082,502282,Active,Elymus trachycaulus,Slender wheatgrass,Agropyron trachycaulum,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,142033,41709,Active,Enneapogon desvauxii,Spike pappusgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144590,40721,Active,Eragrostis hypnoides,Teal lovegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144592,40723,Active,Eragrostis pectinacea,tufted lovegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143273,41717,Active,Eremopyrum triticeum,Annual wheatgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143289,41731,Active,Erioneuron pilosum,Hairy tridens,Tridens pilosus,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143290,41732,Active,Erioneuron pulchellum,Fluffgrass,Tridens pulchellus,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,182851,513551,Active,Festuca octoflora,Six-weeks fescue,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,145642,40804,Active,Festuca ovina,Sheep fescue,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,145662,40822,Active,Festuca pratensis,Meadow fescue,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,145674,40833,Active,Glyceria striata,Fowl mannagrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,143329,41768,Active,Hilaria jamesii,Galleta,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146261,40871,Active,Hordeum jubatum,Foxtail barley,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146272,40881,Active,Hordeum murinum,Rabbit barley,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144144,41884,Active,Muhlenbergia andina,Foxtail muhly,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144160,41899,Active,Muhlenbergia asperifolia,Scratchgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144190,41925,Active,Muhlenbergia mexicana,Mexican muhly,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144200,41934,Active,Muhlenbergia pungens,Sandhill muhly,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,144211,41944,Active,Muhlenbergia thurberi,Thurber's muhly,Muhlenbergia curtifolia,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,159909,-502607,Inactive,Munroa squarrosa,False buffalograss,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,187758,518203,Active,Panicum acuminatum,Bundle panicgrass,Panicum tennesseensis,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146309,40914,Active,Panicum capillare,Witchgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146345,40947,Active,Panicum obtusum,Vine mesquite,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146308,40913,Active,Panicum virgatum,Switchgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,147308,41062,Active,Phleum pratense,Timothy,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,147319,41072,Active,Phragmites australis,Common reed,Phragmites communis,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,148065,41116,Active,Poa bulbosa,Bulbous bluegrass,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,164251,504467,Active,Poa fendleriana,Muttongrass,Poa longiligula,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,147336,41088,Active,Poa pratensis,Kentucky bluegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,147354,41103,Active,Poa secunda,Sandberg's bluegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,148129,41174,Active,Polypogon interruptus,ditch polypogon,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,148126,41171,Active,Polypogon monspeliensis,Rabbitfoot-grass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,148154,41197,Active,Puccinellia distans,Weeping alkaligrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,165191,504934,Active,Saccharum ravennae,Ravenna grass,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,145163,42065,Active,Schismus arabicus,Arabian grass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,145997,42076,Active,Schizachyrium scoparium,Little bluestem,Andropogon scoparius,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146013,42090,Active,Secale cereale,Cultivated rye,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,293284,565884,Active,Setaria glauca,yellow bristlegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,139244,41231,Active,Setaria viridis,Green bristlegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,139287,41270,Active,Spartina gracilis,Alkali cordgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,139289,41272,Active,Spartina pectinata,Prairie cordgrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,139296,41279,Active,Sphenopholis obtusata,Prairie wedgegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,758629,-9796793,Inactive,Sporobolus airoides var. airoides,Alkali sacaton,Sporobolus airoides,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146059,42131,Active,Sporobolus contractus,Spike dropseed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146060,42132,Active,Sporobolus cryptandrus,Sand dropseed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146065,42137,Active,Sporobolus flexuosus,Mesa dropseed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146066,42138,Active,Sporobolus giganteus,Giant dropseed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,758621,-9796785,Active,Stipa arnowiae,Arnow's needlegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,217811,530571,Active,Stipa comata var. comata,Needle-and-thread,Stipa comata,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,235526,541009,Active,Stipa coronata var. depauperata,Depauperate needlegrass,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,200469,522063,Active,Stipa hymenoides,Indian ricegrass,Oryzopsis hymenoides,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146679,42194,Active,Stipa speciosa,Desert needlegrass,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146717,42228,Active,Tridens muticus,Slim tridens,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Poaceae,146727,42237,Active,Triticum aestivum,Wheat,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Typhaceae,147661,42327,Active,Typha domingensis,Southern cattail,,Present
+ARCH,Arches National Park,Vascular Plant,6,Poales,Typhaceae,147660,42326,Active,Typha latifolia,Broad-leaved cattail,,Present
+ARCH,Arches National Park,Vascular Plant,6,Polypodiales,Dennstaedtiaceae,217047,529922,Active,Pteridium aquilinum var. pubescens,Bracken fern,Pteridium aquilinum,Present
+ARCH,Arches National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81002,17308,Active,Adiantum capillus-veneris,Southern maidenhair fern,,Present
+ARCH,Arches National Park,Vascular Plant,6,Polypodiales,Pteridaceae,81606,17441,Active,Cheilanthes feei,Slender lip-fern,,Present
+ARCH,Arches National Park,Vascular Plant,6,Polypodiales,Pteridaceae,76741,17643,Active,Pellaea breweri,Brewer's cliff-brake,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Polypodiales,Pteridaceae,231026,538463,Active,Pellaea glabella var. occidentalis,Western cliffbrake,Pellaea glabella,Present
+ARCH,Arches National Park,Vascular Plant,6,Polypodiales,Pteridaceae,196811,518618,Active,Pellaea limitanea,Border cloak-fern,,Present
+ARCH,Arches National Park,Vascular Plant,6,Polypodiales,Woodsiaceae,84468,17482,Active,Cystopteris fragilis,Brittle bladder fern,Cystopteris utahensis,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Berberidaceae,95977,18820,Active,Berberis fendleri,Fendler's barberry,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104803,195033,Active,Mahonia fremontii,Fremont's mahonia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Berberidaceae,104816,195045,Active,Mahonia repens,Oregon-grape,Berberis fremontii,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Papaveraceae,226011,533847,Active,Corydalis aurea var. occidentalis,Golden corydalis,Corydalis aurea,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,97141,18743,Active,Aquilegia micrantha,Alcove columbine,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,93504,18702,Active,Clematis ligusticifolia,White virgin's-bower,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,229290,534315,Active,Delphinium andersonii var. scaposum,Pale larkspur,"Delphinium scaposum, Delphinium andersonii",Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,92831,18483,Active,Delphinium nuttallianum,Nuttall's larkspur,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,96869,18600,Active,Ranunculus cymbalaria,Marsh buttercup,,Present
+ARCH,Arches National Park,Vascular Plant,6,Ranunculales,Ranunculaceae,89751,18649,Active,Ranunculus testiculatus,Bur buttercup,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Cannabaceae,102979,19045,Active,Celtis reticulata,Netleaf hackberry,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Elaeagnaceae,130518,27770,Active,Elaeagnus angustifolia,Russian-olive,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Moraceae,103873,19066,Active,Morus alba,White mulberry,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rhamnaceae,124792,28563,Active,Rhamnus betulifolia,Birchleaf buckthorn,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,129597,25121,Active,Amelanchier utahensis,Utah serviceberry,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,129610,25133,Active,Cercocarpus intricatus,Dwarf mountain mahogany,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,129613,25136,Active,Cercocarpus montanus,Alder-leaf mountain mahogany,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,129629,25150,Active,Coleogyne ramosissima,Blackbrush,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,130595,25178,Active,Holodiscus dumosus,Bush oceanspray,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,837938,836773,Active,Petrophytum caespitosum,"mat rockspirea, rockspirea, tufted rockmat","Petrophyton caespitosum, Spiraea caespitosa",Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,120334,25278,Active,Physocarpus alternans,Dwarf ninebark,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,758599,-9796763,Inactive,Purshia mexicana var. stansburyana,Cliff-rose,"Purshia mexicana, Cowania mexicana",Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,120348,25290,Active,Purshia tridentata,Antelope bitterbrush,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Rosaceae,127958,24847,Active,Rosa woodsii,Woods' rose,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Ulmaceae,103773,19057,Active,Ulmus pumila,Siberian elm,,Present
+ARCH,Arches National Park,Vascular Plant,6,Rosales,Urticaceae,101640,19169,Active,Parietaria pensylvanica,Pennsylvania pellitory,,Present
+ARCH,Arches National Park,Vascular Plant,6,Santalales,Santalaceae,131317,27891,Active,Arceuthobium divaricatum,Pinyon dwarf-mistletoe,,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Santalales,Santalaceae,224984,533741,Active,Comandra umbellata var. pallida,Bastard toadflax,Comandra umbellata,Present
+ARCH,Arches National Park,Vascular Plant,6,Santalales,Santalaceae,131289,27866,Active,Phoradendron juniperinum,Juniper mistletoe,Phoradendron juniperinum ssp. juniperinum,Probably Present
+ARCH,Arches National Park,Vascular Plant,6,Sapindales,Anacardiaceae,238554,539585,Active,Rhus aromatica var. simplicifolia,Squawbush,Rhus trilobata var. simplicifolia,Present
+ARCH,Arches National Park,Vascular Plant,6,Sapindales,Anacardiaceae,238556,539586,Active,Rhus aromatica var. trilobata,Squawbush,"Rhus trilobata var. trilobata, Rhus aromatica ssp. trilobata",Present
+ARCH,Arches National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126776,28782,Active,Rhus glabra,Smooth sumac,,Present
+ARCH,Arches National Park,Vascular Plant,6,Sapindales,Anacardiaceae,126821,28822,Active,Toxicodendron rydbergii,Western poison ivy,Toxicodendron radicans,Present
+ARCH,Arches National Park,Vascular Plant,6,Sapindales,Sapindaceae,126739,28749,Active,Acer negundo,Box elder,,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Convolvulaceae,219496,532866,Active,Calystegia sepium var. angulata,Western hedge bindweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Convolvulaceae,135243,30705,Active,Convolvulus arvensis,Field bindweed,,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Convolvulaceae,136086,30745,Active,Cuscuta pentagona,Field dodder,,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Convolvulaceae,159006,502573,Active,Evolvulus nuttallianus,Evolvulus,,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Convolvulaceae,136134,30789,Active,Ipomoea purpurea,common morning-glory,,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Solanaceae,134361,30521,Active,Datura wrightii,Angel's trumpet,,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Solanaceae,212684,529625,Active,Physalis hederifolia var. fendleri,Fendler's ground-cherry,Physalis fendleri,Present
+ARCH,Arches National Park,Vascular Plant,6,Solanales,Solanaceae,135117,30603,Active,Physalis longifolia,Long-leaf ground-cherry,,Present
+ARCH,Arches National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128399,29043,Active,Kallstroemia californica,yellow Kallstroemia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128403,29047,Active,Kallstroemia parviflora,orange Kallstroemia,,Present
+ARCH,Arches National Park,Vascular Plant,6,Zygophyllales,Zygophyllaceae,128414,29057,Active,Tribulus terrestris,Puncture vine,,Present
